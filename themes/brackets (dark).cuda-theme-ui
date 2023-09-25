@@ -57,7 +57,7 @@
   "SideBadgeFont" : "#DDDDDD",
   "TabFont" : "#B0B0B0",
   "TabFontActive" : "#DDDDDD",
-  "TabFontMod" : "#DDDDDD",
+  "TabFontMod" : "#A6CAF0",
   "TabActive" : "#1D1F21",
   "TabActiveOthers" : "#1D1F21",
   "TabPassive" : "#3F4142",
