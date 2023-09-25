@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-25 18:02-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_tabs_list/__init__.py:112
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_tabs_list/__init__.py:113
+msgid "Close others"
+msgstr "Fechar outras"
+
+#: py/cuda_tabs_list/__init__.py:115
+msgid "Copy filename only"
+msgstr "Copiar apenas o nome do arquivo"
+
+#: py/cuda_tabs_list/__init__.py:116
+msgid "Copy full filepath"
+msgstr "Copiar o caminho completo do arquivo"

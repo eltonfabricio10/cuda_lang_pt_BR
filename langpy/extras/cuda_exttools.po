@@ -1,0 +1,969 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-08-14 23:47-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_exttools/cd_exttools.py:64
+msgid "(Int, Default=4) Interpret output symbol TAB as \"N spaces\"."
+msgstr "(Int, Padrão=4) Interpretar o símbolo de saída TAB como \"N espaços\"."
+
+#: py/cuda_exttools/cd_exttools.py:65
+msgid "Set 8 for a tool likes \"tidy\""
+msgstr "Definir 8 para uma ferramenta como \"tidy\""
+
+#: py/cuda_exttools/cd_exttools.py:75
+msgid "Ignore"
+msgstr "Ignorar"
+
+#: py/cuda_exttools/cd_exttools.py:76
+msgid "Output panel"
+msgstr "Painel de saída"
+
+#: py/cuda_exttools/cd_exttools.py:77
+msgid "Output panel, append"
+msgstr "Painel de saída, anexar"
+
+#: py/cuda_exttools/cd_exttools.py:78
+msgid "Console"
+msgstr "Console"
+
+#: py/cuda_exttools/cd_exttools.py:79
+msgid "Copy to new document"
+msgstr "Copiar para novo documento"
+
+#: py/cuda_exttools/cd_exttools.py:80
+msgid "Copy to new document, group 1"
+msgstr "Copiar para novo documento, grupo 1"
+
+#: py/cuda_exttools/cd_exttools.py:81
+msgid "Copy to new document, group 2"
+msgstr "Copiar para novo documento, grupo 2"
+
+#: py/cuda_exttools/cd_exttools.py:82
+msgid "Copy to new document, group 3"
+msgstr "Copiar para novo documento, grupo 3"
+
+#: py/cuda_exttools/cd_exttools.py:83
+msgid "Copy to clipboard"
+msgstr "Copiar para área de transferência"
+
+#: py/cuda_exttools/cd_exttools.py:84
+msgid "Replace selection"
+msgstr "Substituir seleção"
+
+#: py/cuda_exttools/cd_exttools.py:96
+msgid "Nothing"
+msgstr "Nada"
+
+#: py/cuda_exttools/cd_exttools.py:97
+msgid "Current document"
+msgstr "Documento atual"
+
+#: py/cuda_exttools/cd_exttools.py:98
+msgid "All documents"
+msgstr "Todos documentos"
+
+#: py/cuda_exttools/cd_exttools.py:108
+msgid ""
+"In tool properties \"File name\", \"Parameters\", \"Initial folder\"\n"
+"    the following macros are processed.\n"
+"• Application:\n"
+"   {AppDir}           - Directory with app executable\n"
+"   {AppDrive}         - (Windows) Disk of app executable, eg \"C:\"\n"
+"• Currently focused file:\n"
+"   {FileName}         - Full path\n"
+"   {FileDir}          - Folder path, without file name\n"
+"   {FileNameOnly}     - Name only, without folder path\n"
+"   {FileNameNoExt}    - Name without extension and path\n"
+"   {FileExt}          - Extension\n"
+"   {ContentAsTemp}    - Name of [temporary] file with current text\n"
+"   {Lexer}            - Name of global lexer\n"
+"• Current file in group N (N is 1...6):\n"
+"   {FileName_gN}      - Full path\n"
+"   {FileDir_gN}       - Folder path, without file name\n"
+"   {FileNameOnly_gN}  - Name only, without folder path\n"
+"   {FileNameNoExt_gN} - Name without extension and path\n"
+"   {FileExt_gN}       - Extension\n"
+"   {ContentAsTemp_gN} - Name of [temporary] file with current text\n"
+"   {Lexer_gN}         - Name of global lexer\n"
+"• Currently focused editor (for top caret):\n"
+"   {CurrentLine}      - Text of caret's line\n"
+"   {CurrentLineNum}   - Index of caret's line\n"
+"   {CurrentLineNum0}  - Index of caret's line, 0-based\n"
+"   {CurrentColumnNum} - Index of caret's column\n"
+"   {CurrentColumnNum0}- Index of caret's column, 0-based\n"
+"   {LexerAtCaret}     - Name of lexer at caret position\n"
+"   {SelectedText}     - Text of selection\n"
+"   {CurrentWord}      - Word at caret position\n"
+"• Prompts:\n"
+"   {Interactive}      - Text will be asked at each running\n"
+"   {InteractiveFile}  - File name will be asked\n"
+"• Project:\n"
+"    {PRJNAME}         - If current project is loaded and has the PRJNAME var\n"
+"• OS environments:\n"
+"    {OS:ENVNAME}      - If OS has ENVNAME environment\n"
+"\n"
+"All macros can include suffix (function) to transform value.\n"
+"   {Lexer|fun}             - gets fun({Lexer})\n"
+"   {Lexer|fun:p1,p2}       - gets fun({Lexer},p1,p2)\n"
+"   {Lexer|f1st:p1,p2|f2nd} - gets f2nd(f1st({Lexer},p1,p2))\n"
+"Predefined functions are:\n"
+"   q - quote: \"AB=?\"    -> \"AB%3D%3F\"\n"
+"   u - upper: \"word\"    -> \"WORD\"\n"
+"   l - lower: \"WORD\"    -> \"word\"\n"
+"   t - title: \"we he\"   -> \"We He\"\n"
+"All functions from all std Python modules can be used, but not methods.\n"
+"   q is short form of urllib.parse.quote\n"
+msgstr ""
+"Nas propriedades da ferramenta \"Nome do arquivo\", \"Parâmetros\", \"Pasta inicial\"\n"
+"    as seguintes macros serão processadas.\n"
+"• Aplicativo:\n"
+"   {AppDir}           - Diretório com executável\n"
+"   {AppDrive}         - (Windows) Disco do executável, por exemplo, \"C:\"\n"
+"• Arquivo focado no momento:\n"
+"   {FileName}         - Caminho completo\n"
+"   {FileDir}         - Caminho da pasta, sem nome de arquivo\n"
+"   {FileNameOnly}     - Somente nome, sem caminho da pasta\n"
+"   {FileNameNoExt}    - Nome sem extensão e caminho\n"
+"   {FileExt}       - Extensão\n"
+"   {ContentAsTemp}    - Nome do arquivo [temporário] com o texto atual\n"
+"   {Lexer}           - Nome do lexer global\n"
+"• Arquivo atual no grupo N (N é 1...6):\n"
+"   {FileName_gN}      - Caminho completo\n"
+"   {FileDir_gN}      - Caminho da pasta, sem nome de arquivo\n"
+"   {FileNameOnly_gN}  - Somente nome, sem caminho da pasta\n"
+"   {FileNameNoExt_gN} - Nome sem extensão e caminho\n"
+"   {FileExt_gN}       - Extensão\n"
+"   {ContentAsTemp_gN} - Nome do arquivo [temporário] com o texto atual\n"
+"   {Lexer_gN}         - Nome do lexer global\n"
+"• Editor atualmente focado (para cursor):\n"
+"   {CurrentLine}      - Texto da linha do cursor\n"
+"   {CurrentLineNum}   - Índice da linha do cursor\n"
+"   {CurrentLineNum0}  - Índice da linha do cursor, base 0\n"
+"   {CurrentColumnNum} - Índice da coluna do cursor\n"
+"   {CurrentColumnNum0} - Índice da coluna do cursor, base 0\n"
+"   {LexerAtCaret}     - Nome do lexer na posição do cursor\n"
+"   {SelectedText}     - Texto da seleção\n"
+"   {CurrentWord}      - Palavra na posição do cursor\n"
+"• Solicitações:\n"
+"   {Interactive}      - O texto será solicitado a cada execução\n"
+"   {InteractiveFile}  - O nome do arquivo será solicitado\n"
+"• Projeto:\n"
+"    {PRJNAME}         - Se o projeto atual for carregado e tiver a variável PRJNAME\n"
+"• Ambientes do SO:\n"
+"    {OS:ENVNAME} - Se o sistema operacional tiver o ambiente ENVNAME\n"
+"\n"
+"Todas as macros podem incluir sufixo (função) para transformar o valor.\n"
+"   {Lexer|fun}              - obtém fun({Lexer})\n"
+"   {Lexer|fun:p1,p2}       - obtém fun({Lexer},p1,p2)\n"
+"   {Lexer|f1st:p1,p2|f2nd} - obtém f2nd(f1st({Lexer},p1,p2))\n"
+"As funções predefinidas são:\n"
+"   q - quote: \"AB=?\" -> \"AB%3D%3F\"\n"
+"   u - upper: \"palavra\" -> \"PALAVRA\"\n"
+"   l - lower: \"WORD\" -> \"palavra\"\n"
+"   t - title: \"nós ele\" -> \"Nós Ele\"\n"
+"Todas as funções de todos os módulos padrão do Python podem ser usadas, mas não os métodos.\n"
+"   q é a forma abreviada de urllib.parse.quote\n"
+
+#: py/cuda_exttools/cd_exttools.py:158
+msgid "Tool macros"
+msgstr "Macros"
+
+#: py/cuda_exttools/cd_exttools.py:160
+msgid "&Close"
+msgstr "&Fechar"
+
+#: py/cuda_exttools/cd_exttools.py:262 py/cuda_exttools/cd_exttools.py:337
+#: py/cuda_exttools/cd_exttools.py:346 py/cuda_exttools/cd_exttools.py:768
+#: py/cuda_exttools/cd_exttools.py:1159 py/cuda_exttools/cd_exttools.py:1450
+msgid "Need update CudaText"
+msgstr "É necessário atualizar o CudaText"
+
+#: py/cuda_exttools/cd_exttools.py:367 py/cuda_exttools/cd_exttools.py:1175
+msgid "&Tools"
+msgstr "&Ferramentas"
+
+#: py/cuda_exttools/cd_exttools.py:371
+msgid "Con&fig..."
+msgstr "Con&figurar..."
+
+#: py/cuda_exttools/cd_exttools.py:373
+msgid "R&un main lexer tool"
+msgstr "Exec&utar principal ferramenta lexer"
+
+#: py/cuda_exttools/cd_exttools.py:375
+msgid "Resul&ts"
+msgstr "Resul&tados"
+
+#: py/cuda_exttools/cd_exttools.py:376
+msgid "&Next tool result"
+msgstr "Resultado da próxi&ma ferramenta"
+
+#: py/cuda_exttools/cd_exttools.py:378
+msgid "&Previous tool result"
+msgstr "Resultado da ferramenta &anterior"
+
+#: py/cuda_exttools/cd_exttools.py:440
+msgid "Main tool for lexer \"{}\" is not configured yet"
+msgstr "A ferramenta principal para o lexer \"{} \" ainda não está configurada"
+
+#: py/cuda_exttools/cd_exttools.py:453
+msgid "No URL: {}"
+msgstr "Sem URL: {}"
+
+#: py/cuda_exttools/cd_exttools.py:459
+msgid "Cannot open URL \"{}\" for untitled tab"
+msgstr "Não foi possível abrir URL \"{} \" para guia sem título"
+
+#: py/cuda_exttools/cd_exttools.py:466
+msgid "Opened \"{}\": {}"
+msgstr "Aberto \"{}\": {}"
+
+#: py/cuda_exttools/cd_exttools.py:484
+msgid "No tool: {}"
+msgstr "Sem ferramenta: {}"
+
+#: py/cuda_exttools/cd_exttools.py:492
+msgid "Tool \"{}\" is only for lexer(s): {}"
+msgstr "A ferramenta \"{} \" é somente para lexer(s): {}"
+
+#: py/cuda_exttools/cd_exttools.py:510 py/cuda_exttools/cd_exttools.py:516
+msgid "Cancel running tool \"{}\""
+msgstr "Cancelar ferramenta de execução \"{} \""
+
+#: py/cuda_exttools/cd_exttools.py:523
+msgid "Cannot run tool \"{}\" for untitled tab"
+msgstr "Não foi possível executar a ferramenta \"{} \" para guia sem título"
+
+#: py/cuda_exttools/cd_exttools.py:552 py/cuda_exttools/cd_exttools.py:567
+msgid "Run: \"{}\""
+msgstr "Executar: \"{}\""
+
+#: py/cuda_exttools/cd_exttools.py:575
+msgid "Fail running: {} {}"
+msgstr "Falha ao executar: {} {}"
+
+#: py/cuda_exttools/cd_exttools.py:578
+msgid "Run: {} {}"
+msgstr "Executar: {} {}"
+
+#: py/cuda_exttools/cd_exttools.py:667
+msgid "No tool to parse the output line"
+msgstr "Nenhuma ferramenta para analisar a linha de saída"
+
+#: py/cuda_exttools/cd_exttools.py:668
+msgid "Tool \"{}\" has not Pattern property"
+msgstr "A ferramenta \"{} \" não tem propriedade Padrão"
+
+#: py/cuda_exttools/cd_exttools.py:673
+msgid "Tool \"{}\" could not find a line-number into output line"
+msgstr "A ferramenta \"{} \" não encontrou um número de linha na linha de saída"
+
+#: py/cuda_exttools/cd_exttools.py:686 py/cuda_exttools/cd_exttools.py:691
+msgid "Cannot open: {}"
+msgstr "Não foi possível abrir: {}"
+
+#: py/cuda_exttools/cd_exttools.py:716
+msgid "No any results for navigation"
+msgstr "Nenhum resultado para navegação"
+
+#: py/cuda_exttools/cd_exttools.py:742
+msgid "No more results for navigation"
+msgstr "Sem mais resultados para navegação"
+
+#: py/cuda_exttools/cd_exttools.py:777
+msgid "Join several tools to single tool"
+msgstr "Juntar várias ferramentas em uma única ferramenta"
+
+#: py/cuda_exttools/cd_exttools.py:778
+msgid "Use the URL"
+msgstr "Utilizar a URL"
+
+#: py/cuda_exttools/cd_exttools.py:779
+msgid "Move current tool to upper position"
+msgstr "Mover a ferramenta atual para a posição superior"
+
+#: py/cuda_exttools/cd_exttools.py:780
+msgid "Move current tool to lower position"
+msgstr "Mover a ferramenta atual para a posição inferior"
+
+#: py/cuda_exttools/cd_exttools.py:781
+msgid "For call by command \"Run main lexer tool\""
+msgstr "Para chamar por comando \"Executar a principal ferramenta lexer\""
+
+#: py/cuda_exttools/cd_exttools.py:782
+msgid "Edit list of user's macros to use in tool properties"
+msgstr "Editar lista de macros do usuário para utilizar nas propriedades da ferramenta"
+
+#: py/cuda_exttools/cd_exttools.py:784
+msgid "Change this dialog sizes\rCtrl+Click - Restore default values"
+msgstr "Alterar os tamanhos desta caixa de diálogo\rCtrl+Clique - Restaurar os valores padrão"
+
+#: py/cuda_exttools/cd_exttools.py:797 py/cuda_exttools/cd_exttools.py:807
+#: py/cuda_exttools/cd_exttools.py:824 py/cuda_exttools/cd_exttools.py:828
+#: py/cuda_exttools/cd_exttools.py:1224
+msgid "Name"
+msgstr "Nome"
+
+#: py/cuda_exttools/cd_exttools.py:798 py/cuda_exttools/cd_exttools.py:808
+msgid "Hotkey"
+msgstr "Tecla de atalho"
+
+#: py/cuda_exttools/cd_exttools.py:799 py/cuda_exttools/cd_exttools.py:832
+msgid "File | [Tools]"
+msgstr "Arquivo | [Ferramentas]"
+
+#: py/cuda_exttools/cd_exttools.py:800
+msgid "Params"
+msgstr "Parâmetros"
+
+#: py/cuda_exttools/cd_exttools.py:801
+msgid "Folder"
+msgstr "Pasta"
+
+#: py/cuda_exttools/cd_exttools.py:802
+msgid "Lexers"
+msgstr "Lexers"
+
+#: py/cuda_exttools/cd_exttools.py:803
+msgid "Capture"
+msgstr "Capturar"
+
+#: py/cuda_exttools/cd_exttools.py:804
+msgid "Saving"
+msgstr "Salvando"
+
+#: py/cuda_exttools/cd_exttools.py:809 py/cuda_exttools/cd_exttools.py:836
+msgid "URL"
+msgstr "URL"
+
+#: py/cuda_exttools/cd_exttools.py:892
+msgid "&Tools ({})"
+msgstr "&Ferramentas ({})"
+
+#: py/cuda_exttools/cd_exttools.py:893
+msgid "&URLs ({})"
+msgstr "& URLs ({})"
+
+#: py/cuda_exttools/cd_exttools.py:894 py/cuda_exttools/cd_exttools.py:1230
+msgid "Expanded mac&ros"
+msgstr "Mac&ros expandido"
+
+#: py/cuda_exttools/cd_exttools.py:898 py/cuda_exttools/cd_exttools.py:1232
+msgid "&Edit..."
+msgstr "&Editar..."
+
+#: py/cuda_exttools/cd_exttools.py:899 py/cuda_exttools/cd_exttools.py:1233
+#: py/cuda_exttools/cd_exttools.py:1750
+msgid "&Add..."
+msgstr "&Adicionar..."
+
+#: py/cuda_exttools/cd_exttools.py:900 py/cuda_exttools/cd_exttools.py:1235
+msgid "&Delete..."
+msgstr "&Excluir..."
+
+#: py/cuda_exttools/cd_exttools.py:901
+msgid "Clo&ne..."
+msgstr "Clo&nar..."
+
+#: py/cuda_exttools/cd_exttools.py:903
+msgid "Jo&in..."
+msgstr "Ju&ntar..."
+
+#: py/cuda_exttools/cd_exttools.py:905
+msgid "&Call"
+msgstr "&Chamar"
+
+#: py/cuda_exttools/cd_exttools.py:907
+msgid "Hotke&y..."
+msgstr "Tecla de atal&ho..."
+
+#: py/cuda_exttools/cd_exttools.py:908
+msgid "U&p"
+msgstr "A&cima"
+
+#: py/cuda_exttools/cd_exttools.py:909 py/cuda_exttools/cd_exttools.py:1237
+msgid "Do&wn"
+msgstr "Abai&xo"
+
+#: py/cuda_exttools/cd_exttools.py:911
+msgid "Set &main for lexers..."
+msgstr "Definir &principal para lexers..."
+
+#: py/cuda_exttools/cd_exttools.py:914
+msgid "User macro &vars..."
+msgstr "Macro de usuário e vars ..."
+
+#: py/cuda_exttools/cd_exttools.py:919
+msgid "Ad&just..."
+msgstr "A&justar..."
+
+#: py/cuda_exttools/cd_exttools.py:920 py/cuda_exttools/cd_exttools.py:1179
+#: py/cuda_exttools/cd_exttools.py:1240 py/cuda_exttools/cd_plug_lib.py:688
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_exttools/cd_exttools.py:923
+msgid "Tools and URLs ({})"
+msgstr "Ferramentas e URLs ({})"
+
+#: py/cuda_exttools/cd_exttools.py:1075
+msgid "Delete URL?\n"
+msgstr "Excluir a URL?\n"
+
+#: py/cuda_exttools/cd_exttools.py:1092
+msgid ""
+"Delete tool?\n"
+"\n"
+msgstr ""
+"Excluir a ferramenta?\n"
+"\n"
+
+#: py/cuda_exttools/cd_exttools.py:1095
+msgid ""
+"\n"
+"Delete with joined tool(s)\n"
+"   "
+msgstr ""
+"\n"
+"Excluir com ferramenta(s) associada(s)\n"
+"   "
+
+#: py/cuda_exttools/cd_exttools.py:1123
+msgid "Customization. Widths prefix \"C\"/\"R\" to align, \"-\" to hide."
+msgstr "Customização. Prefixo de larguras \"C \"/\"R \" para alinhar, \"- \" para ocultar."
+
+#: py/cuda_exttools/cd_exttools.py:1124
+msgid "Width of Name    (min 100)"
+msgstr "Largura do Nome    (mín. 100)"
+
+#: py/cuda_exttools/cd_exttools.py:1125
+msgid "Width of Keys    (min  50)"
+msgstr "Largura das Teclas    (mín.  50)"
+
+#: py/cuda_exttools/cd_exttools.py:1126
+msgid "Width of File    (min 150)"
+msgstr "Largura do Arquivo    (mín. 150)"
+
+#: py/cuda_exttools/cd_exttools.py:1127
+msgid "Width of Params  (min 150)"
+msgstr "Largura dos Parâmetros  (mín. 150)"
+
+#: py/cuda_exttools/cd_exttools.py:1128
+msgid "Width of Folder  (min 100)"
+msgstr "Largura da Pasta  (mín. 100)"
+
+#: py/cuda_exttools/cd_exttools.py:1129
+msgid "Width of Lexers  (min  50)"
+msgstr "Largura dos Lexers  (mín.  50)"
+
+#: py/cuda_exttools/cd_exttools.py:1130
+msgid "Width of Capture (min  50)"
+msgstr "Largura de Captura (mín.  50)"
+
+#: py/cuda_exttools/cd_exttools.py:1131
+msgid "Width of Saving  (min  30)"
+msgstr "Largura de Salvar  (min  30)"
+
+#: py/cuda_exttools/cd_exttools.py:1132
+msgid "List height  (min 200)"
+msgstr "Altura da lista  (mín. 200)"
+
+#: py/cuda_exttools/cd_exttools.py:1133
+msgid "Width of Url     (min 500)"
+msgstr "Largura da Url     (mín. 500)"
+
+#: py/cuda_exttools/cd_exttools.py:1173
+msgid "&Lexer  >>>  main tool"
+msgstr "&Lexer  >>>  ferramenta principal"
+
+#: py/cuda_exttools/cd_exttools.py:1177
+msgid "&Assign tool"
+msgstr "&Atribuir ferramenta"
+
+#: py/cuda_exttools/cd_exttools.py:1178
+msgid "&Break link"
+msgstr "&Quebrar link"
+
+#: py/cuda_exttools/cd_exttools.py:1181
+msgid "Main tool for lexers"
+msgstr "Ferramenta principal para lexers"
+
+#: py/cuda_exttools/cd_exttools.py:1224
+msgid "Comment"
+msgstr "Comentário"
+
+#: py/cuda_exttools/cd_exttools.py:1224
+msgid "Current value"
+msgstr "Valor atual"
+
+#: py/cuda_exttools/cd_exttools.py:1224
+msgid "Expression"
+msgstr "Expressão"
+
+#: py/cuda_exttools/cd_exttools.py:1229
+msgid "&Vars"
+msgstr "&Variáveis"
+
+#: py/cuda_exttools/cd_exttools.py:1234
+msgid "Clo&ne"
+msgstr "Clo&nar"
+
+#: py/cuda_exttools/cd_exttools.py:1236 py/cuda_exttools/cd_exttools.py:1509
+msgid "&Up"
+msgstr "&Acima"
+
+#: py/cuda_exttools/cd_exttools.py:1238
+msgid "Pro&ject macros..."
+msgstr "Macros do pro&jeto..."
+
+#: py/cuda_exttools/cd_exttools.py:1239 py/cuda_exttools/cd_exttools.py:1400
+#: py/cuda_exttools/cd_exttools.py:1554
+msgid "Help"
+msgstr "Ajuda"
+
+#: py/cuda_exttools/cd_exttools.py:1244
+msgid "User macros"
+msgstr "Macros do usuário"
+
+#: py/cuda_exttools/cd_exttools.py:1258 py/cuda_exttools/cd_exttools.py:1389
+#: py/cuda_exttools/cd_exttools.py:1502
+msgid "&Name:"
+msgstr "&Nome:"
+
+#: py/cuda_exttools/cd_exttools.py:1260
+msgid "Val&ue:"
+msgstr "Val&or:"
+
+#: py/cuda_exttools/cd_exttools.py:1262
+msgid "Add &file..."
+msgstr "Adicionar a&rquivo..."
+
+#: py/cuda_exttools/cd_exttools.py:1263
+msgid "Add &dir..."
+msgstr "Adicionar &diretório..."
+
+#: py/cuda_exttools/cd_exttools.py:1264
+msgid "Add &var..."
+msgstr "Adicionar &variável..."
+
+#: py/cuda_exttools/cd_exttools.py:1265
+msgid "&Comment:"
+msgstr "&Comentário:"
+
+#: py/cuda_exttools/cd_exttools.py:1267 py/cuda_exttools/cd_exttools.py:1354
+#: py/cuda_exttools/cd_exttools.py:1402 py/cuda_exttools/cd_exttools.py:1557
+#: py/cuda_exttools/cd_exttools.py:1678 py/cuda_exttools/cd_exttools.py:1720
+#: py/cuda_exttools/cd_exttools.py:1769 py/cuda_exttools/cd_plug_lib.py:726
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_exttools/cd_exttools.py:1268 py/cuda_exttools/cd_exttools.py:1355
+#: py/cuda_exttools/cd_exttools.py:1403 py/cuda_exttools/cd_exttools.py:1558
+#: py/cuda_exttools/cd_exttools.py:1679 py/cuda_exttools/cd_exttools.py:1721
+#: py/cuda_exttools/cd_exttools.py:1770 py/cuda_exttools/cd_plug_lib.py:644
+#: py/cuda_exttools/cd_plug_lib.py:727
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_exttools/cd_exttools.py:1272
+msgid "Edit user macro var"
+msgstr "Editar variável do macro do usuário"
+
+#: py/cuda_exttools/cd_exttools.py:1294 py/cuda_exttools/cd_exttools.py:1419
+#: py/cuda_exttools/cd_exttools.py:1590
+msgid "Set Name"
+msgstr "Definir nome"
+
+#: py/cuda_exttools/cd_exttools.py:1298
+msgid "Set Value"
+msgstr "Definir valor"
+
+#: py/cuda_exttools/cd_exttools.py:1320
+msgid ""
+"Delete Macro?\n"
+"\n"
+msgstr ""
+"Excluir Macro?\n"
+"\n"
+
+#: py/cuda_exttools/cd_exttools.py:1321
+msgid "Name: {}"
+msgstr "Nome: {}"
+
+#: py/cuda_exttools/cd_exttools.py:1322
+msgid "Value: {}"
+msgstr "Valor: {}"
+
+#: py/cuda_exttools/cd_exttools.py:1323
+msgid "Comment: {}"
+msgstr "Comentário: {}"
+
+#: py/cuda_exttools/cd_exttools.py:1359
+msgid "Select tools for join"
+msgstr "Selecionar ferramentas para unir"
+
+#: py/cuda_exttools/cd_exttools.py:1392
+msgid "&URL:"
+msgstr "&URL:"
+
+#: py/cuda_exttools/cd_exttools.py:1394
+msgid "&Macro..."
+msgstr "&Macro..."
+
+#: py/cuda_exttools/cd_exttools.py:1396 py/cuda_exttools/cd_exttools.py:1537
+msgid "Hotkey:"
+msgstr "Atalho:"
+
+#: py/cuda_exttools/cd_exttools.py:1401 py/cuda_exttools/cd_exttools.py:1555
+msgid "Pro&ject..."
+msgstr "Pro&jeto..."
+
+#: py/cuda_exttools/cd_exttools.py:1408
+msgid "URL properties"
+msgstr "Propriedades da URL"
+
+#: py/cuda_exttools/cd_exttools.py:1505
+msgid "Se&ries:"
+msgstr "Sé&ries:"
+
+#: py/cuda_exttools/cd_exttools.py:1507
+msgid "&Select..."
+msgstr "&Selecionar..."
+
+#: py/cuda_exttools/cd_exttools.py:1508
+msgid "Vie&w..."
+msgstr "E&xibir..."
+
+#: py/cuda_exttools/cd_exttools.py:1510
+msgid "&Down"
+msgstr "&Abaixo"
+
+#: py/cuda_exttools/cd_exttools.py:1512
+msgid "&File name:"
+msgstr "&Nome do arquivo:"
+
+#: py/cuda_exttools/cd_exttools.py:1514
+msgid "&Browse..."
+msgstr "&Navegar..."
+
+#: py/cuda_exttools/cd_exttools.py:1515
+msgid "&Shell command"
+msgstr "Comando do &shell"
+
+#: py/cuda_exttools/cd_exttools.py:1516
+msgid "Run the tool via OS shell interpreter (e.g. Bash on Unix, Cmd on Windows)"
+msgstr "Executar ferramenta pelo interpretador shell do SO (p. ex., Bash no Unix, Cmd no Windows)"
+
+#: py/cuda_exttools/cd_exttools.py:1518
+msgid "&Parameters:"
+msgstr "&Parâmetros:"
+
+#: py/cuda_exttools/cd_exttools.py:1520
+msgid "A&dd..."
+msgstr "A&dicionar..."
+
+#: py/cuda_exttools/cd_exttools.py:1522
+msgid "&Initial folder:"
+msgstr "&Pasta inicial:"
+
+#: py/cuda_exttools/cd_exttools.py:1524
+msgid "B&rowse..."
+msgstr "Na&vegar..."
+
+#: py/cuda_exttools/cd_exttools.py:1526
+msgid "Lexers:"
+msgstr "Lexers:"
+
+#: py/cuda_exttools/cd_exttools.py:1528
+msgid "Le&xers..."
+msgstr "Le&xers..."
+
+#: py/cuda_exttools/cd_exttools.py:1530
+msgid "Main for:"
+msgstr "Principal para:"
+
+#: py/cuda_exttools/cd_exttools.py:1532
+msgid "Set &main..."
+msgstr "Definir &principal..."
+
+#: py/cuda_exttools/cd_exttools.py:1534
+msgid "Sa&ve before:"
+msgstr "Sal&var antes:"
+
+#: py/cuda_exttools/cd_exttools.py:1541
+msgid "&Capture output:"
+msgstr "Saída de &captura:"
+
+#: py/cuda_exttools/cd_exttools.py:1543
+msgid "Encoding:"
+msgstr "Codificação:"
+
+#: py/cuda_exttools/cd_exttools.py:1545
+msgid "S&elect..."
+msgstr "S&elecionar..."
+
+#: py/cuda_exttools/cd_exttools.py:1546
+msgid "Pattern:"
+msgstr "Padrão:"
+
+#: py/cuda_exttools/cd_exttools.py:1548
+msgid "Se&t..."
+msgstr "De&finir..."
+
+#: py/cuda_exttools/cd_exttools.py:1550
+msgid "Advanced:"
+msgstr "Avançado:"
+
+#: py/cuda_exttools/cd_exttools.py:1552
+msgid "Set..."
+msgstr "Definir..."
+
+#: py/cuda_exttools/cd_exttools.py:1565
+msgid "Tool properties"
+msgstr "Propriedades da ferramenta"
+
+#: py/cuda_exttools/cd_exttools.py:1594
+msgid "Set File name"
+msgstr "Definir nome do arquivo"
+
+#: py/cuda_exttools/cd_exttools.py:1684
+msgid "Select lexers"
+msgstr "Selecionar lexers"
+
+#: py/cuda_exttools/cd_exttools.py:1694
+msgid "Encodings"
+msgstr "Codificações"
+
+#: py/cuda_exttools/cd_exttools.py:1725
+msgid "Advanced properties"
+msgstr "Propriedades avançadas"
+
+#: py/cuda_exttools/cd_exttools.py:1747
+msgid "&Regular expression:"
+msgstr "&Expressão regular:"
+
+#: py/cuda_exttools/cd_exttools.py:1751
+msgid "Append named group"
+msgstr "Anexar grupo nomeado"
+
+#: py/cuda_exttools/cd_exttools.py:1754
+msgid "Test \"&Output line\":"
+msgstr "Testar \"&Linha de saída\":"
+
+#: py/cuda_exttools/cd_exttools.py:1756
+msgid "&Test"
+msgstr "&Testar"
+
+#: py/cuda_exttools/cd_exttools.py:1758
+msgid "Testing results"
+msgstr "Resultados do teste"
+
+#: py/cuda_exttools/cd_exttools.py:1759
+msgid "Filename:"
+msgstr "Nome do arquivo:"
+
+#: py/cuda_exttools/cd_exttools.py:1761
+msgid "Line:"
+msgstr "Linha:"
+
+#: py/cuda_exttools/cd_exttools.py:1763
+msgid "Column:"
+msgstr "Coluna:"
+
+#: py/cuda_exttools/cd_exttools.py:1766
+msgid "Load &preset..."
+msgstr "Carregar &predefinição..."
+
+#: py/cuda_exttools/cd_exttools.py:1767
+msgid "&Save as preset..."
+msgstr "&Salvar como predefinição..."
+
+#: py/cuda_exttools/cd_exttools.py:1781
+msgid "Tool \"{}\" output pattern"
+msgstr "Padrão de saída da ferramenta \"{}\""
+
+#: py/cuda_exttools/cd_exttools.py:1793
+msgid "Filename (default - current file name)"
+msgstr "Nome do arquivo (padrão - nome do arquivo atual)"
+
+#: py/cuda_exttools/cd_exttools.py:1794
+msgid "Number of line (default - 1)"
+msgstr "Número da linha (padrão - 1)"
+
+#: py/cuda_exttools/cd_exttools.py:1795
+msgid "Number of column (default - 1)"
+msgstr "Número da coluna (padrão - 1)"
+
+#: py/cuda_exttools/cd_exttools.py:1796
+msgid "Number of line (0-based, default - 0)"
+msgstr "Número de linha (base 0, padrão - 0)"
+
+#: py/cuda_exttools/cd_exttools.py:1797
+msgid "Number of column (0-based, default - 0)"
+msgstr "Número da coluna (base 0, padrão - 0)"
+
+#: py/cuda_exttools/cd_exttools.py:1799
+msgid "Pattern variables"
+msgstr "Variáveis ​​padrão"
+
+#: py/cuda_exttools/cd_exttools.py:1823
+msgid "Ready patterns"
+msgstr "Padrões prontos"
+
+#: py/cuda_exttools/cd_exttools.py:1831
+msgid "Set \"Regular expression\""
+msgstr "Definir \"Expressão regular\""
+
+#: py/cuda_exttools/cd_exttools.py:1833
+msgid "Name for preset ({})"
+msgstr "Nome para predefinição ({})"
+
+#: py/cuda_exttools/cd_exttools.py:2030
+msgid "Param for call {}"
+msgstr "Parâmetro para chamar {}"
+
+#: py/cuda_exttools/cd_exttools.py:2127
+msgid "{AppDir}\tDirectory with app executable"
+msgstr "{AppDir}\tDiretório com executável"
+
+#: py/cuda_exttools/cd_exttools.py:2128
+msgid "{AppDrive}\t(Win only) Disk of app executable, eg \"C:\""
+msgstr "{AppDrive}\t (somente Windows) Disco do executável, por exemplo, \"C: \""
+
+#: py/cuda_exttools/cd_exttools.py:2129
+msgid "{FileName}\tFull path"
+msgstr "{FileName}\tCaminho completo"
+
+#: py/cuda_exttools/cd_exttools.py:2130
+msgid "{FileDir}\tFolder path, without file name"
+msgstr "{FileDir}\tCaminho da pasta, sem nome de arquivo"
+
+#: py/cuda_exttools/cd_exttools.py:2131
+msgid "{FileNameOnly}\tFile name only, without folder path"
+msgstr "{FileNameOnly}\t Somente nome do arquivo, sem caminho da pasta"
+
+#: py/cuda_exttools/cd_exttools.py:2132
+msgid "{FileNameNoExt}\tFile name without extension and path"
+msgstr "{FileNameNoExt}\tNome do arquivo sem extensão e caminho"
+
+#: py/cuda_exttools/cd_exttools.py:2133
+msgid "{FileExt}\tExtension"
+msgstr "{FileExt}\tExtensão"
+
+#: py/cuda_exttools/cd_exttools.py:2134
+msgid "{ContentAsTemp}\tName of [temporary] file with current text"
+msgstr "{ContentAsTemp}\tNome do arquivo [temporário] com o texto atual"
+
+#: py/cuda_exttools/cd_exttools.py:2135
+msgid "{Lexer}\tFile lexer"
+msgstr "{Lexer}\tArquivo lexer"
+
+#: py/cuda_exttools/cd_exttools.py:2136
+msgid "{LexerAtCaret}\tLocal lexer (at 1st caret)"
+msgstr "{LexerAtCaret}\tLexer local (no primeiro cursor)"
+
+#: py/cuda_exttools/cd_exttools.py:2137
+msgid "{CurrentLine}\tText of current line"
+msgstr "{CurrentLine}\tTexto da linha atual"
+
+#: py/cuda_exttools/cd_exttools.py:2138
+msgid "{CurrentLineNum}\tNumber of current line"
+msgstr "{CurrentLineNum}\tNúmero da linha atual"
+
+#: py/cuda_exttools/cd_exttools.py:2139
+msgid "{CurrentLineNum0}\tNumber of current line (0-based)"
+msgstr "{CurrentLineNum0}\tNúmero da linha atual (base 0)"
+
+#: py/cuda_exttools/cd_exttools.py:2140
+msgid "{CurrentColumnNum}\tNumber of current column"
+msgstr "{CurrentColumnNum}\tNúmero da coluna atual"
+
+#: py/cuda_exttools/cd_exttools.py:2141
+msgid "{CurrentColumnNum0}\tNumber of current column (0-based)"
+msgstr "{CurrentColumnNum0}\tNúmero da coluna atual (base 0)"
+
+#: py/cuda_exttools/cd_exttools.py:2142
+msgid "{SelectedText}\tText"
+msgstr "{SelectedText}\tTexto"
+
+#: py/cuda_exttools/cd_exttools.py:2143
+msgid "{CurrentWord}\tText"
+msgstr "{CurrentWord}\tTexto"
+
+#: py/cuda_exttools/cd_exttools.py:2144
+msgid "{Interactive}\tText will be asked at each running"
+msgstr "{Interactive}\tO texto será solicitado a cada execução"
+
+#: py/cuda_exttools/cd_exttools.py:2145
+msgid "{InteractiveFile}\tFile name will be asked"
+msgstr "{InteractiveFile}\tNome do arquivo será solicitado"
+
+#: py/cuda_exttools/cd_exttools.py:2146
+msgid "{{FileName_g{0}}}\tFull path of current file in group {0}"
+msgstr "{{FileName_g {0}}}\tCaminho completo do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2147
+msgid "{{FileDir_g{0}}}\tFolder path, without file name, of current file in group {0}"
+msgstr "{{FileDir_g {0}}}\tCaminho da pasta, sem nome de arquivo, do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2148
+msgid "{{FileNameOnly_g{0}}}\tFile name only, without folder path, of current file in group {0}"
+msgstr "{{FileNameOnly_g {0}}}\tSomente o nome do arquivo, sem caminho da pasta, do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2149
+msgid "{{FileNameNoExt_g{0}}}\tFile name without extension and path of current file in group {0}"
+msgstr "{{FileNameNoExt_g {0}}}\tNome do arquivo sem extensão e caminho do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2150
+msgid "{{FileExt_g{0}}}\tExtension of current file in group {0}"
+msgstr "{{FileExt_g {0}}}\tExtensão do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2151
+msgid "{{ContentAsTemp_g{0}}}\tName of [temporary] file with current text in group {0}"
+msgstr "{{ContentAsTemp_g {0}}}\tNome do arquivo [temporário] com o texto atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2152
+msgid "{{Lexer_g{0}}}\tLexer of current file in group {0}"
+msgstr "{{Lexer_g {0}}}\tLexer do arquivo atual no grupo {0}"
+
+#: py/cuda_exttools/cd_exttools.py:2157
+msgid "Variables"
+msgstr "Variáveis"
+
+#: py/cuda_exttools/cd_plug_lib.py:600
+msgid "Adjust vertical alignments"
+msgstr "Ajustar alinhamentos verticais"
+
+#: py/cuda_exttools/cd_plug_lib.py:641
+msgid "&Save"
+msgstr "&Salvar"
+
+#: py/cuda_exttools/cd_plug_lib.py:642
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr "Aplicar os ajustes aos controles de todos os diálogos.\rCtrl+Clique  - Exibir os dados para enviar relatório."
+
+#: py/cuda_exttools/cd_plug_lib.py:682
+msgid "Report"
+msgstr "Relatório"
+
+#: py/cuda_exttools/cd_plug_lib.py:684
+msgid "Send the report to the address"
+msgstr "Enviar o relatório para o endereço"
+
+#: py/cuda_exttools/cd_plug_lib.py:686
+msgid "or post it on"
+msgstr "ou postar no"

@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-25 10:26-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_encode/__init__.py:14
+msgid "[Encode] "
+msgstr "[Codificação] "
+
+#: py/cuda_encode/__init__.py:22
+msgid "[Encode %s] "
+msgstr "[Codificação %s] "
+
+#: py/cuda_encode/format_proc.py:40 py/cuda_encode/format_proc.py:52
+msgid "Global config file \"%s\" not found"
+msgstr "Arquivo de configuração global \"%s\" não foi encontrado"
+
+#: py/cuda_encode/format_proc.py:44
+msgid "Cannot open local config file for untitled tab"
+msgstr "Não foi possível abrir o arquivo de configuração local para a guia sem título"
+
+#: py/cuda_encode/format_proc.py:54
+msgid ""
+"Local config file \"%s\" not found.\n"
+"Do you want to create it?"
+msgstr ""
+"Arquivo de configuração local \"%s\" não foi encontrado.\n"
+"Você deseja criá-lo?"
+
+#: py/cuda_encode/format_proc.py:59
+msgid "Cannot copy global config file \"%s\" to local folder"
+msgstr "Não foi possível copiar o arquivo de configuração global \"%s\" para sua pasta local"
+
+#: py/cuda_encode/format_proc.py:64
+msgid "Column/line selections not supported"
+msgstr "Sem suporte para seleções de coluna/linha"
+
+#: py/cuda_encode/format_proc.py:71 py/cuda_encode/format_proc.py:89
+msgid "Cannot format text"
+msgstr "Não foi possível formatar o texto"
+
+#: py/cuda_encode/format_proc.py:74
+msgid "Formatting selected text"
+msgstr "Formatando o texto selecionado"
+
+#: py/cuda_encode/format_proc.py:92
+msgid "Formatting entire text"
+msgstr "Formatando o texto inteiro"

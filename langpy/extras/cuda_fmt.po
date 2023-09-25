@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-12 18:24-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: py/cuda_fmt/__init__.py:103
+msgid "Formatters for %s"
+msgstr "Formatadores para %s"
+
+#: py/cuda_fmt/__init__.py:122
+msgid "Formatters: "
+msgstr "Fomatadores: "
+
+#: py/cuda_fmt/__init__.py:174
+msgid "No formatters for None-lexer"
+msgstr "Sem formatador para o lexer Nenhum"
+
+#: py/cuda_fmt/__init__.py:179 py/cuda_fmt/__init__.py:318
+msgid "No formatters for \"%s\""
+msgstr "Sem formatador para \"%s\""
+
+#: py/cuda_fmt/__init__.py:207
+msgid "No configurable formatters"
+msgstr "Sem formatadores configuráveis"
+
+#: py/cuda_fmt/__init__.py:212
+msgid "Formatters"
+msgstr "Fomatadores"
+
+#: py/cuda_fmt/__init__.py:229
+msgid "Cannot open local config for untitled tab"
+msgstr "Não foi possível abrir a configuração local para guia sem título"
+
+#: py/cuda_fmt/__init__.py:239
+msgid "Formatters labels"
+msgstr "Rótulos dos formatadores"
+
+#: py/cuda_fmt/__init__.py:247
+msgid "(None)"
+msgstr "(Nenhum)"
+
+#: py/cuda_fmt/__init__.py:249
+msgid "Label for \"%s\""
+msgstr "Rótulo para \"%s\""
+
+#: py/cuda_fmt/__init__.py:284
+msgid "Formatters label \"save\""
+msgstr "Rótulo do formatador \"salvar\""
+
+#: py/cuda_fmt/__init__.py:332
+msgid "No formatter for \"{}\" with label \"{}\""
+msgstr "Sem formatador para \"{}\" com o rótulo \"{}\""
+
+#: py/cuda_fmt/fmtconfig.py:39 py/cuda_fmt/fmtconfig.py:56
+msgid "Global config file \"%s\" not found"
+msgstr "Arquivo de configuração global \"%s\" não encontrado"
+
+#: py/cuda_fmt/fmtconfig.py:46
+msgid "Cannot open local config file for untitled tab"
+msgstr "Não foi possível abrir o arquivo de configuração local para guia sem título"
+
+#: py/cuda_fmt/fmtconfig.py:59
+msgid ""
+"Local config file \"%s\" not found.\n"
+"Do you want to create it?"
+msgstr ""
+"Arquivo de configuração local \"%s\" não encontrado.\n"
+"Você deseja criá-lo?"
+
+#: py/cuda_fmt/fmtconfig.py:64
+msgid "Cannot copy global config file \"%s\" to local folder"
+msgstr "Não foi possível copiar o arquivo de configuração global \"%s\" para a pasta local"
+
+#: py/cuda_fmt/fmtrun.py:19
+msgid "Column selection is not supported"
+msgstr "Sem suporte para seleção em coluna"
+
+#: py/cuda_fmt/fmtrun.py:61
+msgid "Formatted {} selections"
+msgstr "{} seleções formatadas"
+
+#: py/cuda_fmt/fmtrun.py:63
+msgid "Formatted selection"
+msgstr "Seleção formatada"
+
+#: py/cuda_fmt/fmtrun.py:65
+msgid "Cannot format selection(s)"
+msgstr "Não foi possível formatar selecão(ões)"
+
+#: py/cuda_fmt/fmtrun.py:80
+msgid "Cannot format text"
+msgstr "Não foi possível formatar o texto"
+
+#: py/cuda_fmt/fmtrun.py:84
+msgid "Text is already formatted"
+msgstr "O texto já está formatado"
+
+#: py/cuda_fmt/fmtrun.py:88
+msgid "Formatted entire text"
+msgstr "Texto formatado completamente"

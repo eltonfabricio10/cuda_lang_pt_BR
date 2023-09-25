@@ -1,0 +1,877 @@
+[cuda_addonman]
+Addons Manager=
+Install...=
+Update...=
+Edit plugin...=
+Remove add-on...=
+Download all...=
+Download: show links...=
+Config...=
+Check for CudaText updates=
+Install from GitHub...=
+Visit plugin's homepage...=
+Open plugin's readme...=
+Open plugin's history...=
+
+[cuda_ascii_art]
+ASCII Art=
+Insert text...=
+Choose font...=
+Config=
+Preview fonts=
+
+[cuda_auto_center_line]
+Auto Center Line=
+Activate=
+Deactivate=
+
+[cuda_auto_copy]
+Auto-Copy to Clipboard=
+Config=
+
+[cuda_autoit_helper]
+AutoIt Helper=
+Set AutoIt path=
+Show docstring=
+
+[cuda_auto_replace]
+Auto Replace=
+Reload snips=
+Change lexers=
+
+[cuda_auto_save]
+Auto Save=
+Config=
+
+[cuda_breadcrumbs]
+Breadcrumbs=
+Toggle breadcrumbs=
+Show file-tree=
+Show code-tree=
+Config=
+
+[cuda_calc_expr]
+Calc Expression=
+Calc selection, replace in editor=
+Calc selection, show in statusbar=
+Config=
+
+[cuda_case_converter]
+Case Converter=
+Convert to snake_case=
+Convert to UPPER_CASE=
+Convert to camelCase=
+Convert to PascalCase=
+
+[cuda_colored_indent]
+Colored Indent=
+Toggle active=
+Reload config=
+Config=
+
+[cuda_color_picker]
+Color Picker=
+Choose color...=
+Recent colors...=
+Clear recent list=
+
+[cuda_color_text]
+Color Text=
+Apply style 1=
+Apply style 2=
+Apply style 3=
+Apply style 4=
+Apply style 5=
+Apply style 6=
+Apply bold=
+Apply italic=
+Apply bold+italic=
+Apply strikeout=
+Clear style 1=
+Clear style 2=
+Clear style 3=
+Clear style 4=
+Clear style 5=
+Clear style 6=
+Clear all styles=
+Clear all styles in selection=
+Config=
+
+[cuda_column_marks]
+Column Marks=
+Set fixed margin...=
+Set additional margins...=
+Jump left=
+Jump right=
+
+[cuda_comments]
+Comments=
+Toggle line comment, at line start=
+Toggle line comment, at non-space char=
+Add line comment, at line start=
+Add line comment, at non-space char=
+Remove line comment=
+Toggle stream comment=
+Config...=
+
+[cuda_complete_from_text]
+Complete From Text=
+Config=
+
+[cuda_config_toolbar]
+Config Toolbar=
+Configure buttons...=
+Hide standard buttons...=
+Choose icons of main toolbar...=
+Choose icons of sidebar...=
+Choose icons of code tree...=
+
+[cuda_console_complete]
+Console Auto-Complete=
+Complete=
+Config=
+
+[cuda_css_caniuse]
+CSS CanIUse=
+
+[cuda_css_inspector]
+CSS Inspector=
+
+[cuda_css_property_info]
+CSS Property Info=
+Config=
+
+[cuda_css_toc]
+CSS Table of Contents=
+Create section=
+Create sub-section=
+Create sub-sub-section=
+Create TOC=
+
+[cuda_csv_hilite]
+CSV Helper=
+Insert column=
+Insert column, righter=
+Delete current column=
+Move current column to the left=
+Move current column to the right=
+Set separator for current document...=
+Config=
+
+[cuda_dash_help]
+Dash Help=
+Syntax-sensitive, in foreground=
+Syntax-sensitive, in background=
+Ignore syntax, in foreground=
+Ignore syntax, in background=
+
+[cuda_detect_indent]
+
+[cuda_devdocs]
+DevDocs=
+Search by input=
+Search by text=
+
+[cuda_differ]
+Differ=
+Choose files...=
+Compare current file with...=
+Refresh=
+Focus the opposite file=
+Select current difference=
+Jump to next difference=
+Jump to previous difference=
+Copy current difference to the right=
+Copy current difference to the left=
+Copy current line to the right=
+Copy current line to the left=
+Config...=
+Clear recents history=
+
+[cuda_docblock]
+
+[cuda_draw_lines]
+Draw Lines=
+
+[cuda_editorconfig]
+
+[cuda_edits_navigation]
+Edits Navigation=
+Go To Previous Edit=
+
+[cuda_ed_resize]
+Tab Group Resizer=
+Toggle maximize editor group=
+Minimize editor group=
+Reset group sizes=
+Config=
+
+[cuda_embed_ed]
+Embedded Editor=
+Toggle=
+Config=
+Config patterns=
+
+[cuda_emmet]
+Emmet=
+Expand abbreviation=
+Wrap with abbreviation...=
+Dialog...=
+Show HTML help=
+
+[cuda_emmet_lite]
+Emmet Lite=
+Expand abbreviation=
+Wrap with abbreviation=
+Select profile...=
+Help=
+
+[cuda_encode]
+Encode=
+HTML Entitize=
+HTML Deentitize=
+CSS Escape=
+CSS Unescape=
+XML Entitize=
+XML Deentitize=
+Safe HTML Entitize=
+Safe HTML Deentitize=
+JSON Escape=
+JSON Unescape=
+URL Encode=
+URL Decode=
+Base=
+Quoted-printable Encode=
+Quoted-printable Decode=
+Unicode-escape Encode=
+Unicode-escape Decode=
+Misc=
+ROT=
+Hash=
+Unicode Normalize=
+Base64 Encode=
+Base64 Decode=
+Base32 Encode=
+Base32 Decode=
+Base16 Encode=
+Base16 Decode=
+Escape regex=
+Escape %_=
+Decimal to Hexadecimal=
+Hexadecimal to Decimal=
+ROT13=
+ROT18=
+ROT47=
+MD5=
+SHA256=
+SHA512=
+NFC: Compose=
+NFD: Decompose=
+NFKC: Compose=
+NFKD: Decompose=
+
+[cuda_explorer_integration]
+Explorer Integration=
+
+[cuda_extended_selection]
+Extended Selection=
+Toggle Selection=
+Config=
+
+[cuda_extract_strings]
+Extract Strings=
+Extract Strings...=
+Filter Lines...=
+Extract e-mails to new tab=
+
+[cuda_file_type_profile]
+File Type Profile=
+Config=
+
+[cuda_file_uri_handler]
+
+[cuda_fmt]
+CudaFormatter=
+Formatter (menu)=
+Formatter A=
+Formatter B=
+Formatter C=
+Formatter D=
+Configure labels...=
+Configure on_save...=
+Configure formatter...=
+Configure formatter (local)...=
+
+[cuda_focus_mode]
+Focus Mode=
+Config=
+
+[cuda_fontawesome]
+Font Awesome=
+Config=
+
+[cuda_fonts]
+
+[cuda_fountain_helper]
+Fountain Helper=
+Character list...=
+Character under caret...=
+Scene list...=
+Extract character dialogue...=
+Preview in browser=
+
+[cuda_ftp]
+FTP=
+Show panel=
+Menu "Connect"=
+Connect by label "1"=
+Connect by label "2"=
+Connect by label "3"=
+Connect by label "4"=
+Connect by label "5"=
+Connect by label "6"=
+
+[cuda_ftp_libs_py35]
+
+[cuda_ftp_libs_py36]
+
+[cuda_ftp_libs_py37]
+
+[cuda_git_status]
+Git Status=
+Config=
+
+[cuda_hash_gen]
+Hash Generator=
+
+[cuda_hex_dump]
+Hex Dump=
+Dump UTF16-LE=
+Dump UTF16-BE=
+Dump ASCII=
+
+[cuda_hilite_occurrences]
+&Highlight Occurrences=
+Highlight Occurrences=
+Move to &first occurrence=
+Move to &last occurrence=
+Move to &previous occurrence=
+Move to &next occurrence=
+Select &all occurrences=
+Config...=
+
+[cuda_hilite_vars]
+Highlight Variables=
+Config=
+
+[cuda_html_completion]
+
+[cuda_html_live_preview]
+HTML Live Preview=
+Start server=
+Stop server=
+Open browser window=
+Config=
+
+[cuda_html_ops]
+HTML Ops=
+Preview HTML in browser=
+Add new tag, or wrap selection in tag (Sublime like)=
+HTML selection to CSS classes, copy to clipboard=
+HTML selection to CSS classes, copy to clipboard, compact=
+Convert selection px<->rem=
+Insert <img> tag (or css lines) with picture info=
+Convert lines to list=
+Online HTML validator=
+Wrap in tag=
+Increase value=
+Decrease value=
+Default, new tab=
+Default, new window=
+Chrome, new tab=
+Chrome, new window=
+Firefox, new tab=
+Firefox, new window=
+Safari, new tab=
+Safari, new window=
+Opera, new tab=
+Opera, new window=
+Windows default, new tab=
+Windows default, new window=
+To ordered list=
+To unordered list=
+To table, by lines=
+To table, by columns=
+HTML5=
+HTML4=
+HTML4 Transitional=
+<b>=
+<i>=
+<u>=
+<p>=
+<div>=
+<span>=
+<pre>=
+<strong>=
+<em>=
+<ul>=
+<ol>=
+<li>=
+<sub>=
+<sup>=
+<small>=
+<bdi>=
+<h1>=
+<h2>=
+<h3>=
+<h4>=
+<h5>=
+<h6>=
+<blockquote>=
+<q>=
+<cite>=
+
+[cuda_html_tidy]
+HTML Tidy=
+Menu...=
+Validate document=
+Browse configs=
+Visit web site=
+
+[cuda_html_tooltips]
+HTML Tooltips=
+Config=
+
+[cuda_insert_emoji]
+Insert Emoji=
+
+[cuda_insert_pics]
+Insert Pics=
+Insert picture from file...=
+Insert picture from clipboard=
+Remove picture for current line=
+Remove all pictures=
+
+[cuda_insert_time]
+Insert Time=
+Choose format...=
+Insert in default format=
+Config=
+
+[cuda_ip_address_helper]
+IP Address Helper=
+Toggle on/off=
+
+[cuda_js_multiline_array]
+JS Multiline Array=
+Replace selection with code=
+Convert selection, copy to clipboard=
+
+[cuda_lexer_detecter]
+
+[cuda_lint]
+CudaLint=
+Lint=
+Lint, go to first mark=
+Config...=
+Disable, clear marks=
+Enable=
+
+[cuda_lorem]
+Lorem Ipsum=
+
+[cuda_lsp]
+LSP Client=
+;LSP Client=
+LSP Client=
+Hover=
+Definition=
+References=
+Implementation=
+Declaration=
+Type definition=
+Format document=
+Format selection=
+Configure server for current project=
+Workspace symbols (broken)=
+Call hierarchy (broken)=
+Shutdown server...=
+Debug: Docs list...=
+Debug: view server responses (current server)=
+Config=
+Edit server configs...=
+
+[cuda_make_plugin]
+Make Plugin=
+
+[cuda_markdown_editing]
+Markdown Editing=
+Menu of references=
+Config=
+
+[cuda_markdown_preview]
+Markdown Preview=
+Preview=
+Configure live preview...=
+
+[cuda_micro_utils]
+Micro Utils=
+Sort lines by length=
+Binary Sum, show in messagebox=
+Binary Sum, show in editor=
+Convert base-2 numbers to hex NNNN_NNNN form=
+
+[cuda_multi_installer]
+Multi Installer=
+
+[cuda_new_file]
+New File=
+
+[cuda_ntfs_streams]
+NTFS Streams=
+Dialog for current file...=
+Dialog for any file...=
+
+[cuda_number_utils]
+Number Utils=
+Insert Numbers...=
+Carets Numbering...=
+Base Converter...=
+Roman numbers=
+Number to words=
+Number to words, Ru=
+Convert decimal/roman, show in statusbar=
+Convert decimal/roman, replace in editor=
+Number to words, new tab=
+Number to words, replace=
+Select language...=
+Number to words, new tab=
+Number to words, replace=
+Rubles to words, new tab=
+Rubles to words, replace=
+
+[cuda_num_bookmarks]
+Numbered Bookmarks=
+Set bookmark 1=
+Set bookmark 2=
+Set bookmark 3=
+Set bookmark 4=
+Set bookmark 5=
+Set bookmark 6=
+Set bookmark 7=
+Set bookmark 8=
+Go to bookmark 1=
+Go to bookmark 2=
+Go to bookmark 3=
+Go to bookmark 4=
+Go to bookmark 5=
+Go to bookmark 6=
+Go to bookmark 7=
+Go to bookmark 8=
+
+[cuda_online_search]
+Online Search=
+Wikipedia=
+Google=
+Bing=
+MSDN=
+HTML4=
+HTML5=
+PHP.net=
+Laravel Docs=
+
+[cuda_open_url]
+Open URL=
+Open URL in default browser=
+Open URL in Chrome=
+Open URL in Chrome, private mode=
+Open URL in Firefox=
+Open URL in Firefox, private mode=
+Open URL in Opera=
+Open URL in Opera, private mode=
+Open URL in IE=
+Open URL in IE, private mode=
+Open URL in tool-1=
+Open URL in tool-2=
+Config=
+
+[cuda_pandoc]
+Pandoc Helper=
+Convert...=
+
+[cuda_pass_gen]
+Password Generator=
+Config=
+
+[cuda_paste_as_string]
+Paste as String=
+
+[cuda_plain_tasks]
+Plain Tasks=
+New=
+Complete=
+Cancel=
+Archive=
+Config...=
+
+[cuda_prefs]
+Options Editor Lite...=
+
+[cuda_project_man]
+&Project Manager=
+;&Project Manager=
+&Project Manager=
+&Show Project panel=
+&Focus Project panel=
+Open &recent project...=
+New project, &Open folder...=
+&Go to file...=
+Go to &main file=
+Open main &file=
+Open &all project files...=
+&Project properties...=
+&Config...=
+&Sync to editor file=
+Add to project: current file=
+Add to project: all opened files=
+Context menu=
+Add directory...=
+Add file...=
+New project=
+Open project...=
+Save project as...=
+Refresh=
+Remove node=
+Clear project=
+Set as main file=
+
+[cuda_python_intel]
+Python IntelliSense=
+Show doc-string=
+Show usages=
+Refactoring - Rename=
+Refactoring - Inline=
+Refactoring - Extract variable=
+Refactoring - Extract function=
+Select Python interpreter...=
+Config=
+
+[cuda_remove_greek_accents]
+Remove Greek Accents=
+
+[cuda_rest_preview]
+reStructuredText Preview=
+
+[cuda_runner]
+Runner=
+Build=
+Build with...=
+Choose build config...=
+Next output=
+Previous output=
+Cancel build=
+Config=
+
+[cuda_show_unicode_name]
+
+[cuda_show_unsaved]
+Show Unsaved Changes=
+
+[cuda_snippet_panel]
+Snippet Panel=
+
+[cuda_snippets]
+Snippets=
+Addons Manager=
+Snippets=
+Snippets menu...=
+Add/edit snippets...=
+Delete snippet markers=
+Install VSCode snippets...=
+Remove VSCode snippets...=
+Visit homepage of VSCode snippets...=
+Install VSCode snippets...=
+Remove VSCode snippets...=
+Visit homepage of VSCode snippets...=
+Convert snippets package from old format=
+
+[cuda_sort]
+Sort=
+Sort, asc.=
+Sort, desc.=
+Sort, asc., ignore case=
+Sort, desc., ignore case=
+Sort dialog...=
+Reverse lines=
+Shuffle lines=
+Remove duplicate lines=
+Remove duplicate lines, but keep blanks=
+Remove duplicate lines + origins=
+Remove adjacent duplicate lines=
+Extract duplicate lines=
+Extract duplicate lines, ignore case=
+Extract unique lines=
+Remove blank lines=
+Remove adjacent blank lines=
+Ini file: sort sections and keys=
+Ini file: sort sections, but not keys=
+Sort e-mail list by domain=
+Sort char-separated values in lines=
+Config=
+
+[cuda_spell_checker]
+Spell Checker=
+Check text=
+Check text, with suggestions=
+Check word=
+Check word, with suggestions=
+Remove marks=
+Go to next misspelled=
+Go to previous misspelled=
+Select language...=
+Enable/disable checking on opening file=
+Enable/disable checking after text editing=
+Config=
+
+[cuda_spir_helper]
+
+[cuda_sqltools]
+SQL Tools=
+Execute query=
+Execute entire file=
+Explain plan=
+Describe function=
+Describe table=
+Show table records=
+Format query text=
+History=
+Save query=
+List and open saved queries=
+List and run saved queries=
+List and insert saved queries=
+Remove saved query=
+Refresh connection data=
+Clear table+function cache=
+Select connection=
+Edit connections config=
+Edit main config=
+
+[cuda_suggest_new]
+
+[cuda_sum_lines]
+Sum Lines=
+
+[cuda_switch_header]
+Switch Header=
+Switch Header=
+Config=
+
+[cuda_sync_editing]
+Sync Editing=
+Activate=
+Cancel=
+Config=
+
+[cuda_sync_scroll]
+Sync Scroll=
+Toggle sync vertical scrolling=
+Toggle sync horizontal scrolling=
+
+[cuda_tab_colors]
+Tab Colors=
+Config=
+
+[cuda_tab_icons]
+Tab Icons=
+Set document's tab icon...=
+Reset document's tab icon=
+Config=
+
+[cuda_tab_rename]
+Tab-Rename=
+Rename Current Tab=
+Config=
+
+[cuda_tabs_list]
+Tabs List=
+Open=
+Config=
+
+[cuda_terminal]
+Terminal=
+Config=
+
+[cuda_terminal_plus]
+Terminal+=
+Open=
+Add terminal for user home directory=
+Add terminal (for current file)=
+Rename terminal...=
+Close terminal=
+Focus next terminal=
+Focus previous terminal=
+Execute selected text in terminal=
+Repeat last terminal command=
+Toggle focus: editor - its terminal=
+Search for command in history=
+Close last terminal for current file=
+Close all terminals...=
+Config=
+
+[cuda_tern]
+JS Tern=
+Show usages=
+Show doc-string=
+Restart server=
+Open tern-project file=
+
+[cuda_testing_code_tree]
+
+[cuda_testing_dlg_proc]
+Testing of dialog API=
+modal=
+nonmodal=
+test dlg_custom=
+test type=pages, tabs=
+test type=toolbar/statusbar=
+test type=treeview=
+test type=listview=
+test type=button_ex=
+test type=splitter=
+test type=listbox_ex=
+test type=editor=
+test type=combo=
+test side-panel=
+test label rendering=
+
+[cuda_testing_gaps]
+Testing of gaps API=
+
+[cuda_textile_preview]
+Textile Preview=
+
+[cuda_text_stat]
+Text Statistics=
+Report in message box=
+Report in new document=
+Show all sentences=
+
+[cuda_texttospeech]
+TextToSpeech=
+Speak=
+Pause=
+Resume=
+Skip to next sentence=
+Stop=
+Re-initialize engine=
+Config=
+
+[cuda_vim_mode]
+Vim Mode=
+Toggle=
+Remap Esc key=
+
+[cuda_webfont]
+FontStorage=
+
+[pywin32]

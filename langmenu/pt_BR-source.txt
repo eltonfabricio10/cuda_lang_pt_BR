@@ -1,0 +1,179 @@
+Cuda e -Ext
+; Cuda & -Ext
+Cuda e -Ext
+; Cuda & -Ext
+Cuda e -Ext
+& Encontrar / Substituir
+&Inserir
+&Pular
+Rolagem
+&Navegar
+Ta & bs
+& Divisores
+Parágrafo
+Código e Árvore
+&Alinhar
+Arquivo
+& Misc
+Encontrar em & Linhas ...
+Encontre o clipbrd: & próximo
+Encontrar clipbrd: & anterior
+Substituir & todas as ocorrências da string selecionada com clipbrd
+Substituir & tudo nas linhas ...
+Substituir & tudo em linhas com kit ...
+& Copiar palavra ou [string] ou 'string' (sem seleção)
+& Substitua palavra ou [string] ou 'string' por clipbrd (sem seleção)
+E & xpanda a seleção para palavra ou "string" ou (string)
+Expandir e copiar a seleção para palavra ou "string" ou (string)
+Remova todos os caracteres ASCII 0..31 (excluindo 9,10,13)
+Retire as tags HTML
+Definir circunflexos alinhados como coluna ...
+Converter seleção multilinha em seleção de coluna
+Texto de seleção reversa, por linhas
+Adicionar linha recuada acima
+Adicionar linha recuada e abaixo
+Adicione recuo e seleção surround com {}
+Colar na & primeira coluna
+Colar com recuo ab e ove
+Colar com recuo belo e w
+Cole como o IDE La & zarus
+Colar texto recortado
+Cortar espaços na seleção, à esquerda
+Cortar espaços na seleção, certo
+Cortar espaços na seleção, todos
+F & il seleção por string ...
+Copiar nome de caractere Unicode
+Inserir char & unicode ...
+Para colchete correspondente
+Para as próximas linhas alteradas
+Para as linhas alteradas anteriormente
+Para as próximas linhas salvas
+Para as linhas salvas anteriormente
+Para as próximas linhas de trabalho
+Para linhas de trabalho anteriores
+Alinhar com número em clipbrd
+Saiu para CamelCase / snake_case
+Direto para CamelCase / snake_case
+Esquerda em CamelCase / snake_case e selecione
+Direto para CamelCase / snake_case e selecione
+Lista de favoritos para a guia atual ...
+Lista de favoritos para todas as guias ...
+Lista numerada de favoritos para todas as guias ...
+Para iniciar o grampo esquerdo mais próximo
+Para finalizar o grampo esquerdo mais próximo
+Linha atual para filtrar e centralizar
+Linha atual para tela e topo
+Linha atual para tela e fundo
+Tela para a esquerda
+Tela para a direita
+Abrir arquivo por & nome selecionado
+Abrir arquivo (s) na (s) guia (s) mais próxima (s) à direita ...
+Abrir arquivo (s) na (s) guia (s) mais próxima (s) à esquerda ...
+Navegar por & erro no console
+Escolha a guia / painel para o qual alternar
+Ativar a guia anteriormente ativa (ir e voltar)
+Mover a guia para & posicionar ...
+Mover guia para a esquerda
+Mover guia para a direita
+& Encontrar guia por título ...
+Ativar guia por & número ...
+Organizar guias em grupos
+Ative a guia nº 1 no grupo nº 1
+Ative a guia 2 no grupo 1
+Ative a guia # 3 no grupo # 1
+Ative a guia nº 4 no grupo nº 1
+Ative a guia 5 no grupo 1
+Ative a guia 6 no grupo 1
+Ative a guia nº 7 no grupo nº 1
+Ative a guia nº 8 no grupo nº 1
+Ative a guia nº 9 no grupo nº 1
+Ative a guia nº 1 no grupo 2
+Ative a guia 2 no grupo 2
+Ative a guia # 3 no grupo # 2
+Ative a guia 4 no grupo 2
+Ative a guia 5 no grupo 2
+Ative a guia 6 no grupo 2
+Ative a guia nº 7 no grupo 2
+Ative a guia nº 8 no grupo 2
+Ative a guia 9 no grupo 2
+Ative a última guia do grupo # 1
+Ative a última guia do grupo # 2
+Ative a próxima guia (loop global)
+Ative a guia anterior (loop global)
+& Outro grupo
+Expandir painel lateral
+Encolher painel lateral
+Expanda o painel inferior
+Encolher painel inferior
+Expandir grupo superior esquerdo
+Reduzir grupo superior esquerdo
+Expandir grupo ativo
+Reduzir grupo ativo
+& Remover layout de grupo / painel ...
+& Salvar layout de grupo / painel ...
+& Restaurar layout de grupo / painel ...
+Vá para o começo
+Vai para o fim
+Ir para a próxima
+Ir para o anterior
+Alinhar: Configurar ...
+Alinhar: justificado à esquerda
+Alinhar: justificar à direita
+Alinhar: centralizar justificado
+Alinhar: justificar totalmente
+Lista de símbolos ...
+Lista de símbolos (apenas & 1 nível superior) ...
+Lista de símbolos (apenas & 2 níveis superiores) ...
+Mostrar o caminho & atual na barra de status
+Nó definido e ativo, mais próximo do acento circunflexo
+& Encontrar nó ...
+Reindent as linhas selecionadas ...
+Recuar as linhas como a primeira selecionada
+Alinhar recuo da (s) seleção (ões)
+Alinhar em linhas por separador ...
+Alinha colunas separadas por vírgulas nas linhas selecionadas
+Unir linhas
+Exclua os espaços duplicados
+Reenrolar / dividir as linhas por margem ...
+Reenrolar / dividir comentário no acento circunflexo
+Alinhe as linhas ao centro pela margem ...
+Alinhe as linhas à direita pela margem ...
+Abrir & arquivo recente ...
+Re & nomear o arquivo ...
+Mostrar no & visualizador hexadecimal
+Mostrar no & editor de texto
+Ne & w arquivo e salve na pasta atual ...
+Abrir & todos os arquivos da pasta com subpastas ...
+Abrir & arquivo atual no aplicativo padrão
+Salvar editores em um único arquivo ...
+& Executar o texto selecionado no console
+
+
+
+& Encontrar nos Arquivos 4
+& Encontrar em arquivos ...
+Encontrar na & guia atual ...
+Localizar por & predefinir ...
+& Ver e editar opções extras…
+
+
+
+Fa & vorites
+Favoritos ...
+& Adicionar arquivo atual
+Adicionar o & projeto atual
+Abra o favorito nº e 1
+Abra o favorito nº e 2
+Abra o favorito # e 3
+Abra o favorito # e 4
+Abra o favorito # e 5
+Abra o favorito # e 6
+Abra o favorito nº e 7
+Abra o favorito # e 8
+Abra o favorito # e 9
+
+
+Ferramentas: Config ...
+Ferramentas: execute a ferramenta lexer principal
+Ferramentas: pule para o próximo resultado da ferramenta
+Ferramentas: pule para o resultado da ferramenta anterior

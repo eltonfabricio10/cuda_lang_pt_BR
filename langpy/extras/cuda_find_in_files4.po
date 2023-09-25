@@ -1,0 +1,1943 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-08-12 20:44-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:265
+msgid "<path:r>:line"
+msgstr "<path:r>:linha"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:266
+msgid "<path>#N/<r>:line"
+msgstr "<path>#N/<r>:linha"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:267
+msgid "<dir>#N/<file:r>:line"
+msgstr "<dir>#N/<file:r>:linha"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:296
+msgid "To view/edit options install plugin \"Options Editor\""
+msgstr "Para visualizar/editar opções, instalar o plugin \"Editor de Opções\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:303
+msgid "[{}] Options"
+msgstr "[{}] Opções"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+msgid "Hotkeys"
+msgstr "Teclas de atalho"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+msgid "Speed"
+msgstr "Velocidade"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+msgid "Tricks"
+msgstr "Truques"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1512
+msgid "Replace"
+msgstr "Substituir"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2391
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:117
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:128
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:146
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:167
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:185
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:203
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:211
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:219
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:227
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:233
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:239
+msgid "Results"
+msgstr "Resultados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:30
+msgid "History"
+msgstr "Histórico"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:328
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:44
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:51
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:57
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:71
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:83
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:89
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:95
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:105
+msgid "Search"
+msgstr "Pesquisar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:330
+msgid "[{}] Help"
+msgstr "[{}] Ajuda"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:411
+msgid "No presets to run"
+msgstr "Sem predefinições para executar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:417
+msgid "Choose preset to run"
+msgstr "Escolher predefinição para executar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:429
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3811
+msgid "detect"
+msgstr "detectar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:479
+msgid "A&ge of files"
+msgstr "Ida&de dos arquivos"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:481
+msgid "d"
+msgstr "d"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:481
+msgid "h"
+msgstr "h"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:481
+msgid "m"
+msgstr "m"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:481
+msgid "w"
+msgstr "w"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:481
+msgid "y"
+msgstr "y"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:482
+msgid "day(s)"
+msgstr "dia(s)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:482
+msgid "hour(s)"
+msgstr "hora(s)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:482
+msgid "month(s)"
+msgstr "mês"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:482
+msgid "week(s)"
+msgstr "semana(s)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:482
+msgid "year(s)"
+msgstr "ano(s)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+1 level"
+msgstr "+1 nível"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+2 levels"
+msgstr "+2 níveis"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+3 levels"
+msgstr "+3 níveis"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+4 levels"
+msgstr "+4 níveis"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+5 levels"
+msgstr "+5 níveis"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "+All subfolders"
+msgstr "+Todas as subpastas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
+msgid "Only start dir"
+msgstr "Somente diretório inicial"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:487
+msgid "S&ort collected files"
+msgstr "Classificar arquiv&os coletados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
+msgid "Don'&t sort"
+msgstr "&Não classificar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
+msgid "S&ort, newest first"
+msgstr "Classificar, mais recente primeir&o"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
+msgid "Sort, o&ldest first"
+msgstr "Classificar, mais an&tigo primeiro"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:491
+msgid "Skip &hidden/binary files"
+msgstr "Pular arquivos &ocultos/binários"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:492
+msgid "Don'&t skip"
+msgstr "Não p&ular"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:492
+msgid "Skip &binary"
+msgstr "Pular &binário"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:492
+msgid "Skip &hidden"
+msgstr "Pular &oculto"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:492
+msgid "Skip hidden &and binary"
+msgstr "Pular oculto &e binário"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:495
+msgid "S&yntax elements (slowdown)"
+msgstr "Elementos de S&intaxe (desaceleração)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:496
+msgid "Inside &comment"
+msgstr "Dentro do &comentário"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:497
+msgid "Outside of c&omment"
+msgstr "Fora do c&omentário"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:498
+msgid "Inside literal &string"
+msgstr "Dentro da &string literal"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:499
+msgid "Outside of literal s&tring"
+msgstr "Fora da st&ring literal"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:774
+msgid "Create"
+msgstr "Criar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:774
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1146
+msgid "Save"
+msgstr "Salvar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:775
+msgid "Create new preset"
+msgstr "Criar nova predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:775
+msgid "View preset"
+msgstr "Visualizar predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:791
+msgid " Form position"
+msgstr " Posição do formulário"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:792
+msgid " Form sizes and Results height"
+msgstr " Tamanhos do formulário e Altura dos resultados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:824
+msgid ">Na&me:"
+msgstr ">No&me:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1079
+msgid "Age:"
+msgstr "Idade:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1082
+msgid "OK"
+msgstr "OK"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1083
+msgid "&All ages"
+msgstr "&Todas idades"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1085
+msgid "Search in files with the age (0 - in all)"
+msgstr "Pesquisar em arquivos com a idade (0 - em tudo)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1108
+msgid "Encoding for files"
+msgstr "Codificação para arquivos"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1119
+msgid "Remove all and save?"
+msgstr "Remover tudo e salvar?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1144
+msgid "&Add"
+msgstr "&Adicionar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1145
+msgid "&Remove"
+msgstr "&Remover"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1150
+msgid "File mask and encodings"
+msgstr "Máscara de arquivo e codificações"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1181
+msgid "(analyze file content)"
+msgstr "(analisar o conteúdo do arquivo)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1183
+msgid "Source encoding for step"
+msgstr "Codificação da fonte para etapa"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1198
+msgid "&Before:"
+msgstr "&Antes:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1200
+msgid "A&fter:"
+msgstr "De&pois:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1204
+msgid "Extra context lines"
+msgstr "Linhas extras de contexto"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1228
+msgid "No yet executed searches"
+msgstr "Nenhuma pesquisa ainda executada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1231
+msgid "No more executed searches"
+msgstr "Sem mais pesquisas executadas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1236
+msgid "Executed parameters ({}/{}) is restored"
+msgstr "Os parâmetros executados ({}/{}) estão restaurados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1247
+msgid "Preset to apply"
+msgstr "Predefinição para aplicar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1255
+msgid "Preset is saved:"
+msgstr "Predefinição salva:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1257
+msgid "No preset"
+msgstr "Sem predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1265
+msgid "Remove preset\n"
+msgstr "Excluir predefinição\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1267
+msgid "Preset is removed:"
+msgstr "Predefinição removida:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1279
+msgid "Preset is loaded:"
+msgstr "Predefinição carregada:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1327
+msgid "Choose file to find in it"
+msgstr "Escolher o arquivo para encontrar nele"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1332
+msgid "Initial search folder"
+msgstr "Pasta de pesquisa inicial"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1433
+msgid "\"Replace\" is only for single-line Find pattern"
+msgstr "\"Substituir\" somente para padrão Localizar em linha única"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1434
+msgid "\"Replace\" is only for \"-?+?\" mode"
+msgstr "\"Substituir\" somente para modo \"-? +?\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1436
+msgid "\"Replace\" is for \"Syntax elements\" turned off"
+msgstr "\"Substituir\" para \"Elementos de sintaxe \" desativado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1437
+msgid "\"Replace\" is for \"Lexer path for all fragments\" turned off"
+msgstr "\"Substituir\" para \"Caminho do lexer para todos fragmentos \" desativado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1473
+msgid "Replace all in files/tabs?"
+msgstr "Substituir tudo em arquivos/guias?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1486
+msgid "With"
+msgstr "Com"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1494
+msgid "Pattern to replace with.\rTo substitute found RegEx groups: \\1, \\2, ...\rTo substitute the entire match: \\g<0> or \\0"
+msgstr "Padrão a ser substituído com.\rPara substituir grupos RegEx encontrados: \\1, \\2, ...\rPara substituir ocorrência inteira: \\g<0> ou \\0"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1497
+msgid "Click or F4 - Start replacements\rShift+Click or Shift+F4 - Start emulation:\r  show report of replacements\r  and do not make changes."
+msgstr "Clicar ou F4 - Inicia substituições\rShift+Clique ou Shift+F4 - Inicia emulação:\r  exibe relatório de substituições\r  e não faz alterações."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1502
+msgid "Click or Shift+F4 - Start emulation:\r  show report of replacements\r  and do not make changes."
+msgstr "Clicar ou Shift+F4 - Inicia emulação:\r  exibe relatório de substituições\r  e não faz alterações."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1505
+msgid "&Emulate"
+msgstr "&Emular"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1505
+msgid "R&eplace"
+msgstr "S&ubstituir"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1507
+msgid "With:"
+msgstr "Com:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1512
+msgid "Replace (EMULATION)"
+msgstr "Substituir (EMULAÇÃO)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1537
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1539
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1541
+msgid "Fill the field \"{}\""
+msgstr "Preencher o campo \"{}\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1607
+msgid "masks"
+msgstr "máscaras"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1636
+msgid "Reset a&ll"
+msgstr "Restaurar &tudo"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1638
+msgid "En&codings plan:"
+msgstr "Plano de en&codificações:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1639
+msgid "Set masks"
+msgstr "Definir máscaras"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1645
+msgid "Step &1: {}"
+msgstr "Etapa &1: {}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1646
+msgid "Step &2: {}"
+msgstr "Etapa &2: {}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1647
+msgid "Step &3: {}"
+msgstr "Etapa &3: {}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1649
+msgid "Use &default steps: {}"
+msgstr "Utilizar as etapas &padrão: {}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1659
+msgid "Show relati&ve paths"
+msgstr "Exibir caminhos relati&vos"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1661
+msgid "Show &modification time"
+msgstr "Exibir data de &modificação"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1665
+msgid "Results &tree: "
+msgstr "Árvore de resul&tados: "
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1670
+msgid "Show le&xer path for all fragments (slowdown)"
+msgstr "Exibir caminho do le&xer para todos fragmentos (lentidão)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1672
+msgid "Add le&xer path to file path in the statusbar"
+msgstr "Adicionar caminho do lexer para caminho do arquivo na barra de status"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1677
+msgid "Go to next found fragment"
+msgstr "Ir para o próximo fragmento encontrado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1678
+msgid "Go to prev found fragment"
+msgstr "Ir para o fragmento anterior encontrado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1679
+msgid "Go to next tab/file found fragment"
+msgstr "Ir para próxima guia/arquivo do fragmento encontrado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1680
+msgid "Go to prev tab/file found fragment"
+msgstr "Ir para guia/arquivo anterior do fragmento encontrado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1682
+msgid "Open found fragment in tab"
+msgstr "Abrir fragmento encontrado na guia"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1684
+msgid "Prepare to search in the So&urce"
+msgstr "Preparar para pesquisar na Fon&te"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1685
+msgid "Prepare to search in the Sou&rce and the lexer path"
+msgstr "Preparar para pesquisar na F&onte e no caminho do lexer"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1699
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1776
+msgid "Copy Results to new tab"
+msgstr "Copiar resultados para nova guia"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1706
+msgid "Choose start &folder"
+msgstr "Escolher pas&ta inicial"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1708
+msgid "Choose fil&e to find in it"
+msgstr "Escolher arq&uivo para encontrar nele"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1710
+msgid "C&ut last folder segment"
+msgstr "Cortar &último segmento da pasta"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1713
+msgid "Use folder of the &current file"
+msgstr "Utilizar a pasta do &arquivo atual"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1716
+msgid "Prepare a search in the current f&ile (on disk)"
+msgstr "Preparar uma pesquisa no ar&quivo atual (no disco)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1719
+msgid "Prepare a search in the current ta&b (in memory)"
+msgstr "Preparar uma pesquisa na &guia atual (na memória)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1721
+msgid "Prepare a search in &all tabs (in memory)"
+msgstr "Prepare uma pesquisa em tod&as as guias (na memória)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1725
+msgid " swaps with"
+msgstr " trocar com"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1730
+msgid "Restore prev ({}/{}) executed parameters"
+msgstr "Restaurar parâmetros ({}/{}) executados anteriormente"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1732
+msgid "Restore next ({}/{}) executed parameters"
+msgstr "Restaurar parâmetros ({}/{}) executados posteriormente"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1735
+msgid "&Create new preset"
+msgstr "&Criar nova predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1737
+msgid "&Remove preset"
+msgstr "&Remover predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1739
+msgid "&View preset"
+msgstr "&Visualizar predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1741
+msgid "Change preset &position"
+msgstr "Alterar &posição da predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1743
+msgid "Choo&se preset"
+msgstr "E&scolher predefinição"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1750
+msgid "&Append macro var"
+msgstr "&Anexar variável macro"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1752
+msgid "Define n&ew custom var"
+msgstr "Definir n&ova variável personalizada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1753
+msgid "Chan&ge/remove custom var"
+msgstr "Alte&rar/remover variável personalizada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1757
+msgid "E&xpand all vars"
+msgstr "E&xpandir todas as variáveis"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1762
+msgid "Help"
+msgstr "Ajuda"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1764
+msgid "Sco&pe"
+msgstr "Esco&po"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1765
+msgid "Pre&sets"
+msgstr "Predefiniçõe&s"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1766
+msgid "Macro v&ars"
+msgstr "V&ariáveis Macro"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1767
+msgid "Engine options.&.."
+msgstr "Opções do motor.&.."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1770
+msgid "Replace with..."
+msgstr "Substituir com..."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1772
+msgid "Emulate Replace with..."
+msgstr "Emular Substituir com..."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1774
+msgid "Fast search (ignore some options)"
+msgstr "Pesquisa rápida (ignorar algumas opções)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1837
+msgid "Menu"
+msgstr "Menu"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1977
+msgid "Fragments?"
+msgstr "Fragmentos?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1978
+msgid "[Filtered /] Found fragments"
+msgstr "[Filtrado /] Fragmentos encontrados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1981
+msgid "Files?"
+msgstr "Arquivos?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1982
+msgid "Reported / Parsed [/ Stacked] files"
+msgstr "Arquivos Relatados / Analisados ​​[/ Empilhados]"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1985
+msgid "Dirs?"
+msgstr "Diretórios?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1986
+msgid "Reported [/ Stacked] dirs"
+msgstr "Diretórios Relatados [/ Empilhados]"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1991
+msgid "Timing?"
+msgstr "Tempo?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1992
+msgid "Last act duration"
+msgstr "Duração do último ato"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2166
+msgid "Name \"{}\" is already used"
+msgstr "Nome \"{}\" já está sendo usado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2170
+msgid "&Name:"
+msgstr "&Nome:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2172
+msgid "Val&ue:"
+msgstr "Val&or:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2174
+msgid "Add &var"
+msgstr "Adicionar &variável"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2175
+msgid "Add &path"
+msgstr "Adicionar &caminho"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2176
+msgid "Remove"
+msgstr "Remover"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2183
+msgid "Remove?"
+msgstr "Remover?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2197
+msgid "Append macro vars"
+msgstr "Anexar variáveis macro"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2468
+msgid "Stop?"
+msgstr "Parar?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2519
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2521
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2523
+msgid "Fix quotes in the field \"{}\""
+msgstr "Corrigir aspas no campo \"{}\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2526
+msgid "Fix EOL in the field \"{}\""
+msgstr "Corrigir EOL no campo \"{}\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2530
+msgid ""
+"Set correct \"{}\" reg.ex.\n"
+"\n"
+"Error:\n"
+"{}"
+msgstr ""
+"Definir regex \"{}\" correto.\n"
+"\n"
+"Erro:\n"
+"{}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:2533
+msgid "Set not included folders"
+msgstr "Definir pastas não incluídas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3182
+msgid "Emulation completed"
+msgstr "Emulação concluída"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3182
+msgid "Emulation terminated"
+msgstr "Emulação encerrada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3184
+msgid "Replacements completed"
+msgstr "Substituições concluídas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3184
+msgid "Replacements terminated"
+msgstr "Substituições encerradas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3186
+msgid "Search completed"
+msgstr "Pesquisa concluída"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3186
+msgid "Search terminated"
+msgstr "Pesquisa encerrada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:3893
+msgid "Skip \"{}\" item: {}"
+msgstr "Pular \"{}\" item: {}"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4487
+msgid "styles "
+msgstr "estilos "
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4489
+msgid "+EMULATION: Replace"
+msgstr "+EMULAÇÃO: Substituir"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4491
+msgid "+Replace"
+msgstr "+Substituir"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4493
+msgid "+Search"
+msgstr "+Pesquisa"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4494
+msgid " when"
+msgstr " quando"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4495
+msgid ". Report with"
+msgstr ". Relatar com"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:4717
+msgid "NOTE: Skipping option \"skip hidden files/dirs\". Pass the warning to app author."
+msgstr "NOTA: Ignorando a opção \"ignorar arquivos/diretórios ocultos\". Passar aviso ao autor do aplicativo."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:8
+msgid "Find in Files 4"
+msgstr "Find in Files 4"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:13
+msgid ""
+"The option allows to save separate search settings\n"
+"                (pattern, files mask, folders etc)\n"
+"                per each mentioned session or project.\n"
+"                Each item in the option is a pair (Prefix,RegEx).\n"
+"                RegEx is compared with the full path of session (project) file.\n"
+"                First matched item is used.\n"
+"                Prefix is appended to keys.\n"
+"                Example. If session path includes \"cudatext\" then value \n"
+"                    {\"cuda\":\"cuda\"}\n"
+"                changes storing key\n"
+"                    \"in_what\"\n"
+"                to \n"
+"                    \"cuda:in_what\""
+msgstr ""
+"A opção permite salvar configurações de pesquisa separadas\n"
+"                 (padrão, máscara de arquivos, pastas etc)\n"
+"                 por cada sessão ou projeto mencionado.\n"
+"                 Cada item na opção é um par (Prefixo,RegEx).\n"
+"                 RegEx é comparado com caminho completo do arquivo da sessão (projeto).\n"
+"                 O primeiro item correspondente é usado.\n"
+"                 O prefixo é anexado às chaves.\n"
+"                 Exemplo. Se o caminho da sessão incluir \"cudatext\", o valor\n"
+"                     {\"cuda\":\"cuda\"}\n"
+"                 altera a chave de armazenamento\n"
+"                     \"in_what\"\n"
+"                 para\n"
+"                     \"cuda:in_what\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:13
+msgid "separated_histories"
+msgstr "separated_histories"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:33
+msgid "Use selected text from document for the field \"Find\"."
+msgstr "Utilizar texto selecionado do documento para o campo \"Localizar\"."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:37
+msgid "Start"
+msgstr "Iniciar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:40
+msgid "Append specified string to the field \"Ex\"."
+msgstr "Anexar string especificada ao campo \"Ex\"."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:46
+msgid "file_picking_stage"
+msgstr "file_picking_stage"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:47
+msgid "Separate search stage, which collects all suitable files first."
+msgstr "Estágio de pesquisa separado, que coleta todos os arquivos adequados primeiro."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:53
+msgid "Start file picking from the deepest folders."
+msgstr "Comece a selecionar arquivos nas pastas mais profundas."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:59
+msgid ""
+"Allow comments in multi-line reg-exp.\n"
+"               Whitespaces are ignored, except when in a character class or when preceded \n"
+"               by an unescaped backslash.\n"
+"               All characters from the leftmost \"#\" through the end of the line are ignored.\n"
+"               Example. Single-line \"\\d\\w+$\" is same as multi-line reg-exp\n"
+"                 \\d  # Start digit\n"
+"                 \\w+ # Some letters\n"
+"                 $   # End of source"
+msgstr ""
+"Permitir comentários em exp-reg multi-linha.\n"
+"                Espaços em branco são ignorados, exceto quando em uma classe de caracteres ou quando precedidos\n"
+"                por uma barra invertida sem escape.\n"
+"                Todos os caracteres do \"#\" mais à esquerda até o final da linha são ignorados.\n"
+"                Exemplo. Uma linha \"\\d\\w+$\" é o mesmo que exp-reg multi-linha\n"
+"                  \\d  # Dígito inicial\n"
+"                  \\w+ # Algumas letras\n"
+"                  $   # Fim do documento"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:59
+msgid "re_verbose"
+msgstr "re_verbose"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:73
+msgid ""
+"When reg-exp is off, option allows to separate pattern text into \"parts\" \n"
+"               and search any/all of them:\n"
+"                 \"|\" - find any of right/left parts,\n"
+"                 \"&\" - find all of right/left parts.\n"
+"               If pattern text has both symbols \"|\" and \"&\", \"|\" separates first.\n"
+"               If the option is off, symbols \"|\" and \"&\" don't have special meaning."
+msgstr ""
+"Quando reg-exp está desativado, a opção permite separar o texto do padrão em \"partes\"\n"
+"                e pesquisar qualquer/todos deles:\n"
+"                  \"|\" - encontrar qualquer uma das partes direita/esquerda,\n"
+"                  \"&\" - encontrar todas as partes direita/esquerda.\n"
+"                Se o texto padrão tiver os dois símbolos \"|\" e \"&\", \"|\" separa primeiro.\n"
+"                Se a opção estiver desativada, os símbolos \"|\" e \"&\" não têm um significado especial."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:73
+msgid "any_all_parts"
+msgstr "any_all_parts"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:85
+msgid "Size of buffer (at file start) to detect binary files."
+msgstr "Tamanho do buffer (no início do arquivo) para detectar arquivos binários."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:91
+msgid "If value>0, skip all files, which sizes are bigger than this value (in Kb)."
+msgstr "Se o valor>0, pula todos os arquivos, que os tamanhos são maiores que este valor (em Kb)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:97
+msgid ""
+"Default encoding to read files.\n"
+"                If value is empty, then the following is used:\n"
+"                  cp1252 for Linux,\n"
+"                  preferred encoding from locale for others (Win, macOS, …)."
+msgstr ""
+"Codificação padrão para ler arquivos.\n"
+"                 Se o valor estiver vazio, o seguinte será usado:\n"
+"                   cp1252 para Linux,\n"
+"                   codificação preferencial de localidade para outros (Win, macOS, ...)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:108
+msgid ""
+"List of source file lexers.\n"
+"                  For these lexers extra filters and info will work as:\n"
+"                    Search by lexer tree path,\n"
+"                    Search inside/outside of comments and/or literal strings.\n"
+"                  Empty list - allow all lexers."
+msgstr ""
+"Lista de arquivos de origem lexers.\n"
+"                   Para esses lexers, filtros e informações extras funcionarão como:\n"
+"                     Pesquisar pelo caminho da árvore lexer,\n"
+"                     Pesquisar dentro/fora dos comentários e/ou strings literais.\n"
+"                   Lista vazia - permitir todos os lexers."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:108
+msgid "lexers_to_filter"
+msgstr "lexers_to_filter"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:119
+msgid ""
+"List of lexers for Results.\n"
+"                  First available lexer is used."
+msgstr ""
+"Lista de lexers para Resultados.\n"
+"                   O primeiro lexer disponível é usado."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:130
+msgid ""
+"Style to mark found fragment in the Results panel.\n"
+"                Full form:\n"
+"                   \"mark_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+msgstr ""
+"Estilo para marcar o fragmento encontrado no painel Resultados.\n"
+"                 Formulário completo:\n"
+"                    \"mark_style\":{\n"
+"                      \"color_back\":\"\",\n"
+"                      \"color_font\":\"\",\n"
+"                      \"font_bold\":false,\n"
+"                      \"font_italic\":false,\n"
+"                      \"color_border\":\"\",\n"
+"                      \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                    },\n"
+"                 Valores de cor: \"\" - ignorar, \"#RRGGBB\" - dígitos hexadecimais\n"
+"                 Valores para os lados da borda: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:130
+msgid "mark_style"
+msgstr "mark_style"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:148
+msgid ""
+"Style to mark found-to-replace fragment in the Results panel.\n"
+"                Full form:\n"
+"                   \"mark_fnd2rpl_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"font_strikeout\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+msgstr ""
+"Estilo para marcar fragmento encontrado para substituir no painel Resultados.\n"
+"                 Formulário completo:\n"
+"                   \"mark_fnd2rpl_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"font_strikeout\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                 Valores de cor: \"\" - ignorar, \"#RRGGBB\" - dígitos hexadecimais\n"
+"                 Valores para os lados da borda: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:148
+msgid "mark_fnd2rpl_style"
+msgstr "mark_fnd2rpl_style"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:169
+msgid ""
+"Style to mark replaced fragment in the Results panel.\n"
+"                Full form:\n"
+"                   \"mark_replaced_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+msgstr ""
+"Estilo para marcar o fragmento substituído no painel Resultados.\n"
+"                Formulário completo:\n"
+"                   \"mark_replaced_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                 Valores de cor: \"\" - ignorar, \"#RRGGBB\" - dígitos hexadecimais\n"
+"                 Valores para os lados da borda: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:169
+msgid "mark_replaced_style"
+msgstr "mark_replaced_style"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:187
+msgid ""
+"Style to mark lexer path.\n"
+"                Full form:\n"
+"                   \"lex_path_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+msgstr ""
+"Estilo para marcar o caminho do Lexer.\n"
+"                 Formulário completo:\n"
+"                   \"lex_path_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                 Valores de cor: \"\" - ignorar, \"#RRGGBB\" - dígitos hexadecimais\n"
+"                 Valores para os lados da borda: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:187
+msgid "lex_path_style"
+msgstr "lex_path_style"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:205
+msgid "copy_styles"
+msgstr "copy_styles"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:206
+msgid ""
+"Copy styles (color+bold/italic) from source lines to Results.\n"
+"Warning! The setting significantly slows down the search."
+msgstr ""
+"Copiar estilos (cor+negrito/itálico) das linhas de origem para resultados.\n"
+"Aviso! A configuração deixa lento significativamente a pesquisa."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:213
+msgid "copy_styles_max_lines"
+msgstr "copy_styles_max_lines"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:214
+msgid ""
+"Maximum lines to copy styles from source lines to Results (0 - all).\n"
+"Warning! The big value significantly slows down the search."
+msgstr ""
+"Máximo de linhas para copiar estilos de linhas de origem para Resultados (0 - todos).\n"
+"Aviso! Grande valor deixa lento significativamente a pesquisa."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:221
+msgid "show_progress_fragments"
+msgstr "show_progress_fragments"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:222
+msgid "Show first N fragments while search is in progress (min 10)."
+msgstr "Mostra os primeiros N fragmentos enquanto a pesquisa está em andamento (min 10)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:229
+msgid "Auto select first found fragment."
+msgstr "Seleção automática do primeiro fragmento encontrado."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:235
+msgid "If N>0, do not show all files, which sizes are bigger than this N (in Kb)."
+msgstr "Se N>0, não mostra todos os arquivos, cujos tamanhos são maiores que este N (em Kb)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:242
+msgid "Height of dialog grid cell (min 25)."
+msgstr "Altura da célula da grade de diálogo (min 25)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:247
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:254
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:261
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:268
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:275
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:286
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:292
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:298
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:308
+msgid "Dialog_layout"
+msgstr "Dialog_layout"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:249
+msgid "Width of button \"=\" (min 15)."
+msgstr "Largura do botão \"= \" (min 15)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:256
+msgid "Width of button to switch regex/case/words (min 30)."
+msgstr "Largura do botão para alternar regex / case / words (min 30)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:263
+msgid "Minimal width of fields to set files/folders (min 150)."
+msgstr "Largura mínima de campos para definir arquivos / pastas (mínimo 150)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:270
+msgid "Statusbar height."
+msgstr "Altura da barra de status."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:277
+msgid "Styles of statusbar fields."
+msgstr "Estilos de campos da barra de status."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:288
+msgid "Sub-dialog \"Replace\" x-shift"
+msgstr "Sub-diálogo \"Substituir \" x-shift"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:294
+msgid "Sub-dialog \"Replace\" y-shift"
+msgstr "Sub-diálogo \"Substituir \" y-shift"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:311
+msgid "Full file path of log file (requires app restart)."
+msgstr "Caminho completo do arquivo de log (requer reinicialização do aplicativo)."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:315
+msgid "Logging"
+msgstr "Exploração madeireira"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:320
+msgid "Extra search options"
+msgstr "Opções extras de pesquisa"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:321
+msgid "Options to view Results"
+msgstr "Opções para ver os resultados"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:323
+msgid "F3/{u}F3 - next/prev fragment, ^F3/^{u}F3 - next/prev file fragment, Enter|DblClick - open."
+msgstr "F3 / {u} F3 - fragmento seguinte / anterior, ^ F3 / ^ {u} F3 - fragmento de arquivo seguinte / anterior, Enter | DblClick - abrir."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:325
+msgid "Results. "
+msgstr "Resultados. "
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:326
+msgid "Source. "
+msgstr "Fonte. "
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:329
+msgid "Alt+Down - pattern history"
+msgstr "Alt + Down - histórico de padrões"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:331
+msgid "Regular expression"
+msgstr "Expressão regular"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:332
+msgid "Case sensitive"
+msgstr "Maiúsculas e Minúsculas"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:333
+msgid "Whole words"
+msgstr "Palavras inteiras"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:334
+msgid "Use multi-line input field"
+msgstr "Use o campo de entrada multilinha"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:335
+msgid ""
+"Sort picked files by modification time.\n"
+"↓↓ from newest.\n"
+"↑↑ from oldest."
+msgstr ""
+"Classificar arquivos por data de modificação.\n"
+"↓↓ do mais recente.\n"
+"↑↑ do mais antigo."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:338
+msgid "Fin&d"
+msgstr "En&contrar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:339
+msgid ""
+"Start search (F2)\n"
+"Shift+Click Start fast search (Shift+F2)"
+msgstr ""
+"Iniciar pesquisa (F2)\n"
+"Shift+Clique Iniciar pesquisa rápida (Shift+F2)"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:341
+msgid ""
+"Space-separated file or folder masks.\n"
+"Folder mask starts with \"/\".\n"
+"Double-quote mask, which needs space char.\n"
+"Use \"?\" for any character and \"*\" for any fragment.\n"
+"Note: \"*\" matches all names, \"*.*\" doesn't match all."
+msgstr ""
+"Arquivo separado por espaço ou máscaras de pasta.\n"
+"A máscara da pasta começa com \"/\".\n"
+"Máscara de aspas duplas, que precisa de caracteres de espaço.\n"
+"Usar \"?\" para qualquer caractere e \"*\" para qualquer fragmento.\n"
+"Nota: \"*\" corresponde a todos os nomes, \"*.*\" não corresponde a todos."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:346
+msgid ""
+"\n"
+"\n"
+"Always excluded:\n"
+"   {}\n"
+"See engine option \"always_not_in_files\" to change."
+msgstr ""
+"\n"
+"\n"
+"Sempre excluído:\n"
+"    {}\n"
+"Consultar opção do motor \"always_not_in_files\" para alterar."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:346
+msgid "Exclude file[s]/folder[s]\n"
+msgstr "Excluir arquivo[s]/pasta[s]\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:353
+msgid ""
+"Start folder(s).\n"
+"Space-separated folders.\n"
+"Double-quote folder, which needs space char.\n"
+"\"~\" is user home folder.\n"
+"{} or {{t}} to search in tabs.\n"
+"Ctrl+Shift+Up - cut last folder segment."
+msgstr ""
+"Iniciar pasta(s).\n"
+"Pastas separadas por espaço.\n"
+"Pasta com aspas duplas, que precisa de caracteres de espaço.\n"
+"\"~\" é a pasta pessoal do usuário.\n"
+"{} ou {{t}} para pesquisar nas guias.\n"
+"Ctrl+Shift+Up - cortar último segmento da pasta."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:361
+msgid ""
+"Depth - how many folder levels to search.\n"
+"Use Ctrl+↑/↓ to change this option."
+msgstr ""
+"Profundidade - quantos níveis de pasta para pesquisar.\n"
+"Utilizar Ctrl+↑/↓ para alterar esta opção."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:364
+msgid ""
+"Click or Ctrl+B\n"
+"   Choose folder.\n"
+"Shift+Click or Ctrl+Shift+B\n"
+"   Choose file to find in it."
+msgstr ""
+"Clique ou Ctrl+B\n"
+"    Escolher pasta.\n"
+"Shift+Clique ou Ctrl+Shift+B\n"
+"    Escolher arquivo para encontrar nele."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:369
+msgid "All a&ges"
+msgstr "&Todas as idades"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:370
+msgid ""
+"Show result line with its adjacent lines (above/below).\n"
+"\"-N+M\" - N lines above and M lines below.\n"
+"Turn option on to show config dialog."
+msgstr ""
+"Exibir linha de resultado com suas linhas adjacentes (acima/abaixo).\n"
+"\"-N+M\" - N linhas acima e M linhas abaixo.\n"
+"Ativar opção para exibir caixa de diálogo de configuração."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:373
+msgid ""
+"{OTH4FND}. \n"
+"Use popup menu to change."
+msgstr ""
+"{OTH4FND}. \n"
+"Utilizar o menu pop-up para alterar."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:375
+msgid "&Find:"
+msgstr "&Encontrar:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:376
+msgid "F&iles:"
+msgstr "Arqu&ivos:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:377
+msgid "Skip&:"
+msgstr "Pular&:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:379
+msgid "F&rom:"
+msgstr "D&e:"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:380
+msgid ""
+"Pattern to find. \n"
+"It can be multi-line. Newline is shown as \"§\".\n"
+"Use Shift+Enter to append \"§\" at pattern end.\n"
+"Or switch to multi-line mode (\"+\") to see/insert natural newlines."
+msgstr ""
+"Padrão para encontrar.\n"
+"Pode ser multi-linha. A nova linha é exibida como \"§\".\n"
+"Utilizar Shift+Enter para acrescentar \"§\" no final do padrão.\n"
+"Ou mudar para modo multi-linha (\"+\") para ver/inserir novas linhas naturais."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:387
+msgid "To search in tabs"
+msgstr "Para pesquisar nas guias"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:390
+msgid "Folder(s) of the loaded project"
+msgstr "Pasta(s) do projeto carregado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:393
+msgid "Full path"
+msgstr "Caminho completo"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:396
+msgid "File folder path"
+msgstr "Caminho da pasta do arquivo"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:399
+msgid "File name only, without folder path"
+msgstr "Somente o nome do arquivo, sem caminho da pasta"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:402
+msgid "File name without extension and path"
+msgstr "Nome do arquivo sem extensão e caminho"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:405
+msgid "File extension"
+msgstr "Extensão de arquivo"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:408
+msgid "Text of current line"
+msgstr "Texto da linha atual"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:411
+msgid "Selected text"
+msgstr "Texto selecionado"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:414
+msgid "Text of current word"
+msgstr "Texto da palavra atual"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:422
+msgid ""
+"\n"
+"┌───────────────────────────────────────┬────────────────────┬────────────────────────────────────┐\n"
+"│                Command                │       Hotkey       │              Comment               │\n"
+"╞═══════════════════════════════════════╪════════════════════╪════════════════════════════════════╡\n"
+"│ Find                                  │              Alt+D │                                    │\n"
+"│ Find                                  │              Enter │ If focus not in controls:          │\n"
+"│                                       │                    │   multi-line Find, Results, Source │\n"
+"│ Find                                  │                 F2 │                                    │\n"
+"│ Find as fast as posible               │           Shift+F2 │ Skips all slow options             │\n"
+"│ Replace                               │                 F4 │                                    │\n"
+"│ Emulate Replace                       │           Shift+F4 │ Show replace report but no changes │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Go to next found fragment             │                 F3 │                                    │\n"
+"│ Go to prev found fragment             │           Shift+F3 │                                    │\n"
+"│ Go to next file(tab) found fragment   │            Ctrl+F3 │                                    │\n"
+"│ Go to prev file(tab) found fragment   │      Ctrl+Shift+F3 │                                    │\n"
+"│ Open found fragment in tab            │              Enter │ If focus in Results/Source         │\n"
+"│ Open found fragment and close dialog  │        Shift+Enter │ If focus in Results/Source         │\n"
+"│ Copy Results to new tab               │   Ctrl+Shift+Enter │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Put focus to Results                  │         Ctrl+Enter │ If focus not in Results/Source     │\n"
+"│ Move focus: Results >> Source >> Find │                Tab │                                    │\n"
+"│ Move focus: Results << Source << Find │          Shift+Tab │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Show history of search patterns       │              Alt+↓ │ If focus in Find                   │\n"
+"│ Loop over all Depth values            │           Ctrl+↓/↑ │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Choose folder                         │             Ctrl+B │                                    │\n"
+"│ Choose file                           │       Ctrl+Shift+B │                                    │\n"
+"│ Use folder of the current file        │             Ctrl+U │                                    │\n"
+"│ To search in the current tab          │       Ctrl+Shift+U │                                    │\n"
+"│ To search in the current Source       │                F11 │                                    │\n"
+"│ To search in the current Source and   │                    │                                    │\n"
+"│   current lexer path                  │          Shift+F11 │                                    │\n"
+"│ Append newline char \"§\" to \"Find\"     │        Shift+Enter │ If focus in sigle-line Find        │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Fold/Unfold the caret branch          │             Ctrl+= │ If focus in Results                │\n"
+"│ Fold/Unfold all branches              │       Ctrl+Shift+= │ By state of the branch under caret │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Load preset #1/#2/../#9               │      Ctrl+1/2/../9 │ All presets are available via menu │\n"
+"│ Create new preset                     │             Ctrl+S │                                    │\n"
+"│ Choose preset to apply                │              Alt+S │                                    │\n"
+"│ Restore prev/next executed parameters │            Alt+←/→ │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Append macro-var to current field     │             Ctrl+A │ If focus in editable field         │\n"
+"│ Show fields after vars substitution   │       Ctrl+Shift+A │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Expand/Shrink Results height          │       Ctrl+Alt+↓/↑ │                                    │\n"
+"│ Expand/Shrink dialog height           │      Shift+Alt+↓/↑ │                                    │\n"
+"│ Expand/Shrink dialog width            │      Shift+Alt+→/← │                                    │\n"
+"│ Expand/Shrink height of               │                    │                                    │\n"
+"│   multi-line \"Find\"                   │ Shift+Ctrl+Alt+↓/↑ │ If multi-line Find is visible      │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Show engine options                   │             Ctrl+E │                                    │\n"
+"│ Show dialog \"Help\"                    │             Ctrl+H │                                    │\n"
+"├───────────────────────────────────────┼────────────────────┼────────────────────────────────────┤\n"
+"│ Call CudaText's \"Find\" dialog         │             Ctrl+F │ Pattern and search options         │\n"
+"│ Call CudaText's \"Replace\" dialog      │             Ctrl+R │   will be copied                   │\n"
+"└───────────────────────────────────────┴────────────────────┴────────────────────────────────────┘\n"
+msgstr ""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:422
+msgid "DLG_HELP_KEYS"
+msgstr "DLG_HELP_KEYS"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:483
+msgid "DLG_HELP_FIND"
+msgstr "DLG_HELP_FIND"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:483
+msgid ""
+"Plugin provides 3 CudaText commands to display its dialog:\n"
+"    \"Find in files\": just show dialog.\n"
+"    \"Find in current tab\": show dialog and start the search, if text pattern is auto set\n"
+"(using the engine option \"use_selection_on_start\").\n"
+"    \"Find by preset\": ask for a preset, then show dialog, filled from the chosen preset, and start \n"
+"the search. Those presets are allowed, which have stored:\n"
+"    - pattern (or \"use_selection_on_start\" is on and selection is not empty),\n"
+"    - mask of files,\n"
+"    - start folder or/and tabs.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"String to find (pattern) can be multi-line. Button \"+\" sets single-line or multi-line control.\n"
+"In single-line control the newlines are shown as §.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Some search options can be changed only via menu.\n"
+"    · Sort collected files before reading text.\n"
+"    · Age of files.\n"
+"    · Skip hidden/binary files.\n"
+"    · Filter by \"Syntax elements\" (comments or literal strings).\n"
+"    · Encoding plan\n"
+"Warning! \n"
+"    Be careful with filtering \"Syntax elements\" in long search. \n"
+"    The filters significantly slow down the search.\n"
+"\n"
+"There is infobar to the left of \"Find\" button.\n"
+"The infobar shows not trivial values of \"{OTH4FND}\".\n"
+"    ↓↓          Start with the newest file.\n"
+"    ↑↑          Start with the oldest file.\n"
+"    <5h         Skip file older than 5 hours.\n"
+"    <4d         Skip file older than 4 days.\n"
+"    <3w         Skip file older than 3 weeks.\n"
+"    <2m         Skip file older than 2 months.\n"
+"    <1y         Skip file older than 1 year.\n"
+"    -h          Skip hidden files.\n"
+"    -b          Skip binary files.\n"
+"    /*?*/       Search only inside comments.\n"
+"    ?/**/?      Search only outside of comments.\n"
+"    \"?\"         Search only inside literal strings.\n"
+"    ?\"\"?        Search only outside of literal strings.\n"
+"    /*?*/ \"?\"   Search only inside comments OR literal strings.\n"
+"    ?/**/? ?\"\"? Search only outside of comments AND literal strings.\n"
+"Also infobar shows other settings:\n"
+"    <>>         Show lexer path for all fragments.\n"
+"    (2:cp866)   Encodings masks.\n"
+"    utf8        First step encoding from \"Encoding plan\".\n"
+"Right-click on the infobar shows local menu with \"{OTH4FND}\".\n"
+"Double-click on the infobar clears all values except encoding.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Set special value \"{tabs}\" for field \"{fold}\" to search in tabs (opened documents).\n"
+"Fields \"{incl}\" and \"{excl}\" will be used to filter tab titles, in this type of search.\n"
+"To search in all tabs fill \"{incl}\" with \"*\".\n"
+"See also: \n"
+"    Items of submenu \"Scope\".\n"
+"    Hotkey Ctrl+Shift+U.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Values in fields \"{incl}\" and \"{excl}\" can contain\n"
+"    ?       for any single char,\n"
+"    *       for any substring (may be empty),\n"
+"    [seq]   any character in seq,\n"
+"    [!seq]  any character not in seq. \n"
+"Double-quote value, which needs space char.\n"
+"Note: \n"
+"    *       matches all names, \n"
+"    *.*     doesn't match all.\n"
+"\n"
+"Also the values can filter subfolder names if they start with \"/\".\n"
+"Example.\n"
+"    {incl:12}: /a*  *.txt\n"
+"    {excl:12}: /ab*\n"
+"    {fold:12}: c:/root\n"
+"    Depth       : All\n"
+"    Search will consider all *.txt files in folder c:/root and in all subfolders a* except ab*.\n"
+"\n"
+"Also the values can filter lexer path if they are embraced with \"[:\" and \":]\".\n"
+"The filter is path-like string with elements\n"
+"    >       path separator. E.g. \"a>b>c\" - node \"c\" is subnode of \"b\" and \"b\" is subnode of \"a\".\n"
+"    >>      recursive descent. E.g. \"a>>c\" - node \"c\" appears in branch \"a\".\n"
+"    word    name of a node.\n"
+"    *word   partial name of a node.\n"
+"    word*   partial name of a node.\n"
+"Blanks around all \"<\" are not important. So \"a>>b>c\" and \"a > > b > c\" are the same.\n"
+"Lexer path is matched with a filter if some start segments of path are compatible \n"
+"with all segments of the filter. Path \"aa>bb>cc>dd\" is matched with filters:\n"
+"    \"aa\"\n"
+"    \"*a\"\n"
+"    \"*>b*\"\n"
+"    \">>cc\"\n"
+"    \">>cc>*d\"\n"
+"and is not matched with:\n"
+"    \"bb\"\n"
+"    \"*>b\"\n"
+"    \">>c>dd\"\n"
+"Example.\n"
+"    {incl:12}: *.py [:def main:]\n"
+"    {excl:12}: [:def main>>class*:]\n"
+"    {fold:12}: <tabs>\n"
+"Search will consider all \"*.py\" open files and will search in module function \"main\"\n"
+"except searching in all classes defined inside the function.\n"
+"Warning! \n"
+"    Be careful with filtering lexer path in long search. \n"
+"    The filters significantly slow down the search.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"\".*\" - Option \"Regular Expression\". \n"
+"It allows to use in the field \"{find}\" such special symbols:\n"
+"    .   any character\n"
+"    \\d  digit character (0..9)\n"
+"    \\w  word-like character (digits, letters, \"_\")\n"
+"See engine option \"re_verbose\" to use complex reg-exp.\n"
+"See full documentation on the page\n"
+"    docs.python.org/3/library/re.html\n"
+" \n"
+"If \"Regular Expression\" option is off, pattern still can supports some special symbols:\n"
+"    |   to separate the pattern to parts to find any of them\n"
+"    &   to separate the pattern to parts to find all of them\n"
+"See engine option \"any_all_parts\", how to turn those special symbols on/off.\n"
+"Symbols \"|\" are applied first, and \"&\" symbols are applied next (to make more parts \n"
+"between \"|\" symbols, if \"|\" is present).\n"
+"To include symbols as is, escape them with a backslash: \"\\|\", \"\\&\".\n"
+"Example.\n"
+"    Find:   abc|xyz\n"
+"    Found:  \"abc cba\", \"zyx xyz\", \"_abc_xyz_\"\n"
+"    Find:   abc&xyz\n"
+"    Found:  \"abc xyz\", \"_xyz_abc_\"\n"
+"Note. Option \"w\" (whole word) applies to all parts, after splitting by \"|\" and \"&\".\n"
+"If any of final part has a non-word character, \"w\" option is ignored.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Long-term searches can be interrupted by ESC.\n"
+msgstr ""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:626
+msgid "DLG_HELP_RPLS"
+msgstr "DLG_HELP_RPLS"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:626
+msgid ""
+"Plugin provides ...\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"String to replace (pattern) can include macro variable.\n"
+"Use Ctrl+A to view all variables, select and append one.\n"
+"In single-line control the newlines are shown as §.\n"
+"\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Long-term replacements can be interrupted by ESC.\n"
+msgstr ""
+"Provedor Plugin...\n"
+"\n"
+"—————————————————————————————————————————————————————————————————————————————————————————————\n"
+"A string a ser substituída (padrão) pode incluir variável de macro.\n"
+"Use Ctrl+A para visualizar todas as variáveis, selecione e acrescentar uma.\n"
+"No controle de linha única, as novas linhas são exibidas como §.\n"
+"\n"
+"\n"
+"——————————————————————--------------------------------------------------------------------——————————————————————————\n"
+"Substituições de longa duração podem ser interrompidas por ESC.\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:641
+msgid "DLG_HELP_RESULTS"
+msgstr "DLG_HELP_RESULTS"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:641
+msgid ""
+"Only the options \n"
+"    \"-N+M\" (with lines above/below)\n"
+"    \"Show lexer path for all fragments\"\n"
+"need to be set before the start of search.\n"
+"All other options immediately change Results view.\n"
+" \n"
+"Options to view Results:\n"
+"┌────────────────────────────────────┬───────────────────────────────────────────────────┐\n"
+"│               Option               │                     Comment                       │\n"
+"╞════════════════════════════════════╪═══════════════════════════════════════════════════╡\n"
+"│ \"-N/+M\" (with lines above/below)   │ See check-button \"-N+M\" above the search pattern. │\n"
+"│                                    │ Turn option off and on to show dialog             │\n"
+"│                                    │ to set N and M.                                   │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Show relative paths                │ The option immediately changes between            │\n"
+"│                                    │   <c:/dir1/search-root/dir2>: #NN                 │\n"
+"│                                    │   <c:/dir1/search-root/dir2/filename.ext>: #NN    │\n"
+"│                                    │ and                                               │\n"
+"│                                    │   <dir2>: #NN                                     │\n"
+"│                                    │   <dir2/filename.ext>: #NN                        │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Show modification time             │ If files are shown on separate lines              │\n"
+"│                                    │ (tree format is not \"<path:r>:line\")              │\n"
+"│                                    │ the option immediately changes between            │\n"
+"│                                    │   <...filename.ext>: #NN                          │\n"
+"│                                    │ and                                               │\n"
+"│                                    │   <...filename.ext (1999.12.31 23:59)>: #NN       │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Format for Result tree             │ Full info about each fragment in one line.        │\n"
+"│   <path:r>:line                    │ Example                                           │\n"
+"│                                    │   <dir1/dir2/filename1.ext:12>: fragment line     │\n"
+"│                                    │   <dir1/dir3/filename2.ext:21>: fragment line     │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Format for Result tree             │ Separate line per each file.                      │\n"
+"│   <path>#N/<r>:line                │ Example                                           │\n"
+"│                                    │   <dir1/dir2/filename1.ext>: #1                   │\n"
+"│                                    │     <12>: fragment line                           │\n"
+"│                                    │   <dir1/dir3/filename2.ext>: #1                   │\n"
+"│                                    │     <21>: fragment line                           │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Format for Result tree             │ Separate line per each folder with files.         │\n"
+"│   <dir>#N/<file:r>:line            │ Example                                           │\n"
+"│                                    │   <dir1/dir2>: #1                                 │\n"
+"│                                    │     <filename1.ext:12>: fragment line             │\n"
+"│                                    │   <dir1/dir3>: #1                                 │\n"
+"│                                    │     <filename2.ext:21>: fragment line             │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Show lexer path for all fragments  │ Results include lines with lexer path.            │\n"
+"│                                    │ Example                                           │\n"
+"│                                    │   <filename.ext>: #1                              │\n"
+"│                                    │     <  >: path > to > fragment                    │\n"
+"│                                    │     <12>: fragment line                           │\n"
+"├────────────────────────────────────┼───────────────────────────────────────────────────┤\n"
+"│ Add lexer path to the statusbar    │ When you move caret in Results, or use commands   │\n"
+"│                                    │ \"Go to next/prev found fragment\", statusbar       │\n"
+"│                                    │ shows the path to current fragment's file.        │\n"
+"│                                    │ If the option is on, then statusbar also shows    │\n"
+"│                                    │ the path to the current fragment in the document. │\n"
+"└────────────────────────────────────┴───────────────────────────────────────────────────┘\n"
+"\n"
+"To set the mark style of found fragmets use the engine options dialog (Ctrl+E).\n"
+"See \"mark_style\" in section \"Results\".\n"
+"\n"
+"How Results are shown when files were sorted?\n"
+"Found fragments are always shown by the selected method. \n"
+"If tree format is \"<path:r>: line\" - no problem. For other formats content of \n"
+"\"folder lines\" and \"file lines\" adapts (via folder merging) to show correct data. \n"
+"In extreme cases format automatically sets to \"<path:r>: line\".\n"
+msgstr ""
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:712
+msgid "DLG_HELP_SPEED"
+msgstr "DLG_HELP_SPEED"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:712
+msgid ""
+"Some of the search parameters slightly decrease the search speed.\n"
+"Others reduce the speed dramatically.\n"
+"To perform optimal search, you better consider these notes.\n"
+"\n"
+"1. The parameters \n"
+"    .*   {reex}\n"
+"    aA   {case}\n"
+"    \"w\"  {word}\n"
+"do not reduce the speed at all. \n"
+"\n"
+"2. Using non-trivial setttings of \"Sort collected files\" or \"Age of files\" basically \n"
+"does not reduce the speed.\n"
+"\n"
+"3. Appending context lines to Results (\"-?+?\") slightly decreases the speed.\n"
+"\n"
+"4. Multi-line pattern (\"+\") noticeably decreases the speed.\n"
+"\n"
+"5. Inappropriate \"Encoding plan\" can greatly reduce the speed if too many files need \n"
+"to be read.\n"
+"\n"
+"6. The slowest search (the slowdown in dozens of times) occurs if \n"
+"    - any of \"Syntax elements\" is turned on,\n"
+"    - option \"Show lexer path for all fragments\" is turned on,\n"
+"    - lexer path filter is included in the \"{incl}\" or \"{excl}\" fields,\n"
+"    - styles are copied from source lines from disk files to Results \n"
+"        (note: copying styles from tabs is also slowed down but not as much).\n"
+"\n"
+"7. If engine option \"copy_styles\" is on and Results has a lot of lines then value of \n"
+"engine option \"copy_styles_max_lines\" is important. Extra time is directly proportional \n"
+"to the value of the option. So default value 100 (coloring only the first 100 lines) \n"
+"should be well enough. \n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Special cases.\n"
+"\n"
+"If pattern is regular expresion (\".*\" is checked) then it can be indirectly multi-line.\n"
+"So in this case, to avoid guessing, plugin checks for single-line or multi-line state\n"
+"to detect which search is needed.\n"
+"\n"
+"If pattern includes \"|\" or \"&\" (options \"any_all_parts\" is on) then plugin sees newline \n"
+"in pattern (\"§\" for single-line state) to detect which search is needed:\n"
+"    no newline - search into each line separately,\n"
+"    with newline - search in whole file text.\n"
+"\n"
+"Huge files can also be involved in the search. For optimal memory usage you need to:\n"
+"    - Turn off the appending context lines (\"-N+M\").\n"
+"    - Turn off the multi-line pattern (\"+\") and remove newline character \"§\".\n"
+"    - Turn off all \"Syntax elements\".\n"
+"    - Turn off \"Show lexer path for all fragments\".\n"
+"    - Ensure no lexer path filters are used.\n"
+"    - Turn off engine option \"copy_styles\".\n"
+"Hint. Start \"Fast search\" (Shift+F2) to ignore all these options (except lexer path filters) \n"
+"without manually turning them off.\n"
+"Also see engine options \n"
+"    - skip_file_size_more(Kb),\n"
+"    - dont_show_file_size_more(Kb).\n"
+msgstr ""
+"Alguns dos parâmetros de pesquisa diminuem ligeiramente a velocidade de pesquisa.\n"
+"Outros reduzem drasticamente a velocidade.\n"
+"Para realizar uma pesquisa ideal, é melhor você considerar estas notas.\n"
+"\n"
+"1. Os parâmetros\n"
+"    . * {reex}\n"
+"    aA {case}\n"
+"    \"w\" {palavra}\n"
+"não reduza a velocidade em tudo.\n"
+"\n"
+"2. Usando configurações não triviais de \"Classificar arquivos coletados\" ou \"Idade dos arquivos\" basicamente\n"
+"não reduz a velocidade.\n"
+"\n"
+"3. Anexar linhas de contexto aos Resultados (\"-? +?\") Diminui ligeiramente a velocidade.\n"
+"\n"
+"4. O padrão multilinha (\"+\") diminui visivelmente a velocidade.\n"
+"\n"
+"5. O \"plano de codificação\" inadequado pode reduzir muito a velocidade se muitos arquivos forem necessários\n"
+"para ser lido.\n"
+"\n"
+"6. A pesquisa mais lenta (a lentidão em dezenas de vezes) ocorre se\n"
+"    - qualquer um dos \"Elementos da sintaxe\" está ativado,\n"
+"    - opção \"Mostrar caminho lexer para todos os fragmentos\" está ativada,\n"
+"    - o filtro de caminho lexer está incluído nos campos \"{incl}\" ou \"{excl}\",\n"
+"    - os estilos são copiados das linhas de origem dos arquivos do disco para os resultados\n"
+"        (nota: copiar estilos de guias também fica mais lento, mas não tanto).\n"
+"\n"
+"7. Se a opção de mecanismo \"copy_styles\" estiver ativada e os resultados tiverem muitas linhas, o valor de\n"
+"a opção de mecanismo \"copy_styles_max_lines\" é importante. O tempo extra é diretamente proporcional\n"
+"ao valor da opção. Portanto, o valor padrão 100 (colorindo apenas as primeiras 100 linhas)\n"
+"deve estar bem o suficiente.\n"
+"\n"
+"——————————————————————————————————--------------------------------------------------------———————————\n"
+"Casos especiais.\n"
+"\n"
+"Se o padrão for uma expressão regular (\". *\" Marcado), ele poderá ser indiretamente multilinha.\n"
+"Portanto, neste caso, para evitar suposições, o plug-in verifica o estado de uma ou várias linhas\n"
+"para detectar qual pesquisa é necessária.\n"
+"\n"
+"Se o padrão incluir \"|\" ou \"&\" (as opções \"any_all_parts\" estão ativadas) então o plugin vê a nova linha\n"
+"no padrão (\"§\" para estado de linha única) para detectar qual pesquisa é necessária:\n"
+"    sem nova linha - pesquise cada linha separadamente,\n"
+"    com nova linha - pesquisa em todo o texto do arquivo.\n"
+"\n"
+"Arquivos enormes também podem estar envolvidos na pesquisa. Para otimizar o uso da memória, você precisa:\n"
+"    - Desligue as linhas de contexto anexas (\"-N + M\").\n"
+"    - Desative o padrão de várias linhas (\"+\") e remova o caractere de nova linha \"§\".\n"
+"    - Desligue todos os \"Elementos de sintaxe\".\n"
+"    - Desative \"Mostrar caminho lexer para todos os fragmentos\".\n"
+"    - Certifique-se de que nenhum filtro de caminho lexer seja usado.\n"
+"    - Desligue a opção de motor \"copy_styles\".\n"
+"Dica. Inicie a \"Pesquisa rápida\" (Shift + F2) para ignorar todas essas opções (exceto filtros de caminho lexer)\n"
+"sem desligá-los manualmente.\n"
+"Veja também as opções do motor\n"
+"    - skip_file_size_more (Kb),\n"
+"    - dont_show_file_size_more (Kb).\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:777
+msgid "DLG_HELP_TRICKS"
+msgstr "DLG_HELP_TRICKS"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:777
+msgid ""
+"Shift+F2 starts the single search, which ignores slowing down options such as:\n"
+"    \"Extra context lines\",\n"
+"    \"Syntax elements\",\n"
+"    \"Show lexer path for all fragments\",\n"
+"    \"copy_styles\" (engine).\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Hold Shift-key when clicking \".*\" (\"Regular Expression\") to change the option and also \n"
+"escape/unescape all non-word characters in the pattern. It is guaranteed that the search \n"
+"results will not change because of that.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"If \n"
+"    field \"{excl}\" contains \" /. \" \n"
+"then \n"
+"    the root folder(s) will be skipped.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"The field \"{fold}\" can contain many folders to search.\n"
+"Folder names must be independent (no parent-child pairs).\n"
+"The field can also contain both folder mask(s) and {tabs}.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Use \\§ to find the character §.\n"
+"Note. Multi-line control shows a pattern with extra newline (known bug). So if pattern ends \n"
+"with a newline, this newline will be stripped from actual search string.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"Hotkeys Ctrl+1, ..., Ctrl+9 apply presets #1, ..., #9.\n"
+"Preset can store needed options values.\n"
+"So you can use presets to quickly turn on/off the selected option instead of using the menu.\n"
+"Example.\n"
+"    Create preset #1 only with the check on\n"
+"        [x]3 ' '            (No extra search options).\n"
+"    Create preset #2 only with the check on\n"
+"        [x]3 '?/**/?'       (\"Syntax elements/Outside of comments\").\n"
+"    Use Ctrl+1 to quickly clear extra search options without changing others search settings.\n"
+"    Use Ctrl+2 to quickly set only \"Outside of comments\".\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"You can use macro-vars in any editable fields. E.g. \"~ {{t}}\" will be auto-replaced to \"~ {tabs}\". \n"
+"To search the expression with brackets like \"{{t}}\", type in brackets with backslashes like \"\\{{t\\}}\" \n"
+"(or like \"\\{{t}}\", if field doesn't have the outer bracket pair).\n"
+"\n"
+"Engine option \n"
+"    \"use_selection_on_start\"\n"
+"uses selected text from document for the field \"Find\".\n"
+"Instead of this option, you can use macro-var\n"
+"    {{ed:SelectedText}}.\n"
+"This way you can use selected text many times, not only at the start.\n"
+"\n"
+"The macro-var\n"
+"    {{ed:CurrentWord}}\n"
+"provides the use of word from the document without selection at all.\n"
+"\n"
+"———————————————————————————————————————————————————————————————————————————————————————————— \n"
+"How to avoid separate buttons (CudaText and FindInFiles) in the OS app switcher dialog?\n"
+"Set CudaText option ui_taskbar_mode to false.\n"
+msgstr ""
+"Shift+F2 inicia a pesquisa única, que ignora opções de desaceleração, como:\n"
+"    \"Linhas extras de contexto\",\n"
+"    \"Elementos de sintaxe\",\n"
+"    \"Exibir caminho lexer para todos os fragmentos\",\n"
+"    \"copy_styles\" (motor).\n"
+"\n"
+"——————————————————————————————————————————————————— ——————————————————————————————————————————\n"
+"Segure a tecla Shift ao clicar em \".*\" (\"Expressão regular\") para alterar a opção e também\n"
+"escape/unescape todos os caracteres não-word no padrão. É garantido que a busca\n"
+"os resultados não mudarão por causa disso.\n"
+"\n"
+"—————————————————————————————————————————————————————————————————————————————————————————————\n"
+"Se\n"
+"    o campo \"{excl}\" contém \"/ .\"\n"
+"então\n"
+"    as pasta(s) raiz serão ignoradas.\n"
+"\n"
+"——————————————————————————————————————————————————— ——————————————————————————————————————————\n"
+"O campo \"{fold}\" pode conter muitas pastas para pesquisar.\n"
+"Os nomes das pastas devem ser independentes (sem pares pai-filho).\n"
+"O campo também pode conter máscara (s) de pasta e {tabs}.\n"
+"\n"
+"—————————————————————————————————————————————————————————————————————————————————————————————-\n"
+"Use \\§ para encontrar o caractere §.\n"
+"Observação. O controle multilinha mostra um padrão com nova linha extra (bug conhecido). Então, se o padrão terminar\n"
+"com uma nova linha, essa nova linha será retirada da string de pesquisa real.\n"
+"\n"
+"————————————————————————————————————————————————————————————----------———————————————————————————.\n"
+"As teclas de atalho Ctrl + 1, ..., Ctrl + 9 aplicam as predefinições # 1, ..., # 9.\n"
+"A predefinição pode armazenar os valores das opções necessárias.\n"
+"Portanto, você pode usar predefinições para ligar / desligar rapidamente a opção selecionada em vez de usar o menu.\n"
+"Exemplo.\n"
+"    Crie a predefinição # 1 apenas com a marca de seleção\n"
+"        [x] 3 '' (sem opções de pesquisa extras).\n"
+"    Crie a predefinição # 2 apenas com a marca de seleção\n"
+"        [x] 3 '? / ** /?' (\"Elementos de sintaxe / fora dos comentários\").\n"
+"    Use Ctrl + 1 para limpar rapidamente as opções extras de pesquisa sem alterar outras configurações de pesquisa.\n"
+"    Use Ctrl + 2 para definir rapidamente apenas \"Fora dos comentários\".\n"
+"\n"
+"——————————————————————————————————————————————————— ———————————————————————————————————————————\n"
+"Você pode usar macro-vars em qualquer campo editável. Por exemplo. \"~ {{t}}\" será substituído automaticamente por \"~ {tabs}\".\n"
+"Para pesquisar a expressão com colchetes como \"{{t}}\", digite entre colchetes com barras invertidas como \"\\ {{t \\}}\"\n"
+"(ou como \"\\ {{t}}\", se o campo não tiver o par de colchetes externo).\n"
+"\n"
+"Opção de motor\n"
+"    \"use_selection_on_start\"\n"
+"usa o texto selecionado do documento para o campo \"Localizar\".\n"
+"Em vez desta opção, você pode usar macro-var\n"
+"    {{ed: SelectedText}}.\n"
+"Desta forma, você pode usar o texto selecionado muitas vezes, não apenas no início.\n"
+"\n"
+"O macro-var\n"
+"    {{ed: CurrentWord}}\n"
+"fornece o uso de palavra do documento sem seleção alguma.\n"
+"\n"
+"————————————————-------------------------------------------------------------------------------------------------—————————————\n"
+"Como evitar botões separados (CudaText e FindInFiles) na caixa de diálogo do alternador de aplicativos do sistema operacional?\n"
+"Defina a opção ui_taskbar_mode do CudaText como false.\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:844
+msgid "Welcome to the plugin's GitHub page"
+msgstr "Bem-vindo à página GitHub do plugin"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:846
+msgid "folders and files picking"
+msgstr "seleção de pastas e arquivos"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_kv_base.py:532
+msgid "Fail. Use only for python file."
+msgstr "Falha. Utilizar somente para arquivo python."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_kv_dlg.py:1881
+msgid "Apply the tunings to controls of all dialogs."
+msgstr "Aplicar os ajustes aos controles de todos os diálogos."
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_kv_dlg.py:1929
+msgid "&Save"
+msgstr "&Salvar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_kv_dlg.py:1930
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_kv_dlg.py:1933
+msgid "Tuning text vertical alignment for control pairs"
+msgstr "Ajustando o alinhamento vertical do texto para pares de controle"

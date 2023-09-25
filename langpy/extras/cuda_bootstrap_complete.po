@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_bootstrap_complete/__init__.py:110
+msgid ""
+"To set Bootstrap versions per project, add the following option to the Project Properties dialog:\n"
+"  bootstrap_complete_versions=<versions>\n"
+"\n"
+"Where <versions> should be replaced with a comma-separated string of integers.\n"
+"Press OK to open the Project Properties dialog now."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_bootstrap_complete/__init__.py:119
+msgid "No project opened"
+msgstr ""
+

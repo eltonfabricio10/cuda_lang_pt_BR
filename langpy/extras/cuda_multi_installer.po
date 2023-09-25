@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-01 00:21-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_multi_installer/__init__.py:39
+#: py/cuda_multi_installer/__init__.py:161
+msgid "CudaText Multi Installer"
+msgstr "Instalador Múltiplo do CudaText"
+
+#: py/cuda_multi_installer/__init__.py:49
+msgid "Downloading data..."
+msgstr "Baixando os dados..."
+
+#: py/cuda_multi_installer/__init__.py:119
+msgid "Not found: {} {}"
+msgstr "Não encontrado: {} {}"
+
+#: py/cuda_multi_installer/__init__.py:123
+msgid "Installing: {} {}"
+msgstr "Instalando: {} {}"
+
+#: py/cuda_multi_installer/__init__.py:147
+msgid "Multi Installer: cannot download list"
+msgstr "Instalador Múltiplo: não foi possível baixar a lista"
+
+#: py/cuda_multi_installer/__init__.py:162
+msgid "Select groups of add-ons needed for you."
+msgstr "Selecione os grupos de complementos para você."
+
+#: py/cuda_multi_installer/__init__.py:163
+msgid "Next steps will suggest group items."
+msgstr "As próximas etapas irão sugerir itens de grupo."
+
+#: py/cuda_multi_installer/__init__.py:167
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_multi_installer/__init__.py:168
+#: py/cuda_multi_installer/__init__.py:231
+msgid "Next"
+msgstr "Próximo"
+
+#: py/cuda_multi_installer/__init__.py:237
+msgid "Step {} of {}"
+msgstr "Etapa {} de {}"
+
+#: py/cuda_multi_installer/__init__.py:243
+msgid "Select add-ons - "
+msgstr "Selecionar os complementos - "
+
+#: py/cuda_multi_installer/__init__.py:301
+msgid "Multi Installer: done"
+msgstr "Instalador Múltiplo: concluído"
+
+#: py/cuda_multi_installer/__init__.py:305
+msgid ""
+"\n"
+"{} add-on(s) installed"
+msgstr ""
+"\n"
+"{} complemento(s) instalado(s)"
+
+#: py/cuda_multi_installer/__init__.py:307
+msgid ""
+"\n"
+"{} download error(s) (SF.net has problems?)"
+msgstr ""
+"\n"
+"{} erro(s) ao baixar (SF.net está com problemas?)"
+
+#: py/cuda_multi_installer/__init__.py:311
+msgid "Multi Installer: nothing selected"
+msgstr "Instalador Múltiplo: nada selecionado"
+
+#: py/cuda_multi_installer/__init__.py:318
+msgid "Multi Installer"
+msgstr "Instalador Múltiplo"
+
+#: py/cuda_multi_installer/__init__.py:327
+msgid "Installing..."
+msgstr "Instalando..."

@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:44-0300\n"
+"PO-Revision-Date: 2021-08-02 19:28-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_terminal_plus/__init__.py:53
+msgid ""
+"\n"
+"Console process was terminated.\n"
+msgstr ""
+"\n"
+"O processo do console foi encerrado.\n"
+
+#: py/cuda_terminal_plus/__init__.py:553
+msgid "Add terminal for current document (will be ^free for Untitled)"
+msgstr "Adicionar terminal para o documento atual (será ^livre para Sem Título)"
+
+#: py/cuda_terminal_plus/__init__.py:566
+msgid "Close all terminals..."
+msgstr "Fechar todos os terminais..."
+
+#: py/cuda_terminal_plus/__init__.py:821
+msgid "Rename..."
+msgstr "Renomear..."
+
+#: py/cuda_terminal_plus/__init__.py:824
+msgid "Change icon"
+msgstr "Alterar ícone"
+
+#: py/cuda_terminal_plus/__init__.py:830
+msgid "Terminal wrap"
+msgstr "Quebra de linha do terminal"
+
+#: py/cuda_terminal_plus/__init__.py:833
+msgid "No wrap"
+msgstr "Sem quebra de linha"
+
+#: py/cuda_terminal_plus/__init__.py:836
+msgid "By character"
+msgstr "Por caractere"
+
+#: py/cuda_terminal_plus/__init__.py:839
+msgid "By word"
+msgstr "Por palavra"
+
+#: py/cuda_terminal_plus/__init__.py:842
+msgid "Custom column: "
+msgstr "Coluna personalizada: "
+
+#: py/cuda_terminal_plus/__init__.py:843
+msgid "Custom column..."
+msgstr "Coluna personalizada..."
+
+#: py/cuda_terminal_plus/__init__.py:849
+msgid "Reset"
+msgstr "Redefinir"
+
+#: py/cuda_terminal_plus/__init__.py:866
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_terminal_plus/__init__.py:1060
+msgid "Document has no teminals: "
+msgstr "O documento não tem terminais: "
+
+#: py/cuda_terminal_plus/__init__.py:1108
+msgid "Rename Terminal"
+msgstr "Renomear Terminal"
+
+#: py/cuda_terminal_plus/__init__.py:1177
+msgid "CudaText Terminal"
+msgstr "Terminal do CudaText"
+
+#: py/cuda_terminal_plus/__init__.py:1178
+msgid "Terminal opened in floating window"
+msgstr "Terminal aberto na janela flutuante"
+
+#: py/cuda_terminal_plus/__init__.py:1287
+msgid "Break"
+msgstr "Interromper"
+
+#: py/cuda_terminal_plus/__init__.py:1288
+msgid "Hotkeys: Break or Ctrl+C"
+msgstr "Tecla de atalho: Break ou Ctrl+C"
+
+#: py/cuda_terminal_plus/__init__.py:1301
+msgid "Enter command here"
+msgstr "Inserir o comando aqui"
+
+#: py/cuda_terminal_plus/__init__.py:1753
+msgid "Close all terminals?"
+msgstr "Fechar todos os terminais?"
+
+#: py/cuda_terminal_plus/__init__.py:1797
+msgid "Wrap margin position:"
+msgstr "Posição da margem de quebra de linha:"
+
+#: py/cuda_terminal_plus/__init__.py:1995
+msgid "Last command terminal is no longer present"
+msgstr "O último comando do terminal não está mais presente"
+
+#: py/cuda_terminal_plus/__init__.py:1997
+msgid "Execute last command?"
+msgstr "Executar o último comando?"
+
+#: py/cuda_terminal_plus/__init__.py:2006
+msgid "Executed: "
+msgstr "Executado: "

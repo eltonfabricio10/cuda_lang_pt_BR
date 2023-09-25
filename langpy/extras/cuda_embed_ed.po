@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-08-08 15:29-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_embed_ed/embed_ed.py:78
+msgid "Choose lexer for: {}"
+msgstr "Escolher lexer para: {}"
+
+#: py/cuda_embed_ed/embed_ed.py:130
+msgid "NOTE: pattern ({}) in group \"{}\" is missing a named group \"path\":"
+msgstr "NOTA: O padrão ({}) no grupo \"{}\" está faltando um grupo nomeado \"path\":"
+
+#: py/cuda_embed_ed/embed_ed.py:137
+msgid "NOTE: failed to compile pattern in group \"{}\": {}"
+msgstr "NOTA: Falhou ao compilar o padrão no grupo \"{}\": {}"
+
+#: py/cuda_embed_ed/embed_ed.py:146
+msgid "NOTE: invalid \"lexers\" in group: {}. Should be a list"
+msgstr "NOTA: \"Lexers\" inválidos no grupo: {}. Deveria ser uma lista"
+
+#: py/cuda_embed_ed/embed_ed.py:149
+msgid "NOTE: invalid patterns in group: {}. Should be a list"
+msgstr "NOTA: Padrões inválidos no grupo: {}. Deveria ser uma lista"
+
+#: py/cuda_embed_ed/embed_ed.py:240
+msgid "Opened '{}' in embedded window"
+msgstr "'{}' aberto na janela embutida"
+
+#: py/cuda_embed_ed/embed_ed.py:242
+msgid "Linked file was not found: {}"
+msgstr "O arquivo do link não foi encontrado: {}"
+
+#: py/cuda_embed_ed/embed_ed.py:265
+msgid "No embedded file-path was found"
+msgstr "Nenhum caminho de arquivo embutido foi encontrado"
+
+#: py/cuda_embed_ed/embed_ed.py:494
+msgid "To new tab"
+msgstr "Para nova guia"
+
+#: py/cuda_embed_ed/embed_ed.py:497
+msgid "Save"
+msgstr "Salvar"
+
+#: py/cuda_embed_ed/embed_ed.py:503
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_embed_ed/embed_ed.py:557
+msgid ""
+"Text is modified:\n"
+"{}\n"
+"\n"
+"Save it first?"
+msgstr ""
+"O texto foi modificado:\n"
+"{}\n"
+"\n"
+"Salvá-lo antes?"

@@ -1,0 +1,259 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-05 19:11-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: cuda_prefs/cd_opts_dlg.py:45
+msgid "_no_"
+msgstr "_nenhum_"
+
+#: cuda_prefs/cd_opts_dlg.py:123
+msgid ""
+"No folder \"{}\" from\n"
+"{}"
+msgstr ""
+"Nenhuma pasta \"{}\" de\n"
+"{}"
+
+#: cuda_prefs/cd_opts_dlg.py:191
+msgid "Empty string is allowed"
+msgstr "É permitido string vazia"
+
+#: cuda_prefs/cd_opts_dlg.py:550 cuda_prefs/cd_opts_dlg.py:557
+msgid "Incorrect value. It's needed in format: {}"
+msgstr "Valor incorreto. Precisa ser no formato: {}"
+
+#: cuda_prefs/cd_opts_dlg.py:941
+msgid "Options Editor Lite"
+msgstr "Editor de Opções"
+
+#: cuda_prefs/dlg.py:63
+msgid "CudaText Preferences"
+msgstr "Preferências do CudaText"
+
+#: cuda_prefs/dlg.py:109
+msgid "[ All ]"
+msgstr "[Todas]"
+
+#: cuda_prefs/dlg.py:122
+msgid "Section"
+msgstr "Seção"
+
+#: cuda_prefs/dlg.py:123
+msgid "Option"
+msgstr "Opção"
+
+#: cuda_prefs/dlg.py:124
+msgid "Default"
+msgstr "Padrão"
+
+#: cuda_prefs/dlg.py:125
+msgid "User"
+msgstr "Usuário"
+
+#: cuda_prefs/dlg.py:126
+msgid "Lexer"
+msgstr "Lexer"
+
+#: cuda_prefs/dlg.py:127
+msgid "File"
+msgstr "Arquivo"
+
+#: cuda_prefs/dlg.py:128
+msgid "Current value"
+msgstr "Valor atual"
+
+#: cuda_prefs/dlg.py:274
+msgid "reset"
+msgstr "redefinir"
+
+#: cuda_prefs/dlg.py:416
+msgid "CudaText options lite"
+msgstr "Opções do CudaText"
+
+#: cuda_prefs/dlg.py:461
+msgid "NOTE: {}: invalid column width format: {}"
+msgstr "NOTA: {}: formato da largura de coluna inválido: {}"
+
+#: cuda_prefs/dlg.py:515
+msgid "Columns widths. In pixels (50px) or relative (100)"
+msgstr "Largura das colunas. Em pixels (50px) ou relativo (100)"
+
+#: cuda_prefs/dlg.py:533
+msgid " (Error!)"
+msgstr " (Erro!)"
+
+#: cuda_prefs/dlg.py:553
+msgid "failed to apply new columns config: {}. {}"
+msgstr "falha ao aplicar novas configurações de colunas: {}. {}"
+
+#: cuda_prefs/dlg.py:702
+msgid "Filter: "
+msgstr "Filtro: "
+
+#: cuda_prefs/dlg.py:749
+msgid "Scope: "
+msgstr "Escopo: "
+
+#: cuda_prefs/dlg.py:761
+msgid "Reset"
+msgstr "Redefinir"
+
+#: cuda_prefs/dlg.py:782
+msgid "[mod]"
+msgstr "[mod]"
+
+#: cuda_prefs/dlg.py:816 cuda_prefs/dlg_json.py:96
+msgid "OK"
+msgstr "OK"
+
+#: cuda_prefs/dlg.py:827
+msgid "Apply"
+msgstr "Aplicar"
+
+#: cuda_prefs/dlg.py:838
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: cuda_prefs/dlg.py:848 cuda_prefs/dlg.py:1447
+msgid "Help"
+msgstr "Ajuda"
+
+#: cuda_prefs/dlg.py:1049
+msgid ""
+"Remove option [{}]\n"
+"   {} = {!r}\n"
+"?"
+msgstr ""
+"Remover a opção [{}]\n"
+"   {} = {!r}\n"
+"?"
+
+#: cuda_prefs/dlg.py:1057
+msgid "Preference: "
+msgstr "Preferência: "
+
+#: cuda_prefs/dlg.py:1289
+msgid "Configure..."
+msgstr "Configurar..."
+
+#: cuda_prefs/dlg.py:1363
+msgid "Choose file: {}"
+msgstr "Escolher arquivo: {}"
+
+#: cuda_prefs/dlg.py:1409
+msgid "No option changes has been made"
+msgstr "Nenhuma alteração das opções foi feita"
+
+#: cuda_prefs/dlg.py:1552
+msgid "PreferenesError: unsupported option type: "
+msgstr "Erro de Preferências: tipo de opção não suportado: "
+
+#: cuda_prefs/dlg.py:1564
+msgid "Not available for a file"
+msgstr "Indisponível para um arquivo"
+
+#: cuda_prefs/dlg.py:1564
+msgid "Not available for lexers"
+msgstr "Indisponível para lexers"
+
+#: cuda_prefs/dlg.py:1636
+msgid "Choose file..."
+msgstr "Escolher arquivo..."
+
+#: cuda_prefs/dlg.py:1642
+msgid "Edit..."
+msgstr "Editar..."
+
+#: cuda_prefs/dlg.py:1681
+msgid "Option \"{}\" does not accept empty value"
+msgstr "A opção \"{}\" não aceita valor vazio"
+
+#: cuda_prefs/dlg.py:1687
+msgid "Incorrect color token: "
+msgstr "Token de cor incorreta: "
+
+#: cuda_prefs/dlg.py:1750
+msgid "Enable"
+msgstr "Habilitar"
+
+#: cuda_prefs/dlg.py:1852
+msgid ""
+"About \"Filter\"\n"
+" Suitable options will contain all specified words.\n"
+" Tips and tricks:\n"
+" • Add \"#\" to search the words also in comments.\n"
+" • Add \"@sec\" to show options from section with \"sec\" in name.\n"
+"   Several sections are allowed.\n"
+"   Click item in sections tree with Ctrl to add it.\n"
+" • To show only overridden options:\n"
+"   - Add \"!\"   to show only User+Lexer+File.\n"
+"   - Add \"!!\"  to show only Lexer+File\n"
+"   - Add \"!!!\" to show only File.\n"
+" • Use \"<\" or \">\" for word boundary.\n"
+"     Example:\n"
+"       size> <tab\n"
+"     selects \"tab_size\" but not \"ui_tab_size\" or \"tab_size_x\".\n"
+"\n"
+" • Values in table column \"!\"\n"
+"     !   option is set in \"user.json\",\n"
+"     !!  option is set in \"lexer NNN.json\",\n"
+"     !!! option is set for current file,\n"
+"     L   default value is from \"settings_default/lexer NNN.json\",\n"
+"     +   not CudaText standard option.\n"
+msgstr ""
+"Sobre o \"Filtro\"\n"
+" As opções adequadas conterão todas as palavras especificadas.\n"
+" Dicas e truques:\n"
+" • Adicionar \"#\" para pesquisar as palavras também nos comentários.\n"
+" • Adicionar \"@sec\" para mostrar as opções da seção com \"sec\" no nome.\n"
+"   Várias seções são permitidas.\n"
+"   Clique no item na árvore de seções com Ctrl para adicioná-lo.\n"
+" • Para mostrar apenas as opções substituídas:\n"
+"   - Adicionar \"!\"   para exibir somente Usuário + Lexer + Arquivo.\n"
+"   - Adicionar \"!!\"  para exibir somente Lexer + Arquivo\n"
+"   - Adicionar \"!!!\" para exibir somente o arquivo.\n"
+" • Use \"<\" ou \">\" para o limite da palavra.\n"
+"     Exemplo:\n"
+"       size> <tab\n"
+"     seleciona \"tab_size\" mas não \"ui_tab_size\" ou \"tab_size_x\".\n"
+"\n"
+" • Valores na coluna da tabela \"!\"\n"
+"     !   a opção é definida em \"user.json\",\n"
+"     !!  a opção é definida em \"lexer NNN.json\",\n"
+"     !!! a opção é definida para o arquivo atual,\n"
+"     L   é o valor padrão de \"settings_default/lexer NNN.json\",\n"
+"     +   não é uma opção padrão do CudaText.\n"
+
+#: cuda_prefs/dlg_json.py:57
+msgid "JSON option editor: {}"
+msgstr "Editor de opções JSON: {}"
+
+#: cuda_prefs/dlg_json.py:107
+msgid "Close"
+msgstr "Fechar"
+
+#: cuda_prefs/dlg_json.py:117
+msgid "Check"
+msgstr "Verificar"
+
+#: cuda_prefs/dlg_json.py:131
+msgid "Load default"
+msgstr "Carregar padrão"
+
+#: cuda_prefs/dlg_json.py:141
+msgid "Undo changes"
+msgstr "Desfazer as alterações"

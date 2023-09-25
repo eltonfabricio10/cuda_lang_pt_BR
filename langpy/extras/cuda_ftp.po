@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-29 22:09-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_ftp/dlg.py:23
+msgid "FTP server info"
+msgstr "Informações do servidor FTP"
+
+#: py/cuda_ftp/dlg.py:38
+msgid "Choose private key file"
+msgstr "Escolher o arquivo de chave privada"
+
+#: py/cuda_ftp/dlg.py:65
+msgid "Fill the Host field"
+msgstr "Preencha o campo Host"
+
+#: py/cuda_ftp/dlg.py:68
+msgid "Fill the Username field"
+msgstr "Preencha o campo Nome do usuário"
+
+#: py/cuda_ftp/dlg.py:98
+msgid "Server"
+msgstr "Servidor"
+
+#: py/cuda_ftp/dlg.py:111
+msgid "Server Type: "
+msgstr "Tipo de Servidor: "
+
+#: py/cuda_ftp/dlg.py:147
+msgid "Host: "
+msgstr "Host: "
+
+#: py/cuda_ftp/dlg.py:170
+msgid "Port: "
+msgstr "Porta: "
+
+#: py/cuda_ftp/dlg.py:196
+msgid "Authentication"
+msgstr "Autenticação"
+
+#: py/cuda_ftp/dlg.py:209
+msgid "Username: "
+msgstr "Nome do usuário: "
+
+#: py/cuda_ftp/dlg.py:232
+msgid "Password: "
+msgstr "Senha: "
+
+#: py/cuda_ftp/dlg.py:257
+msgid "Default anonymous login"
+msgstr "Login anônimo por padrão"
+
+#: py/cuda_ftp/dlg.py:271
+msgid "Ask password every time"
+msgstr "Sempre perguntar pela senha"
+
+#: py/cuda_ftp/dlg.py:284
+msgid "or Private key: "
+msgstr "ou Chave privada: "
+
+#: py/cuda_ftp/dlg.py:296
+msgid "Choose file..."
+msgstr "Escolher arquivo..."
+
+#: py/cuda_ftp/dlg.py:308
+msgid "In OpenSSH format, not .ppk"
+msgstr "Em formato OpenSSH, não .ppk"
+
+#: py/cuda_ftp/dlg.py:323
+msgid "Misc"
+msgstr "Diversos"
+
+#: py/cuda_ftp/dlg.py:335
+msgid "Initial remote dir: "
+msgstr "Diretório remoto inicial: "
+
+#: py/cuda_ftp/dlg.py:358
+msgid "Timeout (seconds): "
+msgstr "Tempo de espera (segundos): "
+
+#: py/cuda_ftp/dlg.py:385
+msgid "Lable (for menu): "
+msgstr "Rótulo (para o menu): "
+
+#: py/cuda_ftp/dlg.py:414
+msgid "Use old LIST command"
+msgstr "Usar LISTA de comando antiga"
+
+#: py/cuda_ftp/dlg.py:446
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_ftp/dlg.py:544
+msgid "&Cancel"
+msgstr "&Cancelar"

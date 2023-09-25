@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-24 11:03-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_comments/cd_comments.py:31
+msgid "(Line commands) Try to keep text position after (un)commenting"
+msgstr "(Comandos de linha) Tentar manter a posição do texto após (des)comentar"
+
+#: py/cuda_comments/cd_comments.py:32
+msgid "Try to replace only blank(s) to keep text positions:\rUncommented lines:\r····foo1\r····foo2\rCommented lines:\r#···foo1\r···#foo2"
+msgstr "Tentar substituir somente os espaços em branco para manter as posições do texto:\rLinhas não comentadas:\r····foo1\r····foo2\rLinhas comentadas:\r#···foo1\r···#foo2"
+
+#: py/cuda_comments/cd_comments.py:40
+msgid "(Line \"at non-space\") If selected few lines, insert comment at maximal common indent"
+msgstr "(Linha \"em não-espaço\") Se selecionar algumas linhas, inserir o comentário na indentação comum"
+
+#: py/cuda_comments/cd_comments.py:41
+msgid "Use max same column to comment:\rUncommented lines:\r··foo1\r····foo2\r······foo3\rCommented lines:\r·#foo1\r·#··foo2\r·#····foo3"
+msgstr "Usar a mesma coluna para comentar:\rLinhas não comentadas:\r··foo1\r····foo2\r······foo3\rLinhas comentadas:\r·#foo1\r·#··foo2\r·#····foo3"
+
+#: py/cuda_comments/cd_comments.py:51
+msgid "(All) Move caret to next line"
+msgstr "(Todos) Mover cursor para próxima linha"
+
+#: py/cuda_comments/cd_comments.py:52
+msgid "Config commenting commands"
+msgstr "Configurações dos comandos de comentários"
+
+#: py/cuda_comments/cd_comments.py:56 py/cuda_comments/cd_plug_lib.py:574
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_comments/cd_comments.py:57 py/cuda_comments/cd_plug_lib.py:575
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_comments/cd_comments.py:102
+msgid "Lexer \"{}\" don't support \"line comments\""
+msgstr "Lexer \"{}\" não tem suporte para \"comentário de linha\""
+
+#: py/cuda_comments/cd_comments.py:234
+msgid "Commenting"
+msgstr "Comentários"
+
+#: py/cuda_comments/cd_comments.py:234
+msgid "{} works only with normal selection"
+msgstr "{} funciona somente com seleção normal"
+
+#: py/cuda_comments/cd_comments.py:240
+msgid "No stream comment for lexer \"{}\""
+msgstr "Sem comentário de bloco para o lexer \"{}\""

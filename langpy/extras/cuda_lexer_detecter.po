@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-08 15:18-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_lexer_detecter/__init__.py:55
+msgid "Download lexer: "
+msgstr "Baixar o lexer: "
+
+#: py/cuda_lexer_detecter/__init__.py:56
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_lexer_detecter/__init__.py:56
+msgid "Cancel, don't suggest anymore for *.%s"
+msgstr "Cancelar, não sugerir mais para *.%s"
+
+#: py/cuda_lexer_detecter/__init__.py:58
+msgid "Lexer(s) for \"%s\""
+msgstr "Lexer(s) para \"%s\""
+
+#: py/cuda_lexer_detecter/__init__.py:82
+msgid "Could not download/install lexer \"%s\" from add-ons"
+msgstr "Não foi possível baixar/instalar o lexer \"%s\" a partir dos complementos"

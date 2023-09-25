@@ -1,0 +1,431 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:46
+msgid "Need update CudaText"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:101
+msgid ""
+"Suitable command names will contain all specified words.\n"
+"Tips:\n"
+" · Use \"_\" for word boundary.\n"
+"   \"_up\" selects \"upper\" but not \"group\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:105
+msgid ""
+"Suitable command hotkeys will contain all specified words.\n"
+"Tips:\n"
+" · Use \"_\" for key-name boundary.\n"
+"   \"_f\" selects \"F1\" and \"Ctrl+F\" but not \"Left\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:109
+msgid ""
+"Suitable command snips will match specified string.\n"
+"Usage:\n"
+" · Type \"/\" and snip string and push Tab-key.\n"
+"Tips:\n"
+" · Use ? for any character and * for any fragment."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:114
+msgid ""
+"Set hotkey for command (if no one).\n"
+"Extend to series hotkeys (if command already has hotkeys)."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:116
+msgid ""
+"Shows HTML page with report of all hotkeys in editor.\n"
+"The report is usefull to analyze hotkeys in a whole."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:118
+msgid ""
+"Show compact report of hotkeys in new tab.\n"
+"The report is usefull to find free hotkeys."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:120
+msgid "Copy command name to clipboard"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:121
+msgid "Open source of plugin code"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:122
+msgid ""
+"Sort data by click on table header\n"
+"3-stage loop of sorting:\n"
+" · in alphabetical order,\n"
+" · in reverse alphabetical order,\n"
+" · in natural order (as at start)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:152
+msgid "Configure Hotkeys ({})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
+msgid "Hotkey-1"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
+msgid "Hotkey-2"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
+msgid "Snips"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:222
+msgid "Command"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:233
+msgid "&Filter"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:234
+msgid "&All"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:235
+msgid "&OR"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:236
+msgid "O&R"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:237
+msgid "In &Command:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:239
+msgid "In &Hotkeys:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:242
+msgid "In &Snip(s):"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:243
+msgid "&?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:253
+msgid "Copy &name"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:254
+msgid "Open code &#"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:255
+msgid "Report to HT&ML"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:256
+msgid "Report to new &Tab"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:257
+msgid "Set/Add Hotkey-&1"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:258
+msgid "Remove Hotkey-1 &!"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:259
+msgid "Set/Add Hotkey-&2"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:260
+msgid "Remove Hotkey-2 &@"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:261
+msgid "Set/A&dd Snip"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:262
+msgid "R&emove Snip(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:263
+msgid "Hel&p"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:302
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:461
+msgid "Opened browser with file "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:309
+msgid "Help for \"Config Hotkeys\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:311
+msgid "&Close"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:313
+msgid ""
+"• In Command.\n"
+"{}\n"
+"\n"
+"• In Hotkeys.\n"
+"{}{}\n"
+"\n"
+"• Set/Add.\n"
+"{}\n"
+"\n"
+"• HTML-report.\n"
+"{}\n"
+"\n"
+"• Tab-report.\n"
+"{}\n"
+"\n"
+"• Sorting.\n"
+"{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:321
+msgid ""
+"\n"
+"\n"
+"• In Snip.\n"
+"{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:468
+msgid ""
+"Hotkey \"{}\" is already assigned \n"
+"to command \"{}\".\n"
+"\n"
+"Do you want to reassign the hotkey \n"
+"to selected command \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:493
+msgid "Add snip for \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:497
+msgid "Snip for \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:503
+msgid ""
+"Snippet \"{}\" is already assigned\n"
+"to command \"{}\".\n"
+"\n"
+"Do you want to reassign the snippet\n"
+"to command \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:515
+msgid ""
+"Do you want to remove snip(s) \n"
+"    {}\n"
+"for command \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:112
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:139
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:223
+msgid "Commands"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:119
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:153
+msgid "Plugins"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:149
+msgid "Plugin: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:211
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:212
+msgid "All commands"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:213
+msgid "All keys with full command names"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:214
+msgid "All keys"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:215
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:216
+msgid "All series-keys"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:217
+msgid "All keys, compact view"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:218
+msgid "Compact keys"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:219
+msgid "No conflicts"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:220
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:221
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:431
+msgid "Conflicts"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:224
+msgid "Key"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:225
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:432
+msgid "Keys"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:226
+msgid "Button"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:432
+msgid "Command 1"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:432
+msgid "Command 2"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:455
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:465
+msgid "Plugin needs newer app version"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2068
+msgid "Report"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2070
+msgid "Send the report to the address"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2072
+msgid "or post it on"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2074
+msgid "Close"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2138
+msgid "&Save"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2139
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2141
+msgid "Cancel"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_plug_lib.py:2143
+msgid "Adjust vertical alignments"
+msgstr ""
+

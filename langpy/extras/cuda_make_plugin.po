@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-28 18:03-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_make_plugin/__init__.py:28
+msgid "Cannot create plugin, folder already exists:\n"
+msgstr "Não foi possível criar o plugin, a pasta já existe:\n"
+
+#: py/cuda_make_plugin/__init__.py:34
+msgid "Cannot create dir:\n"
+msgstr "Não foi possível criar o diretório:\n"
+
+#: py/cuda_make_plugin/__init__.py:68
+msgid "(Fill the description)\n"
+msgstr "(Preencha a descrição)\n"
+
+#: py/cuda_make_plugin/__init__.py:71
+msgid "(Fill the GitHub repo URL)\n"
+msgstr "(Preencha a URL do repositório GitHub)\n"
+
+#: py/cuda_make_plugin/__init__.py:101
+msgid ""
+"Plugin was created.\n"
+"Menu item(s) will appear after restart of program."
+msgstr ""
+"O plugin foi criado.\n"
+"Aparecerá os item(ns) no Menu após reiniciar o programa."
+
+#: py/cuda_make_plugin/dlg.py:53
+msgid "Make Plugin"
+msgstr "Criar Plugin"
+
+#: py/cuda_make_plugin/dlg.py:54
+msgid "Plugin &name:"
+msgstr "&Nome do plugin:"
+
+#: py/cuda_make_plugin/dlg.py:56
+msgid "&Python module name without \"cuda_\":"
+msgstr "Nome do módulo &Python sem \"cuda_\":"
+
+#: py/cuda_make_plugin/dlg.py:58
+msgid "&Commands \"Caption>method\" (\"-\" at end: without menu item):"
+msgstr "&Comandos \"Caption>method\" (\"-\" no final: sem item de menu):"
+
+#: py/cuda_make_plugin/dlg.py:60
+msgid "&Add \"Config\" menu item to \"Options / Settings-plugins\""
+msgstr "&Adicionar o item \"Config\" para \"Opções / Configurações - Plugins\""
+
+#: py/cuda_make_plugin/dlg.py:61
+msgid "&Events to handle:"
+msgstr "Manipular &eventos:"
+
+#: py/cuda_make_plugin/dlg.py:63
+msgid "&OK"
+msgstr "&OK"
+
+#: py/cuda_make_plugin/dlg.py:64
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_make_plugin/dlg.py:83
+msgid "Empty field"
+msgstr "Campo vazio"
+
+#: py/cuda_make_plugin/dlg.py:91
+msgid "Incorrect module name: \"%s\""
+msgstr "Nome do módulo incorreto: \"%s\""
+
+#: py/cuda_make_plugin/dlg.py:97
+msgid "Incorrect item: "
+msgstr "Item incorreto: "
+
+#: py/cuda_make_plugin/dlg.py:102
+msgid "Incorrect item name: "
+msgstr "Nome do item incorreto: "
+
+#: py/cuda_make_plugin/dlg.py:109
+msgid "Incorrect item method: "
+msgstr "Método do item incorreto: "

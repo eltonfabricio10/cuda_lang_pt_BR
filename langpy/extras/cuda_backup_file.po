@@ -1,0 +1,560 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:236
+msgid ""
+"Text modified!\n"
+"The command will use old state.\n"
+"\n"
+"Continue?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:253
+msgid ""
+"Backup File needs to create dir\n"
+"{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:258
+msgid "Cannot create dir \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:309
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:348
+msgid "Backup dir: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:311
+msgid "Copy to…\t{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:313
+msgid "Diff with\t{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:315
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:326
+msgid "more…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:349
+msgid "Create backup with name"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:354
+msgid ""
+"Overwrite file\n"
+"{}\n"
+"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:362
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:391
+msgid "Cannot create backup copy: invalid path \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:364
+msgid "Copy to {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:381
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:386
+msgid "Cannot create backup copy: invalid dir \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:393
+msgid "Create backup: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:443
+msgid "Au&to-create backup before each saving"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:444
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:446
+msgid "Insert macro"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:445
+msgid "Browse dir"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:447
+msgid "Command to compare (and merge) current file with one of its copy.\r    {COPY_PATH} - path of copy,\r    {FILE_PATH} - path of current file."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:450
+msgid "How many copies will be shown to compare\r    0 - all"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:461
+msgid "Add variant"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:461
+msgid "Clone variant"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:461
+msgid "Remove variant"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:512
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:514
+msgid "Options for manual backup"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:515
+msgid "and to c&ompare"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:517
+msgid "Copy to &dir:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:519
+msgid "Add &var"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:520
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:541
+msgid "…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:521
+msgid "Planned &name:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:523
+msgid "Add v&ar"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:524
+msgid "&Presets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:526
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:547
+msgid "Demo: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:528
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:549
+msgid "&Update"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:529
+msgid "Di&ff command:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:531
+msgid "Shell"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:532
+msgid "Ma&x shown:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:538
+msgid "Copy to d&ir:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:540
+msgid "Add va&r"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:542
+msgid "Copy with na&me:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:544
+msgid "Ad&d var"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:545
+msgid "Pre&sets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:553
+msgid "L&ess <<"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:553
+msgid "Mor&e >>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:555
+msgid "Variant&:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:558
+msgid "&Help"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:559
+msgid "OK"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:560
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:645
+msgid "Cancel"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:562
+msgid "Configure \"Backup File\" ({})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:580
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:588
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:717
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:725
+msgid "Fill \"Copy to dir\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:584
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:721
+msgid "Fill \"Planned name\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:592
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:729
+msgid "Fill \"Copy with name\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:600
+msgid "Remove Variant #{}?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:644
+msgid "Path of directory of current file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:645
+msgid "Name of directory of current file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:646
+msgid "Path of directory level upper, than {FILE_DIR}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:647
+msgid "Name of directory level upper, than {FILE_DIR}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:648
+msgid "Name of current file with extention"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:649
+msgid "Name of current file without extention"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:650
+msgid "Extention of current file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:651
+msgid "Current year as 99"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:652
+msgid "Current year as 9999"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:653
+msgid "Current month as 9"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:654
+msgid "Current month as 09"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:655
+msgid "Current month as sep"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:656
+msgid "Current month as September"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:657
+msgid "Current day as 9"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:658
+msgid "Current day as 09"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:659
+msgid "Current hours as 9"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:660
+msgid "Current hours as 09"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:661
+msgid "Current minutes as 9"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:662
+msgid "Current minutes as 09"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:663
+msgid "Current seconds as 9"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:664
+msgid "Current seconds as 09"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:666
+msgid "Auto-incremented as: 1, 2, 3, 4, 5, …"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:667
+msgid "Auto-incremented as: 1, 2, 3, 1, 2, …"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:668
+msgid "Auto-incremented as: 01, 02, 03, 04, …"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:669
+msgid "Auto-incremented as: 01, 02, 03, 01, …"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:687
+msgid "name.25-01-17.ext\t{FILE_STEM}.{DD}-{MM}-{YY}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:688
+msgid "name_25jan17-22.ext\t{FILE_STEM}_{DD}{MMM}{YY}-{hh}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:689
+msgid "name_2017-12-31_23-59-59.ext\t{FILE_STEM}_{YYYY}-{MM}-{DD}_{hh}-{mm}-{ss}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:690
+msgid "name.25jan17-001.ext\t{FILE_STEM}.{DD}{MMM}{YY}-{COUNTER|w:3}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:701
+msgid "name.bak.ext\t{FILE_STEM}.bak.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:702
+msgid "name~.ext\t{FILE_STEM}~.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:703
+msgid "name.1.ext  name.2.ext …\t{FILE_STEM}.{COUNTER}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:704
+msgid "name.001.ext  name.002.ext …\t{FILE_STEM}.{COUNTER|w:3}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:705
+msgid "name.1.ext  name.2.ext  name.3.ext  name.1.ext …\t{FILE_STEM}.{COUNTER|lim:3}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:706
+msgid "name.01.ext … name.99.ext  name.01.ext …\t{FILE_STEM}.{COUNTER|lim:99|w:2}.{FILE_EXT}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:772
+msgid ""
+"In the fields\n"
+"    Copy to dir\n"
+"    Planned name\n"
+"    Copy with name\n"
+"the following macros are processed.     (If path is 'p1/p2/p3/stem.ext')\n"
+"    {FILE_DIR}            -             ('p1/p2/p3')\n"
+"    {FILE_NAME}           -             ('stem.ext')\n"
+"    {FILE_STEM}           -             ('stem')\n"
+"    {FILE_EXT}            -             ('ext')\n"
+"    {YY} {YYYY}           - Year    as  '17' or '2017'\n"
+"    {M} {MM} {MMM} {MMMM} - Month   as  '7' or '07' or 'jul' or 'July'\n"
+"    {D} {DD}              - Day     as  '7' or '07'\n"
+"    {h} {hh}              - Hours   as  '7' or '07' \n"
+"    {m} {mm}              - Minutes as  '7' or '07' \n"
+"    {s} {ss}              - Seconds as  '7' or '07' \n"
+"    {COUNTER}             - Auto-incremented number\n"
+" \n"
+"Filters. \n"
+"All macros can include suffix (function) to transform value.\n"
+"   {Data|fun}             - gets fun({Data})\n"
+"   {Data|fun:p1,p2}       - gets fun({Data},p1,p2)\n"
+"   {Data|f1st:p1,p2|f2nd} - gets f2nd(f1st({Data},p1,p2))\n"
+"Predefined filters are:\n"
+"    p    - parent for path\n"
+"    p:N  - N-parent for path (\"p\" is same as \"p:1\")\n"
+"    name - last segment in path\n"
+"    u    - upper: \"word\"  -> \"WORD\"\n"
+"    l    - lower: \"WORD\"  -> \"word\"\n"
+"    t    - title: \"he is\" -> \"He Is\"\n"
+"    Examples: If path is     'head/p1/p2/p3/stem.ext'\n"
+"        {FILE_DIR}        -> 'head/p1/p2/p3'\n"
+"        {FILE_DIR|p}      -> 'head/p1/p2'\n"
+"        {FILE_DIR|p|name} -> 'p2'\n"
+"        {FILE_DIR|p:2}    -> 'head/p1'\n"
+"        {FILE_EXT|u}      -> 'EXT'\n"
+"        {FILE_EXT|t}      -> 'Ext'\n"
+"Predefined filters for {COUNTER} are:\n"
+"    w:N   - set width for value\n"
+"    lim:N - set maximum value\n"
+"    Examples: \n"
+"        {COUNTER}           -> 1 -> 2 -> 3 -> 4 -> 5 -> …\n"
+"        {COUNTER|w:3}       -> 001 -> 002 -> 003 -> …\n"
+"        {COUNTER|lim:3}     -> 1 -> 2 -> 3 -> 1 -> 2 -> …\n"
+"        {COUNTER|lim:3|w:2} -> 01 -> 02 -> 03 -> 01 -> …\n"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:817
+msgid "Help"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:819
+msgid "&Close"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:601
+msgid "Adjust vertical alignments"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:642
+msgid "&Save"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:643
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:683
+msgid "Report"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:685
+msgid "Send the report to the address"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:687
+msgid "or post it on"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_plug_lib.py:689
+msgid "Close"
+msgstr ""
+

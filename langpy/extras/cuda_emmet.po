@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-01 00:16-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_emmet/__init__.py:84
+msgid "Cannot expand Emmet abbreviation: "
+msgstr "Não foi possível expandir a abreviação Emmet: "
+
+#: py/cuda_emmet/__init__.py:102
+msgid "Opened browser"
+msgstr "Navegador aberto"
+
+#: py/cuda_emmet/__init__.py:115
+msgid "Text not selected"
+msgstr "Texto não selecionado"
+
+#: py/cuda_emmet/__init__.py:118
+msgid "Emmet abbreviation:"
+msgstr "Abreviação Emmet:"
+
+#: py/cuda_emmet/__init__.py:137
+msgid "Cannot find Emmet abbreviation"
+msgstr "Não foi possível encontrar a abreviação Emmet"
+
+#: py/cuda_emmet/dlg_emmet.py:23
+msgid "Emmet preview dialog"
+msgstr "Visualizar abreviação Emmet"
+
+#: py/cuda_emmet/dlg_emmet.py:32
+msgid "Abbreviation:"
+msgstr "Abreviação:"
+
+#: py/cuda_emmet/dlg_emmet.py:45
+msgid "Insert"
+msgstr "Inserir"
+
+#: py/cuda_emmet/dlg_emmet.py:57
+msgid "Copy"
+msgstr "Copiar"

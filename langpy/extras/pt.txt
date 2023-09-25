@@ -1,0 +1,545 @@
+[cuda_exttools.po]
+(Int, Padrão = 4) Interprete o símbolo de saída TAB como \"N espaços \".
+Defina 8 para uma ferramenta como \"arrumada \"
+Ignorar
+Painel de saída
+Painel de saída, anexar
+Console
+Copiar para um novo documento
+Copiar para um novo documento, grupo 1
+Copiar para um novo documento, grupo 2
+Copiar para novo documento, grupo 3
+Copiar para área de transferência
+Substituir seleção
+Nada
+Documento Atual
+Todos os documentos
+Macros de ferramenta
+&Perto
+Precisa atualizar CudaText
+&Ferramentas
+Con & fig ...
+R & un principal ferramenta lexer
+Resultados
+Resultado da ferramenta & seguinte
+Resultado da ferramenta & anterior
+A ferramenta principal para lexer \"{} \" ainda não está configurada
+Sem URL: {}
+Não é possível abrir URL \"{} \" para guia sem título
+Aberto \"{}\": {}
+Sem ferramenta: {}
+A ferramenta \"{} \" é apenas para lexers: {}
+Cancelar ferramenta de execução \"{} \"
+Não é possível executar a ferramenta \"{} \" para a guia sem título
+Corre: \"{}\"
+Falha ao executar: {} {}
+Corre: {} {}
+Nenhuma ferramenta para analisar a linha de saída
+A ferramenta \"{} \" não tem propriedade de padrão
+A ferramenta \"{} \" não conseguiu encontrar um número de linha na linha de saída
+Não pode abrir: {}
+Nenhum resultado para navegação
+Não há mais resultados para navegação
+Junte várias ferramentas em uma única ferramenta
+Use o URL
+Mova a ferramenta atual para a posição superior
+Mova a ferramenta atual para a posição inferior
+Para chamada por comando \"Executar ferramenta lexer principal \"
+Editar lista de macros do usuário para usar nas propriedades da ferramenta
+Altere os tamanhos desta caixa de diálogo \rCtrl + Clique - Restaurar os valores padrão
+Nome
+Tecla de atalho
+Arquivo | [Ferramentas]
+Params
+Pasta
+Lexers
+Capturar
+Salvando
+URL
+&Ferramentas ({})
+& URLs ({})
+Mac & Ros expandido
+&Editar...
+&Adicionar...
+&Excluir...
+Clone...
+Juntar...
+&Ligar
+Hotke & y ...
+Pra cima
+Abaixo
+Definir & principal para lexers ...
+Macro de usuário e vars ...
+Ajustar...
+Perto
+Ferramentas e URLs ({})
+Costumização. Prefixo de larguras \"C \" / \"R \" para alinhar, \"- \" para ocultar.
+Largura do nome (mín. 100)
+Largura das Chaves (mín. 50)
+Largura do arquivo (min 150)
+Largura dos parâmetros (min 150)
+Largura da pasta (mín. 100)
+Largura dos Lexers (mín. 50)
+Largura de captura (mín. 50)
+Largura de economia (min 30)
+Altura da lista (mín. 200)
+Largura do Url (mín. 500)
+& Lexer >>> ferramenta principal
+Ferramenta & Assign
+& Quebrar link
+Ferramenta principal para lexers
+Comente
+Valor atual
+Expressão
+& Vars
+Clone
+&Pra cima
+Macros Pro & ject ...
+Ajuda
+Macros de usuário
+&Nome:
+Valor:
+Adicionar ficheiro...
+Adicionar & dir ...
+Adicionar & var ...
+&Comente:
+OK
+Cancelar
+Editar var macro do usuário
+Nome do conjunto
+Definir valor
+Nome: {}
+Valor: {}
+Comente: {}
+Selecione ferramentas para unir
+& URL:
+& Macro ...
+Atalho:
+Projeto...
+Propriedades de URL
+Series:
+& Selecione ...
+Visão...
+&Abaixo
+&Nome do arquivo:
+&Navegar...
+Comando do & Shell
+Execute a ferramenta por meio do interpretador do shell do sistema operacional (por exemplo, Bash no Unix, Cmd no Windows)
+& Parâmetros:
+Adicionar...
+& Pasta inicial:
+Navegar...
+Lexers:
+Le & xers ...
+Principal para:
+Definir & principal ...
+Sal & var antes:
+Saída de & Captura:
+Codificação:
+S & eleger ...
+Padrão:
+Definir...
+Avançado:
+Definir...
+Propriedades da ferramenta
+Definir nome do arquivo
+Selecionar lexers
+Codificações
+Propriedades avançadas
+&Expressão regular:
+Anexar grupo nomeado
+Teste \"& Linha de saída \":
+&Teste
+Resultados do teste
+Nome do arquivo:
+Linha:
+Coluna:
+Carregar e predefinir ...
+& Salvar como predefinição ...
+Padrão de saída da ferramenta \"{} \"
+Nome do arquivo (padrão - nome do arquivo atual)
+Número da linha (padrão - 1)
+Número da coluna (padrão - 1)
+Número de linha (baseado em 0, padrão - 0)
+Número de coluna (base 0, padrão - 0)
+Variáveis ​​padrão
+Padrões prontos
+Definir \"Expressão regular \"
+Nome para predefinição ({})
+Parâmetro para chamada {}
+{AppDir} \tDirectory com executável do aplicativo
+{AppDrive} \t (apenas Win) Disco do executável do aplicativo, por exemplo, \"C: \"
+{FileName} \tCaminho completo
+{FileDir} \tCaminho da pasta, sem nome de arquivo
+{FileNameOnly} \t Somente nome do arquivo, sem caminho da pasta
+{FileNameNoExt} \tNome do arquivo sem extensão e caminho
+{FileExt} \tExtension
+{ContentAsTemp} \tNome do arquivo [temporário] com o texto atual
+{Lexer} \tFile lexer
+{LexerAtCaret} \tLocal lexer (no primeiro acento circunflexo)
+{CurrentLine} \tTexto da linha atual
+{CurrentLineNum} \tNumber da linha atual
+{CurrentLineNum0} \tNumber da linha atual (baseado em 0)
+{CurrentColumnNum} \tNumber da coluna atual
+{CurrentColumnNum0} \tNumber da coluna atual (baseado em 0)
+{SelectedText} \tText
+{CurrentWord} \tText
+{Interativo} \tO texto será solicitado a cada execução
+{InteractiveFile} \tNome do arquivo será solicitado
+{{FileName_g {0}}} \tCaminho completo do arquivo atual no grupo {0}
+{{FileDir_g {0}}} \tCaminho da pasta, sem nome de arquivo, do arquivo atual no grupo {0}
+{{FileNameOnly_g {0}}} \tSomente o nome do arquivo, sem caminho da pasta, do arquivo atual no grupo {0}
+{{FileNameNoExt_g {0}}} \tNome do arquivo sem extensão e caminho do arquivo atual no grupo {0}
+{{FileExt_g {0}}} \tExtensão do arquivo atual no grupo {0}
+{{ContentAsTemp_g {0}}} \tNome do arquivo [temporário] com o texto atual no grupo {0}
+{{Lexer_g {0}}} \tLexer do arquivo atual no grupo {0}
+Variáveis
+Ajustar alinhamentos verticais
+&Salvar
+Aplique os ajustes aos controles de todos os diálogos. \RCtrl + Clique - Mostrar dados para enviar relatório.
+Relatório
+Envie o relatório para o endereço
+ou poste no
+
+
+
+[cuda_favorites.po]
+Nenhum favorito em # {}
+Não existe: {}
+Plug-in do Project Manager não instalado
+O gerente de projeto não tem nenhum projeto aberto
+Já nos favoritos:
+Adicionado aos favoritos:
+Abra o arquivo / projeto e feche a caixa de diálogo. \RShift + Clique para abrir sem fechar a caixa de diálogo
+Escolha o arquivo a ser anexado. \RShift + Clique para escolher a pasta
+arquivos
+Projetos
+Favoritos 1.2
+&Aberto
+& Adicionar aberto
+Adicionar&...
+&Excluir
+Subir
+Mover fazer & wn
+Mostrar & caminhos
+&?
+Perto
+• Abertura rápida. \RUse Alt + 1, Alt + 2, ..., Alt + 9 \ror Ctrl + 1, Ctrl + 2, ..., Ctrl + 9 \rpara abrir o item rapidamente pelo seu índice (1, 2 , ... 9). \R \r • Importar favoritos do SynWrite. \rPara importar a lista de favoritos do SynWrite, navegue até o arquivo \"SynFav.ini \". \rEste arquivo está localizado na subpasta \"Configurações \" do SynWrite.
+Falhar. Use apenas para arquivo python.
+Aplique as afinações aos controles de todos os diálogos.
+&Salvar
+Cancelar
+Ajustando o alinhamento vertical do texto para pares de controle
+
+
+
+[cuda_find_in_files4.po]
+<caminho: r>: linha
+<caminho> # N / <r>: linha
+<dir> # N / <arquivo: r>: linha
+Para visualizar / editar opções, instale o plugin \"Editor de Opções \"
+[{}] Opções
+Teclas de atalho
+Velocidade
+Truques
+Substituir
+Resultados
+História
+Procurar
+[{}] Ajuda
+Sem predefinições para executar
+Escolha uma predefinição para executar
+detectar
+A & ge de arquivos
+d
+h
+m
+C
+y
+dias)
+horas)
+meses)
+semana (s)
+anos)
++1 nível
++2 níveis
++3 níveis
++4 níveis
++5 níveis
++ Todas as subpastas
+Apenas comece dir
+S & ort arquivos coletados
+Não classificar
+S & ort, mais novo primeiro
+Classifique, o & ldest primeiro
+Pular arquivos & ocultos / binários
+Não pule
+Pular e binário
+Pular e oculto
+Pular oculto e binário
+Elementos S & yntax (desaceleração)
+Por dentro e comente
+Fora do c & omento
+Literal interno e string
+Fora do s & tring literal
+Crio
+Salvar
+Criar uma nova predefinição
+Ver predefinição
+ Posição do formulário
+ Tamanhos de formulário e altura de resultados
+> Na & me:
+Idade:
+OK
+&Todas as idades
+Pesquise em arquivos com a idade (0 - no total)
+Codificação para arquivos
+Remover tudo e salvar?
+&Adicionar
+&Remover
+Máscara de arquivo e codificações
+(analisar o conteúdo do arquivo)
+Codificação da fonte para a etapa
+&Antes da:
+Depois:
+Linhas extras de contexto
+Nenhuma pesquisa ainda executada
+Não há mais pesquisas executadas
+Os parâmetros executados ({} / {}) são restaurados
+Predefinido para aplicar
+A predefinição está salva:
+Sem predefinição
+A predefinição foi removida:
+A predefinição está carregada:
+Escolha o arquivo para encontrar nele
+Pasta de pesquisa inicial
+\"Substituir \" é apenas para o padrão Localizar de linha única
+\"Substituir \" é apenas para o modo \"-? +? \"
+\"Substituir \" é para \"Elementos de sintaxe \" desativado
+\"Substituir \" é para \"caminho do Lexer para todos os fragmentos \" desativado
+Substituir tudo em arquivos / guias?
+Com
+Padrão a ser substituído por. \RPara substituir grupos RegEx encontrados: \\1, \\2, ... \rPara substituir a correspondência inteira: \\g <0> ou \\0
+Clique ou F4 - Iniciar substituições \rShift + Clique ou Shift + F4 - Iniciar emulação: \r mostrar relatório de substituições \r e não fazer alterações.
+Clique ou Shift + F4 - Iniciar emulação: \r mostrar relatório de substituições \r e não fazer alterações.
+&Emular, imitar
+Substituir
+Com:
+Substituir (EMULAÇÃO)
+Preencha o campo \"{} \"
+máscaras
+Reiniciar tudo
+Plano de en & codificações:
+Definir máscaras
+Passo 1: {}
+Passo 2: {}
+Etapa 3: {}
+Use as etapas & padrão: {}
+Mostrar caminhos relacionados
+Mostrar e hora de modificação
+Resultados e árvore:
+Mostrar caminho de arquivo para todos os fragmentos (lentidão)
+Adicione o caminho do arquivo para o caminho do arquivo na barra de status
+Vá para o próximo fragmento encontrado
+Vá para o fragmento encontrado anterior
+Vá para a próxima guia / fragmento de arquivo encontrado
+Vá para a aba anterior / fragmento de arquivo encontrado
+Abra o fragmento encontrado na guia
+Prepare-se para pesquisar no So & urce
+Prepare-se para pesquisar no Sou & rce e no caminho lexer
+Copie os resultados para uma nova guia
+Escolha o início e a pasta
+Escolha fil & e para encontrá-lo
+C & ut último segmento de pasta
+Use a pasta do & arquivo atual
+Prepare uma pesquisa no arquivo atual (no disco)
+Prepare uma pesquisa no ta & b atual (na memória)
+Prepare uma pesquisa em todas as guias (na memória)
+ troca com
+Restaurar parâmetros anteriores ({} / {}) executados
+Restaurar os próximos ({} / {}) parâmetros executados
+& Criar uma nova predefinição
+& Remover predefinição
+& Ver predefinição
+Alterar predefinição e posição
+Choo & se predefinição
+& Anexar macro var
+Definir n & ova var personalizada
+Mudar / remover var personalizado
+E & xpand todos os vars
+Ajuda
+Escopo
+Pré e conjuntos
+V & ars macro
+Opções de motor. & ..
+Substituir com...
+Emular Substituir por ...
+Pesquisa rápida (ignore algumas opções)
+Cardápio
+Fragmentos?
+[Filtrado /] Fragmentos encontrados
+Arquivos?
+Arquivos relatados / analisados ​​[/ empilhados]
+Dirs?
+Dirs relatados [/ empilhados]
+Tempo?
+Duração do último ato
+O nome \"{} \" já é usado
+&Nome:
+Valor:
+Adicionar & var
+Adicionar & caminho
+Remover
+Remover?
+Anexar macro vars
+Pare?
+Corrija as aspas no campo \"{} \"
+Corrija o EOL no campo \"{} \"
+Definir pastas não incluídas
+Emulação completada
+Emulação terminada
+Substituições concluídas
+Substituições encerradas
+Pesquisa completada
+Pesquisa encerrada
+Pular item \"{} \": {}
+estilos
++ EMULAÇÃO: Substituir
++ Substituir
++ Pesquisa
+ quando
+. Relatório com
+NOTA: Ignorando a opção \"ignorar arquivos / diretórios ocultos \". Passe o aviso ao autor do aplicativo.
+Encontre nos Arquivos 4
+separou_histórias
+Use o texto selecionado do documento para o campo \"Localizar \".
+Começar
+Anexe a string especificada ao campo \"Ex \".
+file_picking_stage
+Estágio de pesquisa separado, que coleta todos os arquivos adequados primeiro.
+Comece a selecionar arquivos nas pastas mais profundas.
+re_verbose
+any_all_parts
+Tamanho do buffer (no início do arquivo) para detectar arquivos binários.
+Se o valor> 0, pula todos os arquivos, cujos tamanhos são maiores que este valor (em Kb).
+lexers_to_filter
+mark_style
+mark_fnd2rpl_style
+mark_replaced_style
+lex_path_style
+copy_styles
+copy_styles_max_lines
+show_progress_fragments
+Mostra os primeiros N fragmentos enquanto a pesquisa está em andamento (min 10).
+Seleção automática do primeiro fragmento encontrado.
+Se N> 0, não mostra todos os arquivos, cujos tamanhos são maiores que este N (em Kb).
+Altura da célula da grade de diálogo (min 25).
+Dialog_layout
+Largura do botão \"=\" (min 15).
+Largura do botão para alternar regex / case / words (min 30).
+Largura mínima de campos para definir arquivos / pastas (mínimo 150).
+Altura da barra de status.
+Estilos de campos da barra de status.
+Sub-diálogo \"Substituir \" x-shift
+Sub-diálogo \"Substituir \" y-shift
+Caminho completo do arquivo de log (requer reinicialização do aplicativo).
+Exploração madeireira
+Opções extras de pesquisa
+Opções para ver os resultados
+F3 / {u} F3 - fragmento seguinte / anterior, ^ F3 / ^ {u} F3 - fragmento de arquivo seguinte / anterior, Enter | DblClick - abrir.
+Resultados.
+Fonte.
+Alt + Down - histórico de padrões
+Expressão regular
+Maiúsculas e Minúsculas
+Palavras inteiras
+Use o campo de entrada multilinha
+Encontrar
+Todas as idades
+&Encontrar:
+Arquivos:
+Pular&:
+A partir de:
+Para pesquisar nas guias
+Pasta (s) do projeto carregado
+Caminho completo
+Caminho da pasta do arquivo
+Apenas o nome do arquivo, sem caminho da pasta
+Nome do arquivo sem extensão e caminho
+Extensão de arquivo
+Texto da linha atual
+Texto selecionado
+Texto da palavra atual
+DLG_HELP_KEYS
+DLG_HELP_FIND
+DLG_HELP_RPLS
+DLG_HELP_RESULTS
+DLG_HELP_SPEED
+DLG_HELP_TRICKS
+Bem-vindo à página GitHub do plugin
+seleção de pastas e arquivos
+Falhar. Use apenas para arquivo python.
+Aplique as afinações aos controles de todos os diálogos.
+&Salvar
+Cancelar
+Ajustando o alinhamento vertical do texto para pares de controle
+
+
+[cuda_macros]
+Valores repetidos em cudatext_cmd.py
+Precisa atualizar CudaText
+& Macros
+& Macros ...
+& Iniciar registro
+St & op record
+& Cancelar registro
+&Exportar...
+&Importar...
+Sem macros para exportação
+Macros CudaText | * .cuda-macros
+Exportar para
+E ...
+Verificar & tudo
+Desmarcar todos
+&Exportar
+Perto
+Macros de exportação
+Selecione alguns nomes
+Macros CudaText | * .cuda-macros | Todos os arquivos | *. *
+Importado de
+&Importar
+Macros de importação
+Importar macros:
+Pular duplicatas:
+& Parar o registro
+Atalhos e teclas ...
+Re & nomear ...
+&Excluir...
+&Corre!
+& Times
+&Espere
+s
+Enquanto o texto está pendurado
+Até c & aret na última linha
+Canc & el registro
+Mostrar ações
+Ajustar...
+Macros
+Macros de diálogo personalizado
+Altura da lista de macros (min 450)
+Largura da lista de macros (min 200)
+Largura da lista de ações (min 200, <= 0-ocultar)
+Largura dos botões (mín. 150)
+Tempos máximos de execução (min 100)
+Selecionar macro
+Novo nome para: {}
+Selecione a condição de parada
+Registro vazio
+Nome da macro. Truques: \"! NM \" sobrescrever NM, \"= NM \" mostrar NM na caixa de diálogo
+Sem macros: {}
+O tempo de reprodução da macro \"{} \" é muito longo
+Espere e mais {} s
+Continue e sem controle
+& Cancelar a reprodução [ESC]
+Reprodução macro
+Macro de reprodução

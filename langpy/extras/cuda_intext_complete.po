@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:45
+msgid "Mininal characters in selection or previous string to start completion"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:46
+msgid "Delete tail of base word after &caret"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:47
+msgid "If [x] then \"ab¦cd\" will be completed to \"ab¦123\", \"ab¦ABC\".\rIf [ ] then \"ab¦cd\" will be completed to \"ab¦cd123\", \"ab¦cdABC\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:50
+msgid "What characters will be included to completion variant.\rLetters and digits always are included."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:52
+msgid "&Expands to include both pair-chars"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:53
+msgid "Example: \"·\" is space.\rVariants for \"fun\":\r   function\r   fun=\"a·b\"\r   fun(·1,·2·)\r   fun(·1,·m()·)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:60
+msgid "Do&nt show list with single variant. Directly use the variant."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:72
+msgid "Word-like variant:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:73
+msgid "Contains e&xtra chars:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:77
+msgid "Expession-like variant:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:78
+msgid "Contains extra &signs:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:80
+msgid "An&y non-spaces"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:84
+msgid "&Minimal base length (2-5):"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:87
+msgid "Start with variant from nea&rest line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:89
+msgid "&Default values"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:90
+msgid "Save"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:91
+msgid "Cancel"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:93
+msgid "Configure \"In-text completion\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:187
+msgid "Command doesnt work with multi-carets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:191
+msgid "Command doesnt work with multi-line selection"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:257
+msgid "No data for search"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:259
+msgid "Need |base|>={}, but |\"{}\"|=={}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:334
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:362
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:416
+msgid "No in-text completions"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:398
+msgid "In-text completion #{} ({})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:413
+msgid "Need update CudaText"
+msgstr ""
+

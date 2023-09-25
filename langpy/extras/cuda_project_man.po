@@ -1,0 +1,346 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-29 20:30-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_project_man/__init__.py:18
+msgid "CudaText projects|*"
+msgstr "CudaText projetos|*"
+
+#: py/cuda_project_man/__init__.py:19
+msgid "(Unsaved project)"
+msgstr "(Projeto não salvo)"
+
+#: py/cuda_project_man/__init__.py:138
+msgid "New project"
+msgstr "Novo projeto"
+
+#: py/cuda_project_man/__init__.py:139
+msgid "Open project..."
+msgstr "Abrir projeto..."
+
+#: py/cuda_project_man/__init__.py:140 py/cuda_project_man/__init__.py:720
+msgid "Recent projects"
+msgstr "Projetos recentes"
+
+#: py/cuda_project_man/__init__.py:141
+msgid "Save project as..."
+msgstr "Salvar projeto como..."
+
+#: py/cuda_project_man/__init__.py:143
+msgid "Add folder..."
+msgstr "Adicionar pasta..."
+
+#: py/cuda_project_man/__init__.py:144
+msgid "Add file..."
+msgstr "Adicionar arquivo..."
+
+#: py/cuda_project_man/__init__.py:145
+msgid "Clear project"
+msgstr "Limpar projeto"
+
+#: py/cuda_project_man/__init__.py:146 py/cuda_project_man/__init__.py:229
+msgid "Remove node"
+msgstr "Remover nó"
+
+#: py/cuda_project_man/__init__.py:148
+msgid "New file..."
+msgstr "Novo arquivo..."
+
+#: py/cuda_project_man/__init__.py:149 py/cuda_project_man/__init__.py:154
+msgid "Rename..."
+msgstr "Renomear..."
+
+#: py/cuda_project_man/__init__.py:150
+msgid "Delete directory"
+msgstr "Excluir diretório"
+
+#: py/cuda_project_man/__init__.py:151
+msgid "New directory..."
+msgstr "Novo diretório..."
+
+#: py/cuda_project_man/__init__.py:152
+msgid "Find in directory..."
+msgstr "Encontrar no diretório..."
+
+#: py/cuda_project_man/__init__.py:155
+msgid "Delete file"
+msgstr "Excluir arquivo"
+
+#: py/cuda_project_man/__init__.py:156
+msgid "Set as main file"
+msgstr "Definir como arquivo principal"
+
+#: py/cuda_project_man/__init__.py:159
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: py/cuda_project_man/__init__.py:161
+msgid "Go to file..."
+msgstr "Ir para o arquivo..."
+
+#: py/cuda_project_man/__init__.py:162
+msgid "Project properties..."
+msgstr "Propriedades do projeto..."
+
+#: py/cuda_project_man/__init__.py:163
+msgid "Config..."
+msgstr "Configurar..."
+
+#: py/cuda_project_man/__init__.py:224
+msgid "Open project"
+msgstr "Abrir projeto"
+
+#: py/cuda_project_man/__init__.py:225
+msgid "Save project as"
+msgstr "Salvar projeto como"
+
+#: py/cuda_project_man/__init__.py:227
+msgid "Add folder"
+msgstr "Adicionar pasta"
+
+#: py/cuda_project_man/__init__.py:228
+msgid "Add file"
+msgstr "Adicionar arquivo"
+
+#: py/cuda_project_man/__init__.py:231
+msgid "Config"
+msgstr "Configurar"
+
+#: py/cuda_project_man/__init__.py:315
+msgid "Project file"
+msgstr "Arquivo do projeto"
+
+#: py/cuda_project_man/__init__.py:316
+msgid "Root nodes"
+msgstr "Nós raiz"
+
+#: py/cuda_project_man/__init__.py:318
+msgid "Selected file"
+msgstr "Arquivo selecionado"
+
+#: py/cuda_project_man/__init__.py:320
+msgid "Selected directory"
+msgstr "Diretório selecionado"
+
+#: py/cuda_project_man/__init__.py:363
+msgid "Adding to project: "
+msgstr "Adicionando ao projeto: "
+
+#: py/cuda_project_man/__init__.py:390
+msgid "New file:"
+msgstr "Novo arquivo:"
+
+#: py/cuda_project_man/__init__.py:395
+msgid "Incorrect file name"
+msgstr "Nome do arquivo incorreto"
+
+#: py/cuda_project_man/__init__.py:409
+msgid "Rename to"
+msgstr "Renomear para"
+
+#: py/cuda_project_man/__init__.py:424
+msgid "Renamed to: "
+msgstr "Renomeado para: "
+
+#: py/cuda_project_man/__init__.py:428
+msgid "Delete file from disk:\n"
+msgstr "Excluir arquivo do disco:\n"
+
+#: py/cuda_project_man/__init__.py:437
+msgid "Deleted file: "
+msgstr "Excluir arquivo: "
+
+#: py/cuda_project_man/__init__.py:449
+msgid "Delete directory from disk:\n"
+msgstr "Excluir diretório do disco:\n"
+
+#: py/cuda_project_man/__init__.py:458
+msgid "Deleted dir: "
+msgstr "Excluir diretório: "
+
+#: py/cuda_project_man/__init__.py:464
+msgid "New directory"
+msgstr "Novo diretório"
+
+#: py/cuda_project_man/__init__.py:477
+msgid "Called \"Find in Files\" for \"%s\""
+msgstr "\"Find in Files\" chamado por \"%s\""
+
+#: py/cuda_project_man/__init__.py:482
+msgid "Called \"Find in Files 4\" for \"%s\""
+msgstr "\"Find in Files 4\" chamado por \"%s\""
+
+#: py/cuda_project_man/__init__.py:489
+msgid "Plugin \"Find in Files\" or \"Find in Files 4\" is not installed, install it first"
+msgstr "O plugin \"Find in Files\" ou \"Find in Files 4\" não está instalado, instale-o primeiro"
+
+#: py/cuda_project_man/__init__.py:591
+msgid "Loading project: "
+msgstr "Carregando projeto: "
+
+#: py/cuda_project_man/__init__.py:607
+msgid "Project opened: "
+msgstr "Projeto aberto: "
+
+#: py/cuda_project_man/__init__.py:609
+msgid "Project filename is not found: "
+msgstr "O nome do arquivo do projeto não foi encontrado: "
+
+#: py/cuda_project_man/__init__.py:663
+msgid "Saving project: "
+msgstr "Salvando projeto: "
+
+#: py/cuda_project_man/__init__.py:664
+msgid "Project saved"
+msgstr "Projeto salvo"
+
+#: py/cuda_project_man/__init__.py:744 py/cuda_project_man/__init__.py:763
+msgid "Project Manager: folder is locked: "
+msgstr "Gerenciador de Projetos: a pasta está bloqueada: "
+
+#: py/cuda_project_man/__init__.py:756
+msgid "Project Manager: folder not found: "
+msgstr "Gerenciador de Projetos: a pasta não foi encontrada: "
+
+#: py/cuda_project_man/__init__.py:785
+msgid "ProjectManager: saving options"
+msgstr "Gerenciador de Projetos: opções de salvamento"
+
+#: py/cuda_project_man/__init__.py:805 py/cuda_project_man/__init__.py:966
+msgid "Project not loaded"
+msgstr "Projeto não carregado"
+
+#: py/cuda_project_man/__init__.py:937 py/cuda_project_man/__init__.py:1122
+#: py/cuda_project_man/__init__.py:1155
+msgid "Project not opened"
+msgstr "Projeto não aberto"
+
+#: py/cuda_project_man/__init__.py:942 py/cuda_project_man/__init__.py:1160
+msgid "Project is empty"
+msgstr "Projeto está vazio"
+
+#: py/cuda_project_man/__init__.py:950
+msgid "Go to file"
+msgstr "Ir para o arquivo"
+
+#: py/cuda_project_man/__init__.py:960
+msgid "Jumping to: "
+msgstr "Pular para: "
+
+#: py/cuda_project_man/__init__.py:972
+msgid "Cannot jump to file: "
+msgstr "Não foi possível pular para o arquivo: "
+
+#: py/cuda_project_man/__init__.py:1054
+msgid "Project Manager: bad icons folder name: \"%s\""
+msgstr "Gerenciador de Projetos: nome da pasta de ícones ruim: \"%s\""
+
+#: py/cuda_project_man/__init__.py:1057
+msgid "Project Manager: bad icons size: \"%s\""
+msgstr "Gerenciador de Projetos: tamanho dos ícones ruim: \"%s\""
+
+#: py/cuda_project_man/__init__.py:1090
+msgid "ProjectManager: incorrect filetype icon:"
+msgstr "Gerenciador de Projetos: ícone do tipo de arquivo incorreto:"
+
+#: py/cuda_project_man/__init__.py:1127 py/cuda_project_man/__init__.py:1136
+msgid "Project main file is not set"
+msgstr "Arquivo principal do projeto não está definido"
+
+#: py/cuda_project_man/__init__.py:1163
+msgid "Open all %d file(s) in editor?"
+msgstr "Abrir todos os %d arquivo(s) no editor?"
+
+#: py/cuda_project_man/projman_dlg.py:58
+msgid "Ignore &files:"
+msgstr "Ignorar ar&quivos:"
+
+#: py/cuda_project_man/projman_dlg.py:61
+msgid "Ignore fold&ers:"
+msgstr "Ignorar pas&tas:"
+
+#: py/cuda_project_man/projman_dlg.py:64
+msgid "Ignore all &hidden files/folders"
+msgstr "Ignorar todos arquivos/diretórios ocultos"
+
+#: py/cuda_project_man/projman_dlg.py:67
+msgid "&Recent projects:"
+msgstr "Projetos &recentes:"
+
+#: py/cuda_project_man/projman_dlg.py:70
+msgid "&Load on app start, reopen last project (*)"
+msgstr "Carregar na inicialização do programa, reabrir o último projeto (*)"
+
+#: py/cuda_project_man/projman_dlg.py:72
+msgid "&Show toolbar"
+msgstr "E&xibir a barra de ferramentas"
+
+#: py/cuda_project_man/projman_dlg.py:74
+msgid "Open file after \"&Go to file\" command"
+msgstr "Abrir o arquivo após o comando \"&Ir para o arquivo\""
+
+#: py/cuda_project_man/projman_dlg.py:76
+msgid "&Use \"preview tab\" on item clicking"
+msgstr "&Utilizar \"visualização de guia\" ao clicar no item"
+
+#: py/cuda_project_man/projman_dlg.py:78
+msgid "Open files by &double-click"
+msgstr "Abrir arquivos com clique &duplo"
+
+#: py/cuda_project_man/projman_dlg.py:80
+msgid "On opening file in Git/SVN repo, create project from repo (*)"
+msgstr "Ao abrir o arquivo no repositório Git/SVN, criar um projeto a partir do repositório (*)"
+
+#: py/cuda_project_man/projman_dlg.py:83
+msgid "File type icons:"
+msgstr "Ícones do tipo de arquivo:"
+
+#: py/cuda_project_man/projman_dlg.py:89
+msgid "Toolbar icons:"
+msgstr "Ícones da barra de ferramentas:"
+
+#: py/cuda_project_man/projman_dlg.py:95
+msgid "For more icons, get add-ons of kind \"filetypeicons\", \"projtoolbaricons\""
+msgstr "Para mais ícones, obter complementos do tipo \"filetypeicons\", \"projtoolbaricons\""
+
+#: py/cuda_project_man/projman_dlg.py:96
+msgid "(*) - requires CudaText restart"
+msgstr "(*) - precisa reiniciar o CudaText"
+
+#: py/cuda_project_man/projman_dlg.py:97 py/cuda_project_man/projman_dlg.py:147
+msgid "&OK"
+msgstr "&OK"
+
+#: py/cuda_project_man/projman_dlg.py:98 py/cuda_project_man/projman_dlg.py:148
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_project_man/projman_dlg.py:101
+msgid "Project Manager options"
+msgstr "Opções do Gerenciador de Projetos"
+
+#: py/cuda_project_man/projman_dlg.py:143
+msgid "&Variables (in form Name=Value)"
+msgstr "&Variáveis (na forma Nome=Valor)"
+
+#: py/cuda_project_man/projman_dlg.py:145
+msgid "&Main file (read-only, change in context menu)"
+msgstr "&Arquivo principal (somente-leitura, alterar no menu de contexto)"
+
+#: py/cuda_project_man/projman_dlg.py:151
+msgid "Project properties"
+msgstr "Propriedades do projeto"

@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:44-0300\n"
+"PO-Revision-Date: 2021-07-25 17:53-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_sync_editing/__init__.py:94
+msgid "Sync Editing: Need single caret"
+msgstr "Edição Sincronizada: É necessário cursor único"
+
+#: py/cuda_sync_editing/__init__.py:99
+msgid "Sync Editing: Make selection first"
+msgstr "Edição Sincronizada: Selecione primeiro"
+
+#: py/cuda_sync_editing/__init__.py:146 py/cuda_sync_editing/__init__.py:179
+msgid "Sync Editing: Cannot find IDs in selection"
+msgstr "Edição Sincronizada: Não foi possível encontrar IDs na seleção"
+
+#: py/cuda_sync_editing/__init__.py:186
+msgid "Sync Editing: Need several IDs in selection"
+msgstr "Edição Sincronizada: É necessário vários IDs na seleção"
+
+#: py/cuda_sync_editing/__init__.py:202
+msgid "Sync Editing: Cancel? Click somewhere else to cancel, or on ID to continue."
+msgstr "Edição Sincronizada: Cancelar? Clique em outro lugar para cancelar, ou em ID para continuar."
+
+#: py/cuda_sync_editing/__init__.py:204
+msgid "Sync Editing: Click on ID to edit it, or somewhere else to cancel"
+msgstr "Edição Sincronizada: Clique no ID para editar, ou"
+
+#: py/cuda_sync_editing/__init__.py:266
+msgid "Sync Editing: Cancelled"
+msgstr "Edição Sincronizada: Cancelada"
+
+#: py/cuda_sync_editing/__init__.py:290
+msgid "Sync Editing: Not a word! Click another, or click somewhere else again"
+msgstr "Edição Sincronizada: Não é uma palavra! Clique em outro, ou"
+
+#: py/cuda_sync_editing/__init__.py:298
+msgid "Do you want to cancel Sync Editing mode?"
+msgstr "Deseja cancelar o modo de Edição Sincronizada?"
+
+#: py/cuda_sync_editing/__init__.py:423
+msgid ""
+"To configure Sync Editing, open lexer-specific config in CudaText (Options / Settings-more / Settings lexer specific) and write there options: case sensitive, regular expression for identifiers:\n"
+"\n"
+"  \"case_sens\": true, // case sensitive search\n"
+"  \"id_regex\": \"\\w+\", // regex to find id's\n"
+"  \"id_styles\": \"(?i)id[\\w\\s]*\", // use tokens with these styles\n"
+"  \"id_styles_no\": \"(?i).*keyword.*\", // ignore tokens with these styles\n"
+"  \"syncedit_naive_mode\": false, // use 'naive' algorithm (search without lexer analysis, e.g. for plain text)\n"
+"\n"
+"Also you can write to CudaText's user.json these options:\n"
+"\n"
+"  \"syncedit_mark_words\": true, // allows fancy colorizing of words in selection\n"
+"  \"syncedit_ask_to_exit\": true, // show confirmation before auto-cancelling\n"
+msgstr ""
+"Para configurar a Edição Sincronizada, abrir a configuração específica do lexer no CudaText (Opções / Configurações - Específicas do lexer) e escrever as opções: distinção entre maiúsculas e minúsculas, expressão regular para identificadores:\n"
+"\n"
+"   \"case_sens\": true, // pesquisar com distinção entre maiúsculas e minúsculas\n"
+"   \"id_regex\": \"\\w+\", // expressão regular para encontrar id's\n"
+"   \"id_styles\": \"(?i)id [\\w\\s]*\", // usar tokens com esses estilos\n"
+"   \"id_styles_no\": \"(?i).*keyword.*\", // ignorar tokens com esses estilos\n"
+"   \"syncedit_naive_mode\": false, // usar o algoritmo 'ingênuo' (pesquisar sem análise lexer, p. ex. para texto simples)\n"
+"\n"
+"Além disso, você pode escrever no user.json do CudaText estas opções:\n"
+"\n"
+"   \"syncedit_mark_words\": true, // permitir colorização de palavras na seleção\n"
+"   \"syncedit_ask_to_exit\": true, // exibir confirmação antes do cancelamento automático\n"

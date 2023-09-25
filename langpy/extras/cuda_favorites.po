@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-08-10 23:37-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_favorites/cd_favs.py:60
+msgid "No favorite at #{}"
+msgstr "Nenhum favorito em #{}"
+
+#: py/cuda_favorites/cd_favs.py:65 py/cuda_favorites/cd_favs.py:160
+msgid "Not exist: {}"
+msgstr "Não existe: {}"
+
+#: py/cuda_favorites/cd_favs.py:75
+msgid "Project Manager plugin not installed"
+msgstr "Plug-in Gerenciador de Projetos não instalado"
+
+#: py/cuda_favorites/cd_favs.py:83
+msgid "Project Manager has no opened project"
+msgstr "Gerenciador de Projetos não tem projeto aberto"
+
+#: py/cuda_favorites/cd_favs.py:91
+msgid "Already in Favorites: "
+msgstr "Já está nos favoritos: "
+
+#: py/cuda_favorites/cd_favs.py:95
+msgid "Added to Favorites: "
+msgstr "Adicionado aos favoritos: "
+
+#: py/cuda_favorites/cd_favs.py:205
+msgid "Open file/project and close dialog.\rShift+Click to open without dialog closing"
+msgstr "Abrir arquivo/projeto e fechar a caixa de diálogo. \rShift+Clique para abrir sem fechar a caixa de diálogo"
+
+#: py/cuda_favorites/cd_favs.py:207
+msgid "Choose file to append.\rShift+Click to choose folder"
+msgstr "Escolher arquivo para anexar. \rShift+Clique para escolher pasta"
+
+#: py/cuda_favorites/cd_favs.py:209
+msgid "Files"
+msgstr "Arquivos"
+
+#: py/cuda_favorites/cd_favs.py:209
+msgid "Projects"
+msgstr "Projetos"
+
+#: py/cuda_favorites/cd_favs.py:213
+msgid "Favorites 1.2"
+msgstr "Favoritos 1.2"
+
+#: py/cuda_favorites/cd_favs.py:221
+msgid "&Open"
+msgstr "&Abrir"
+
+#: py/cuda_favorites/cd_favs.py:223
+msgid "&Add opened"
+msgstr "&Adicionar aberto"
+
+#: py/cuda_favorites/cd_favs.py:224
+msgid "Add&..."
+msgstr "Adicionar&..."
+
+#: py/cuda_favorites/cd_favs.py:226
+msgid "&Delete"
+msgstr "&Excluir"
+
+#: py/cuda_favorites/cd_favs.py:227
+msgid "Move &up"
+msgstr "Mover para &cima"
+
+#: py/cuda_favorites/cd_favs.py:228
+msgid "Move do&wn"
+msgstr "Mover para bai&xo"
+
+#: py/cuda_favorites/cd_favs.py:229
+msgid "Show &paths"
+msgstr "Exibir &caminhos"
+
+#: py/cuda_favorites/cd_favs.py:230
+msgid "&?"
+msgstr "&?"
+
+#: py/cuda_favorites/cd_favs.py:231
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_favorites/cd_favs.py:256
+msgid "• Quick opening.\rUse Alt+1, Alt+2, ..., Alt+9\ror Ctrl+1, Ctrl+2, ..., Ctrl+9\rto quickly open item by its index (1, 2, ... 9).\r \r• Import favorites from SynWrite. \rTo import favorites list from SynWrite, browse for file \"SynFav.ini\".\rThis file is located in the \"Settings\" subfolder of SynWrite."
+msgstr "• Abertura rápida.\rUtilizar Alt+1, Alt+2, ..., Alt+9\rou Ctrl+1, Ctrl+2, ..., Ctrl+9\rpara abrir o item rapidamente pelo seu índice (1, 2 , ... 9).\r \r• Importar favoritos do SynWrite.\rPara importar a lista de favoritos do SynWrite, navegar até o arquivo \"SynFav.ini\".\rEste arquivo está localizado na subpasta \"Settings\" do SynWrite."
+
+#: py/cuda_favorites/cd_kv_base.py:532
+msgid "Fail. Use only for python file."
+msgstr "Falha. Utilizar somente para arquivo python."
+
+#: py/cuda_favorites/cd_kv_dlg.py:1880
+msgid "Apply the tunings to controls of all dialogs."
+msgstr "Aplicar os ajustes aos controles de todos os diálogos."
+
+#: py/cuda_favorites/cd_kv_dlg.py:1928
+msgid "&Save"
+msgstr "&Salvar"
+
+#: py/cuda_favorites/cd_kv_dlg.py:1929
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_favorites/cd_kv_dlg.py:1932
+msgid "Tuning text vertical alignment for control pairs"
+msgstr "Ajustar o alinhamento vertical do texto para pares de controle"

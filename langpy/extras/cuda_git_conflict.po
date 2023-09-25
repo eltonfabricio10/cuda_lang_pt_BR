@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:49
+msgid "No conflicts found"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:62
+msgid "Current change"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:62
+msgid "Incoming change"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:64
+msgid "empty"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:65
+msgid "lines {}-{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:66
+msgid "line "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:69
+msgid "Both"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_git_conflict/__init__.py:72
+msgid "Git Conflict Solver"
+msgstr ""
+

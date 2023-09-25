@@ -1,0 +1,443 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-05 17:42-0300\n"
+"PO-Revision-Date: 2021-08-12 20:45-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#: .\py\cuda_addonman\__init__.py:126 .\py\cuda_addonman\__init__.py:149
+#: .\py\cuda_addonman\__init__.py:220 .\py\cuda_addonman\__init__.py:452
+msgid "Downloading list..."
+msgstr "Baixando a lista..."
+
+#: .\py\cuda_addonman\__init__.py:130 .\py\cuda_addonman\__init__.py:153
+#: .\py\cuda_addonman\__init__.py:224 .\py\cuda_addonman\__init__.py:456
+msgid "Cannot download list"
+msgstr "Não foi possível baixar a lista"
+
+#: .\py\cuda_addonman\__init__.py:140
+msgid "Folder to save files:"
+msgstr "Pasta para os salvar arquivos:"
+
+#: .\py\cuda_addonman\__init__.py:146
+msgid "Cannot create dir: "
+msgstr "Não foi possível criar o diretório: "
+
+#: .\py\cuda_addonman\__init__.py:169
+msgid "(got {} of {} files)"
+msgstr "(obteve {} de {} arquivos)"
+
+#: .\py\cuda_addonman\__init__.py:173
+msgid "Downloading: {}/{}"
+msgstr "Baixando: {}/{}"
+
+#: .\py\cuda_addonman\__init__.py:186
+msgid "Cannot download file: "
+msgstr "Não foi possível baixar o arquivo: "
+
+#: .\py\cuda_addonman\__init__.py:191
+msgid "Download complete"
+msgstr "Download concluído"
+
+#: .\py\cuda_addonman\__init__.py:191
+msgid "Download stopped "
+msgstr "Download interrompido "
+
+#: .\py\cuda_addonman\__init__.py:193
+msgid ""
+"\n"
+"Errors occured, see Python console"
+msgstr ""
+"\n"
+"Ocorreram erros, veja o console do Python"
+
+#: .\py\cuda_addonman\__init__.py:219
+msgid "Install"
+msgstr "Instalar"
+
+#: .\py\cuda_addonman\__init__.py:237
+msgid "<Category>"
+msgstr "<Categoria>"
+
+#: .\py\cuda_addonman\__init__.py:254
+msgid "Category"
+msgstr "Categoria"
+
+#: .\py\cuda_addonman\__init__.py:267
+msgid " / Category \"{}\""
+msgstr " / Categoria \"{}\""
+
+#: .\py\cuda_addonman\__init__.py:294
+msgid ""
+"Add-on \"{}\" requires:\n"
+"\n"
+"{}\n"
+"\n"
+"Requirements will be auto-installed. Proceed?"
+msgstr ""
+"O complemento \"{}\" requer:\n"
+"\n"
+"{}\n"
+"\n"
+"Os requisitos serão instalados automaticamente. Continuar?"
+
+#: .\py\cuda_addonman\__init__.py:316
+msgid "Cannot download file"
+msgstr "Não foi possível baixar o arquivo"
+
+#: .\py\cuda_addonman\__init__.py:322
+msgid "Addon installed"
+msgstr "Complemento instalado"
+
+#: .\py\cuda_addonman\__init__.py:322
+msgid "Installation cancelled"
+msgstr "Instalação cancelada"
+
+#: .\py\cuda_addonman\__init__.py:341
+msgid ": view readme"
+msgstr ": exibir leia-me"
+
+#: .\py\cuda_addonman\__init__.py:344
+msgid ": view history"
+msgstr ": exibir histórico"
+
+#: .\py\cuda_addonman\__init__.py:378
+msgid "Remove add-on"
+msgstr "Remover complemento"
+
+#: .\py\cuda_addonman\__init__.py:382
+msgid "Remove {}: {}"
+msgstr "Remover {}: {}"
+
+#: .\py\cuda_addonman\__init__.py:398
+msgid "Removed, restart program to see changes"
+msgstr "Removido, reiniciar o programa para concluir as alterações"
+
+#: .\py\cuda_addonman\__init__.py:402
+msgid "Edit"
+msgstr "Editar"
+
+#: .\py\cuda_addonman\__init__.py:406
+msgid "Opened: "
+msgstr "Aberto: "
+
+#: .\py\cuda_addonman\__init__.py:409
+msgid "Visit homepage"
+msgstr "Visitar a página"
+
+#: .\py\cuda_addonman\__init__.py:414
+msgid "Opened browser: "
+msgstr "Navegador aberto: "
+
+#: .\py\cuda_addonman\__init__.py:416
+msgid "Plugin \"%s\" doesn't have \"homepage\" field in install.inf"
+msgstr "O plugin \"%s\" não tem o campo \"homepage\" no install.inf"
+
+#: .\py\cuda_addonman\__init__.py:420
+msgid "Open readme"
+msgstr "Abrir o leia-me"
+
+#: .\py\cuda_addonman\__init__.py:426
+msgid "Plugin \"%s\" doesn't have readme"
+msgstr "O plugin \"%s\" não tem leia-me"
+
+#: .\py\cuda_addonman\__init__.py:429
+msgid "Open history"
+msgstr "Abrir o histórico"
+
+#: .\py\cuda_addonman\__init__.py:435
+msgid "Plugin \"%s\" doesn't have history"
+msgstr "O plugin \"%s\" não tem histórico"
+
+#: .\py\cuda_addonman\__init__.py:512
+msgid "Available=125"
+msgstr "Disponível=125"
+
+#: .\py\cuda_addonman\__init__.py:512
+msgid "Folder=180"
+msgstr "Pasta=180"
+
+#: .\py\cuda_addonman\__init__.py:512
+msgid "Local=125"
+msgstr "Local=125"
+
+#: .\py\cuda_addonman\__init__.py:512
+msgid "Name=260"
+msgstr "Nome=260"
+
+#: .\py\cuda_addonman\__init__.py:528
+msgid "Update"
+msgstr "Atualizar"
+
+#: .\py\cuda_addonman\__init__.py:529 .\py\cuda_addonman\__init__.py:640
+#: .\py\cuda_addonman\work_dlg_config.py:28
+#: .\py\cuda_addonman\work_github.py:54 .\py\cuda_addonman\work_github.py:135
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: .\py\cuda_addonman\__init__.py:531
+msgid "Deselect all"
+msgstr "Desmarcar"
+
+#: .\py\cuda_addonman\__init__.py:532
+msgid "Select new"
+msgstr "Marcar"
+
+#: .\py\cuda_addonman\__init__.py:535
+msgid "Update add-ons"
+msgstr "Atualizar complementos"
+
+#: .\py\cuda_addonman\__init__.py:556
+msgid "Updating addons:"
+msgstr "Atualizando complementos:"
+
+#: .\py\cuda_addonman\__init__.py:561
+msgid "Updating: [{}] {}"
+msgstr "Atualizando: [{}] {}"
+
+#: .\py\cuda_addonman\__init__.py:568
+msgid "Running \"git pull\" in \"%s\""
+msgstr "Executando \"git pull\" em \"%s\""
+
+#: .\py\cuda_addonman\__init__.py:573
+msgid "Error running Git"
+msgstr "Erro ao executar Git"
+
+#: .\py\cuda_addonman\__init__.py:574
+msgid "  Error running Git"
+msgstr "  Erro ao executar Git"
+
+#: .\py\cuda_addonman\__init__.py:589
+msgid "  Update failed: [{}] {}"
+msgstr "  A atualização falhou: [{}] {}"
+
+#: .\py\cuda_addonman\__init__.py:591
+msgid "Done"
+msgstr "Concluído"
+
+#: .\py\cuda_addonman\__init__.py:593
+msgid ", with %d fail(s)"
+msgstr ", com %d falha(s)"
+
+#: .\py\cuda_addonman\__init__.py:610
+msgid "Download add-ons"
+msgstr "Baixar complementos"
+
+#: .\py\cuda_addonman\__init__.py:620 .\py\cuda_addonman\work_github.py:105
+msgid "Downloading..."
+msgstr "Baixando..."
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:56
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:48
+msgid "Downloading: "
+msgstr "Baixando: "
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:61
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:53
+msgid "Cannot download: "
+msgstr "Não foi possível baixar: "
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:67
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:59
+msgid "Cannot find download links"
+msgstr "Não foi possível encontrar os links para download"
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:71
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:63
+msgid "Found links:"
+msgstr "Links encontrados:"
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:80
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:72
+msgid ""
+"Latest CudaText is already here.\n"
+"Local: {}\n"
+"Internet: {}"
+msgstr ""
+"A última versão do CudaText já está instalado.\n"
+"Local: {}\n"
+"Internet: {}"
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:84
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:76
+msgid ""
+"CudaText update is available.\n"
+"Local: {}\n"
+"Internet: {}\n"
+"\n"
+"Open download URL in browser?"
+msgstr ""
+"Atualização do CudaText está disponível.\n"
+"Local: {}\n"
+"Internet: {}\n"
+"\n"
+"Abrir URL do download no navegador?"
+
+#: .\py\cuda_addonman\work_cudatext_updates__fosshub.py:87
+#: .\py\cuda_addonman\work_cudatext_updates__sourceforge.py:79
+msgid "Opened download URL"
+msgstr "URL do download aberto"
+
+#: .\py\cuda_addonman\work_dlg_config.py:19
+msgid "&Default channels:"
+msgstr "&Canais padrão:"
+
+#: .\py\cuda_addonman\work_dlg_config.py:21
+msgid "&User channels:"
+msgstr "Canais do &usuário:"
+
+#: .\py\cuda_addonman\work_dlg_config.py:23
+msgid "Install: suggest &readme after"
+msgstr "Instalar: sugerir &leia-me depois"
+
+#: .\py\cuda_addonman\work_dlg_config.py:24
+msgid "Install: show &confirmation and report"
+msgstr "Instalar: exibir &confirmação e relatório"
+
+#: .\py\cuda_addonman\work_dlg_config.py:25
+msgid "&Proxy, e.g. http://proxy.myserver.com:2010"
+msgstr "&Proxy, p. ex. http://proxy.myserver.com:2010"
+
+#: .\py\cuda_addonman\work_dlg_config.py:27
+msgid "&OK"
+msgstr "&OK"
+
+#: .\py\cuda_addonman\work_dlg_config.py:31
+msgid "Addons Manager options"
+msgstr "Opções do Gerenciador de Complementos"
+
+#: .\py\cuda_addonman\work_github.py:24
+msgid "Cannot read GitHub list of branches for that repo"
+msgstr "Não foi possível ler a lista de branches para esse repositório GitHub"
+
+#: .\py\cuda_addonman\work_github.py:30
+msgid "Got empty GitHub list of branches for that repo"
+msgstr "Obteve uma lista vazia de branches para esse repositório GitHub"
+
+#: .\py\cuda_addonman\work_github.py:38
+msgid "Git branches in repo"
+msgstr "Git branches no repositório"
+
+#: .\py\cuda_addonman\work_github.py:50
+msgid "Install from GitHub"
+msgstr "Instalar a partir do GitHub"
+
+#: .\py\cuda_addonman\work_github.py:51
+msgid "&GitHub repo URL"
+msgstr "URL do repositório &GitHub"
+
+#: .\py\cuda_addonman\work_github.py:53
+msgid "OK"
+msgstr "OK"
+
+#: .\py\cuda_addonman\work_github.py:117
+msgid ""
+"Cannot install add-on due to mismatch:\n"
+" 1) install.inf \"module\":\n"
+"{}\n"
+" 2) repo name:\n"
+"{}"
+msgstr ""
+"Não foi possível instalar o complemento devido à incompatibilidade:\n"
+"1) install.inf \"módulo\":\n"
+"{}\n"
+"2) nome do repositório:\n"
+"{}"
+
+#: .\py\cuda_addonman\work_github.py:122
+msgid ""
+"GitHub repository branch \"%s\" doesn't contain valid \"install.inf\" file. "
+"Cannot proceed."
+msgstr ""
+"O branch do repositório GitHub \"%s\" não contém o arquivo \"install.inf\" "
+"válido. Não foi possível continuar."
+
+#: .\py\cuda_addonman\work_github.py:126
+msgid "This repository is already cloned to your \"py\" folder, cannot proceed"
+msgstr ""
+"Este repositório já está clonado em sua pasta \"py\", não foi possível "
+"continuar"
+
+#: .\py\cuda_addonman\work_github.py:132
+msgid "Addon Manager"
+msgstr "Gerenciador de Complementos"
+
+#: .\py\cuda_addonman\work_github.py:133
+msgid ""
+"GitHub repository can be cloned (using \"git clone\") or can be downloaded "
+"as zip file.  If you clone, Addon Manager's Update dialog will update add-on "
+"using \"git pull\", which is recommended."
+msgstr ""
+"O repositório GitHub pode ser clonado (usando \"git clone\") ou pode ser "
+"baixado como um arquivo zip. Se você clonar, a caixa de diálogo de "
+"atualização do Gerenciador de Complementos irá atualizar o complemento "
+"usando \"git pull\", o que é recomendado."
+
+#: .\py\cuda_addonman\work_github.py:135
+msgid "Clone repo"
+msgstr "Clonar repositório"
+
+#: .\py\cuda_addonman\work_github.py:135
+msgid "Download as zip"
+msgstr "Baixar como zip"
+
+#: .\py\cuda_addonman\work_github.py:146
+msgid "Error running Git command"
+msgstr "Erro ao executar o comando Git"
+
+#: .\py\cuda_addonman\work_github.py:152
+msgid ""
+"Repo was cloned.\n"
+"Restart CudaText to make this plugin visible."
+msgstr ""
+"O repositório foi clonado.\n"
+"Reiniciar o CudaText para concluir a instalação."
+
+#: .\py\cuda_addonman\work_github.py:154
+msgid "Could not clone the repo"
+msgstr "Não foi possivel clonar o repositório"
+
+#: .\py\cuda_addonman\work_github.py:161
+msgid "Cannot download zip file"
+msgstr "Não foi possível baixar o arquivo zip"
+
+#: .\py\cuda_addonman\work_local.py:115
+msgid "Cannot remove folder:\n"
+msgstr "Não foi possível remover a pasta:\n"
+
+#: .\py\cuda_addonman\work_remote.py:43
+msgid ""
+"Cannot download:\n"
+"{}\n"
+"{}\n"
+"\n"
+"Retry?"
+msgstr ""
+"Não foi possível baixar:\n"
+"{}\n"
+"{}\n"
+"Repetir?"
+
+#: .\py\cuda_addonman\work_remote.py:87
+msgid "  getting:"
+msgstr "  recebendo:"
+
+#: .\py\cuda_addonman\work_remote.py:90
+msgid "  cached:"
+msgstr "  em cache:"
+
+#: .\py\cuda_addonman\work_remote.py:106
+msgid "Read channels:"
+msgstr "Ler canais:"

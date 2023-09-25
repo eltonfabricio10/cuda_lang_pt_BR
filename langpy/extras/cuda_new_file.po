@@ -1,0 +1,33 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-28 18:06-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_new_file/__init__.py:14
+msgid "No files in data/newdoc"
+msgstr "Sem arquivos em data/newdoc"
+
+#: py/cuda_new_file/__init__.py:29
+msgid "Templates"
+msgstr "Modelos"
+
+#: py/cuda_new_file/__init__.py:39
+msgid "Templates: {}"
+msgstr "Modelos: {}"
+
+#: py/cuda_new_file/__init__.py:43
+msgid "New file from \"{}\", lexer \"{}\""
+msgstr "Novo arquivo de \"{}\", lexer \"{}\""

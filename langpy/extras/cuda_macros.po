@@ -1,0 +1,311 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-08-12 20:54-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_macros/cd_macros.py:59
+msgid "Repeated values in cudatext_cmd.py"
+msgstr "Valores repetidos em cudatext_cmd.py"
+
+#: py/cuda_macros/cd_macros.py:88 py/cuda_macros/cd_macros.py:131
+#: py/cuda_macros/cd_macros.py:223 py/cuda_macros/cd_macros.py:285
+msgid "Need update CudaText"
+msgstr "É necessário atualizar o CudaText"
+
+#: py/cuda_macros/cd_macros.py:103
+msgid "&Macros"
+msgstr "&Macros"
+
+#: py/cuda_macros/cd_macros.py:105
+msgid "&Macros..."
+msgstr "&Macros..."
+
+#: py/cuda_macros/cd_macros.py:108 py/cuda_macros/cd_macros.py:338
+msgid "&Start record"
+msgstr "&Iniciar gravação"
+
+#: py/cuda_macros/cd_macros.py:110
+msgid "St&op record"
+msgstr "Pa&rar gravação"
+
+#: py/cuda_macros/cd_macros.py:112
+msgid "&Cancel record"
+msgstr "&Cancelar gravação"
+
+#: py/cuda_macros/cd_macros.py:115
+msgid "&Export..."
+msgstr "&Exportar..."
+
+#: py/cuda_macros/cd_macros.py:117
+msgid "&Import..."
+msgstr "&Importar..."
+
+#: py/cuda_macros/cd_macros.py:132
+msgid "No macros for export"
+msgstr "Sem macros para exportação"
+
+#: py/cuda_macros/cd_macros.py:133 py/cuda_macros/cd_macros.py:166
+msgid "CudaText macros|*.cuda-macros"
+msgstr "CudaText macros|*.cuda-macros"
+
+#: py/cuda_macros/cd_macros.py:146
+msgid "Export &to"
+msgstr "Expor&tar para"
+
+#: py/cuda_macros/cd_macros.py:148 py/cuda_macros/cd_macros.py:238
+msgid "&..."
+msgstr "&..."
+
+#: py/cuda_macros/cd_macros.py:150 py/cuda_macros/cd_macros.py:240
+msgid "Check &all"
+msgstr "Verificar &todos"
+
+#: py/cuda_macros/cd_macros.py:151 py/cuda_macros/cd_macros.py:241
+msgid "U&ncheck all"
+msgstr "Des&marcar todos"
+
+#: py/cuda_macros/cd_macros.py:152
+msgid "&Export"
+msgstr "&Exportar"
+
+#: py/cuda_macros/cd_macros.py:153 py/cuda_macros/cd_macros.py:243
+#: py/cuda_macros/cd_macros.py:359
+msgid "Close"
+msgstr "Fechar"
+
+#: py/cuda_macros/cd_macros.py:160
+msgid "Export macros"
+msgstr "Exportar macros"
+
+#: py/cuda_macros/cd_macros.py:176 py/cuda_macros/cd_macros.py:269
+msgid "Select some names"
+msgstr "Selecionar alguns nomes"
+
+#: py/cuda_macros/cd_macros.py:186
+msgid "CudaText macros|*.cuda-macros|All file|*.*"
+msgstr "CudaText macros|*.cuda-macros|Todos os arquivos|*.*"
+
+#: py/cuda_macros/cd_macros.py:191 py/cuda_macros/cd_macros.py:213
+msgid ""
+"No macros in file\n"
+"  {}\n"
+"\n"
+"Choose another file?"
+msgstr ""
+"Sem macros no arquivo\n"
+"  {}\n"
+"\n"
+"Escolher outro arquivo?"
+
+#: py/cuda_macros/cd_macros.py:198
+msgid ""
+"Macros from\n"
+"  \"{}\"\n"
+"are recorded in CudaText with version\n"
+"  \"{}\"\n"
+"Your CudaText has older version\n"
+"  \"{}\"\n"
+"\n"
+"No guarantee of correct working!\n"
+"\n"
+"Continue import?"
+msgstr ""
+"Macros de\n"
+"  \"{}\"\n"
+"são gravados no CudaText com a versão\n"
+"  \"{}\"\n"
+"Seu CudaText tem uma versão mais antiga\n"
+"  \"{}\"\n"
+"\n"
+"Nenhuma garantia de funcionamento correto!\n"
+"\n"
+"Continuar a importação?"
+
+#: py/cuda_macros/cd_macros.py:236
+msgid "Import &from"
+msgstr "Impo&rtar de"
+
+#: py/cuda_macros/cd_macros.py:242
+msgid "&Import"
+msgstr "&Importar"
+
+#: py/cuda_macros/cd_macros.py:250
+msgid "Import macros"
+msgstr "Importar macros"
+
+#: py/cuda_macros/cd_macros.py:274
+msgid "Import macros:"
+msgstr "Importar macros:"
+
+#: py/cuda_macros/cd_macros.py:276
+msgid "Skip duplicates:"
+msgstr "Pular duplicados:"
+
+#: py/cuda_macros/cd_macros.py:338
+msgid "&Stop record"
+msgstr "&Parar gravação"
+
+#: py/cuda_macros/cd_macros.py:344
+msgid "Hot&keys..."
+msgstr "Teclas de atal&ho..."
+
+#: py/cuda_macros/cd_macros.py:345
+msgid "Re&name..."
+msgstr "Re&nomear..."
+
+#: py/cuda_macros/cd_macros.py:346
+msgid "&Delete..."
+msgstr "&Excluir..."
+
+#: py/cuda_macros/cd_macros.py:347
+msgid "&Run!"
+msgstr "&Executar!"
+
+#: py/cuda_macros/cd_macros.py:348
+msgid "&Times"
+msgstr "&Tempo"
+
+#: py/cuda_macros/cd_macros.py:350
+msgid "&Wait"
+msgstr "&Aguardar"
+
+#: py/cuda_macros/cd_macros.py:352
+msgid "sec"
+msgstr "seg"
+
+#: py/cuda_macros/cd_macros.py:353
+msgid "While text c&hanges"
+msgstr "Enquanto o texto está pendurado"
+
+#: py/cuda_macros/cd_macros.py:354
+msgid "Until c&aret on last line"
+msgstr "Até o cur&sor na última linha"
+
+#: py/cuda_macros/cd_macros.py:356
+msgid "Canc&el record"
+msgstr "Canc&elar gravação"
+
+#: py/cuda_macros/cd_macros.py:357
+msgid "Show actions"
+msgstr "Exibir ações"
+
+#: py/cuda_macros/cd_macros.py:358
+msgid "Ad&just..."
+msgstr "A&justar..."
+
+#: py/cuda_macros/cd_macros.py:376
+msgid "Macros"
+msgstr "Macros"
+
+#: py/cuda_macros/cd_macros.py:392
+msgid "Custom dialog Macros"
+msgstr "Diálogo personalizado Macros"
+
+#: py/cuda_macros/cd_macros.py:393
+msgid "Height of macro list (min 450)"
+msgstr "Altura da lista de macros (mín. 450)"
+
+#: py/cuda_macros/cd_macros.py:394
+msgid "Width of macro list (min 200)"
+msgstr "Largura da lista de macros (mín. 200)"
+
+#: py/cuda_macros/cd_macros.py:395
+msgid "Width of action list (min 200, <=0-hide)"
+msgstr "Largura da lista de ações (mín. 200, <= 0-ocultar)"
+
+#: py/cuda_macros/cd_macros.py:396
+msgid "Width of buttons (min 150)"
+msgstr "Largura dos botões (mín. 150)"
+
+#: py/cuda_macros/cd_macros.py:397
+msgid "Max run times (min 100)"
+msgstr "Tempos máximos de execução (mín. 100)"
+
+#: py/cuda_macros/cd_macros.py:409
+msgid "Select macro"
+msgstr "Selecionar macro"
+
+#: py/cuda_macros/cd_macros.py:420 py/cuda_macros/cd_macros.py:425
+msgid "New name for: {}"
+msgstr "Novo nome para: {}"
+
+#: py/cuda_macros/cd_macros.py:424
+msgid ""
+"Select other name.\n"
+"Macro names now are:\n"
+"\n"
+msgstr ""
+"Selecionar outro nome.\n"
+"Os nomes das macros agora são:\n"
+"\n"
+
+#: py/cuda_macros/cd_macros.py:434
+msgid ""
+"Delete macro\n"
+"    {}"
+msgstr ""
+"Excluir macro\n"
+"    {}"
+
+#: py/cuda_macros/cd_macros.py:451
+msgid "Select stop condition"
+msgstr "Selecionar a condição de parada"
+
+#: py/cuda_macros/cd_macros.py:481
+msgid "Empty record"
+msgstr "Gravação vazia"
+
+#: py/cuda_macros/cd_macros.py:489
+msgid "Macro name. Tricks: \"!NM\" overwrite NM, \"=NM\" show NM in dialog"
+msgstr "Nome da macro. Truques: \"!NM \" sobrescrever NM, \"=NM \" exibir NM na caixa de diálogo"
+
+#: py/cuda_macros/cd_macros.py:511
+msgid ""
+"Select other name.\n"
+"Macros names now:\n"
+"\n"
+msgstr ""
+"Selecionar outro nome.\n"
+"Nomes de macros agora:\n"
+"\n"
+
+#: py/cuda_macros/cd_macros.py:624
+msgid "No macros: {}"
+msgstr "Sem macros: {}"
+
+#: py/cuda_macros/cd_macros.py:646
+msgid "Macro \"{}\" playback time is too long"
+msgstr "O tempo de reprodução da macro \"{} \" está muito longo"
+
+#: py/cuda_macros/cd_macros.py:647 py/cuda_macros/cd_macros.py:747
+msgid "Wait &another {} sec"
+msgstr "Aguardar outro {} seg"
+
+#: py/cuda_macros/cd_macros.py:648 py/cuda_macros/cd_macros.py:748
+msgid "Continue &without control"
+msgstr "Continuar &sem controle"
+
+#: py/cuda_macros/cd_macros.py:649 py/cuda_macros/cd_macros.py:749
+msgid "&Cancel playback [ESC]"
+msgstr "&Cancelar a reprodução [ESC]"
+
+#: py/cuda_macros/cd_macros.py:663
+msgid "Macro playback"
+msgstr "Reprodução macro"
+
+#: py/cuda_macros/cd_macros.py:751
+msgid "Playback macro"
+msgstr "Reprodução da macro"

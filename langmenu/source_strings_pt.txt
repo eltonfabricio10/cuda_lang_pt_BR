@@ -1,0 +1,877 @@
+[cuda_addonman]
+Gerente de Complementos
+Instalar...
+Atualizar...
+Editar plugin...
+Remover add-on...
+Baixar tudo...
+Download: mostrar links...
+Configurar...
+Verifique se há atualizações do CudaText
+Instalar do GitHub...
+Visite a página inicial do plugin...
+Abra o readme do plugin...
+Abrir histórico do plugin...
+
+[cuda_ascii_art]
+Arte ASCII
+Inserir texto...
+Escolha a fonte...
+Configurar
+Fontes de visualização
+
+[cuda_auto_center_line]
+Auto Center Line
+Ativar
+Desativar
+
+[cuda_auto_copy]
+Copiar automaticamente para a área de transferência
+Configurar
+
+[cuda_autoit_helper]
+AutoIt Helper
+Definir caminho AutoIt
+Mostrar docstring
+
+[cuda_auto_replace]
+Substituição automática
+Recarregar recortes
+Alterar lexers
+
+[cuda_auto_save]
+Salvar automaticamente
+Configurar
+
+[cuda_breadcrumbs]
+Breadcrumbs
+Alternar breadcrumbs
+Mostrar árvore de arquivos
+Mostrar árvore de código
+Configurar
+
+[cuda_calc_expr]
+Expressão Calc
+Seleção do Calc, substituir no editor
+Seleção do Calc, mostrar na barra de status
+Configurar
+
+[cuda_case_converter]
+Conversor de caso
+Converter para snake_case
+Converter para UPPER_CASE
+Converter para camelCase
+Converter para PascalCase
+
+[cuda_colored_indent]
+Recuo colorido
+Alternar ativo
+Recarregar Configurar
+Configurar
+
+[cuda_color_picker]
+Seletor de cores
+Escolha a cor...
+Cores recentes...
+Limpar lista recente
+
+[cuda_color_text]
+Texto colorido
+Aplicar estilo 1
+Aplicar estilo 2
+Aplicar estilo 3
+Aplicar estilo 4
+Aplicar estilo 5
+Aplicar estilo 6
+Aplicar negrito
+Aplicar itálico
+Aplicar negrito + itálico
+Aplicar tachado
+Estilo claro 1
+Estilo claro 2
+Estilo claro 3
+Estilo claro 4
+Estilo claro 5
+Estilo claro 6
+Limpar todos os estilos
+Limpar todos os estilos na seleção
+Configurar
+
+[cuda_column_marks]
+Marcas da coluna
+Definir margem fixa...
+Definir margens adicionais...
+Pular para a esquerda
+Pular para a direita
+
+[cuda_comments]
+Comentários
+Alternar comentário de linha, no início da linha
+Alternar comentário de linha, sem espaço char
+Adicionar comentário de linha, no início da linha
+Adicionar comentário de linha, sem espaço char
+Remover comentário de linha
+Alternar comentário de fluxo
+Configurar...
+
+[cuda_complete_from_text]
+Completar a partir do texto
+Configurar
+
+[cuda_Configurar_toolbar]
+Configurar a Barra de ferramentas
+Configurar os botões...
+Ocultar os botões padrão...
+Escolher os ícones da barra de ferramentas principal...
+Escolher os ícones da barra lateral...
+Escolher os ícones da árvore de código...
+
+[cuda_console_complete]
+Auto-completar do console
+Completo
+Configurar
+
+[cuda_css_caniuse]
+CSS CanIUse
+
+[cuda_css_inspector]
+Inspetor...
+
+[cuda_css_property_info]
+Informações de propriedade...
+Configurar
+
+[cuda_css_toc]
+Índice...
+Criar seção
+Criar subseção
+Criar sub-seção
+Criar...
+
+[cuda_csv_hilite]
+CSV Helper
+Inserir coluna
+Inserir coluna, mais à direita
+Excluir coluna atual
+Mova a coluna atual para a esquerda
+Mova a coluna atual para a direita
+Definir separador para o documento atual...
+Configurar
+
+[cuda_dash_help]
+Ajuda do Dash
+Sensível à sintaxe, em primeiro plano
+Sensível à sintaxe, em segundo plano
+Ignorar sintaxe, em primeiro plano
+Ignorar sintaxe, em segundo plano
+
+[cuda_detect_indent]
+
+[cuda_devdocs]
+DevDocs
+Pesquisa por entrada
+Pesquisa por texto
+
+[cuda_differ]
+Diferem
+Escolha os arquivos...
+Comparar o arquivo atual com...
+Atualizar
+Concentre-se no arquivo oposto
+Selecione a diferença atual
+Pule para a próxima diferença
+Saltar para a diferença anterior
+Copie a diferença atual para a direita
+Copie a diferença atual para a esquerda
+Copiar linha atual para a direita
+Copiar linha atual para a esquerda
+Configurar...
+Limpar histórico recente
+
+[cuda_docblock]
+
+[cuda_draw_lines]
+Desenhar linhas
+
+[cuda_editorConfigurar]
+
+[cuda_edits_navigation]
+Navegação das edições
+Vá para a edição anterior
+
+[cuda_ed_resize]
+Aba Grupo Resizer
+Alternar para maximizar o grupo de editores
+Minimize o grupo de editores
+Redefinir tamanhos de grupo
+Configurar
+
+[cuda_embed_ed]
+Editor Embutido
+Alternar
+Configurar
+Padrões de Configuraruração
+
+[cuda_emmet]
+Emmet
+Abreviatura de expansão
+Quebrar com abreviatura...
+Diálogo...
+Mostrar ajuda HTML
+
+[cuda_emmet_lite]
+Emmet Lite
+Abreviatura de expansão
+Envolva com abreviatura
+Selecione o perfil...
+Help
+
+[cuda_encode]
+Codificar
+HTML Entitize
+HTML Deentitize
+CSS Escape
+CSS Unescape
+XML Entitize
+XML Deentitize
+Safe HTML Entitize
+Desentitizar HTML seguro
+JSON Escape
+JSON Unescape
+Codificação de...
+Decodificação de...
+Base
+Codificação para impressão entre aspas
+Decodificação para impressão entre aspas
+Codificação de escape Unicode
+Decodificação de escape Unicode
+Misc
+ROT
+Hash
+Unicode Normalize
+Codificação Base64
+Decodificação Base64
+Codificação Base32
+Decodificação Base32
+Codificação Base16
+Decodificação Base16
+Escape regex
+Escape% _
+Decimal para Hexadecimal
+Hexadecimal para Decimal
+ROT13
+ROT18
+ROT47
+MD5
+SHA256
+SHA512
+NFC: Compose
+NFD: Decompor
+NFKC: Compor
+NFKD: Decompor
+
+[cuda_explorer_integration]
+Integração do Explorer
+
+[cuda_extended_selection]
+Seleção estendida
+Alternar seleção
+Configurar
+
+[cuda_extract_strings]
+Extrair Strings
+Extrair Strings...
+Linhas de filtro...
+Extrair e-mails para nova...
+
+[cuda_file_type_profile]
+Perfil de tipo de arquivo
+Configurar
+
+[cuda_file_uri_handler]
+
+[cuda_fmt]
+CudaFormatter
+Formatador (menu)
+Formatador A
+Formatador B
+Formatador C
+Formatador D
+Configurarurar rótulos...
+Configurarurar on_save...
+Configurarurar formatador...
+Configurarurar formatador (local)...
+
+[cuda_focus_mode]
+Modo de foco
+Configurar
+
+[cuda_fontawesome]
+Fonte incrível
+Configurar
+
+[cuda_fonts]
+
+[cuda_fountain_helper]
+Ajudante de fonte
+Lista de personagens...
+Caractere sob circunflexo...
+Lista de cenas...
+Extrair diálogo de personagem...
+Pré-visualizar no navegador
+
+[cuda_ftp]
+FTP
+Mostrar painel
+Menu "Conectar"
+Conectar pelo rótulo...
+Conectar pelo rótulo...
+Conectar pelo rótulo...
+Conectar pelo rótulo...
+Conectar pelo rótulo...
+Conectar pelo rótulo...
+
+[cuda_ftp_libs_py35]
+
+[cuda_ftp_libs_py36]
+
+[cuda_ftp_libs_py37]
+
+[cuda_git_status]
+Status...
+Configurar
+
+[cuda_hash_gen]
+Gerador de hash
+
+[cuda_hex_dump]
+Hex Dump
+Despejar UTF16-LE
+Despejar UTF16-BE
+Despejar ASCII
+
+[cuda_hilite_occurrences]
+& Destacar ocorrências
+Destacar ocorrências
+Mover para a & primeira ocorrência
+Mover para a & última ocorrência
+Mover para & ocorrência anterior
+Mover para a & próxima ocorrência
+Selecionar & todas as ocorrências
+Configurar...
+
+[cuda_hilite_vars]
+Variáveis ​​de destaque
+Configurar
+
+[cuda_html_completion]
+
+[cuda_html_live_preview]
+HTML Live Preview
+Iniciar servidor
+Parar servidor
+Abrir janela do navegador
+Configurar
+
+[cuda_html_ops]
+HTML...
+Pré-visualizar HTML no navegador
+Adicionar nova tag ou envolver a seleção na tag (como Sublime)
+Seleção de HTML para classes CSS, copiar para a área de transferência
+Seleção de HTML para classes CSS, copiar para a área de transferência, compact
+Converter seleção px <->...
+Insira a tag <img> (ou linhas css) com informações da imagem
+Converter linhas para lista
+Validador HTML online
+Wrap in...
+Aumentar valor
+Diminuir valor
+Padrão, nova guia
+Padrão, nova janela
+Chrome, nova guia
+Chrome, nova janela
+Firefox, nova guia
+Firefox, nova janela
+Safari, nova guia
+Safari, nova janela
+Opera, nova...
+Opera, nova janela
+Padrão do Windows, nova guia
+Padrão do Windows, nova janela
+Para lista ordenada
+Para lista não ordenada
+Para mesa, por linhas
+Para a tabela, por colunas
+HTML5
+HTML4
+HTML4 Transicional
+<b>
+<i>
+<u>
+<p>
+<div>
+<span>
+<pre>
+<strong>
+<em>
+<ul>
+<ol>
+<li>
+<sub>
+<sup>
+<small>
+<bdi>
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+<blockquote>
+<q>
+<cite>
+
+[cuda_html_tidy]
+HTML Tidy
+Menu...
+Validar documento
+Navegar Configurars
+Visite o site
+
+[cuda_html_tooltips]
+Dicas de ferramentas HTML
+Configurar
+
+[cuda_insert_emoji]
+Inserir Emoji
+
+[cuda_insert_pics]
+Inserir fotos
+Inserir imagem do arquivo...
+Inserir imagem da área de transferência
+Remover imagem da linha atual
+Remover todas as fotos
+
+[cuda_insert_time]
+Tempo de inserção
+Escolha o formato...
+Inserir no formato padrão
+Configurar
+
+[cuda_ip_address_helper]
+Ajudante de endereço IP
+Liga / desliga
+
+[cuda_js_multiline_array]
+Matriz JS Multiline
+Substitua a seleção por código
+Converter seleção, copiar para a área de transferência
+
+[cuda_lexer_detecter]
+
+[cuda_lint]
+CudaLint
+Lint
+Lint, vá para a primeira marca
+Configurar...
+Desativar, limpar marcas
+Habilitar
+
+[cuda_lorem]
+Lorem Ipsum
+
+[cuda_lsp]
+Cliente...
+; Cliente...
+Cliente...
+Hover
+Definição
+Referências
+Implementação
+Declaração
+Definição de tipo
+Formatar documento
+Seleção de formato
+Configurarurar servidor para o projeto atual
+Símbolos do espaço de trabalho (quebrados)
+Hierarquia de chamadas (quebrada)
+Desligar servidor...
+Depurar: Lista de documentos...
+Depurar: ver as respostas do servidor (servidor atual)
+Configurar
+Editar Configurarurações do servidor...
+
+[cuda_make_plugin]
+Make Plugin
+
+[cuda_markdown_editing]
+Edição de Markdown
+Menu de referências
+Configurar
+
+[cuda_markdown_preview]
+Visualização Markdown
+Preview
+Configurarurar visualização ao vivo...
+
+[cuda_micro_utils]
+Micro Utils
+Classificar linhas por comprimento
+Soma binária, mostrar na caixa de mensagem
+Soma binária, mostrar no editor
+Converta os números da base 2 em hexadecimal NNNN_NNNN form
+
+[cuda_multi_installer]
+Multi Instalador
+
+[cuda_new_file]
+Novo Arquivo
+
+[cuda_ntfs_streams]
+Streams NTFS
+Diálogo para o arquivo atual...
+Diálogo para qualquer arquivo...
+
+[cuda_number_utils]
+Number Utils
+Inserir Números...
+Numeração de circunflexos...
+Conversor de base...
+Números romanos
+Número para palavras
+Número para palavras, Ru
+Converter decimal / romano, mostrar na barra de status
+Converter decimal / romano, substituir no editor
+Número para palavras, nova guia
+Número por palavras, substitua
+Selecione o idioma...
+Número para palavras, nova guia
+Número por palavras, substitua
+Rublos em palavras, nova guia
+Rublos em palavras, substitua
+
+[cuda_num_bookmarks]
+Marcadores numerados
+Definir favorito 1
+Definir favorito 2
+Definir favorito 3
+Definir favorito 4
+Definir favorito 5
+Definir favorito 6
+Definir marcador 7
+Definir favorito 8
+Vá para o favorito 1
+Vá para o favorito 2
+Vá para o favorito 3
+Vá para o favorito 4
+Vá para o favorito 5
+Vá para o favorito 6
+Vá para o favorito 7
+Vá para o favorito 8
+
+[cuda_online_search]
+Pesquisa Online
+Wikipedia
+Google
+Bing
+MSDN
+HTML4
+HTML5
+PHP.net
+Laravel Docs
+
+[cuda_open_url]
+URL aberto
+Abrir URL no navegador padrão
+Abrir URL no Chrome
+Abrir URL no Chrome, modo privado
+Abrir URL no Firefox
+Abrir URL no Firefox, modo privado
+Abrir URL no Opera
+Abrir URL no Opera, modo privado
+Abrir URL no IE
+Abrir URL no IE, modo privado
+Abrir URL na ferramenta-1
+Abrir URL na ferramenta-2
+Configurar
+
+[cuda_pandoc]
+Pandoc Helper
+Converter...
+
+[cuda_pass_gen]
+Gerador de senha
+Configurar
+
+[cuda_paste_as_string]
+Colar como string
+
+[cuda_plain_tasks]
+Tarefas simples
+Novo
+Completo
+Cancelar
+Arquivo
+Configurar...
+
+[cuda_prefs]
+Options Editor Lite...
+
+[cuda_project_man]
+& Gerente de Projeto
+; & Gerente de Projeto
+& Gerente de Projeto
+& Mostrar painel do projeto
+Painel do projeto & foco
+Abrir & projeto recente...
+Novo projeto, & Abrir pasta...
+& Ir para o arquivo...
+Vá para o & arquivo principal
+Abrir o & arquivo principal
+Abrir & todos os arquivos de projeto...
+& Propriedades do projeto...
+& Configurar...
+& Sincronizar com o arquivo do editor
+Adicionar ao projeto: arquivo atual
+Adicionar ao projeto: todos os arquivos abertos
+Menu de contexto
+Adicionar diretório...
+Adicionar arquivo...
+Novo projeto
+Abrir projeto...
+Salvar projeto como...
+Atualizar
+Remover nó
+Limpar projeto
+Definir como arquivo principal
+
+[cuda_python_intel]
+Python IntelliSense
+Mostrar doc-string
+Mostrar usos
+Refatoração - Renomear
+Refatoração - Inline
+Refatoração - Extrair variável
+Refatoração - Extrair função
+Selecione o interpretador Python...
+Configurar
+
+[cuda_remove_greek_accents]
+Remover acentos gregos
+
+[cuda_rest_preview]
+ReStructuredText Preview
+
+[cuda_runner]
+Runner
+Construir
+Construir com...
+Escolha a Configuraruração de compilação...
+Próxima saída
+Saída anterior
+Cancelar construção
+Configurar
+
+[cuda_show_unicode_name]
+
+[cuda_show_unsaved]
+Mostrar alterações não salvas
+
+[cuda_snippet_panel]
+Painel de trechos
+
+[cuda_snippets]
+Snippets
+Gerente de Complementos
+Snippets
+Menu de trechos...
+Adicionar / editar trechos...
+Excluir marcadores de trecho
+Instalar trechos de VSCode...
+Remover trechos de VSCode...
+Visite a página inicial de trechos de VSCode...
+Instalar trechos de VSCode...
+Remover trechos de VSCode...
+Visite a página inicial de trechos de VSCode...
+Converter pacote de trechos do formato antigo
+
+[cuda_sort]
+Classificar
+Classificar, asc.
+Classificar, desc.
+Classificar, asc., Ignorar maiúsculas e minúsculas
+Classificar, desc., Ignorar maiúsculas e minúsculas
+Classificar diálogo...
+Linhas reversas
+Linhas aleatórias
+Remover linhas duplicadas
+Remova as linhas duplicadas, mas mantenha os espaços em branco
+Remover linhas duplicadas + origens
+Remover linhas duplicadas adjacentes
+Extrair linhas duplicadas
+Extraia linhas duplicadas, ignore case
+Extraia linhas únicas
+Remover linhas em branco
+Remova as linhas em branco adjacentes
+Arquivo Ini: classificar seções e chaves
+Arquivo Ini: classificar seções, mas não chaves
+Classificar lista de e-mail por domínio
+Classificar valores separados por caracteres em linhas
+Configurar
+
+[cuda_spell_checker]
+Corretor Ortográfico
+Verifique o texto
+Verifique o texto, com sugestões
+Palavra de verificação
+Verifique palavra, com sugestões
+Remover marcas
+Ir para o próximo erro ortográfico
+Ir para o erro ortográfico anterior
+Selecione o idioma...
+Ativar / desativar a verificação ao abrir o arquivo
+Ativar / desativar verificação após edição de texto
+Configurar
+
+[cuda_spir_helper]
+
+[cuda_sqltools]
+Ferramentas...
+Executar consulta
+Executar arquivo inteiro
+Explicar plano
+Descrever função
+Descrever tabela
+Mostrar registros da tabela
+Formatar o texto da consulta
+História
+Salvar consulta
+Listar e abrir consultas salvas
+Listar e executar consultas salvas
+Listar e inserir consultas salvas
+Remover consulta salva
+Atualizar dados de conexão
+Limpar tabela + cache de função
+Selecione a conexão
+Editar Configuraruração de conexões
+Editar Configuraruração principal
+
+[cuda_suggest_new]
+
+[cuda_sum_lines]
+Linhas de soma
+
+[cuda_switch_header]
+Switch Header
+Switch Header
+Configurar
+
+[cuda_sync_editing]
+Edição de sincronização
+Ativar
+Cancelar
+Configurar
+
+[cuda_sync_scroll]
+Sync Scroll
+Alternar sincronização de rolagem vertical
+Alternar sincronização de rolagem horizontal
+
+[cuda_tab_colors]
+Cores da guia
+Configurar
+
+[cuda_tab_icons]
+Ícones de guia
+Definir ícone da guia do documento...
+Redefinir ícone da guia do documento
+Configurar
+
+[cuda_tab_rename]
+Tab-Rename
+Renomear guia atual
+Configurar
+
+[cuda_tabs_list]
+Lista de abas
+Aberto
+Configurar
+
+[cuda_terminal]
+Terminal
+Configurar
+
+[cuda_terminal_plus]
+Terminal +
+Aberto
+Adicionar terminal para diretório inicial do usuário
+Adicionar terminal (para o arquivo atual)
+Renomear terminal...
+Fechar terminal
+Foco próximo terminal
+Foco no terminal anterior
+Execute o texto selecionado no terminal
+Repita o último comando do terminal
+Alternar o foco: editor - seu terminal
+Pesquisa por comando no histórico
+Fechar o último terminal para o arquivo atual
+Fechar todos os terminais...
+Configurar
+
+[cuda_tern]
+JS Tern
+Mostrar usos
+Mostrar doc-string
+Reiniciar servidor
+Abrir arquivo de projeto tern
+
+[cuda_testing_code_tree]
+
+[cuda_testing_dlg_proc]
+Teste de API de diálogo
+modal
+não modal
+test dlg_custom
+tipo de teste páginas, guias
+tipo de teste barra de ferramentas / barra de status
+tipo de teste treeview
+tipo de teste listview
+tipo de teste button_ex
+tipo de teste divisor
+tipo de teste listbox_ex
+tipo de teste editor
+tipo de teste combo
+painel lateral de teste
+renderização de rótulo de teste
+
+[cuda_testing_gaps]
+Teste de API de lacunas
+
+[cuda_textile_preview]
+Antevisão Têxtil
+
+[cuda_text_stat]
+Estatísticas de texto
+Relatório na caixa de mensagem
+Relatório em novo documento
+Mostrar todas as sentenças
+
+[cuda_texttospeech]
+TextToSpeech
+Fala
+Pausa
+Retomar
+Pular para a próxima frase
+Parar
+Reinicializar motor
+Configurar
+
+[cuda_vim_mode]
+Modo...
+Alternar
+Remapear tecla...
+
+[cuda_webfont]
+FontStorage
+
+[pywin32]

@@ -1,0 +1,495 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:51-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:120
+msgid ""
+"No folder \"{}\" from\n"
+"{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:188
+msgid "Empty string is allowed"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:450
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "Lexer"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:451
+msgid "File \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:452
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "Default"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:452
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "Option"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:452
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "Section"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:452
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "User"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:462
+msgid "&Filter"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:463
+msgid "_no_"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:464
+msgid "Choose section to append in \"{}\".\rHold Ctrl to add several sections."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:467
+msgid "Suitable options will contain all specified words.\r Tips and tricks:\r • Add \"#\" to search the words also in comments.\r • Add \"@sec\" to show options from section with \"sec\" in name.\r   Several sections are allowed.\r   Click item in menu \"Section...\" with Ctrl to add it.\r • To show only overridden options:\r   - Add \"!\"   to show only User+Lexer+File.\r   - Add \"!!\"  to show only Lexer+File\r   - Add \"!!!\" to show only File.\r • Use \"<\" or \">\" for word boundary.\r     Example: \r       size> <tab\r     selects \"tab_size\" but not \"ui_tab_size\" or \"tab_size_x\".\r • Alt+L - Clear filter"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:482
+msgid "Go to \"{}\" in user/lexer config file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:483
+msgid "Go to \"{}\" in default config file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:484
+msgid "Edit JSON value"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:485
+msgid "Close dialog and open user/lexer settings file\rto edit the current option.\rSee also menu command\r   {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:489
+msgid "Instant filtering"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:490
+msgid "Show &all keys in user/lexer configs"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:635
+msgid "Choose option to find in config file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:642
+msgid "No user value for option \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:645
+msgid "No lexer \"{}\" value for option \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:651
+msgid "No default for option \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:680
+msgid "Opened browser with file "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:855
+msgid "Number of all options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:859
+msgid "Number of shown options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:961
+msgid "File"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:985
+msgid ">Fil&e:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:986
+msgid ">L&exer:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:987
+msgid ">Us&er:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1058
+msgid "+&Section…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1070
+msgid "f&alse"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1071
+msgid "t&rue"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1072
+msgid "&..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1073
+msgid "&GoTo"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1074
+msgid "E&dit"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1076
+msgid ">Defa&ult:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1081
+msgid "Rese&t"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1084
+msgid "For:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1085
+msgid "Le&xer"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1086
+msgid "F&ile"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1360
+msgid "Сhange log"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1378
+msgid "Remove layout \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1382
+msgid "#{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1394
+msgid "Name \"{}\" already used. Overwrite?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1453
+msgid "&Copy option name"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1455
+msgid "&Layout"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1456
+msgid "&Save current layout..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1459
+msgid "Restore layout \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1461
+msgid "&Forget layout"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1462
+msgid "Forget layout \"{}\"..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1466
+msgid "Adjust vertical alignments..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1467
+msgid "Set default columns &widths"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1469
+msgid "&Table"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1470
+msgid "Sort by column \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1476
+msgid "Reset sorting"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1478
+msgid "M&ore"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1482
+msgid "Show rep&ort of changes..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1483
+msgid "Apply changes on exit"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1484
+msgid "Appl&y changes now"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1485
+msgid "Auto-update FILE options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1492
+msgid "Create HTML &report"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1494
+msgid "&Help..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1729
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1794
+msgid "No need changes"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1739
+msgid ""
+"Remove {} option\n"
+"   {} = {!r}\n"
+"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1747
+msgid "Default value: \"{}\". Old value: \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1771
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1778
+msgid "Incorrect value. It's needed in format: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1877
+msgid "Set FILE option to overridden value {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1879
+msgid "Set FILE option to {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1881
+msgid "Auto-set FILE option to overridden value {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1883
+msgid "Remove LEXER {!r} option"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1885
+msgid "Set LEXER {!r} option to {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1887
+msgid "Add LEXER {!r} option {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1889
+msgid "Remove USER option"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1891
+msgid "Set USER option to {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1893
+msgid "Add USER option {!r}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1902
+msgid "   [Alt+O - all changes]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1915
+msgid "About \"{fltr}\"\r "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1919
+msgid "\r \rOther tips.\r • Use ENTER to filter table and to change or reset value.\r • Use double click on any cell in columns\r     \"{c_usr}\"\r     \"{c_lxr}\"\r     \"{c_fil}\"\r   to change \"{in_lxr}\" flag and to put focus on the value field.\r • Use double click on any cell in column\r     \"{c_def}\"\r   to put focus on \"{reset}\".\r • Clicking \"{reset}\" will ask for confirmation, for user/lexer options.\r   Hold Ctrl key to skip this confirmation.\r • Click on a column header sorts data in the column.\r     Alt+# (# is 1..8) sorts the N column (not on macOS).\r     Alt+9 resets sorting (not on macOS).\r     Click with Ctrl allows to sort by several columns.\r     Clicking with Ctrl on already sorted column does 2-state loop (down, up).\r     Clicking with Ctrl on already sorted column with maximal sorting index, \r     does 3-state loop (down, up, off).\r • Use option \"{lifl}\" to see instant update of the list after\r   each changing in the filter field\r   (otherwise you need to press Enter after changing).\r   With this option, no history of the filter is kept\r   (filter combobox has empty dropdown list).\r • If current list line is scrolled out of view, \r   you can still see the option name - in the tooltip\r   of \"User\" (Lexer/File) label near the value field.\r • Tooltip shows file name (or tag name), when cursor hovers the checkbox \"{tofi}\".\r • Some plugins store their settings into user.json.\r   So after a while, user.json contains options not present in default.json.\r   To see all these keys, use option \"{full}\".\r • Values in table column \"!\"\r     !   option is set in \"user.json\",\r     !!  option is set in \"lexer NNN.json\",\r     !!! option is set for current file,\r     L   default value is from \"settings_default/lexer NNN.json\",\r     +   not CudaText standard option."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2009
+msgid "Edit JSON option ({})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2017
+msgid "Set &default"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2018
+msgid "&Undo changes"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2019
+msgid "Chec&k"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2020
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2108
+msgid "Cancel"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2021
+msgid "OK"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2040
+msgid "Need update CudaText"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:2046
+msgid "CudaText options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2035
+msgid "Report"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2037
+msgid "Send the report to the address"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2039
+msgid "or post it on"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2041
+msgid "Close"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2105
+msgid "&Save"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2106
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_plug_lib.py:2110
+msgid "Adjust vertical alignments"
+msgstr ""
+

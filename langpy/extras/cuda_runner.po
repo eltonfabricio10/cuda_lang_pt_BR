@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:43-0300\n"
+"PO-Revision-Date: 2021-08-01 00:58-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_runner/runner.py:39
+msgid "-- [${start_time}] Building: ${build_name}: ${file_name}"
+msgstr "-- [${start_time}] Construindo: ${build_name}: ${file_name}"
+
+#: py/cuda_runner/runner.py:40 py/cuda_runner/runner.py:181
+msgid "-- Command: ${shell_cmd:${cmd}}"
+msgstr "-- Comando: ${shell_cmd:${cmd}}"
+
+#: py/cuda_runner/runner.py:41
+msgid "-- Working dir: ${working_dir}"
+msgstr "-- Diretório de trabalho: ${working_dir}"
+
+#: py/cuda_runner/runner.py:44
+msgid "-- Done (${duration}s), return code: ${return_code}"
+msgstr "-- Concluído (${duration}s), código de resposta: ${return_code}"
+
+#: py/cuda_runner/runner.py:47
+msgid "Build"
+msgstr "Construir"
+
+#: py/cuda_runner/runner.py:146
+msgid "Failed to load build-system \"{}\": {}: {}"
+msgstr "Falhou ao carregar o sistema-construção \"{}\": {}: {}"
+
+#: py/cuda_runner/runner.py:218 py/cuda_runner/runner.py:269
+msgid "Save document to disk before building"
+msgstr "Salvar o documento em disco antes de construir"
+
+#: py/cuda_runner/runner.py:225
+msgid "No build-system(s) found for lexer "
+msgstr "Nenhum sistema-construção encontrado para o lexer "
+
+#: py/cuda_runner/runner.py:227
+msgid "No build-system(s) found for file "
+msgstr "Nenhum sistema-construção encontrado para o arquivo "
+
+#: py/cuda_runner/runner.py:233
+msgid "Build with..."
+msgstr "Construir com..."
+
+#: py/cuda_runner/runner.py:254
+msgid "No such build-system: "
+msgstr "Não existe sistema-construção: "
+
+#: py/cuda_runner/runner.py:274
+msgid "Choose build-system for lexer: "
+msgstr "Escolher sistema-construção para o lexer: "
+
+#: py/cuda_runner/runner.py:280
+msgid "Choose extention for association"
+msgstr "Escolher a extensão para associação"
+
+#: py/cuda_runner/runner.py:316
+msgid "No command \"{}\" in build-system \"{}\""
+msgstr "Nenhum comando \"{}\" no sistema-construção \"{}\""
+
+#: py/cuda_runner/runner.py:322
+msgid "Failed to save document: {}; Cancelling build"
+msgstr "Falhou ao salvar o documento: {}; Cancelando a construção"
+
+#: py/cuda_runner/runner.py:328
+msgid "Failed to run command \"{}\" in build-system \"{}\""
+msgstr "Falhou ao executar o comando \"{}\" no sistema-construção \"{}\""
+
+#: py/cuda_runner/runner.py:380
+msgid "No builds done yet"
+msgstr "Nenhuma construção concluída ainda"
+
+#: py/cuda_runner/runner.py:390
+msgid "No older build log present: {}/{}"
+msgstr "Nenhum registro de construção antiga presente: {}/{}"
+
+#: py/cuda_runner/runner.py:393
+msgid "No newer build log present: {}/{}"
+msgstr "Nenhum registro de construção mais recente presente: {}/{}"
+
+#: py/cuda_runner/runner.py:396
+msgid "Showing build log: {}/{}"
+msgstr "Exibindo registro da construção: {}/{}"
+
+#: py/cuda_runner/runner.py:462
+msgid "Json Error"
+msgstr "Erro Json"
+
+#: py/cuda_runner/runner.py:464
+msgid "\"target\" option is not supported"
+msgstr "Não tem suporte para opção \"target\""
+
+#: py/cuda_runner/runner.py:546
+msgid "Running: \"{}\""
+msgstr "Executando: \"{}\""
+
+#: py/cuda_runner/runner.py:561
+msgid "Fail running: {}"
+msgstr "Falha ao executar: {}"
+
+#: py/cuda_runner/runner.py:569
+msgid "Note: build-system is expecting a Project to be opened"
+msgstr "Nota: o sistema-construção está esperando que um projeto seja aberto"
+
+#: py/cuda_runner/runner.py:595
+msgid "No such command: "
+msgstr "O comando não existe: "
+
+#: py/cuda_runner/runner.py:653
+msgid "-- Canceled"
+msgstr "-- Cancelado"

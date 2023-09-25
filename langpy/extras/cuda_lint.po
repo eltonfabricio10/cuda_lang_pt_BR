@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-26 19:07-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_lint/__init__.py:21
+msgid "CudaLint cannot import cuda_project_man"
+msgstr "Não foi possível o CudaLint importar cuda_project_man"
+
+#: py/cuda_lint/__init__.py:75
+msgid "Linters for %s"
+msgstr "Linters para %s"
+
+#: py/cuda_lint/__init__.py:85
+msgid "Linter \"{}\" found {} error(s)"
+msgstr "Linter \"{}\" encontrou {} erro(s)"
+
+#: py/cuda_lint/__init__.py:88
+msgid "Linter \"%s\" found no errors"
+msgstr "Linter \"%s\" não encontrou erros"
+
+#: py/cuda_lint/__init__.py:92
+msgid "Project's required linter not found: %s"
+msgstr "O linter solicitado pelo projeto não foi encontrado: %s"
+
+#: py/cuda_lint/__init__.py:94
+msgid "No linters for lexer \"%s\""
+msgstr "Nenhum linters para o lexer \"%s\""
+
+#: py/cuda_lint/__init__.py:129
+msgid "CudaLint disabled"
+msgstr "CudaLint desabilitado"
+
+#: py/cuda_lint/__init__.py:139
+msgid "CudaLint enabled"
+msgstr "CudaLint habilitado"
+
+#: py/cuda_lint/dialogs.py:66
+msgid "Colored e&rror bookmarks"
+msgstr "Favoritos de e&rro colorido"
+
+#: py/cuda_lint/dialogs.py:68
+msgid "Colored warn &bookmarks"
+msgstr "Favoritos de aviso &colorido"
+
+#: py/cuda_lint/dialogs.py:70
+msgid "Colored info boo&kmarks"
+msgstr "Favoritos de in&fo colorido"
+
+#: py/cuda_lint/dialogs.py:71
+msgid "Lint on &opening file"
+msgstr "Lint ao abrir o arquiv&o"
+
+#: py/cuda_lint/dialogs.py:72
+msgid "Lint on &saving file"
+msgstr "Lint ao &salvar o arquivo"
+
+#: py/cuda_lint/dialogs.py:73
+msgid "Lint &after text changed, and pause"
+msgstr "Lint &após alteração do texto, e pausar"
+
+#: py/cuda_lint/dialogs.py:74
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_lint/dialogs.py:75
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_lint/dialogs.py:77
+msgid "CudaLint options"
+msgstr "Opções do CudaLint"
+
+#: py/cuda_lint/dialogs.py:108
+msgid "CudaText should be restarted, to allow CudaLint use new event-options"
+msgstr "CudaText precisa ser reiniciado, para permitir CuaLint utilizar as novas opções de evento"
+
+#: py/cuda_lint/linter.py:74
+msgid "ERROR: {} disabled, error compiling syntax: {}"
+msgstr "ERRO: {} desabilitado, erro na compilação da sintaxe: {}"
+
+#: py/cuda_lint/linter.py:91
+msgid "ERROR: {} disabled, error compiling {}: {}"
+msgstr "ERRO: {} desabilitado, erro na compilação {}: {}"
+
+#: py/cuda_lint/linter.py:98
+msgid "ERROR: {} disabled, not fully implemented"
+msgstr "ERRO: {} desabilitado, não implementado totalmente"
+
+#: py/cuda_lint/linter.py:453 py/cuda_lint/linter.py:596
+msgid "ERROR: {} cannot locate \"{}\""
+msgstr "ERRO: {} não foi possível localizar \"{}\""
+
+#: py/cuda_lint/python_linter.py:141
+msgid "{}import of {} module in {} failed"
+msgstr "{}importação do módulo {} em {} falhou"
+
+#: py/cuda_lint/python_linter.py:144
+msgid "WARNING: "
+msgstr "ATENÇÃO: "
+
+#: py/cuda_lint/python_linter.py:145
+msgid ", linter will not work with python 3 code"
+msgstr ", linter não funcionará com código python 3"
+
+#: py/cuda_lint/python_linter.py:148
+msgid ", linter will not run using built in python"
+msgstr ", linter não será executado utilizando o python interno"
+
+#: py/cuda_lint/python_linter.py:154
+msgid "ERROR: unknown exception in {}: {}"
+msgstr "ERRO: exception desconhecida em {}: {}"
+
+#: py/cuda_lint/python_linter.py:185
+msgid "WARNING: {} deactivated, no available version of python{} satisfies {}"
+msgstr "ATENÇÃO: {} desativado, nenhuma versão disponível do python{} satisfaz {}"
+
+#: py/cuda_lint/python_linter.py:188
+msgid " or {}"
+msgstr " ou {}"
+
+#: py/cuda_lint/python_linter.py:303
+msgid "{}: subclasses must override the PythonLinter.check method"
+msgstr "{}: subclasses devem sobrepor o método PythonLinter.check"
+
+#: py/cuda_lint/util.py:129
+msgid "ERROR: not yet implemented."
+msgstr "ERRO: ainda não implementado."
+
+#: py/cuda_lint/util.py:188
+msgid "shell timed out after {} seconds, executing {}"
+msgstr "shell expirou após {} segundos, executando {}"

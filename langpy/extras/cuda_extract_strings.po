@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-25 15:49-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_extract_strings/__init__.py:22
+msgid "No strings found"
+msgstr "Strings não encontradas"
+
+#: py/cuda_extract_strings/extract.py:35
+msgid "Extract Strings"
+msgstr "Extrair strings"
+
+#: py/cuda_extract_strings/extract.py:37
+msgid "&Regular expression:"
+msgstr "Expressão &regular:"
+
+#: py/cuda_extract_strings/extract.py:39
+msgid "Case &sensitive"
+msgstr "Maiú&scula/Minúscula"
+
+#: py/cuda_extract_strings/extract.py:40
+msgid "Reg.ex. for e-mail"
+msgstr "Exp. Reg. para e-mail"
+
+#: py/cuda_extract_strings/extract.py:42
+msgid "F&ound strings:"
+msgstr "Strings enc&ontradas:"
+
+#: py/cuda_extract_strings/extract.py:44
+msgid "Found: %d"
+msgstr "Encontrado: %d"
+
+#: py/cuda_extract_strings/extract.py:46
+msgid "&Find"
+msgstr "&Encontrar"
+
+#: py/cuda_extract_strings/extract.py:47
+#: py/cuda_extract_strings/filtering.py:45
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_extract_strings/extract.py:48
+msgid "Copy to &clipboard"
+msgstr "Copiar para área de transferên&cia"
+
+#: py/cuda_extract_strings/extract.py:49
+msgid "Copy to &new tab"
+msgstr "Copiar para &nova guia"
+
+#: py/cuda_extract_strings/extract.py:88
+msgid "Copied to clipboard"
+msgstr "Copiado para área de transferên&cia"
+
+#: py/cuda_extract_strings/extract.py:96
+msgid "Copied to tab"
+msgstr "Copiado para guia"
+
+#: py/cuda_extract_strings/extract.py:101
+msgid "Unknown code of dlg"
+msgstr "Código desconhecido do dlg"
+
+#: py/cuda_extract_strings/filtering.py:32
+msgid "&Text:"
+msgstr "&Texto:"
+
+#: py/cuda_extract_strings/filtering.py:34
+msgid "&Reg.ex."
+msgstr "Exp. &Reg."
+
+#: py/cuda_extract_strings/filtering.py:35
+msgid "&Ignore case"
+msgstr "Maiúscula/M&inúscula"
+
+#: py/cuda_extract_strings/filtering.py:36
+msgid "&Sort output"
+msgstr "Re&sultado classificado"
+
+#: py/cuda_extract_strings/filtering.py:37
+msgid "Include line &numbers"
+msgstr "Incluir &número de linha"
+
+#: py/cuda_extract_strings/filtering.py:38
+msgid "Keep &lexer"
+msgstr "Manter &lexer"
+
+#: py/cuda_extract_strings/filtering.py:39
+msgid "S&ave options"
+msgstr "Opções de S&alvar"
+
+#: py/cuda_extract_strings/filtering.py:40
+msgid "Number of lines &before match:"
+msgstr "Número de linhas &antes da ocorrência:"
+
+#: py/cuda_extract_strings/filtering.py:42
+msgid "Number of lines a&fter match:"
+msgstr "Número de linhas &depois da ocorrência:"
+
+#: py/cuda_extract_strings/filtering.py:44
+msgid "&OK"
+msgstr "&OK"
+
+#: py/cuda_extract_strings/filtering.py:188
+msgid "Cannot find lines: "
+msgstr "Não foi possível encontrar as linhas: "
+
+#: py/cuda_extract_strings/filtering.py:204
+msgid "Found %d matching lines"
+msgstr "%d de linhas encontradas"

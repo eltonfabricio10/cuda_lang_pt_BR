@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:42-0300\n"
+"PO-Revision-Date: 2021-07-29 21:42-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_number_utils/work_bases.py:36
+msgid "Number Base Converter"
+msgstr "Conversor de Base Numérica"
+
+#: py/cuda_number_utils/work_bases.py:88
+msgid "Decimal\tBinary\tOctal\tHexadecimal\tHTML color"
+msgstr "Decimal\tBinário\tOctal\tHexadecimal\tCor HTML"
+
+#: py/cuda_number_utils/work_bases.py:93
+msgid "Select with click or using Up-Down keys."
+msgstr "Selecionar com clique ou utilizando as teclas para cima e para baixo."
+
+#: py/cuda_number_utils/work_bases.py:105
+msgid "Keep selections after conversion"
+msgstr "Manter seleções após a conversão"
+
+#: py/cuda_number_utils/work_bases.py:111
+msgid "If checked, selections will be kept after conversion."
+msgstr "Se marcado, as seleções serão mantidas após a conversão."
+
+#: py/cuda_number_utils/work_bases.py:123
+msgid "Convert"
+msgstr "Converter"
+
+#: py/cuda_number_utils/work_bases.py:124
+msgid "Convert numbers in selections to chosen base"
+msgstr "Converter os números nas seleções para a base escolhida"
+
+#: py/cuda_number_utils/work_bases.py:130
+msgid "Starts the conversion process."
+msgstr "Iniciar o processo de conversão."
+
+#: py/cuda_number_utils/work_bases.py:315
+msgid "Multi-line is not allowed."
+msgstr "Linhas múltiplas não é permitido."
+
+#: py/cuda_number_utils/work_bases.py:321
+msgid "Make text selection(s) first."
+msgstr "Fazer as seleções de texto primeiro."
+
+#: py/cuda_number_utils/work_bases.py:324
+msgid "%d carets to process. Not valid numbers will be skipped."
+msgstr "%d cursores para processar. Números inválidos serão pulados."
+
+#: py/cuda_number_utils/work_carets_num.py:20
+msgid "Place several carets first"
+msgstr "Colocar vários cursores primeiro"
+
+#: py/cuda_number_utils/work_carets_num.py:23
+msgid "Carets Numbering"
+msgstr "Numeração de Cursores"
+
+#: py/cuda_number_utils/work_carets_num.py:24
+msgid "Starting number:"
+msgstr "Número inicial:"
+
+#: py/cuda_number_utils/work_carets_num.py:25
+msgid "Increment (can be <0):"
+msgstr "Incremento (pode ser <0):"
+
+#: py/cuda_number_utils/work_carets_num.py:26
+msgid "Digits:"
+msgstr "Dígitos:"
+
+#: py/cuda_number_utils/work_carets_num.py:27
+msgid "Text before numbers:"
+msgstr "Texto antes dos números:"
+
+#: py/cuda_number_utils/work_carets_num.py:28
+msgid "Text after numbers:"
+msgstr "Texto após os números:"
+
+#: py/cuda_number_utils/work_carets_num.py:29
+msgid "Base: d=dec, x=hex, o=octal, r=romans"
+msgstr "Base: d=dec, x=hex, o=octal, r=romanos"
+
+#: py/cuda_number_utils/work_carets_num.py:36
+#: py/cuda_number_utils/work_carets_num.py:42
+#: py/cuda_number_utils/work_carets_num.py:48
+msgid "Incorrect number entered: "
+msgstr "Número incorreto digitado: "
+
+#: py/cuda_number_utils/work_carets_num.py:56
+msgid "Incorrect base value entered"
+msgstr "Valor incorreto da base digitado"
+
+#: py/cuda_number_utils/work_carets_num.py:68
+msgid "Inserted %d numbers"
+msgstr "%d números inseridos"
+
+#: py/cuda_number_utils/work_insert_num.py:20
+msgid "Cannot handle multi-carets"
+msgstr "Não pode lidar com cursores múltiplos"
+
+#: py/cuda_number_utils/work_insert_num.py:29
+msgid "Specified count of lines will be inserted"
+msgstr "A contagem especificada de linhas será inserida"
+
+#: py/cuda_number_utils/work_insert_num.py:30
+msgid "Selected lines will be changed"
+msgstr "As linhas selecionadas serão alteradas"
+
+#: py/cuda_number_utils/work_insert_num.py:44
+msgid "Insert Numbers"
+msgstr "Inserir Números"
+
+#: py/cuda_number_utils/work_insert_num.py:45
+msgid "&Prefix:"
+msgstr "&Prefixo:"
+
+#: py/cuda_number_utils/work_insert_num.py:47
+msgid "Start &num:"
+msgstr "&Número inicial:"
+
+#: py/cuda_number_utils/work_insert_num.py:49
+msgid "&Digits:"
+msgstr "&Dígitos:"
+
+#: py/cuda_number_utils/work_insert_num.py:51
+msgid "&Suffix:"
+msgstr "&Sufixo:"
+
+#: py/cuda_number_utils/work_insert_num.py:53
+msgid "&Use only prefix+suffix"
+msgstr "&Utilizar apenas prefixo+sufixo"
+
+#: py/cuda_number_utils/work_insert_num.py:54
+msgid "Skip &empty lines"
+msgstr "Pular linhas &em branco"
+
+#: py/cuda_number_utils/work_insert_num.py:55
+msgid "Insert &after leading spaces"
+msgstr "Inserir &após os espaços iniciais"
+
+#: py/cuda_number_utils/work_insert_num.py:56
+msgid "&Repeat counter:"
+msgstr "&Repetir contador:"
+
+#: py/cuda_number_utils/work_insert_num.py:58
+msgid "Number &base:"
+msgstr "&Base numérica:"
+
+#: py/cuda_number_utils/work_insert_num.py:59
+msgid "Decimal\tHex\tOctal\tRomans"
+msgstr "Decimal\tHex\tOctal\tRomanos"
+
+#: py/cuda_number_utils/work_insert_num.py:61
+msgid "&OK"
+msgstr "&OK"
+
+#: py/cuda_number_utils/work_insert_num.py:62
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_number_utils/work_insert_num.py:80
+msgid "repeat %d"
+msgstr "repetir %d"
+
+#: py/cuda_number_utils/work_insert_num.py:80
+msgid "selection"
+msgstr "seleção"
+
+#: py/cuda_number_utils/work_insert_num.py:81
+msgid "only text"
+msgstr "somente texto"
+
+#: py/cuda_number_utils/work_insert_num.py:117
+msgid "Numbers inserted"
+msgstr "Números inseridos"
+
+#: py/cuda_number_utils/work_num2ruwords.py:14
+#: py/cuda_number_utils/work_num2ruwords.py:24
+#: py/cuda_number_utils/work_num2words.py:18
+#: py/cuda_number_utils/work_num2words.py:28
+msgid "Place caret under number"
+msgstr "Colocar o cursor sob o número"
+
+#: py/cuda_number_utils/work_romans.py:27
+msgid "Romanize: Cannot work with selection"
+msgstr "Romanizar: Não funciona com seleção"
+
+#: py/cuda_number_utils/work_romans.py:32
+#: py/cuda_number_utils/work_romans.py:36
+msgid "Romanize: Need a number"
+msgstr "Romanizar: É necessário um número"
+
+#: py/cuda_number_utils/work_romans.py:52
+msgid "Romanize: incorrect number \"%s\""
+msgstr "Romanizar: número incorreto \"%s\""
+
+#: py/cuda_number_utils/work_romans.py:59
+msgid "Romanize: {} -> {}"
+msgstr "Romanizar: {} -> {}"

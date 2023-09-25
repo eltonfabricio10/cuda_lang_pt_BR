@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-01 00:39-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_sort/__init__.py:80
+msgid ""
+"Document has too many lines. Plugin Sort will not work. Current value of option [sort] max_lines in \"settings/plugins.ini\" is %d.\n"
+"\n"
+"Instead of Sort plugin, use CudaText built-in commands: \"(without undo) sort...\"."
+msgstr ""
+"O documento contém muitas linhas. O Plugin de Classificação não funcionará. Valor atual da opção [sort] max_lines em \"settings/plugins.ini\" é %d.\n"
+"\n"
+"Em vez do plugin de Classificação, utilizar os comandos internos do CudaText: \"(sem desfazer) classificar...\"."
+
+#: py/cuda_sort/__init__.py:92 py/cuda_sort/__init__.py:95
+msgid "Needed multiline selection"
+msgstr "É necessário a seleção de várias linhas"
+
+#: py/cuda_sort/__init__.py:157 py/cuda_sort/__init__.py:177
+msgid "Unknown operation: "
+msgstr "Operação desconhecida: "
+
+#: py/cuda_sort/__init__.py:161
+msgid "Lines operation: "
+msgstr "Operações nas linhas: "
+
+#: py/cuda_sort/__init__.py:181
+msgid "Cannot extract any lines"
+msgstr "Não foi possível extrair algumas linhas"
+
+#: py/cuda_sort/__init__.py:187
+msgid "Extract lines: "
+msgstr "Extrair linhas: "
+
+#: py/cuda_sort/__init__.py:230
+msgid "Sorted"
+msgstr "Classificado"
+
+#: py/cuda_sort/__init__.py:231
+msgid ", all text"
+msgstr ", todos os textos"
+
+#: py/cuda_sort/__init__.py:232
+msgid ", reverse"
+msgstr ", inverso"
+
+#: py/cuda_sort/__init__.py:233
+msgid ", ignore case"
+msgstr ", ignorar maiúsculas e minúsculas"
+
+#: py/cuda_sort/__init__.py:234
+msgid ", numeric"
+msgstr ", numérico"
+
+#: py/cuda_sort/__init__.py:235
+msgid ", offsets "
+msgstr ", deslocamentos "
+
+#: py/cuda_sort/__init__.py:261
+msgid "&Sort descending (reverse)"
+msgstr "Classificação descendente (inverso)"
+
+#: py/cuda_sort/__init__.py:262
+msgid "&Ignore case"
+msgstr "&Ignorar maiúsculas e minúsculas"
+
+#: py/cuda_sort/__init__.py:263
+msgid "Delete d&uplicate lines"
+msgstr "Excluir linhas d&uplicadas"
+
+#: py/cuda_sort/__init__.py:264
+msgid "Delete &blank lines"
+msgstr "Excluir linhas em &branco"
+
+#: py/cuda_sort/__init__.py:265
+msgid "Numeric (treat beginning as number)"
+msgstr "Numérico (trate o início como um número)"
+
+#: py/cuda_sort/__init__.py:266
+msgid "Sort only by substring, offsets 0-based:"
+msgstr "Classificar apenas por substring, deslocamentos em 0:"
+
+#: py/cuda_sort/__init__.py:267
+msgid "&From:"
+msgstr "&De:"
+
+#: py/cuda_sort/__init__.py:269
+msgid "&To:"
+msgstr "&Para:"
+
+#: py/cuda_sort/__init__.py:271
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_sort/__init__.py:272
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_sort/__init__.py:275
+msgid "Sort"
+msgstr "Classificação"
+
+#: py/cuda_sort/__init__.py:296
+msgid "Incorrect offsets: {}..{}"
+msgstr "Deslocamentos incorretos: {}..{}"
+
+#: py/cuda_sort/sort_emails.py:22
+msgid "No e-mails in text"
+msgstr "Sem e-mails no texto"
+
+#: py/cuda_sort/sort_emails.py:27
+msgid "Sorted text as email list"
+msgstr "Texto classificado como lista de e-mails"
+
+#: py/cuda_sort/sort_ini.py:56
+msgid "Sorted ini lines"
+msgstr "Linhas ini classificadas"
+
+#: py/cuda_sort/sort_sep.py:23
+msgid "Sort: separator chars"
+msgstr "Classificar: caracteres separadores"
+
+#: py/cuda_sort/sort_sep.py:24
+msgid "Separator of prefix, to skip prefix (optional):"
+msgstr "Separador de prefixo, para pular o prefixo (opcional):"
+
+#: py/cuda_sort/sort_sep.py:25
+msgid "Separator of values after prefix:"
+msgstr "Separador de valores após o prefixo:"
+
+#: py/cuda_sort/sort_sep.py:31 py/cuda_sort/sort_sep.py:35
+msgid "Separators must have length=1"
+msgstr "Os separadores devem ter length=1"
+
+#: py/cuda_sort/sort_sep.py:39
+msgid "Separators cannot be the same"
+msgstr "Os separadores não podem ser iguais"
+
+#: py/cuda_sort/sort_sep.py:58
+msgid "Changed %d line(s)"
+msgstr "%d de linha(s) alteradas"
+
+#: py/cuda_sort/sort_sep.py:60
+msgid "No lines were changed"
+msgstr "As linhas não foram alteradas"

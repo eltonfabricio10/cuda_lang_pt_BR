@@ -1,0 +1,353 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-07 00:43-0300\n"
+"PO-Revision-Date: 2021-07-25 23:50-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_snippets/__init__.py:68
+msgid "No snippets for current lexer"
+msgstr "Nenhum trecho para o lexer atual"
+
+#: py/cuda_snippets/__init__.py:74
+msgid "Snippets"
+msgstr "Trechos"
+
+#: py/cuda_snippets/__init__.py:105
+msgid "Loading VS Snippets list. Please wait..."
+msgstr "Carregando lista de Trechos VS. Por favor, aguarde..."
+
+#: py/cuda_snippets/__init__.py:108
+msgid "Can't download VS Snippets. Try again later..."
+msgstr "Não foi possível baixar Trechos VS. Tentar novamente mais tarde..."
+
+#: py/cuda_snippets/__init__.py:132
+msgid "Delete snippet markers"
+msgstr "Excluir marcadores de trechos"
+
+#: py/cuda_snippets/__init__.py:164 py/cuda_snippets/__init__.py:183
+msgid "No VSCode snippets found"
+msgstr "Trechos VSCode não encontrados"
+
+#: py/cuda_snippets/__init__.py:168
+msgid "Visit page of snippets"
+msgstr "Visitar página dos trechos"
+
+#: py/cuda_snippets/__init__.py:174
+msgid "No URL found"
+msgstr "URL não encontrada"
+
+#: py/cuda_snippets/__init__.py:176
+msgid "Opened: "
+msgstr "Aberto: "
+
+#: py/cuda_snippets/__init__.py:187
+msgid "Remove snippets"
+msgstr "Remover trechos"
+
+#: py/cuda_snippets/__init__.py:193
+msgid "Snippets folder removed; restart CudaText to forget about it"
+msgstr "Pasta de trechos removida; reiniciar o CudaText para esquecer disso"
+
+#: py/cuda_snippets/dlg_lexers_compare.py:19
+msgid "Setup snippet lexer(s)"
+msgstr "Configurar trechos do lexer(s)"
+
+#: py/cuda_snippets/dlg_lexers_compare.py:115
+msgid "You must check at least one CudaText lexer, for snippets to work"
+msgstr "Você deve verificar pelo menos um lexer do CudaText, para os trechos funcionarem"
+
+#: py/cuda_snippets/dlg_search.py:96
+msgid "Search snippets"
+msgstr "Pesquisar trechos"
+
+#: py/cuda_snippets/dlg_search.py:319
+msgid "Installing: "
+msgstr "Instalando: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:25
+msgid ""
+"Markers:\n"
+"    ${NN} | ${NN:default text}\n"
+"\n"
+"Macros:\n"
+"    ${sel} - Text selected before snippet insertion (if snippet called with Tab key, it's empty string)\n"
+"    ${cp} - Current clipboard contents\n"
+"\n"
+"    ${cmt_start} - Current lexer's \"block comment\" start symbols (or empty string)\n"
+"    ${cmt_end} - Current lexer's \"block comment\" end symbols (or empty string)\n"
+"    ${cmt_line} - Current lexer's \"line comment\" symbols (or empty string)\n"
+"\n"
+"    ${fname} - File name only, without path\n"
+"    ${fpath} - Full file name, with path\n"
+"    ${fdir} - Directory of file\n"
+"    ${fext} - Extension of file\n"
+"    ${psep} - OS path separator: backslash on Windows, slash on Unix\n"
+"\n"
+"    ${date:nnnn} - Current date/time formatted by string \"nnnn\"; see Python docs\n"
+"    ${env:nnnn} - Value of OS environment variable \"nnnn\"\n"
+"    \n"
+"Sublime ($NAME | ${NAME}):\n"
+"    $TM_SELECTED_TEXT - The currently selected text or the empty string\n"
+"    $TM_CURRENT_LINE - The contents of the current line\n"
+"    $TM_CURRENT_WORD - The contents of the word under cursor or the empty string\n"
+"    $TM_LINE_INDEX - The zero-based line number\n"
+"    $TM_LINE_NUMBER - The one-based line number\n"
+"    $TM_FILEPATH - The full file path of the current document\n"
+"    $TM_DIRECTORY - The directory of the current document\n"
+"    $TM_FILENAME - The filename of the current document\n"
+"    $TM_FILENAME_BASE - The filename of the current document without its extensions\n"
+"    $CLIPBOARD - The contents of your clipboard\n"
+"    $WORKSPACE_NAME - The name of the opened workspace or folder\n"
+"\n"
+"    $BLOCK_COMMENT_START - Current lexer's \"block comment\" start symbols (or empty string)\n"
+"    $BLOCK_COMMENT_END - Current lexer's \"block comment\" end symbols (or empty string)\n"
+"    $LINE_COMMENT - Current lexer's \"line comment\" symbols (or empty string)\n"
+"    \n"
+"Date, time:\n"
+"    $CURRENT_YEAR - The current year\n"
+"    $CURRENT_YEAR_SHORT - The current year's last two digits\n"
+"    $CURRENT_MONTH - The month as two digits (e.g. '02')\n"
+"    $CURRENT_MONTH_NAME - The full name of the month (e.g. 'July')\n"
+"    $CURRENT_MONTH_NAME_SHORT - The short name of the month (e.g. 'Jul')\n"
+"    $CURRENT_DATE - The day of the month\n"
+"    $CURRENT_DAY_NAME - The name of day (e.g. 'Monday')\n"
+"    $CURRENT_DAY_NAME_SHORT - The short name of the day (e.g. 'Mon')\n"
+"    $CURRENT_HOUR - The current hour in 24-hour clock format\n"
+"    $CURRENT_MINUTE - The current minute\n"
+"    $CURRENT_SECOND - The current second\n"
+"    $CURRENT_SECONDS_UNIX - The number of seconds since the Unix epoch\n"
+msgstr ""
+"Markers:\n"
+"    ${NN} | ${NN:default text}\n"
+"\n"
+"Macros:\n"
+"    ${sel} - Text selected before snippet insertion (if snippet called with Tab key, it's empty string)\n"
+"    ${cp} - Current clipboard contents\n"
+"\n"
+"    ${cmt_start} - Current lexer's \"block comment\" start symbols (or empty string)\n"
+"    ${cmt_end} - Current lexer's \"block comment\" end symbols (or empty string)\n"
+"    ${cmt_line} - Current lexer's \"line comment\" symbols (or empty string)\n"
+"\n"
+"    ${fname} - File name only, without path\n"
+"    ${fpath} - Full file name, with path\n"
+"    ${fdir} - Directory of file\n"
+"    ${fext} - Extension of file\n"
+"    ${psep} - OS path separator: backslash on Windows, slash on Unix\n"
+"\n"
+"    ${date:nnnn} - Current date/time formatted by string \"nnnn\"; see Python docs\n"
+"    ${env:nnnn} - Value of OS environment variable \"nnnn\"\n"
+"    \n"
+"Sublime ($NAME | ${NAME}):\n"
+"    $TM_SELECTED_TEXT - The currently selected text or the empty string\n"
+"    $TM_CURRENT_LINE - The contents of the current line\n"
+"    $TM_CURRENT_WORD - The contents of the word under cursor or the empty string\n"
+"    $TM_LINE_INDEX - The zero-based line number\n"
+"    $TM_LINE_NUMBER - The one-based line number\n"
+"    $TM_FILEPATH - The full file path of the current document\n"
+"    $TM_DIRECTORY - The directory of the current document\n"
+"    $TM_FILENAME - The filename of the current document\n"
+"    $TM_FILENAME_BASE - The filename of the current document without its extensions\n"
+"    $CLIPBOARD - The contents of your clipboard\n"
+"    $WORKSPACE_NAME - The name of the opened workspace or folder\n"
+"\n"
+"    $BLOCK_COMMENT_START - Current lexer's \"block comment\" start symbols (or empty string)\n"
+"    $BLOCK_COMMENT_END - Current lexer's \"block comment\" end symbols (or empty string)\n"
+"    $LINE_COMMENT - Current lexer's \"line comment\" symbols (or empty string)\n"
+"    \n"
+"Date, time:\n"
+"    $CURRENT_YEAR - The current year\n"
+"    $CURRENT_YEAR_SHORT - The current year's last two digits\n"
+"    $CURRENT_MONTH - The month as two digits (e.g. '02')\n"
+"    $CURRENT_MONTH_NAME - The full name of the month (e.g. 'July')\n"
+"    $CURRENT_MONTH_NAME_SHORT - The short name of the month (e.g. 'Jul')\n"
+"    $CURRENT_DATE - The day of the month\n"
+"    $CURRENT_DAY_NAME - The name of day (e.g. 'Monday')\n"
+"    $CURRENT_DAY_NAME_SHORT - The short name of the day (e.g. 'Mon')\n"
+"    $CURRENT_HOUR - The current hour in 24-hour clock format\n"
+"    $CURRENT_MINUTE - The current minute\n"
+"    $CURRENT_SECOND - The current second\n"
+"    $CURRENT_SECONDS_UNIX - The number of seconds since the Unix epoch\n"
+
+#: py/cuda_snippets/dlg_snip_manage.py:94
+msgid "Manage snippets"
+msgstr "Gerenciar trechos"
+
+#: py/cuda_snippets/dlg_snip_manage.py:117
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_snippets/dlg_snip_manage.py:133
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_snippets/dlg_snip_manage.py:149
+msgid "Editor's Lexer"
+msgstr "Editor de Lexer"
+
+#: py/cuda_snippets/dlg_snip_manage.py:166
+msgid "Macros Help"
+msgstr "Ajuda de Macros"
+
+#: py/cuda_snippets/dlg_snip_manage.py:194
+msgid "Package: "
+msgstr "Pacote: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:208
+#: py/cuda_snippets/dlg_snip_manage.py:269
+#: py/cuda_snippets/dlg_snip_manage.py:376
+msgid "Delete..."
+msgstr "Excluir..."
+
+#: py/cuda_snippets/dlg_snip_manage.py:224
+#: py/cuda_snippets/dlg_snip_manage.py:285
+#: py/cuda_snippets/dlg_snip_manage.py:392
+msgid "Add..."
+msgstr "Adicionar..."
+
+#: py/cuda_snippets/dlg_snip_manage.py:255
+msgid "Group: "
+msgstr "Grupo: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:318
+msgid "Group's lexers: "
+msgstr "Grupo de lexers: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:332
+msgid "Add Lexer..."
+msgstr "Adicionar Lexer..."
+
+#: py/cuda_snippets/dlg_snip_manage.py:362
+msgid "Snippet: "
+msgstr "Trechos: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:425
+msgid "Snippet's alias: "
+msgstr "Apelido do trecho: "
+
+#: py/cuda_snippets/dlg_snip_manage.py:535
+msgid "Saving changes"
+msgstr "Salvando alterações"
+
+#: py/cuda_snippets/dlg_snip_manage.py:553
+msgid "* Group's lexers changed: [{0}] => [{1}]"
+msgstr "* Grupo de lexers alterados: [{0}] => [{1}]"
+
+#: py/cuda_snippets/dlg_snip_manage.py:563
+msgid "* snippet's alias changed: [{0}] => [{1}]"
+msgstr "* apelidos dos trechos alterados: [{0}] => [{1}]"
+
+#: py/cuda_snippets/dlg_snip_manage.py:571
+msgid ""
+"* snippet's body changed:\n"
+"{0}\n"
+" ==>>\n"
+"{1}"
+msgstr ""
+"* corpo dos trechos alterados:\n"
+"{0}\n"
+" ==>>\n"
+"{1}"
+
+#: py/cuda_snippets/dlg_snip_manage.py:594
+msgid "! ERROR: trying to save snippets for unloaded group: {0}"
+msgstr "! ERRO: tentando salvar trechos para grupo não carregado: {0}"
+
+#: py/cuda_snippets/dlg_snip_manage.py:619
+msgid "Saved."
+msgstr "Salvo."
+
+#: py/cuda_snippets/dlg_snip_manage.py:755
+msgid "New snippet name:"
+msgstr "Novo nome de trecho:"
+
+#: py/cuda_snippets/dlg_snip_manage.py:769
+msgid "\"{0}\" - snippet already exists."
+msgstr "\"{0}\" - trecho já existe."
+
+#: py/cuda_snippets/dlg_snip_manage.py:781
+msgid "New snippet group filename:"
+msgstr "Novo nome de arquivo para grupo de trechos:"
+
+#: py/cuda_snippets/dlg_snip_manage.py:789
+msgid "\"{0}\" - group already exists."
+msgstr "\"{0}\" - grupo já existe."
+
+#: py/cuda_snippets/dlg_snip_manage.py:804
+msgid "New package name (should be a valid directory name):"
+msgstr "Novo nome de pacote (deve ser um nome de diretório válido):"
+
+#: py/cuda_snippets/dlg_snip_manage.py:813
+msgid "\"{0}\" - package already exists."
+msgstr "\"{0}\" - pacote já existe."
+
+#: py/cuda_snippets/dlg_snip_manage.py:830
+msgid "To delete package \"{}\" - delete the following directory:"
+msgstr "Para excluir o pacote \"{}\" - remova o seguinte diretório:"
+
+#: py/cuda_snippets/dlg_snip_manage.py:846
+msgid "To delete snippet group \"{0}\" from package \"{1}\" - delete the following file:"
+msgstr "Para excluir o grupo de trechos \"{0}\" do pacote \"{1}\" - remova o seguinte arquivo:"
+
+#: py/cuda_snippets/dlg_snip_manage.py:883
+msgid "Delete snippet \"{0}\"?"
+msgstr "Excluir trecho \"{0}\"?"
+
+#: py/cuda_snippets/dlg_snip_manage.py:899
+msgid "! ERROR: snippets path is not a file:{0}"
+msgstr "! ERRO: o caminho dos trechos não é um arquivo:{0}"
+
+#: py/cuda_snippets/dlg_snip_manage.py:909
+msgid "! ERROR: no such package: {0}"
+msgstr "! ERRO: o pacote não existe: {0}"
+
+#: py/cuda_snippets/dlg_snip_manage.py:922
+msgid "! ERROR: {0} - is not a package"
+msgstr "! ERRO: {0} - não é um pacote"
+
+#: py/cuda_snippets/dlg_snip_manage.py:992
+msgid "Syntax Help"
+msgstr "Ajuda de Sintaxe"
+
+#: py/cuda_snippets/loader.py:237
+msgid "Package of snippets converted."
+msgstr "Pacote de trechos convertidos."
+
+#: py/cuda_snippets/loader.py:239
+msgid "It is not a snippets package."
+msgstr "Isso não é um pacote de trechos."
+
+#: py/cuda_snippets/snippet.py:205
+msgid "Wrong snippet: {}"
+msgstr "Trecho errado: {}"
+
+#: py/cuda_snippets/vs.py:148
+msgid "Connection error :("
+msgstr "Erro de conexão :("
+
+#: py/cuda_snippets/vs.py:162
+msgid "Can't install this package"
+msgstr "Não foi possível instalar este pacote"
+
+#: py/cuda_snippets/vs.py:183 py/cuda_snippets/vs.py:189
+msgid "Sorry, but this package doesn't have any snippets"
+msgstr "Desculpe, mas este pacote não contém trechos"
+
+#: py/cuda_snippets/vs.py:211
+msgid ""
+"Can't download this package.\n"
+"Status code {}"
+msgstr ""
+"Não foi possível baixar este pacote.\n"
+"Código do status {}"

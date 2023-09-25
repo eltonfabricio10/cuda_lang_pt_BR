@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-08 15:23-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: cuda_comments/cd_comments.py:33
+msgid "(Line commands) Try to keep text position after (un)commenting"
+msgstr "(Comandos de linha) Tentar manter a posição do texto após (des)comentar"
+
+#: cuda_comments/cd_comments.py:34
+msgid "Try to replace only blank(s) to keep text positions:\rUncommented lines:\r····foo1\r····foo2\rCommented lines:\r#···foo1\r···#foo2"
+msgstr "Tentar substituir somente os espaços em branco para manter as posições do texto:\rLinhas não comentadas:\r····foo1\r····foo2\rLinhas comentadas:\r#···foo1\r···#foo2"
+
+#: cuda_comments/cd_comments.py:42
+msgid "(Line \"at non-space\") If selected few lines, insert comment at maximal common indent"
+msgstr "(Linha \"em não-espaço\") Se selecionar linhas, inserir o comentário na indentação comum"
+
+#: cuda_comments/cd_comments.py:43
+msgid "Use maximal common column of first non-blank char:\rUncommented lines:\r··foo1\r····foo2\r······foo3\rCommented lines:\r··#foo1\r··#··foo2\r··#····foo3"
+msgstr "Usar a máxima coluna comum do primeiro caractere não em branco:\rLinhas não comentadas:\r··foo1\r····foo2\r······foo3\rLinhas comentadas:\r··#foo1\r··#··foo2\r··#····foo3"
+
+#: cuda_comments/cd_comments.py:53
+msgid "(All) Move caret to next line"
+msgstr "(Tudo) Mover cursor para próxima linha"
+
+#: cuda_comments/cd_comments.py:54
+msgid "(Line commands) Skip blank lines"
+msgstr "(Comandos de linha) Pular linhas em branco"
+
+#: cuda_comments/cd_comments.py:55
+msgid "\"Toggle line comment\" detects action by first non-blank line"
+msgstr "\"Alternar comentário de linha\" detecta a ação pela primeira linha não em branco"
+
+#: cuda_comments/cd_comments.py:57
+msgid "Configure commenting commands"
+msgstr "Configurar os comandos de comentários"
+
+#: cuda_comments/cd_comments.py:63 cuda_comments/cd_plug_lib.py:574
+msgid "OK"
+msgstr "OK"
+
+#: cuda_comments/cd_comments.py:64 cuda_comments/cd_plug_lib.py:575
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: cuda_comments/cd_comments.py:113
+msgid "Lexer \"{}\" doesn't support \"line comments\""
+msgstr "O lexer \"{}\" não tem suporte para \"comentário de linha\""
+
+#: cuda_comments/cd_comments.py:157
+msgid "Cannot handle blank lines only"
+msgstr "Não foi possível lidar apenas com linhas em branco"
+
+#: cuda_comments/cd_comments.py:267
+msgid "Commenting"
+msgstr "Comentário"
+
+#: cuda_comments/cd_comments.py:267
+msgid "{} works only with normal selection"
+msgstr "{} funciona apenas com seleção normal"
+
+#: cuda_comments/cd_comments.py:273
+msgid "No stream comment for lexer \"{}\""
+msgstr "Sem comentário de bloco para o lexer \"{}\""

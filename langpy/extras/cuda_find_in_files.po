@@ -1,0 +1,1606 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+1 level"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+2 levels"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+3 levels"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+4 levels"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+5 levels"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "+All"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:62
+msgid "Only"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:63
+msgid "-Binary"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:63
+msgid "-Hidden"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:63
+msgid "-Hidden, -Binary"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:63
+msgid "Don't skip"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:64
+msgid "By date, from newest"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:64
+msgid "By date, from oldest"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:64
+msgid "Don't sort"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:121
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:132
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:140
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:152
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:156
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:159
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:162
+msgid "Must update the application"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:142
+msgid "The command works only with reports of FindInFiles plugin"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:145
+msgid "No info to repeat search"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:197
+msgid ""
+"Option allows to save separate search settings\n"
+"                (search text, source folder, files mask etc)\n"
+"                per each mentioned session or project.\n"
+"                Each item in the option is RegEx,\n"
+"                which is compared with the full path of session (project).\n"
+"                First matched item is used."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:207
+msgid "History"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:211
+msgid "Copy options [.*], [aA], [\"w\"] from CudaText dialog to plugin's dialog."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:215
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:222
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:229
+msgid "Start"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:218
+msgid "Use selection text from current file when dialog opens."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:225
+msgid "Store Results between dialog call if setting is \"[ ]Send\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:233
+msgid ""
+"List of lexer names to use for report file.\n"
+"                  First available lexer is used."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:242
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:251
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:268
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:275
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:289
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:296
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:303
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:312
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:365
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:384
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:403
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2129
+msgid "Report"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:245
+msgid ""
+"Auto-write 'tab_size' to report's lexer-specific config,\n"
+"               if no such setting. Use 0 to skip."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:254
+msgid ""
+"Allows Esc key to stop all stages of current search.\n"
+"                If false, Esc stops only the current stage."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:260
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:320
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:327
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:334
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:345
+msgid "Searching"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:264
+msgid "Show report even if nothing found."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:271
+msgid "[x]Append: Need to fold previous results."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:278
+msgid "Close dialog if search has found matches."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:285
+msgid "Length of substring (from field \"Find\"), which appears in the report document title."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:292
+msgid "If report document has a filename, save report after filling it."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:299
+msgid "Activate document with report after filling it."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:306
+msgid ""
+"Save search details (\"Find\", \"In folder\", …) in the first line of report.\n"
+"                The info will be used in command \"Repeat search for this report-tab\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:316
+msgid "Append specified string to the field 'Not in files'."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:323
+msgid "Size of buffer (at file start) to detect binary files."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:330
+msgid "If value>0, skip all files, which sizes are bigger than this value (in Kb)."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:337
+msgid ""
+"Default encoding to read files.\n"
+"                If value is empty, then the following is used:\n"
+"                  cp1252 for Linux,\n"
+"                  preferred encoding from locale for others (Win, macOS, …)."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:349
+msgid ""
+"Style to mark found fragment in report.\n"
+"                Full form:\n"
+"                   \"fif_mark_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\" "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:368
+msgid ""
+"Style to mark replaced fragment in report (unique in line).\n"
+"                Full form:\n"
+"                   \"fif_mark_true_replace_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\" "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:387
+msgid ""
+"Style to mark replaced fragment in report (not unique in line).\n"
+"                Full form:\n"
+"                   \"fif_mark_false_replace_style\":{\n"
+"                     \"color_back\":\"\", \n"
+"                     \"color_font\":\"\",\n"
+"                     \"font_bold\":false, \n"
+"                     \"font_italic\":false,\n"
+"                     \"color_border\":\"\", \n"
+"                     \"borders\":{\"left\":\"\",\"right\":\"\",\"bottom\":\"\",\"top\":\"\"}\n"
+"                   },\n"
+"                Color values: \"\" - skip, \"#RRGGBB\" - hex-digits\n"
+"                Values for border sides: \"solid\", \"dash\", \"2px\", \"dotted\", \"rounded\", \"wave\" "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:475
+msgid "To view/edit options install plugin \"Options Editor\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:495
+msgid "\"Find in Files\" options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:521
+msgid "No"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:521
+msgid "Yes"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:550
+msgid "No preset to config"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:560
+msgid "Options is restored from preset"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:670
+msgid "&Presets:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:673
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:721
+msgid "&Name:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:676
+msgid "Move &up"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:677
+msgid "Move &down"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:678
+msgid "Clon&e"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:679
+msgid "Dele&te"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:681
+msgid "&What to restore:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:683
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:725
+msgid "With values:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:686
+msgid "Apply"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:687
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:728
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1044
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2202
+msgid "Cancel"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:689
+msgid "Presets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:720
+msgid "Save preset"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:723
+msgid "&What to save:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:727
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1043
+msgid "OK"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:729
+msgid "#{}: \"{}\" in \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:748
+msgid "Options is saved to preset: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:791
+msgid "Options is restored from preset: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:839
+msgid ""
+"\n"
+"If report will be sent to tab \n"
+"    [x] Send\n"
+"then option \"Tree type\" in dialog \"{morp}\" allows to set:\n"
+" \n"
+"{shtp}\n"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:847
+msgid ""
+"\n"
+"┌────────────────────────────┬──────────────┬────────────────────────────┬───────────────────────────────────────────┐\n"
+"│          Command           │    Hotkey    │           Trick            │                  Comment                  │\n"
+"╞════════════════════════════╪══════════════╪════════════════════════════╪═══════════════════════════════════════════╡\n"
+"│ Find                       │        Enter │                            │ If focus not in Results/Source            │\n"
+"│ Count matches              │        Alt+T │                            │                                           │\n"
+"│ Find filenames             │       Ctrl+T │                            │                                           │\n"
+"├────────────────────────────┼──────────────┼────────────────────────────┼───────────────────────────────────────────┤\n"
+"│ Focus to Results           │   Ctrl+Enter │                            │ If focus not in Results/Source            │\n"
+"│ Open found fragment        │        Enter │                            │ If focus in Results. Selects the fragment │\n"
+"│ Close and go to found      │   Ctrl+Enter │                            │ If focus in Results. Selects the fragment │\n"
+"│ Close and go to found      │   Ctrl+Enter │                            │ If focus in Source. Restores selection    │\n"
+"│ Fold Results branch        │       Ctrl+= │                            │ If focus in Results                       │\n"
+"├────────────────────────────┼──────────────┼────────────────────────────┼───────────────────────────────────────────┤\n"
+"│ In current file            │ Ctrl+Shift+C │      Shift+Сlick \"Current\" │                                           │\n"
+"│ In all tabs                │              │ Ctrl      +Сlick \"Current\" │                                           │\n"
+"│ In current tab             │              │ Ctrl+Shift+Сlick \"Current\" │                                           │\n"
+"│ Choose file                │       Ctrl+B │      Shift+Сlick  \"Browse\" │                                           │\n"
+"│ Depth \"Only\"               │        Alt+Y │                  Ctrl+Num0 │                                           │\n"
+"│ Depth \"+1 level\"           │        Alt+! │                  Ctrl+Num1 │                                           │\n"
+"│ Depth \"All\"                │        Alt+L │                  Ctrl+Num9 │                                           │\n"
+"├────────────────────────────┼──────────────┼────────────────────────────┼───────────────────────────────────────────┤\n"
+"│ Save values as preset      │       Ctrl+S │                            │                                           │\n"
+"│ Presets dialog             │   Ctrl+Alt+S │                            │                                           │\n"
+"│ Use Preset #1(..#5)        │  Ctrl+1(..5) │                            │ Others from menu/dialog                   │\n"
+"│ Use Layout #1(..#5)        │   Alt+1(..5) │                            │ Others from menu                          │\n"
+"├────────────────────────────┼──────────────┼────────────────────────────┼───────────────────────────────────────────┤\n"
+"│ ±\"Not in\"/±\"Replace\"       │        Alt+V │                            │ 4-states loop to show/hide                │\n"
+"│ Engine options             │       Ctrl+E │                            │                                           │\n"
+"│ Configure vert. alignments │              │             Ctrl+Сlick \"=\" │                                           │\n"
+"├────────────────────────────┼──────────────┼────────────────────────────┼───────────────────────────────────────────┤\n"
+"│ Call CudaText's \"Find\"     │       Ctrl+F │                            │ With transfer patern/.*/aA/\"w\"            │\n"
+"│ Call CudaText's \"Replace\"  │       Ctrl+R │                            │ With transfer paterns/.*/aA/\"w\"           │\n"
+"│ Dialog \"Help\"              │        Alt+H │                            │                                           │\n"
+"└────────────────────────────┴──────────────┴────────────────────────────┴───────────────────────────────────────────┘\n"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:884
+msgid ""
+"\n"
+"• \".*\" - Option \"Regular Expression\". \n"
+"It allows to use in field \"Find what\" special symbols:\n"
+"    .   any character\n"
+"    \\d  digit character (0..9)\n"
+"    \\w  word-like character (digits, letters, \"_\")\n"
+"In field \"Replace with\":\n"
+"    \\1  to insert first found group,\n"
+"    \\2  to insert second found group, ... \n"
+"See full documentation on page\n"
+"    docs.python.org/3/library/re.html\n"
+" \n"
+"• \"w\" - {word}\n"
+" \n"
+"—————————————————————————————————————————————— \n"
+" \n"
+"• Values in fields \"{incl}\" and \"{excl}\" can contain\n"
+"    ?       for any single char,\n"
+"    *       for any substring (may be empty),\n"
+"    [seq]   any character in seq,\n"
+"    [!seq]  any character not in seq. \n"
+"Note: \n"
+"    *       matches all names, \n"
+"    *.*     doesn't match all.\n"
+" \n"
+"• Values in fields \"{incl}\" and \"{excl}\" can filter subfolder names \n"
+"if they start with \"/\".\n"
+"Example.\n"
+"    {incl:12}: /a*  *.txt\n"
+"    {excl:12}: /ab*\n"
+"    {fold:12}: c:/root\n"
+"    Depth       : All\n"
+"    Search will consider all *.txt files in folder c:/root\n"
+"    and in all subfolders a* except ab*.\n"
+" \n"
+"• Set special value \"{tags}\" (in short <t> or <Tabs>) for field \"{fold}\" to search in opened documents.\n"
+"Fields \"{incl}\" and \"{excl}\" will be used to filter tab titles, in this case.\n"
+"To search in all tabs, use mask \"*\" in field \"{incl}\".\n"
+"See also: menu items under button \"=\", \"Scope\".\n"
+" \n"
+"• Set special value \"{proj}\" (in short <p>) for field \"{fold}\" to search in project files.\n"
+"See also: menu items under button \"=\", \"Scope\".\n"
+" \n"
+"—————————————————————————————————————————————— \n"
+" \n"
+"• \"Age\" (advanced search options).\n"
+"    {olde}\n"
+" \n"
+"• \"First\" (advanced search options).\n"
+"    {frst}\n"
+" \n"
+"—————————————————————————————————————————————— \n"
+" \n"
+"• Long-term searches can be interrupted by ESC.\n"
+"Search has three stages: \n"
+"    picking files, \n"
+"    finding fragments, \n"
+"    reporting.\n"
+"ESC stops any stage. \n"
+"When picking and finding, ESC stops only this stage, so next stage begins.\n"
+" \n"
+"—————————————————————————————————————————————— \n"
+" \n"
+"• Use right click or Context keyboard button \n"
+"to see context menu over these elements\n"
+"    \"Find\", \"Replace\", \"Current\", \"Browse\", Depth combobox\n"
+" \n"
+"—————————————————————————————————————————————— \n"
+"You are welcome to plugin forum. See bottom link.\n"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:976
+msgid "\"Find in Files\" help"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:983
+msgid "Hotkeys+Tricks"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:984
+msgid "Hints"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:985
+msgid "Tree types"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:991
+msgid "Plugin forum"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1011
+msgid "See \"mouse_goto_definition\" in default.json and user.json"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1012
+msgid "<no action>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1013
+msgid "Navigate to same group"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1014
+msgid "Navigate to next group"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1015
+msgid "Navigate to prev group"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1016
+msgid "Navigate to next group, activate"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1017
+msgid "Navigate to prev group, activate"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1026
+msgid "Configure found result navigation by double-click"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1070
+msgid ""
+"Space-separated file or folder masks.\n"
+"Folder mask starts with \"/\".\n"
+"Double-quote mask, which needs space-char.\n"
+"Use ? for any character and * for any fragment.\n"
+"Note: \"*\" matchs all names, \"*.*\" doesnt match all."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1075
+msgid ""
+"\n"
+" \n"
+"Always excluded: {}\n"
+"See option \"fif_always_not_in_files\" to change."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1080
+msgid ""
+"Regular expression\n"
+"Format for found groups in Replace: \\1"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1083
+msgid "Case sensitive"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1084
+msgid ""
+"Option \"Whole words\". It is ignored when:\n"
+"  Regular expression (\".*\") is turned on,\n"
+"  \"Find what\" contains not only letters, digits and \"_\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1088
+msgid ""
+"Choose folder.\n"
+"Shift+Click or Ctrl+B - Choose file to find in it."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1091
+msgid ""
+"Start folder(s).\n"
+"Space-separated folders.\n"
+"Double-quote folder, which needs space-char.\n"
+"~ is user Home folder.\n"
+"$VAR or ${{VAR}} is environment variable.\n"
+"{} to search in tabs (in short <Tabs> or <t>).\n"
+"{} to search in project folders (in short <p>)."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1099
+msgid ""
+"Which subfolders will be searched.\n"
+"Alt+Y or Ctrl+Num0 - Apply \"Only\".\n"
+"Alt+! or Ctrl+Num1 - Apply \"+1 level\".\n"
+"Alt+L or Ctrl+Num9 - Apply \"+All\" subfolders."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1104
+msgid ""
+"Use folder of current file.\n"
+"Shift+Click or Ctrl+Shift+C - Prepare search in the current file.\n"
+"Ctrl+Click   - Prepare search in all tabs.\n"
+"Shift+Ctrl+Click - Prepare search in the current tab."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1109
+msgid "Advanced search options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1110
+msgid "Output report to tab/file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1111
+msgid "Advanced tab report options"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1112
+msgid ""
+"Local menu\n"
+"Ctrl+Click - Adjust vertical alignments..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1125
+msgid ""
+"M[, F]\n"
+"Stop after M fragments will be found.\n"
+"Search only inside F first proper files.\n"
+"    Note: If Sort is on then steps are\n"
+"     - Collect all proper files\n"
+"     - Sort the list\n"
+"     - Use first F files to search"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1134
+msgid "day(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1134
+msgid "hour(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1134
+msgid "month(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1134
+msgid "week(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1134
+msgid "year(s)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1135
+msgid ""
+"\"N\" or \"<N\" or \">N\".\n"
+"Skip files if the age less or more then N.\n"
+"\"N\" and \"<N\" are equal.\n"
+"\"0\" to all ages."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1140
+msgid ""
+"Format of the reported tree structure.\n"
+"Compact - report all found line with full file info:\n"
+"    path(r[:c:l]):line\n"
+"    path/(r[:c:l]):line\n"
+"  Tree schemes\n"
+"    +Search for \"*\"\n"
+"      <full_path(row[:col:len])>: line with ALL marked fragments\n"
+"    +Search for \"*\"\n"
+"      <full_path>: #count\n"
+"         <(row[:col:len])>: line with ALL marked fragments\n"
+"Sparse - report separated folders and fragments:\n"
+"    dir/file(r[:c:l]):line\n"
+"    dir/file/(r[:c:l]):line\n"
+"  Tree schemes\n"
+"    +Search for \"*\"\n"
+"      <root>: #count\n"
+"        <dir>: #count\n"
+"          <file.ext(row[:col:len])>: line with ONE marked fragment\n"
+"    +Search for \"*\"\n"
+"      <root>: #count\n"
+"        <dir>: #count\n"
+"          <file.ext>: #count\n"
+"            <(row[:col:len])>: line with ONE marked fragment\n"
+"For \n"
+"  sorted files\n"
+"and for search in tabs\n"
+"  In folder={}\n"
+"only Compact options are used.\n"
+"When a conflict occurs, \"Tree type\" is automatically changed."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1171
+msgid "Conte&xt -{}+{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1172
+msgid "Show result line and both its nearest lines, above and below result."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1173
+msgid "Align columns (filenames/numbers) by widest cell width"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1174
+msgid ""
+"Start search.\n"
+"Shift+Click  - Put report to new tab.\n"
+"   It is like pressing Find with option \"Show in: {}\".\n"
+"Ctrl+Click  - Append result to existing report.\n"
+"   It is like pressing Find with option \"[x]Append results\"."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1180
+msgid ""
+"Start search and replacement.\n"
+"Shift+Click  - Run without question\n"
+"   \"Do you want to replace...?\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1184
+msgid ""
+"Count matches only.\n"
+"Shift+Click or Ctrl+T - Find file names only.\n"
+" \n"
+"Note: Alt+T and Ctrl+T works if button is hidden."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1189
+msgid ""
+"Save options for future. Restore saved options.\n"
+"Shift+Click - Show presets list in applying history order.\n"
+"Ctrl+Click   - Apply last used preset.\n"
+" \n"
+"Note: Alt+S works if button is hidden.\n"
+"Ctrl+1 - Apply first preset.\n"
+"Ctrl+2 - Apply second preset.\n"
+"Ctrl+3 - Apply third preset."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1199
+msgid ""
+"In which encodings try to read files.\n"
+"First suitable will be used.\n"
+"\"{}\" is slow.\n"
+" \n"
+"Default encoding: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1282
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1735
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1743
+msgid "[Clear fixed files]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1283
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1745
+msgid "[Add fixed file]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1306
+msgid "(no results)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1315
+msgid "Find in Files ({})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1545
+msgid "sorted"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1547
+msgid "age"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1548
+msgid "first \""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1555
+msgid "append to "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1556
+msgid "Report: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1558
+msgid "aligned"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1559
+msgid "context-{}+{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1562
+msgid "Search: "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1685
+msgid "S&kip files:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1687
+msgid "S&ort file list:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1689
+msgid "A&ge (0=all):"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1692
+msgid "&Firsts (0=all):"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1694
+msgid "&Encodings:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1737
+msgid "Clear all fixed files ({}) for \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1737
+msgid "Report to"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1783
+msgid "&Report to:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1785
+msgid "Appen&d results"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1786
+msgid "&Tree type:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1788
+msgid "&Align (r:c:l)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1789
+msgid "Add conte&xt lines"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1790
+msgid "&Before:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1792
+msgid "A&fter:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1960
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1976
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:69
+msgid "detect"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1977
+msgid "<{}> (search setting)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:1979
+msgid "Source encoding"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2004
+msgid "<ERROR. See \"Source encoding\" in menu>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2010
+msgid "(no source)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2034
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2055
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2073
+msgid "Fill the \"{}\" field"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2039
+msgid "Do you want to replace in {}?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2040
+msgid "current tab"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2041
+msgid "all tabs"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2042
+msgid "all found files"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2051
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2076
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2079
+msgid "Fix quotes in the \"{}\" field"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2062
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2069
+msgid ""
+"Set correct \"{}\" reg.ex.\n"
+"\n"
+"Error:\n"
+"{}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2095
+msgid ""
+"Set existing folder in \"{}\" \n"
+"or use \"{}\" \n"
+"or use \"{}\".\n"
+"\n"
+"=/Presets can help."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2170
+msgid "file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2170
+msgid "tab"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2192
+msgid "Search stopped"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2197
+msgid "No {}s picked"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2212
+msgid "No matches found (in {} {})"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2214
+msgid "Found {} {} in {}({}) {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2352
+msgid "Remove \"{}\"?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2362
+msgid "Name to save dialog and controls positions"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2368
+msgid "Name \"{}\" already used. Overwrite?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2402
+msgid "Apply layout: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2426
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:177
+msgid "Results"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2464
+msgid "Open fragment"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2465
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2473
+msgid "Go to fragment"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2467
+msgid "Fold branch"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2469
+msgid "Copy Results to tab"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2486
+msgid "Count matches only"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2487
+msgid "Find file names only"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2490
+msgid "Find and replace"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2491
+msgid "Find and replace (without question)   [Shift+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2494
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2780
+msgid "Find"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2495
+msgid "Find and put report to new tab   [Shift+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2496
+msgid "Find and append result to existing report   [Ctrl+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2502
+msgid "Use folder of current file"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2503
+msgid "Prepare search in the current file   [Shift+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2505
+msgid "Prepare search in all tabs   [Ctrl+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2506
+msgid "Prepare search in the current tab   [Shift+Ctrl+\"{}\"]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2508
+msgid "Fill \"{}\" to find in project folders"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2509
+msgid "Fill \"{}\" to find in tabs"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2512
+msgid "Choose folder…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2513
+msgid "Choose file to find in it…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2516
+msgid "Apply \"Onl&y\"   [Ctrl+Num0]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2517
+msgid "Apply \"+1 level\"   [Ctrl+Num1]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2518
+msgid "Apply \"+A&ll\"   [Ctrl+Num9]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2521
+msgid "Options for report t&o tab…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2522
+msgid "Extra options for s&earch…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2523
+msgid "&View and edit engine options…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2524
+msgid "&Configure navigation with double-click in tab report…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2525
+msgid "Source encod&ing{}…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2528
+msgid "Show \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2529
+msgid "Show \"{}\" and \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2534
+msgid "&Save preset as…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2535
+msgid "Presets [{}]…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2549
+msgid "Set Results o&ver Source"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2550
+msgid "&Save dialog and controls positions..."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2555
+msgid "&{}: Restore \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2559
+msgid "&Forget"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2564
+msgid "&Find"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2565
+msgid "Sco&pe"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2566
+msgid "&Browse"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2567
+msgid "&Depth"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2568
+msgid "Pre&sets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2569
+msgid "&Layout"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2573
+msgid "&Help…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2759
+msgid "&aA"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2760
+msgid "\"&w\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2762
+msgid "*&Find what:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2764
+msgid "&Replace with:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2766
+msgid "*&In files:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2768
+msgid "Not in files:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2770
+msgid "*I&n folder:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2773
+msgid "&Browse…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2774
+msgid "&Current"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2776
+msgid "For s&earch…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2777
+msgid "Sen&d"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2778
+msgid "t&o…"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fi_in_fi.py:2781
+msgid "Re&place"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:50
+msgid "+Search"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:51
+msgid "+Replace"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:53
+msgid "<Project Folders>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:54
+msgid "<Open Files>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:59
+msgid "<prior tab>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:60
+msgid "<new tab>"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:61
+msgid "path(r):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:62
+msgid "path(r:c:l):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:63
+msgid "path/(r):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:64
+msgid "path/(r:c:l):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:65
+msgid "dir/file(r):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:66
+msgid "dir/file(r:c:l):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:67
+msgid "dir/file/(r):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:68
+msgid "dir/file/(r:c:l):line"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:333
+msgid "{} for \"{}\" in \"{}\" from {} ({} matches in {}({}) files)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:343
+msgid "{} \"{}\" to \"{}\" in \"{}\" from {} ({} changes in {}({}) files)"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:362
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:414
+msgid "[ESC?] Report: {}%"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:364
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:416
+msgid "(Report stopped on {}%) "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:527
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:578
+msgid "No tab for navigation"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:580
+msgid "No file for navigation"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:673
+msgid "Line {} has bad data for navigation"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:711
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:713
+msgid "Undefined report to jump. Fill new report or navigate with old one."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:715
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:820
+msgid "Command doesn't work with multi-carets"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:734
+msgid "Line \"{}\":{} has no data for navigation"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:760
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:763
+msgid "No data to jump"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:831
+msgid "Line {} has no data for navigation"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1124
+msgid "[ESC?] Search: {}% [found {} matches in {}({}) files]"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1130
+msgid "(Search stopped on {}%) "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1195
+msgid "Cannot read \"{}\" (encoding={}/{}): {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1267
+msgid "tab:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1348
+msgid "[ESC?][Found {} file(s) in {} dir(s)] Picking in: {}"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1353
+msgid "(Picking stopped) "
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_fif_api.py:1462
+msgid "Stop?"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2131
+msgid "Send the report to the address"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2133
+msgid "or post it on"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2135
+msgid "Close"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2199
+msgid "&Save"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2200
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_find_in_files/cd_plug_lib.py:2204
+msgid "Adjust vertical alignments"
+msgstr ""
+

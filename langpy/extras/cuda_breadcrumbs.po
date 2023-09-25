@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-05 17:42-0300\n"
+"PO-Revision-Date: 2021-07-31 22:22-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+#: cuda_breadcrumbs/breadcrumbs.py:117
+msgid "NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" should be comma-separated string of integers 0-2"
+msgstr "NOTA: Breadcrumbs - Não foi possível analisar o valor da opção: \"root_dir_source\" deve ser uma string de inteiros 0-2 separada por vírgulas"
+
+#: cuda_breadcrumbs/breadcrumbs.py:521 cuda_breadcrumbs/breadcrumbs.py:528
+msgid "Breadcrumbs doesn't work for untitled tabs"
+msgstr "Breadcrumbs não funciona para guias sem título"
+
+#: cuda_breadcrumbs/dlg.py:102
+msgid "BreadCrumbs Tree"
+msgstr "Árvore do BreadCrumbs"
+
+#: cuda_breadcrumbs/dlg.py:135
+msgid "Find next - F3"
+msgstr "Encontrar o próximo - F3"
+
+#: cuda_breadcrumbs/dlg.py:149
+msgid "Find previous - Shift+F3"
+msgstr "Encontrar o anterior - Shift+F3"
+
+#: cuda_breadcrumbs/dlg.py:160
+msgid "Search"
+msgstr "Pesquisar"

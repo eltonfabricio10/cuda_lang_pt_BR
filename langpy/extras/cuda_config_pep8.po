@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:50-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:168
+msgid "Configure PyCodeStyle"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:170
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:172
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:174
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:176
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:178
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:182
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:184
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:186
+msgid "Ignore in \"{}\""
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:179
+msgid "Max length:"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:188
+msgid "Defaults"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:189
+msgid "OK"
+msgstr ""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:190
+msgid "Cancel"
+msgstr ""
+

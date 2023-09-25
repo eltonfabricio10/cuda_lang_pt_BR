@@ -1,2 +1,3 @@
-# cuda_lang_pt_BR
- pt_BR translation for cudatext
+# cudatext-lang
+
+pt_BR for cudatext
