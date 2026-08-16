@@ -18,127 +18,126 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:45
 msgid "Mininal characters in selection or previous string to start completion"
-msgstr ""
+msgstr "Quantidade mínima de caracteres na seleção ou na string anterior para iniciar a conclusão"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:46
 msgid "Delete tail of base word after &caret"
-msgstr ""
+msgstr "Excluir o final da palavra-base após o &cursor"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:47
 msgid "If [x] then \"ab¦cd\" will be completed to \"ab¦123\", \"ab¦ABC\".\rIf [ ] then \"ab¦cd\" will be completed to \"ab¦cd123\", \"ab¦cdABC\"."
-msgstr ""
+msgstr "Se [x], \"ab¦cd\" será concluído como \"ab¦123\", \"ab¦ABC\".\rSe [ ], \"ab¦cd\" será concluído como \"ab¦cd123\", \"ab¦cdABC\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:50
 msgid "What characters will be included to completion variant.\rLetters and digits always are included."
-msgstr ""
+msgstr "Quais caracteres serão incluídos na variante de conclusão.\rLetras e dígitos sempre são incluídos."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:52
 msgid "&Expands to include both pair-chars"
-msgstr ""
+msgstr "&Expandir para incluir os dois caracteres do par"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:53
 msgid "Example: \"·\" is space.\rVariants for \"fun\":\r   function\r   fun=\"a·b\"\r   fun(·1,·2·)\r   fun(·1,·m()·)"
-msgstr ""
+msgstr "Exemplo: \"·\" representa um espaço.\rVariantes para \"fun\":\r   function\r   fun=\"a·b\"\r   fun(·1,·2·)\r   fun(·1,·m()·)"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:60
 msgid "Do&nt show list with single variant. Directly use the variant."
-msgstr ""
+msgstr "Não mostrar a lista com uma única variante. Usar a variante diretamente."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:72
 msgid "Word-like variant:"
-msgstr ""
+msgstr "Variante semelhante a palavra:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:73
 msgid "Contains e&xtra chars:"
-msgstr ""
+msgstr "Contém caracteres e&xtras:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:77
 msgid "Expession-like variant:"
-msgstr ""
+msgstr "Variante semelhante a expressão:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:78
 msgid "Contains extra &signs:"
-msgstr ""
+msgstr "Contém &símbolos extras:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:80
 msgid "An&y non-spaces"
-msgstr ""
+msgstr "Qualquer caractere que não seja e&spaço"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:84
 msgid "&Minimal base length (2-5):"
-msgstr ""
+msgstr "Comprimento &mínimo da base (2–5):"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:87
 msgid "Start with variant from nea&rest line"
-msgstr ""
+msgstr "Começar com a variante da linha mais p&róxima"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:89
 msgid "&Default values"
-msgstr ""
+msgstr "Valores &padrão"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:90
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:91
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:93
 msgid "Configure \"In-text completion\""
-msgstr ""
+msgstr "Configurar \"Conclusão no texto\""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:187
 msgid "Command doesnt work with multi-carets"
-msgstr ""
+msgstr "O comando não funciona com vários cursores"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:191
 msgid "Command doesnt work with multi-line selection"
-msgstr ""
+msgstr "O comando não funciona com seleção de várias linhas"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:257
 msgid "No data for search"
-msgstr ""
+msgstr "Não há dados para pesquisar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:259
 msgid "Need |base|>={}, but |\"{}\"|=={}"
-msgstr ""
+msgstr "É necessário |base|>={}, mas |\"{}\"|=={}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:334
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:362
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:416
 msgid "No in-text completions"
-msgstr ""
+msgstr "Não há conclusões no texto"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:398
 msgid "In-text completion #{} ({})"
-msgstr ""
+msgstr "Conclusão no texto nº {} ({})"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_complete/cd_int_cmpl.py:413
 msgid "Need update CudaText"
-msgstr ""
-
+msgstr "É necessário atualizar o CudaText"

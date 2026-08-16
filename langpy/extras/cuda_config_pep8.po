@@ -18,7 +18,7 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:168
 msgid "Configure PyCodeStyle"
-msgstr ""
+msgstr "Configurar PyCodeStyle"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:170
@@ -30,25 +30,24 @@ msgstr ""
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:184
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:186
 msgid "Ignore in \"{}\""
-msgstr ""
+msgstr "Ignorar em \"{}\""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:179
 msgid "Max length:"
-msgstr ""
+msgstr "Comprimento máximo:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:188
 msgid "Defaults"
-msgstr ""
+msgstr "Padrões"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:189
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_pep8/cd_pep8.py:190
 msgid "Cancel"
-msgstr ""
-
+msgstr "Cancelar"

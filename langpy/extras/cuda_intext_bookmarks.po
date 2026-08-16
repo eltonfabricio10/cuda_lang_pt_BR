@@ -18,111 +18,110 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:37
 msgid "(none)"
-msgstr ""
+msgstr "(nenhum)"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:40
 msgid "Need update application"
-msgstr ""
+msgstr "É necessário atualizar o aplicativo"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:67
 msgid "Cannot add in-text bookmark: no line-comments defined for lexer {}."
-msgstr ""
+msgstr "Não é possível adicionar marcador no texto: não há comentários de linha definidos para o lexer {}."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:69
 msgid "Enter message for in-text bookmark. Empty is good."
-msgstr ""
+msgstr "Digite a mensagem do marcador no texto. Deixar vazio também é válido."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:85
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:146
 msgid "No in-text bookmarks"
-msgstr ""
+msgstr "Não há marcadores no texto"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:88
 msgid "No more bookmarks"
-msgstr ""
+msgstr "Não há mais marcadores"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:94
 msgid "No bookmark for jump"
-msgstr ""
+msgstr "Não há marcador para o salto"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:113
 msgid "No in-text bookmark into document with Lexer {}"
-msgstr ""
+msgstr "Não há marcador no texto do documento com o lexer {}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:159
 msgid "Tab in-text bookmarks: {}"
-msgstr ""
+msgstr "Marcadores no texto da aba: {}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:179
 msgid "No in-text bookmarks in tabs"
-msgstr ""
+msgstr "Não há marcadores no texto das abas"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:190
 msgid "In-text bookmarks (all tabs): {}"
-msgstr ""
+msgstr "Marcadores no texto (todas as abas): {}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:209
 msgid "Space delimeted list.\rThe first word will be inserted by command."
-msgstr ""
+msgstr "Lista delimitada por espaços.\rA primeira palavra será inserida pelo comando."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:210
 msgid "Default comment sign.\rIt is used when lexer has no line comment or file has no lexer."
-msgstr ""
+msgstr "Marcador de comentário padrão.\rUsado quando o lexer não possui comentário de linha ou o arquivo não possui lexer."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:211
 msgid "&Bookmark signs:"
-msgstr ""
+msgstr "&Marcadores de favoritos:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:213
 msgid "&Comment sign:"
-msgstr ""
+msgstr "Marcador de &comentário:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:215
 msgid "Compac&t list"
-msgstr ""
+msgstr "Lista &compacta"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:217
 msgid "&Wrap for next/prev"
-msgstr ""
+msgstr "&Voltar ao chegar ao próximo/anterior"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:218
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:219
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:223
 msgid "In-text bookmarks"
-msgstr ""
+msgstr "Marcadores no texto"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:233
 msgid "Need Bookmark sign"
-msgstr ""
+msgstr "É necessário informar o marcador de favorito"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_intext_bookmarks/cd_int_bms.py:237
 msgid "Need Comment sign"
-msgstr ""
-
+msgstr "É necessário informar o marcador de comentário"

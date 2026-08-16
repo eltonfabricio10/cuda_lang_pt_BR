@@ -18,20 +18,19 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_kv_dlg/cd_kv_dlg.py:1794
 msgid "Apply the tunings to controls of all dialogs."
-msgstr ""
+msgstr "Aplicar os ajustes aos controles de todos os diálogos."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_kv_dlg/cd_kv_dlg.py:1842
 msgid "&Save"
-msgstr ""
+msgstr "&Salvar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_kv_dlg/cd_kv_dlg.py:1843
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_kv_dlg/cd_kv_dlg.py:1846
 msgid "Tuning text vertical alignment for control pairs"
-msgstr ""
-
+msgstr "Ajuste do alinhamento vertical do texto para pares de controles"

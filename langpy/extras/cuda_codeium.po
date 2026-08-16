@@ -1,0 +1,153 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 14:33-0300\n"
+"PO-Revision-Date: 2026-08-16 14:33-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ./cuda_codeium/__init__.py:105
+msgid "Your token: "
+msgstr "Seu token: "
+
+#: ./cuda_codeium/__init__.py:146
+#, python-brace-format
+msgid "{}: Downloading server..."
+msgstr "{}: baixando o servidor..."
+
+#: ./cuda_codeium/__init__.py:156
+msgid "Codeium lang server downloaded!"
+msgstr "Servidor de linguagem do Codeium baixado!"
+
+#: ./cuda_codeium/__init__.py:171
+msgid "Gathering Codeium server info.."
+msgstr "Obtendo informações do servidor Codeium..."
+
+#: ./cuda_codeium/__init__.py:182
+#, python-brace-format
+msgid ""
+"Executable: {}\n"
+"Timestamp: {}\n"
+"Port: {}\n"
+"\n"
+msgstr ""
+"Executável: {}\n"
+"Data/hora: {}\n"
+"Porta: {}\n"
+"\n"
+
+#: ./cuda_codeium/__init__.py:188
+#, python-brace-format
+msgid "Version in config: \t{}\n"
+msgstr "Versão na configuração: \t{}\n"
+
+#: ./cuda_codeium/__init__.py:189
+msgid ""
+"Newest version can be found by using command 'Get available versions' in "
+"Command palette.\n"
+msgstr ""
+"A versão mais recente pode ser encontrada usando o comando 'Obter versões "
+"disponíveis' na paleta de comandos.\n"
+
+#: ./cuda_codeium/__init__.py:190
+msgid ""
+"\n"
+"To update your server binary, delete old one and change version in config."
+msgstr ""
+"\n"
+"Para atualizar o binário do servidor, exclua o antigo e altere a versão na configuração."
+
+#: ./cuda_codeium/__init__.py:201
+#, python-brace-format
+msgid "{}: Log in on startup enabled"
+msgstr "{}: login na inicialização ativado"
+
+#: ./cuda_codeium/__init__.py:203
+#, python-brace-format
+msgid "{}: Log in on startup disabled"
+msgstr "{}: login na inicialização desativado"
+
+#: ./cuda_codeium/__init__.py:210
+#, python-brace-format
+msgid "{}: Starting..."
+msgstr "{}: iniciando..."
+
+#: ./cuda_codeium/__init__.py:224
+#, python-brace-format
+msgid ""
+"ERROR: {}: Can't register user. Maybe token has expired. Try getting new "
+"token."
+msgstr ""
+"ERRO: {}: não foi possível registrar o usuário. Talvez o token tenha expirado. "
+"Tente obter um novo token."
+
+#: ./cuda_codeium/__init__.py:285
+#, python-brace-format
+msgid "{}: Logged in"
+msgstr "{}: sessão iniciada"
+
+#: ./cuda_codeium/__init__.py:331
+#, python-brace-format
+msgid "{}: Got {} {}"
+msgstr "{}: obtido {} {}"
+
+#: ./cuda_codeium/__init__.py:603
+#, python-brace-format
+msgid "{}: waiting for bot.."
+msgstr "{}: aguardando o bot..."
+
+#: ./cuda_codeium/__init__.py:683
+#, python-brace-format
+msgid "{}: no answer :("
+msgstr "{}: sem resposta :("
+
+#: ./cuda_codeium/__init__.py:685
+#, python-brace-format
+msgid "{}: answer recieved"
+msgstr "{}: resposta recebida"
+
+#: ./cuda_codeium/__init__.py:735
+msgid "ERROR: Can't get completions: server is not started."
+msgstr "ERRO: não foi possível obter conclusões: o servidor não foi iniciado."
+
+#: ./cuda_codeium/__init__.py:805
+#, python-brace-format
+msgid "{}: Shutting down"
+msgstr "{}: encerrando"
+
+#: ./cuda_codeium/__init__.py:839
+#: ./cuda_codeium/__init__.py:841
+msgid "Available Codeium versions"
+msgstr "Versões disponíveis do Codeium"
+
+#: ./cuda_codeium/__init__.py:864
+#, python-brace-format
+msgid "{}: User canceled request."
+msgstr "{}: o usuário cancelou a solicitação."
+
+#: ./cuda_codeium/dlg.py:55
+msgid "Codeium chat"
+msgstr "Chat do Codeium"
+
+#: ./cuda_codeium/dlg.py:68
+msgid "Enter your question below."
+msgstr "Digite sua pergunta abaixo."
+
+#: ./cuda_codeium/dlg.py:98
+msgid "Ctrl+Enter to send."
+msgstr "Ctrl+Enter para enviar."
+
+#: ./cuda_codeium/dlg.py:107
+msgid "Send"
+msgstr "Enviar"

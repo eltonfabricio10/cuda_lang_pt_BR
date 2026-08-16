@@ -1,0 +1,175 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 14:33-0300\n"
+"PO-Revision-Date: 2026-08-16 14:33-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ./cuda_differ/ui.py:104
+msgid "Differ: Choose files..."
+msgstr "Differ: escolher arquivos..."
+
+#: ./cuda_differ/ui.py:119
+#: ./cuda_differ/ui.py:268
+msgid "First file:"
+msgstr "Primeiro arquivo:"
+
+#: ./cuda_differ/ui.py:132
+#: ./cuda_differ/ui.py:175
+msgid "Browse..."
+msgstr "Procurar..."
+
+#: ./cuda_differ/ui.py:162
+#: ./cuda_differ/ui.py:275
+msgid "Second file:"
+msgstr "Segundo arquivo:"
+
+#: ./cuda_differ/ui.py:205
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ./cuda_differ/ui.py:221
+msgid "OK"
+msgstr "OK"
+
+#: ./cuda_differ/ui.py:266
+msgid "First file: (Please set correct path)"
+msgstr "Primeiro arquivo: (informe um caminho válido)"
+
+#: ./cuda_differ/ui.py:273
+msgid "Second file: (Please set correct path)"
+msgstr "Segundo arquivo: (informe um caminho válido)"
+
+#: ./cuda_differ/__init__.py:30
+msgid "Differ"
+msgstr "Differ"
+
+#: ./cuda_differ/__init__.py:37
+msgid "Color of changed lines"
+msgstr "Cor das linhas alteradas"
+
+#: ./cuda_differ/__init__.py:43
+msgid "Color of added lines"
+msgstr "Cor das linhas adicionadas"
+
+#: ./cuda_differ/__init__.py:49
+msgid "Color of deleted lines"
+msgstr "Cor das linhas excluídas"
+
+#: ./cuda_differ/__init__.py:55
+msgid "Color of inter-line gap background"
+msgstr "Cor do fundo dos espaços entre linhas"
+
+#: ./cuda_differ/__init__.py:61
+msgid "Use synchronized scrolling (vertical/horizontal) in two compared files"
+msgstr "Usar rolagem sincronizada (vertical/horizontal) nos dois arquivos comparados"
+
+#: ./cuda_differ/__init__.py:67
+msgid "Perform detailed comparision"
+msgstr "Realizar comparação detalhada"
+
+#: ./cuda_differ/__init__.py:73
+msgid "Measure of the sequences’ similarity, in percents"
+msgstr "Medida de similaridade das sequências, em porcentagem"
+
+#: ./cuda_differ/__init__.py:79
+msgid "Keep carets in both editors visible on current screen area"
+msgstr "Manter os cursores visíveis na área atual da tela em ambos os editores"
+
+#: ./cuda_differ/__init__.py:85
+msgid "Auto diff refresh after changes"
+msgstr "Atualizar automaticamente a comparação após alterações"
+
+#: ./cuda_differ/__init__.py:91
+msgid "Number of lines of context displayed when diffing files"
+msgstr "Quantidade de linhas de contexto exibidas ao comparar arquivos"
+
+#: ./cuda_differ/__init__.py:136
+msgid " WARNING:"
+msgstr " AVISO:"
+
+#: ./cuda_differ/__init__.py:138
+msgid " ERROR:"
+msgstr " ERRO:"
+
+#: ./cuda_differ/__init__.py:205
+msgid "Differ Options"
+msgstr "Opções do Differ"
+
+#: ./cuda_differ/__init__.py:238
+msgid "Compare file with tab"
+msgstr "Comparar arquivo com a aba"
+
+#: ./cuda_differ/__init__.py:269
+msgid "Diff file with tab"
+msgstr "Comparar diferenças do arquivo com a aba"
+
+#: ./cuda_differ/__init__.py:307
+#, python-brace-format
+msgid ""
+"First you must save file:\n"
+"{}"
+msgstr ""
+"Primeiro você deve salvar o arquivo:\n"
+"{}"
+
+#: ./cuda_differ/__init__.py:412
+#: ./cuda_differ/__init__.py:417
+#, python-brace-format
+msgid ""
+"The file:\n"
+"{}\n"
+"is empty."
+msgstr ""
+"O arquivo:\n"
+"{}\n"
+"está vazio."
+
+#: ./cuda_differ/__init__.py:430
+#, python-brace-format
+msgid ""
+"The files are identical:\n"
+"{0}\n"
+"{1}"
+msgstr ""
+"Os arquivos são idênticos:\n"
+"{0}\n"
+"{1}"
+
+#: ./cuda_differ/__init__.py:605
+#: ./cuda_differ/__init__.py:862
+msgid "No differences were found"
+msgstr "Nenhuma diferença encontrada"
+
+#: ./cuda_differ/__init__.py:636
+#, python-brace-format
+msgid "{} of {} difference"
+msgstr "{} de {} diferença(s)"
+
+#: ./cuda_differ/__init__.py:797
+msgid "Compare with..."
+msgstr "Comparar com..."
+
+#: ./cuda_differ/__init__.py:801
+msgid "Compare with focused tab"
+msgstr "Comparar com a aba em foco"
+
+#: ./cuda_differ/__init__.py:804
+msgid "Compare with tab"
+msgstr "Comparar com a aba"
+
+#: ./cuda_differ/__init__.py:811
+msgid "Back to separate tabs"
+msgstr "Voltar para abas separadas"

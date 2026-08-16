@@ -4,15 +4,16 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: CudaText\n"
 "POT-Creation-Date: 2021-08-16 21:50-0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2026-08-16 00:00-0300\n"
+"Last-Translator: pt-BR contributors\n"
+"Language-Team: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
 
 
 #:
@@ -24,9 +25,13 @@ msgid ""
 "Where <versions> should be replaced with a comma-separated string of integers.\n"
 "Press OK to open the Project Properties dialog now."
 msgstr ""
+"Para definir as versões do Bootstrap por projeto, adicione a seguinte opção à caixa de diálogo Propriedades do Projeto:\n"
+"  bootstrap_complete_versions=<versions>\n"
+"\n"
+"Substitua <versions> por uma lista de inteiros separados por vírgulas.\n"
+"Pressione OK para abrir agora a caixa de diálogo Propriedades do Projeto."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_bootstrap_complete/__init__.py:119
 msgid "No project opened"
-msgstr ""
-
+msgstr "Nenhum projeto aberto"

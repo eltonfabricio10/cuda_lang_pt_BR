@@ -1,0 +1,327 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 14:47-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./cuda_git_status/__init__.py:253
+msgid "Jump to next change"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:254
+msgid "Jump to previous change"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:257
+msgid "Pull..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:260
+msgid "Get log"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:261
+msgid "Get log of file"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:264
+msgid "Get status"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:265
+msgid "Get non-staged files"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:266
+msgid "Get untracked files"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:269
+msgid "Add file..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:270
+msgid "Restore file..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:272
+msgid "Reset"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:273
+msgid "Soft..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:274
+msgid "Mixed..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:275
+msgid "Hard..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:278
+msgid "Commit..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:279
+msgid "Combine... with previous commit (amend)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:280
+msgid "Edit previous commit's message (amend)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:281
+msgid "Push..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:284
+msgid "View file changes"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:285
+msgid "View all changes"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:288
+msgid "Checkout branch"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:349
+msgid "<new branch>"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:402
+#: ./cuda_git_status/__init__.py:414
+#: ./cuda_git_status/__init__.py:722
+msgid "No Git changes"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:442
+#: ./cuda_git_status/__init__.py:577
+msgid "&OK"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:471
+msgid "Git: Status"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:475
+#: ./cuda_git_status/__init__.py:485
+#: ./cuda_git_status/__init__.py:498
+#: ./cuda_git_status/__init__.py:510
+#: ./cuda_git_status/__init__.py:522
+#: ./cuda_git_status/__init__.py:593
+#: ./cuda_git_status/__init__.py:604
+#: ./cuda_git_status/__init__.py:622
+#: ./cuda_git_status/__init__.py:640
+#: ./cuda_git_status/__init__.py:662
+#: ./cuda_git_status/__init__.py:677
+#: ./cuda_git_status/__init__.py:711
+#: ./cuda_git_status/__init__.py:734
+#: ./cuda_git_status/__init__.py:747
+#: ./cuda_git_status/__init__.py:756
+#: ./cuda_git_status/__init__.py:772
+msgid "No Git repo"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:478
+msgid "Do you really want to add this file?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:481
+msgid "Git: file added"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:488
+msgid "Do you REALLY want to restore this file?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:493
+msgid "Git: Log of restore file"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:501
+msgid "Do you REALLY want to run 'git reset --soft HEAD~1'?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:505
+msgid "Git: Log of reset soft"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:513
+msgid "Do you REALLY want to run 'git reset --mixed HEAD~1'?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:517
+msgid "Git: Log of reset mixed"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:525
+msgid "Do you REALLY want to run 'git reset --hard HEAD~1'?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:529
+msgid "Git: Log of reset hard"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:539
+#, python-format
+msgid "Git: Log (last %d)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:541
+msgid "Git: no log"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:551
+#, python-format
+msgid "Git: Log of file (last %d)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:553
+msgid "Git: no log of file"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:558
+msgid "Git: Changes not staged for commit"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:560
+msgid "Git: no non-staged files"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:565
+msgid "Git: Untracked files"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:567
+msgid "Git: no untracked files"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:578
+msgid "Cancel"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:595
+msgid "Git: Commit changes"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:595
+#: ./cuda_git_status/__init__.py:607
+msgid "&Message:"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:599
+msgid "Git: Result of commit"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:611
+msgid "Git: Result of commit/amend"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:615
+msgid "Git: Combine... with previous commit (amend)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:618
+msgid "Git: Edit previous commit's message (amend)"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:624
+msgid "Run 'git push' with parameters:"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:635
+msgid "Git: Result of push"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:643
+msgid "Select a remote to push to"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:651
+#, python-brace-format
+msgid "Do you really want to run 'git push --set-upstream {} {}'?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:657
+#, python-brace-format
+msgid "Git: push --set-upstream {} {}"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:665
+msgid "Do you really want to run 'git push --force'?"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:671
+msgid "Git: Result of push --force"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:680
+msgid "Select a remote to pull from"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:689
+msgid "Run 'git pull' with parameters:"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:726
+#, python-brace-format
+msgid "Git: diff for \"{}\""
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:728
+msgid "Git: diff"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:739
+#, python-brace-format
+msgid "Already on a \"{}\" branch."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:749
+msgid "Name of new branch:"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:759
+msgid "Select a branch"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:781
+msgid "Please, provide path to git-bash.exe"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:793
+msgid "press Enter to close..."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:814
+msgid "Cannot find terminal programs:"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:834
+msgid "Select a starting commit"
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:901
+msgid "Install Diff lexer if you want to see colors."
+msgstr ""
+
+#: ./cuda_git_status/__init__.py:909
+msgid "Close"
+msgstr ""

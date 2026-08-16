@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 14:48-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./cuda_insert_pics/__init__.py:14
+msgid "Pictures"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:51
+msgid "Needed named file"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:64
+msgid "Cannot detect picture sizes"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:69
+#, python-format
+msgid "Picture width is %d. Resize to width:"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:84
+#, python-brace-format
+msgid "Added \"{}\", {}x{}, line {}"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:90
+msgid "Clipboard doesn't contain picture"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:98
+msgid "Cannot save clipboard to a file: "
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:122
+#, python-format
+msgid "Cannot load \"%s\""
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:141
+#, python-format
+msgid "\"%s\", %dx%d, line %d"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:181
+#, python-format
+msgid "Removed %d pics"
+msgstr ""
+
+#: ./cuda_insert_pics/__init__.py:212
+#, python-format
+msgid "Loaded %d pics"
+msgstr ""
