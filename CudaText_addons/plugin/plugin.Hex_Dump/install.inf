@@ -1,0 +1,21 @@
+[info]
+title=Hex Dump
+desc=Shows text in hex-dump format
+type=cudatext-plugin
+subdir=cuda_hex_dump
+homepage=https://github.com/CudaText-addons/cuda_hex_dump
+
+[item1]
+section=commands
+caption=Hex Dump\Dump UTF16-LE
+method=dump_unicode
+
+[item2]
+section=commands
+caption=Hex Dump\Dump UTF16-BE
+method=dump_unicode_be
+
+[item5]
+section=commands
+caption=Hex Dump\Dump ASCII
+method=dump_dos

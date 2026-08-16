@@ -1,0 +1,9 @@
+2020.01.15 (patch by @Jairo-Martinez)
++ add: handle on_lexer event, to avoid CudaText restart to see tab color, when creating new files
+
+2020.11.09
++ add: allow lexer name in config as case-insensitive
++ add: handle bad color string in config
+
+2020.11.08
+initial version

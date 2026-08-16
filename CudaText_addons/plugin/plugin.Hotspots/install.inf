@@ -1,0 +1,30 @@
+[info]
+title=Hotspots
+desc=Gives panel to show all existing bookmarks to jump to; also shows Git modified/untracked files
+type=cudatext-plugin
+subdir=cuda_hotspots
+homepage=https://github.com/CudaText-addons/cuda_hotspots
+
+[disabled_item1]
+section=events
+events=on_save~
+
+[item2]
+section=commands
+caption=Hotspots\Open side panel
+method=open_side_panel
+
+[item3]
+section=commands
+caption=Hotspots\Collect hotspots
+method=action_collect_hotspots
+
+[item4]
+section=commands
+caption=Hotspots\Go to hotspot
+method=go_to_hotspot
+
+[sidebar1]
+hint=Hotspots
+icon={dir}/icon.png
+method=open_side_panel

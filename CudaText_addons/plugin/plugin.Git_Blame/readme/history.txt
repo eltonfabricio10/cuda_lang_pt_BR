@@ -1,0 +1,42 @@
+﻿1.6.0 2024-10-17
+* Performance improvement
++ New command: See current line history
+
+1.5.0 2023-12-29
+* Reverse commits order in "See file history by Comitters" command output (oldest first)
+- #21 Show status bar message when users blame a new tab
+
+1.4.0 2023-12-24
++ Allow modify datetime format via config file
+* Align the output of "Blame Analyze File"
+
+1.3.0 2023-07-31
++ New command: View file content in history
+
+1.2.1 2023-07-15
+* Align "See file history" command output
+
+1.2.0 2023-07-14
++ #15 New command: Show file history
++ New command: Show file history by committer
+* Change default datetime format to %m-%d-%Y
+* Unify datetime format across commands
+- Fix wrong message in command Blame analyze file
+
+1.1.3 2023-05-08
+* #13 Remove f-strings to support older Python
+
+1.1.2 2023-04-21
+* #10 Remove quote in command result for clarity
+
+1.1.1 2023-04-20
+* Remove unneccessary translator call
+- Fix #4 Linux compatibility
+- Fix #6 Handle boundary commit in git blame command
+
+1.1.0 2023-04-20
++ Add command Blame analyze file
+- Fix spacing in blame one line result
+
+1.0.0 2023-04-20
+init

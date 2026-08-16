@@ -1,0 +1,15 @@
+2025.11.19
+- fix: avoid deprecated API
+
+2018.09.25
+- fix: avoid deprecated API
+
+2017.12.08
+- fix: update for new API
+* change: count of bookmarks is 8
+
+2016.02
+- fix: update for new API
+
+2015.09
+initial version

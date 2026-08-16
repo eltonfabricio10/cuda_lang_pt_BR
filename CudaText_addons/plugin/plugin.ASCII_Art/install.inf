@@ -1,0 +1,27 @@
+[info]
+title=ASCII Art
+desc=Inserts text formatted via ASCII art font (using PyFiglet)
+type=cudatext-plugin
+subdir=cuda_ascii_art
+homepage=https://github.com/CudaText-addons/cuda_ascii_art
+
+[item1]
+section=commands
+caption=ASCII Art\Insert text...
+method=render
+
+[item2]
+section=commands
+caption=ASCII Art\Choose font...
+method=config_font
+
+[item4]
+section=commands
+caption=ASCII Art\Preview fonts
+method=preview
+
+[item10]
+section=commands
+caption=ASCII Art\Config
+method=config_all
+menu=o

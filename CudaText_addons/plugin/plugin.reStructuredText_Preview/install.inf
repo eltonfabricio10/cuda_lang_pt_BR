@@ -1,0 +1,12 @@
+[info]
+title=reStructuredText Preview
+desc=Previews reStructuredText file as HTML page in browser
+type=cudatext-plugin
+subdir=cuda_rest_preview
+homepage=https://github.com/CudaText-addons/cuda_rest_preview
+
+[item1]
+section=commands
+caption=reStructuredText Preview
+method=run
+lexers=reStructuredText

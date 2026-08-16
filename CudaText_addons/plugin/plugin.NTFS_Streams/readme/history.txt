@@ -1,0 +1,9 @@
+
+2017.08.21
++ "add stream from file": allow to select stream from source file
++ "add ...": detect if asked stream name exists
++ "delete stream": also close tab if stream opened
++ confirm "delete" command
+
+2017.08.17
+initial

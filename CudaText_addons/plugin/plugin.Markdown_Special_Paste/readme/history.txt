@@ -1,0 +1,17 @@
+2025.08.13
++ add: new option "pic_ext" which can be "png"/"jpg"/"jpeg" (patch by @mrkingmidas)
+
+2025.05.15
++ add: support macro {dirname} for option "pic_name"
+
+2022.08.24
++ add: support nested dirs in "pic_path" option
++ add: support LaTeX lexer
+
+2022.08.23
+* renamed plugin to 'Markdown Special Paste'
++ add: handle pasting of pictures for Markdown/reST/MediaWiki lexers
++ add: 4 options in settings/plugins.ini + menu item to open config file
+
+2022.08.21
+initial version

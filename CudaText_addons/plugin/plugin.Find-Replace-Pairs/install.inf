@@ -1,0 +1,20 @@
+[info]
+title=Find-Replace-Pairs
+desc=Simple plugin for add/get pairs of find/replace.
+type=cudatext-plugin
+subdir=cuda_find_replace_pairs
+homepage=https://github.com/ildarkhasanshin/cuda_find_replace_pairs
+
+[item1]
+section=commands
+caption=Find-Replace-Pairs\&List
+method=list
+
+[item2]
+section=commands
+caption=Find-Replace-Pairs\&Remove
+method=remove
+
+[item3]
+section=events
+events=on_state_findbar

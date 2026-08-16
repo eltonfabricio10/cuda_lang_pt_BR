@@ -1,0 +1,72 @@
+[info]
+title=Open URL
+desc=Gives commands to open URL (under text caret) in many browsers
+type=cudatext-plugin
+subdir=cuda_open_url
+homepage=https://github.com/CudaText-addons/cuda_open_url
+api=1.0.327
+
+[item1]
+section=events
+events=on_click_link
+
+[item2]
+section=commands
+caption=Open URL\Open URL in default browser
+method=url_default
+
+[item10]
+section=commands
+caption=Open URL\Open URL in Chrome
+method=url_chrome
+
+[item11]
+section=commands
+caption=Open URL\Open URL in Chrome, private mode
+method=url_chrome_pvt
+
+[item12]
+section=commands
+caption=Open URL\Open URL in Firefox
+method=url_firefox
+
+[item13]
+section=commands
+caption=Open URL\Open URL in Firefox, private mode
+method=url_firefox_pvt
+
+[item14]
+section=commands
+caption=Open URL\Open URL in Opera
+method=url_opera
+
+[item15]
+section=commands
+caption=Open URL\Open URL in Opera, private mode
+method=url_opera_pvt
+
+[item20]
+section=commands
+caption=Open URL\Open URL in Edge
+method=url_edge
+
+[item21]
+section=commands
+caption=Open URL\Open URL in Edge, private mode
+method=url_edge_pvt
+
+[item40]
+section=commands
+caption=Open URL\Open URL in tool-1
+method=url_tool1
+
+[item41]
+section=commands
+caption=Open URL\Open URL in tool-2
+method=url_tool2
+
+[item100]
+section=commands
+caption=Open URL\Config
+method=config
+menu=o

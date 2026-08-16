@@ -1,0 +1,31 @@
+[info]
+title=Insert Pics
+desc=Allows to insert preview of pictures (png/jpeg/gif/bmp/ico) into text. Saves pictures in helper file, to automatically load pics on file re-opening.
+type=cudatext-plugin
+subdir=cuda_insert_pics
+homepage=https://github.com/CudaText-addons/cuda_insert_pics
+api=1.0.364
+
+[item1]
+section=events
+events=on_open,on_save
+
+[item2]
+section=commands
+caption=Insert Pics\Insert picture from file...
+method=insert_dlg
+
+[item3]
+section=commands
+caption=Insert Pics\Insert picture from clipboard
+method=insert_clp
+
+[item10]
+section=commands
+caption=Insert Pics\Remove picture for current line
+method=del_cur
+
+[item11]
+section=commands
+caption=Insert Pics\Remove all pictures
+method=del_all

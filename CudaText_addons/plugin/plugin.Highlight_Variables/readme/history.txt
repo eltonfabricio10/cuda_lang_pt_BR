@@ -1,0 +1,36 @@
+2025.06.06
+- fix: fixed predefined config "begin=" key for Bash/PowerShell/Ruby/Perl; you need to delete your current config so predefined config will be copied over
+
+2025.06.02
+* change: add predefined configuration file
+
+2024.01.04
+* change: plugin is rewritten
++ add: multi-line literals (e.g. in Python) are supported too
++ add: plugin now handles only visible screen area, and now it is activated by timer, about 150msec after 'scroll' event or 'parsed' event
+* change: changed config format, see readme
+
+2022.08.19
+- fix: config for Perl
++ add: translation (by Markus)
+
+2022.08.11
++ add: predefined config for Python f-strings
+* change predefined configs for Bash, Perl
+
+2021.03.13
++ add: use new API
+
+2019.11.15
+- avoid deleted API
+* changed format of config file, now [section] is lexer name
+
+2018.09.20
++ add config for Perl
+
+2018.07.03
++ refactored
+- fix: theme color was not updated on changed theme
+
+2018.07.02
+initial

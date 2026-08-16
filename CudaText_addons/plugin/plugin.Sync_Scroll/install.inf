@@ -1,0 +1,17 @@
+[info]
+title=Sync Scroll
+desc=Synchronizes vertical and/or horizontal scrolling of editors in groups 1 and 2
+type=cudatext-plugin
+subdir=cuda_sync_scroll
+homepage=https://github.com/CudaText-addons/cuda_sync_scroll
+api=1.0.471
+
+[item1]
+section=commands
+caption=Sync Scroll\Toggle sync vertical scrolling
+method=toggle_vert
+
+[item2]
+section=commands
+caption=Sync Scroll\Toggle sync horizontal scrolling
+method=toggle_horz

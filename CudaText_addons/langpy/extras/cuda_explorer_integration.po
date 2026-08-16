@@ -1,0 +1,60 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 14:33-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/__init__.py:12
+msgid "This plugin is for Windows only"
+msgstr "Este plugin funciona somente no Windows"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:18
+#, python-format
+msgid "Add \"%(app)s\" item to Explorer context &menu"
+msgstr "Adicionar o item \"%(app)s\" ao &menu de contexto do Explorer"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:19
+#, python-format
+msgid "Associate %(app)s with \"&txt\" files"
+msgstr "Associar %(app)s a arquivos \"&txt\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:20
+#, python-format
+msgid "Associate %(app)s with \"&ini\" files"
+msgstr "Associar %(app)s a arquivos \"&ini\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:21
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:22
+#, python-format
+msgid "Associate %(app)s with \"%(ext)s\" files"
+msgstr "Associar %(app)s a arquivos \"%(ext)s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:23
+msgid "&Also register extensions (no dots, one per line, lower case):"
+msgstr "&Também registrar extensões (sem pontos, uma por linha, em minúsculas):"
+"&Também registrar extensões (sem pontos, uma por linha, em minúsculas):"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:24
+msgid "&OK"
+msgstr "&OK"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:25
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:39
+msgid "Explorer Integration"
+msgstr "Integração do Explorador"

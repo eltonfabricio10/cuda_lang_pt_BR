@@ -1,0 +1,48 @@
+[info]
+title=reStructuredText Helper
+desc=Gives commands to make reStructuredText header underlines
+type=cudatext-plugin
+subdir=cuda_rest_helper
+homepage=https://github.com/CudaText-addons/cuda_rest_helper
+
+[item11]
+section=commands
+caption=reStructuredText Helper\Underline header level 1
+method=under1
+lexers=reStructuredText
+
+[item12]
+section=commands
+caption=reStructuredText Helper\Underline header level 2
+method=under2
+lexers=reStructuredText
+
+[item13]
+section=commands
+caption=reStructuredText Helper\Underline header level 3
+method=under3
+lexers=reStructuredText
+
+[item14]
+section=commands
+caption=reStructuredText Helper\Underline header level 4
+method=under4
+lexers=reStructuredText
+
+[item15]
+section=commands
+caption=reStructuredText Helper\Underline header level 5
+method=under5
+lexers=reStructuredText
+
+[item16]
+section=commands
+caption=reStructuredText Helper\Underline header level 6
+method=under6
+lexers=reStructuredText
+
+[item50]
+section=commands
+caption=reStructuredText Helper\Config
+method=config
+menu=o

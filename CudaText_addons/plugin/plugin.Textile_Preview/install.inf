@@ -1,0 +1,12 @@
+[info]
+title=Textile Preview
+desc=Previews Textile documents as HTML page in browser
+type=cudatext-plugin
+subdir=cuda_textile_preview
+homepage=https://github.com/CudaText-addons/cuda_textile_preview
+
+[item1]
+section=commands
+caption=Textile Preview
+method=run
+lexers=Textile

@@ -1,0 +1,518 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-25 23:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:69
+msgid "No snippets for current lexer"
+msgstr "Nenhum trecho para a linguagem atual"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:77
+msgid "Snippets"
+msgstr "Trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:110
+msgid "Loading VS Snippets list. Please wait..."
+msgstr "Carregando lista de Trechos VS. Por favor, aguarde..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:113
+msgid "Can't download VS Snippets. Try again later..."
+msgstr "Não foi possível baixar Trechos VS. Tentar novamente mais tarde..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:137
+msgid "Delete snippet markers"
+msgstr "Excluir marcadores de trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:169
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:188
+msgid "No VSCode snippets found"
+msgstr "Trechos VSCode não encontrados"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:173
+msgid "Visit page of snippets"
+msgstr "Visitar página dos trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:179
+msgid "No URL found"
+msgstr "URL não encontrada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:181
+msgid "Opened: "
+msgstr "Aberto: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:192
+msgid "Remove snippets"
+msgstr "Remover trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:198
+msgid "Snippets folder removed; restart CudaText to forget about it"
+msgstr "Pasta de trechos removida; reiniciar o CudaText para esquecer disso"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:202
+msgid "Select snippets package"
+msgstr "Selecione o pacote de snippets"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_lexers_compare.py:19
+msgid "Setup snippet lexer(s)"
+msgstr "Configurar trechos da linguagem(s)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_lexers_compare.py:115
+msgid "You must check at least one CudaText lexer, for snippets to work"
+msgstr "Você deve selecionar pelo menos uma linguagem do CudaText para que os trechos funcionem"
+"Você deve verificar pelo menos uma linguagem do CudaText, para os trechos "
+"funcionarem"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_search.py:96
+msgid "Search snippets"
+msgstr "Pesquisar trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_search.py:329
+msgid "Installing: "
+msgstr "Instalando: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_search.py:329
+msgid " "
+msgstr " "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:23
+msgid ""
+"Tab-stop markers:\n"
+"    ${NN}\n"
+"or:\n"
+"    ${NN:default_text}\n"
+"where NN is a number.\n"
+"\n"
+"Macros:\n"
+"    ${sel} - Text selected before snippet insertion (if snippet called with "
+"Tab key, it's empty string)\n"
+"    ${cp} - Current clipboard contents\n"
+"\n"
+"    ${cmt_start} - Current lexer's \"block comment\" start symbols (or empty "
+"string)\n"
+"    ${cmt_end} - Current lexer's \"block comment\" end symbols (or empty "
+"string)\n"
+"    ${cmt_line} - Current lexer's \"line comment\" symbols (or empty "
+"string)\n"
+"\n"
+"    ${fname} - File name only, without path\n"
+"    ${fpath} - Full file name, with path\n"
+"    ${fdir} - Directory of file\n"
+"    ${fext} - Extension of file\n"
+"    ${psep} - OS path separator: backslash on Windows, slash on Unix\n"
+"\n"
+"    ${date:nnnn} - Current date/time formatted by string \"nnnn\"; see "
+"Python docs\n"
+"    ${env:nnnn} - Value of OS environment variable \"nnnn\"\n"
+"    ${cmd:nnnn} - Output of OS shell command \"nnnn\"\n"
+"\n"
+"Macros like in Sublime Text, $NAME or ${NAME}:\n"
+"    $TM_SELECTED_TEXT - The currently selected text or the empty string\n"
+"    $TM_CURRENT_LINE - The contents of the current line\n"
+"    $TM_CURRENT_WORD - The contents of the word under cursor or the empty "
+"string\n"
+"    $TM_LINE_INDEX - The zero-based line number\n"
+"    $TM_LINE_NUMBER - The one-based line number\n"
+"    $TM_FILEPATH - The full file path of the current document\n"
+"    $TM_DIRECTORY - The directory of the current document\n"
+"    $TM_FILENAME - The filename of the current document\n"
+"    $TM_FILENAME_BASE - The filename of the current document without its "
+"extensions\n"
+"    $CLIPBOARD - The contents of your clipboard\n"
+"    $WORKSPACE_NAME - The name of the opened workspace or folder\n"
+"\n"
+"    $BLOCK_COMMENT_START - Current lexer's \"block comment\" start symbols "
+"(or empty string)\n"
+"    $BLOCK_COMMENT_END - Current lexer's \"block comment\" end symbols (or "
+"empty string)\n"
+"    $LINE_COMMENT - Current lexer's \"line comment\" symbols (or empty "
+"string)\n"
+"\n"
+"Date/time:\n"
+"    $CURRENT_YEAR - The current year\n"
+"    $CURRENT_YEAR_SHORT - The current year's last two digits\n"
+"    $CURRENT_MONTH - The month as two digits (e.g. '02')\n"
+"    $CURRENT_MONTH_NAME - The full name of the month (e.g. 'July')\n"
+"    $CURRENT_MONTH_NAME_SHORT - The short name of the month (e.g. 'Jul')\n"
+"    $CURRENT_DATE - The day of the month\n"
+"    $CURRENT_DAY_NAME - The name of day (e.g. 'Monday')\n"
+"    $CURRENT_DAY_NAME_SHORT - The short name of the day (e.g. 'Mon')\n"
+"    $CURRENT_HOUR - The current hour in 24-hour clock format\n"
+"    $CURRENT_MINUTE - The current minute\n"
+"    $CURRENT_SECOND - The current second\n"
+"    $CURRENT_SECONDS_UNIX - The number of seconds since the Unix epoch\n"
+msgstr "Marcadores de parada de tabulação:\n ${NN}\nou:\n ${NN:default_text}\nonde NN é um número.\n\nMacros:\n ${sel} - Texto selecionado antes da inserção do snippet (se o snippet for chamado com a tecla Tab, é uma string vazia)\n ${cp} - Conteúdo atual da área de transferência\n\n ${cmt_start} - Símbolos iniciais de \"comentário de bloco\" da linguagem atual (ou string vazia)\n ${cmt_end} - Símbolos finais de \"comentário de bloco\" da linguagem atual (ou string vazia)\n ${cmt_line} - Símbolos de \"comentário de linha\" da linguagem atual (ou string vazia)\n\n ${fname} - Somente nome do arquivo, sem path\n ${fpath} - Nome completo do arquivo, com path\n ${fdir} - Diretório do arquivo\n ${fext} - Extensão do arquivo\n ${psep} - Separador de caminho do SO: barra invertida no Windows, barra no Unix\n\n ${date:nnnn} - Data/hora atual formatada pela string \"nnnn\"; consulte Python docs\n ${env:nnnn} - Valor da variável de ambiente do SO \"nnnn\"\n ${cmd:nnnn} - Saída do comando shell do SO \"nnnn\"\n\nMacros como em Sublime Text, $NAME ou ${NAME}:\n $TM_SELECTED_TEXT - O texto atualmente selecionado ou a string vazia\n $TM_CURRENT_LINE - O conteúdo do atual line\n $TM_CURRENT_WORD - O conteúdo da palavra sob o cursor ou a string vazia\n $TM_LINE_INDEX - O número da linha baseado em zero\n $TM_LINE_NUMBER - O número da linha baseado em um\n $TM_FILEPATH - O caminho completo do arquivo do documento atual\n $TM_DIRECTORY - O diretório do documento atual\n $TM_FILENAME - O nome do arquivo do documento atual\n $TM_FILENAME_BASE - O nome do arquivo do documento atual sem suas extensões\n $CLIPBOARD - O conteúdo da sua área de transferência\n $WORKSPACE_NAME - O nome do espaço de trabalho ou pasta aberta\n\n $BLOCK_COMMENT_START - Símbolos de início do \"comentário em bloco\" da linguagem atual (ou string vazia)\n $BLOCK_COMMENT_END - Símbolos finais de \"comentário de bloco\" da linguagem atual (ou string vazia)\n $LINE_COMMENT - Símbolos de \"comentário de linha\" da linguagem atual (ou string vazia)\n\nData/hora:\n $CURRENT_YEAR - O ano atual\n $CURRENT_YEAR_SHORT - Os dois últimos dígitos do ano atual\n $CURRENT_MONTH - O mês com dois dígitos (por exemplo, '02')\n $CURRENT_MONTH_NAME - O nome completo do mês (por exemplo, 'Julho')\n $CURRENT_MONTH_NAME_SHORT - O nome abreviado do mês (por exemplo, 'Jul')\n $CURRENT_DATE - O dia do mês\n $CURRENT_DAY_NAME - O nome do dia (por exemplo, 'Segunda-feira')\n $CURRENT_DAY_NAME_SHORT - O nome abreviado do dia (por exemplo, 'Mon')\n $CURRENT_HOUR - A hora atual no formato de relógio de 24 horas\n $CURRENT_MINUTE - O minuto atual\n $CURRENT_SECOND - O segundo atual\n $CURRENT_SECONDS_UNIX - O número de segundos desde a época Unix\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:104
+msgid "Manage snippets"
+msgstr "Gerenciar trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:124
+msgid "&Editor's Lexer"
+msgstr "Linguagem do Editor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:137
+msgid "Macros &Help"
+msgstr "Macros e Ajuda"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:149
+msgid "&Cancel"
+msgstr "&Cancelar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:165
+msgid "&OK"
+msgstr "&OK"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:193
+msgid "&Package: "
+msgstr "&Pacote: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:215
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:271
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:369
+msgid "Add..."
+msgstr "Adicionar..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:231
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:287
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:385
+msgid "Delete..."
+msgstr "Excluir..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:248
+msgid "&Group: "
+msgstr "&Grupo: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:305
+msgid "Group's &lexers: "
+msgstr "&linguagens do grupo: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:329
+msgid "Add Lexer..."
+msgstr "Adicionar Linguagem..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:346
+msgid "&Snippet: "
+msgstr "&Snippet: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:401
+msgid "&Rename snippet..."
+msgstr "&Renomear trecho..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:419
+msgid "Snippet's &alias: "
+msgstr "&alias do trecho: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:638
+msgid "Saving changes"
+msgstr "Salvando alterações"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:659
+#, python-brace-format
+msgid "! ERROR: trying to save snippets for unloaded group: {0}"
+msgstr "! ERRO: tentando salvar trechos para grupo não carregado: {0}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:684
+msgid "Saved."
+msgstr "Salvo."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:704
+msgid "Save changes?"
+msgstr "Salvar alterações?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:929
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1074
+msgid "New snippet name:"
+msgstr "Novo nome de trecho:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:943
+#, python-brace-format
+msgid "\"{0}\" - snippet already exists."
+msgstr "\"{0}\" - trecho já existe."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:955
+msgid "New snippet group filename:"
+msgstr "Novo nome de arquivo para grupo de trechos:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:963
+#, python-brace-format
+msgid "\"{0}\" - group already exists."
+msgstr "\"{0}\" - grupo já existe."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:978
+msgid "New package name (should be a valid directory name):"
+msgstr "Novo nome de pacote (deve ser um nome de diretório válido):"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:987
+#, python-brace-format
+msgid "\"{0}\" - package already exists."
+msgstr "\"{0}\" - pacote já existe."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1004
+#, python-brace-format
+msgid ""
+"As a precaution Snippet Manager does not delete user files.\n"
+"To delete package \"{}\" - delete the following directory:"
+msgstr "Como precaução, o Snippet Manager não exclui arquivos do usuário.\nPara excluir o pacote \"{}\" - exclua o seguinte diretório:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1021
+#, python-brace-format
+msgid ""
+"As a precaution Snippet Manager does not delete user files.\n"
+"To delete snippet group \"{0}\" from package \"{1}\" - delete the following "
+"file:"
+msgstr "Como precaução, o Snippet Manager não exclui arquivos do usuário.\nPara excluir o grupo de snippets \"{0}\" do pacote \"{1}\" - exclua o seguinte arquivo:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1059
+#, python-brace-format
+msgid "Delete snippet \"{0}\"?"
+msgstr "Excluir trecho \"{0}\"?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1100
+#, python-brace-format
+msgid "! ERROR: snippets path is not a file:{0}"
+msgstr "! ERRO: o caminho dos trechos não é um arquivo:{0}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1112
+#, python-brace-format
+msgid "! ERROR: no such package: {0}"
+msgstr "! ERRO: o pacote não existe: {0}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1125
+#, python-brace-format
+msgid "! ERROR: {0} - is not a package"
+msgstr "! ERRO: {0} - não é um pacote"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_snip_manage.py:1197
+msgid "Macros Help"
+msgstr "Ajuda de Macros"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/snip/loader.py:182
+#, python-brace-format
+msgid "{} - it isn't package"
+msgstr "{} - não é pacote"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/snip/loader.py:238
+msgid "Package of snippets converted."
+msgstr "Pacote de trechos convertidos."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/snip/loader.py:240
+msgid "It is not a snippets package."
+msgstr "Isso não é um pacote de trechos."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/snip/snippet.py:212
+#, python-brace-format
+msgid "Wrong snippet: {}"
+msgstr "Trecho errado: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/vs.py:148
+msgid "Connection error :("
+msgstr "Erro de conexão :("
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/vs.py:162
+msgid "Can't install this package"
+msgstr "Não foi possível instalar este pacote"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/vs.py:183
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/vs.py:189
+msgid "Sorry, but this package doesn't have any snippets"
+msgstr "Desculpe, mas este pacote não contém trechos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/vs.py:211
+#, python-brace-format
+msgid ""
+"Can't download this package.\n"
+"Status code {}"
+msgstr ""
+"Não foi possível baixar este pacote.\n"
+"Código do status {}"
+
+#~ msgid ""
+#~ "Markers:\n"
+#~ "    ${NN} | ${NN:default text}\n"
+#~ "\n"
+#~ "Macros:\n"
+#~ "    ${sel} - Text selected before snippet insertion (if snippet called "
+#~ "with Tab key, it's empty string)\n"
+#~ "    ${cp} - Current clipboard contents\n"
+#~ "\n"
+#~ "    ${cmt_start} - Current linguagem's \"block comment\" start symbols (or "
+#~ "empty string)\n"
+#~ "    ${cmt_end} - Current linguagem's \"block comment\" end symbols (or empty "
+#~ "string)\n"
+#~ "    ${cmt_line} - Current linguagem's \"line comment\" symbols (or empty "
+#~ "string)\n"
+#~ "\n"
+#~ "    ${fname} - File name only, without path\n"
+#~ "    ${fpath} - Full file name, with path\n"
+#~ "    ${fdir} - Directory of file\n"
+#~ "    ${fext} - Extension of file\n"
+#~ "    ${psep} - OS path separator: backslash on Windows, slash on Unix\n"
+#~ "\n"
+#~ "    ${date:nnnn} - Current date/time formatted by string \"nnnn\"; see "
+#~ "Python docs\n"
+#~ "    ${env:nnnn} - Value of OS environment variable \"nnnn\"\n"
+#~ "    \n"
+#~ "Sublime ($NAME | ${NAME}):\n"
+#~ "    $TM_SELECTED_TEXT - The currently selected text or the empty string\n"
+#~ "    $TM_CURRENT_LINE - The contents of the current line\n"
+#~ "    $TM_CURRENT_WORD - The contents of the word under cursor or the empty "
+#~ "string\n"
+#~ "    $TM_LINE_INDEX - The zero-based line number\n"
+#~ "    $TM_LINE_NUMBER - The one-based line number\n"
+#~ "    $TM_FILEPATH - The full file path of the current document\n"
+#~ "    $TM_DIRECTORY - The directory of the current document\n"
+#~ "    $TM_FILENAME - The filename of the current document\n"
+#~ "    $TM_FILENAME_BASE - The filename of the current document without its "
+#~ "extensions\n"
+#~ "    $CLIPBOARD - The contents of your clipboard\n"
+#~ "    $WORKSPACE_NAME - The name of the opened workspace or folder\n"
+#~ "\n"
+#~ "    $BLOCK_COMMENT_START - Current linguagem's \"block comment\" start "
+#~ "symbols (or empty string)\n"
+#~ "    $BLOCK_COMMENT_END - Current linguagem's \"block comment\" end symbols "
+#~ "(or empty string)\n"
+#~ "    $LINE_COMMENT - Current linguagem's \"line comment\" symbols (or empty "
+#~ "string)\n"
+#~ "    \n"
+#~ "Date, time:\n"
+#~ "    $CURRENT_YEAR - The current year\n"
+#~ "    $CURRENT_YEAR_SHORT - The current year's last two digits\n"
+#~ "    $CURRENT_MONTH - The month as two digits (e.g. '02')\n"
+#~ "    $CURRENT_MONTH_NAME - The full name of the month (e.g. 'July')\n"
+#~ "    $CURRENT_MONTH_NAME_SHORT - The short name of the month (e.g. 'Jul')\n"
+#~ "    $CURRENT_DATE - The day of the month\n"
+#~ "    $CURRENT_DAY_NAME - The name of day (e.g. 'Monday')\n"
+#~ "    $CURRENT_DAY_NAME_SHORT - The short name of the day (e.g. 'Mon')\n"
+#~ "    $CURRENT_HOUR - The current hour in 24-hour clock format\n"
+#~ "    $CURRENT_MINUTE - The current minute\n"
+#~ "    $CURRENT_SECOND - The current second\n"
+#~ "    $CURRENT_SECONDS_UNIX - The number of seconds since the Unix epoch\n"
+#~ msgstr ""
+#~ "Markers:\n"
+#~ "    ${NN} | ${NN:default text}\n"
+#~ "\n"
+#~ "Macros:\n"
+#~ "    ${sel} - Text selected before snippet insertion (if snippet called "
+#~ "with Tab key, it's empty string)\n"
+#~ "    ${cp} - Current clipboard contents\n"
+#~ "\n"
+#~ "    ${cmt_start} - Current linguagem's \"block comment\" start symbols (or "
+#~ "empty string)\n"
+#~ "    ${cmt_end} - Current linguagem's \"block comment\" end symbols (or empty "
+#~ "string)\n"
+#~ "    ${cmt_line} - Current linguagem's \"line comment\" symbols (or empty "
+#~ "string)\n"
+#~ "\n"
+#~ "    ${fname} - File name only, without path\n"
+#~ "    ${fpath} - Full file name, with path\n"
+#~ "    ${fdir} - Directory of file\n"
+#~ "    ${fext} - Extension of file\n"
+#~ "    ${psep} - OS path separator: backslash on Windows, slash on Unix\n"
+#~ "\n"
+#~ "    ${date:nnnn} - Current date/time formatted by string \"nnnn\"; see "
+#~ "Python docs\n"
+#~ "    ${env:nnnn} - Value of OS environment variable \"nnnn\"\n"
+#~ "    \n"
+#~ "Sublime ($NAME | ${NAME}):\n"
+#~ "    $TM_SELECTED_TEXT - The currently selected text or the empty string\n"
+#~ "    $TM_CURRENT_LINE - The contents of the current line\n"
+#~ "    $TM_CURRENT_WORD - The contents of the word under cursor or the empty "
+#~ "string\n"
+#~ "    $TM_LINE_INDEX - The zero-based line number\n"
+#~ "    $TM_LINE_NUMBER - The one-based line number\n"
+#~ "    $TM_FILEPATH - The full file path of the current document\n"
+#~ "    $TM_DIRECTORY - The directory of the current document\n"
+#~ "    $TM_FILENAME - The filename of the current document\n"
+#~ "    $TM_FILENAME_BASE - The filename of the current document without its "
+#~ "extensions\n"
+#~ "    $CLIPBOARD - The contents of your clipboard\n"
+#~ "    $WORKSPACE_NAME - The name of the opened workspace or folder\n"
+#~ "\n"
+#~ "    $BLOCK_COMMENT_START - Current linguagem's \"block comment\" start "
+#~ "symbols (or empty string)\n"
+#~ "    $BLOCK_COMMENT_END - Current linguagem's \"block comment\" end symbols "
+#~ "(or empty string)\n"
+#~ "    $LINE_COMMENT - Current linguagem's \"line comment\" symbols (or empty "
+#~ "string)\n"
+#~ "    \n"
+#~ "Date, time:\n"
+#~ "    $CURRENT_YEAR - The current year\n"
+#~ "    $CURRENT_YEAR_SHORT - The current year's last two digits\n"
+#~ "    $CURRENT_MONTH - The month as two digits (e.g. '02')\n"
+#~ "    $CURRENT_MONTH_NAME - The full name of the month (e.g. 'July')\n"
+#~ "    $CURRENT_MONTH_NAME_SHORT - The short name of the month (e.g. 'Jul')\n"
+#~ "    $CURRENT_DATE - The day of the month\n"
+#~ "    $CURRENT_DAY_NAME - The name of day (e.g. 'Monday')\n"
+#~ "    $CURRENT_DAY_NAME_SHORT - The short name of the day (e.g. 'Mon')\n"
+#~ "    $CURRENT_HOUR - The current hour in 24-hour clock format\n"
+#~ "    $CURRENT_MINUTE - The current minute\n"
+#~ "    $CURRENT_SECOND - The current second\n"
+#~ "    $CURRENT_SECONDS_UNIX - The number of seconds since the Unix epoch\n"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Editor's Linguagem"
+#~ msgstr "Editor de Linguagem"
+
+#~ msgid "Package: "
+#~ msgstr "Pacote: "
+
+#~ msgid "Group: "
+#~ msgstr "Grupo: "
+
+#~ msgid "Group's linguagens: "
+#~ msgstr "Grupo de linguagens: "
+
+#~ msgid "Snippet: "
+#~ msgstr "Trechos: "
+
+#~ msgid "Snippet's alias: "
+#~ msgstr "Apelido do trecho: "
+
+#~ msgid "* Group's linguagens changed: [{0}] => [{1}]"
+#~ msgstr "* Grupo de linguagens alterados: [{0}] => [{1}]"
+
+#~ msgid "* snippet's alias changed: [{0}] => [{1}]"
+#~ msgstr "* apelidos dos trechos alterados: [{0}] => [{1}]"
+
+#~ msgid ""
+#~ "* snippet's body changed:\n"
+#~ "{0}\n"
+#~ " ==>>\n"
+#~ "{1}"
+#~ msgstr ""
+#~ "* corpo dos trechos alterados:\n"
+#~ "{0}\n"
+#~ " ==>>\n"
+#~ "{1}"
+
+#~ msgid "To delete package \"{}\" - delete the following directory:"
+#~ msgstr "Para excluir o pacote \"{}\" - remova o seguinte diretório:"
+
+#~ msgid ""
+#~ "To delete snippet group \"{0}\" from package \"{1}\" - delete the "
+#~ "following file:"
+#~ msgstr ""
+#~ "Para excluir o grupo de trechos \"{0}\" do pacote \"{1}\" - remova o "
+#~ "seguinte arquivo:"
+
+#~ msgid "Syntax Help"
+#~ msgstr "Ajuda de Sintaxe"

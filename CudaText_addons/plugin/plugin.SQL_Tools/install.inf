@@ -1,0 +1,118 @@
+[info]
+title=SQL Tools
+desc=Swiss army knife for your SQL databases. Gives lot of commands to work with databases: execute queries, format queries, show tables schema, show tables records, etc.
+type=cudatext-plugin
+subdir=cuda_sqltools
+homepage=https://github.com/CudaText-addons/cuda_sqltools
+api=1.0.364
+
+[item2]
+section=commands
+caption=SQL Tools\Execute query
+method=executeQuery
+hotkey=Ctrl+E|Ctrl+E
+
+[item3]
+section=commands
+caption=SQL Tools\Execute entire file
+method=executeFile
+hotkey=
+
+[item5]
+section=commands
+caption=SQL Tools\Explain plan
+method=explainPlan
+hotkey=Ctrl+E|Ctrl+X
+
+[item6]
+section=commands
+caption=SQL Tools\Describe function
+method=describeFunction
+
+[item7]
+section=commands
+caption=SQL Tools\Describe table
+method=describeTable
+hotkey=Ctrl+E|Ctrl+D
+
+[item9]
+section=commands
+caption=SQL Tools\Show table records
+method=showRecords
+hotkey=Ctrl+E|Ctrl+S
+
+[item10]
+section=commands
+caption=SQL Tools\Format query text
+method=formatQuery
+hotkey=Ctrl+E|Ctrl+B
+
+[item30]
+section=commands
+caption=SQL Tools\-
+method=_
+
+[item31]
+section=commands
+caption=SQL Tools\History
+method=showHistory
+hotkey=Ctrl+E|Ctrl+H
+
+[item32]
+section=commands
+caption=SQL Tools\Save query
+method=saveQuery
+hotkey=Ctrl+E|Ctrl+Q
+
+[item34]
+section=commands
+caption=SQL Tools\List and open saved queries
+method=showSavedQueries
+
+[item35]
+section=commands
+caption=SQL Tools\List and run saved queries
+method=runSavedQuery
+hotkey=Ctrl+E|Ctrl+A
+
+[item36]
+section=commands
+caption=SQL Tools\List and insert saved queries
+method=insertSavedQuery
+hotkey=
+
+[item37]
+section=commands
+caption=SQL Tools\Remove saved query
+method=deleteSavedQuery
+hotkey=Ctrl+E|Ctrl+R
+
+[item39]
+section=commands
+caption=SQL Tools\Refresh connection data
+method=refreshConnData
+
+[item40]
+section=commands
+caption=SQL Tools\Clear table+function cache
+method=clearCache
+
+[item70]
+section=commands
+caption=SQL Tools\-
+method=_
+
+[item80]
+section=commands
+caption=SQL Tools\Select connection
+method=selectConnection
+
+[item81]
+section=commands
+caption=SQL Tools\Edit connections config
+method=editConnections
+
+[item82]
+section=commands
+caption=SQL Tools\Edit main config
+method=editSettings

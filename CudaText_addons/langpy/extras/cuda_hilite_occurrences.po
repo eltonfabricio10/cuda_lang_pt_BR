@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-08 00:50-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:162
+msgid "Highlight Occurrences options"
+msgstr "Opções de Destaque das Ocorrências"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:246
+#, python-brace-format
+msgid "Matches selected: {}"
+msgstr "Ocorrências selecionadas: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:332
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:334
+msgid "Matches highlighted:"
+msgstr "Jogos em destaque:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:332
+#, python-brace-format
+msgid " {}/{}"
+msgstr " {}/{}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:334
+msgid "(partial)"
+msgstr "(parcial)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/__init__.py:334
+#, python-brace-format
+msgid " {}/{} "
+msgstr " {}/{} "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:34
+msgid "Minimal length of fragment to handle"
+msgstr "Comprimento mínimo do fragmento a ser manipulado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:40
+msgid "Maximal number of lines in document, when plugin is still active"
+msgstr "Número máximo de linhas no documento, quando o plugin ainda está ativo"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:46
+msgid ""
+"Maximal length of lines, which will be handled by plugin (plugin will skip "
+"longer lines)"
+msgstr "Comprimento máximo das linhas, que será tratado pelo plugin (o plugin irá pular linhas mais longas)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:52
+msgid "Maximal time in milliseconds, to count chars in the document"
+msgstr "Tempo máximo em milissegundos, para contar caracteres no documento"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:58
+msgid ""
+"Average length of line. If document has lot of longer lines, it will "
+"fallback to highlight only visible matches."
+msgstr "Comprimento médio da linha. Se o documento tiver muitas linhas mais longas, ele irá destacar apenas as correspondências visíveis."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:64
+msgid "Plugin handles current selection (on selection changing)"
+msgstr "O plug-in lida com a seleção atual (na alteração da seleção)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:70
+msgid "Use also whitespace in selection, otherwise trim it"
+msgstr "Use também espaços em branco na seleção, caso contrário, corte-o"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:76
+msgid "Search for selection is case-sensitive"
+msgstr "A pesquisa por seleção diferencia maiúsculas de minúsculas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:82
+msgid "Plugin handles selection only when it is whole word"
+msgstr "O plugin lida com a seleção apenas quando é uma palavra inteira"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:88
+msgid "Search for selection finds whole words only"
+msgstr "A pesquisa por seleção encontra apenas palavras inteiras"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:94
+msgid "Maximal count of selected lines, which plugin can handle"
+msgstr "Contagem máxima de linhas selecionadas, que o plugin pode manipular"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:100
+msgid "Mark occurrences of selected text ignores 'min_len' option"
+msgstr "Marcar ocorrências do texto selecionado ignora a opção 'min_len'"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:106
+msgid ""
+"When text is over max_lines - fallback to highlighting only in visible text"
+msgstr "Quando o texto ultrapassa max_lines - alternativa para realçar apenas no texto visível"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:112
+msgid "Plugin handles word under caret (on caret moving)"
+msgstr "O plug-in lida com palavras sob o cursor (ao mover o cursor)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:118
+msgid "Search for word under caret is case-sensitive"
+msgstr "A pesquisa por palavra sob acento circunflexo diferencia maiúsculas de minúsculas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:124
+msgid "Search for word under caret finds whole words only"
+msgstr "A pesquisa por palavra sob o cursor encontra apenas palavras inteiras"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:130
+msgid "Element of syntax-theme, which color is used for word under caret"
+msgstr "Elemento do tema de sintaxe, cuja cor é usada para a palavra sob o cursor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:137
+msgid "Element of syntax-theme, which color is used for other found matches"
+msgstr "Elemento do tema de sintaxe, cuja cor é usada para outras correspondências encontradas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:144
+msgid ""
+"If not empty, then plugin is active only for mentioned lexers. Comma-"
+"separated list."
+msgstr "Se não estiver vazio, o plugin estará ativo apenas para as linguagens mencionadas. Lista separada por vírgulas."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:145
+msgid "None-lexer must be written as '-'."
+msgstr "A opção 'Sem linguagem' deve ser escrita como '-'."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:151
+msgid ""
+"If not empty, then plugin is disabled for mentioned lexers. Comma-separated "
+"list."
+msgstr "Se não estiver vazio, o plugin estará desabilitado para as linguagens mencionadas. Lista separada por vírgulas."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:152
+msgid "Has higher priority than option 'lexers_allowed'."
+msgstr "Tem prioridade mais alta que a opção 'lexers_allowed'."
+
+#~ msgid "Matches highlighted: {}/{} ({}ms)"
+#~ msgstr "Ocorrências destacadas: {}/{} ({}ms)"

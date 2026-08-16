@@ -1,0 +1,151 @@
+2025.12.29
+- fix: avoid deprecated API
+
+2025.11.29
+- fix: commands "Move to .... occurrence" did not fire 'on_caret' so plugin Folding_Caption did not update its caption
+
+2025.03.14
+- fix: if syntax-theme item for "other matches" has Type="Color BG only", then don't highlight font color (CudaText issue #5892)
+
+2025.02.18
+- fix: plugin almost hanged when it tried to get selection-text with 400K lines selected (thanks @pintassilgo)
++ add: option "sel_lines_max"
+
+2024.12.27
++ add: allow work with multi-line selection too
+
+2024.10.23
++ add: support new API of CudaText 1.218.1+
+
+2024.09.01
+- fix: double-click on a word can highlight 'cached matches' which is not OK since the selection is changed
+
+2024.05.05
++ add: make syntax-theme styles working for highlighted matches: border left/right/up/down, and font-styles bold/italic/crossed (thanks @pintassilgo)
+
+2024.03.22
++ add: using CudaText 1.211.3 new API, check total count of chars in document;
+    + helper option added: "avg_len"
+    + helper option added: "max_time"
+* change: default of option "max_lines" changed to 3000
+
+2024.03.21
++ add/change: search 'in the visible area only' is rewritten, it must be much faster on huge lines;
+  this option is also auto-activated if horizontal-scrollbar-max is bigger than 500 chars
+
+2024.03.16
+* change: option "max_line_len" default changed to 800k
+* change: option "min_len" default changed to 1
+* change: option "visible_fallback" default changed to True
+* change: remove 'N ms' time display from statusbar msg; add '(partial)' to statusbar msg if plugin calculates only visible matches (by @pintassilgo)
+
+2022.10.03
+- fix: with "caret_allow":false / "sel_allow":true, removing selection must remove placed markers
+
+2022.07.06
+- fix: plugin slowed down the editor text selection (patch by @veksha)
+
+2021.07.17
++ add: i18n for Config dialog (patch by Marcus F.)
+- fix: prevent a crash on deleting last document lines
+
+2021.06.27 (patch by @halfbrained)
++ add: option "visible_fallback", to highlight occurrences only in visible part of large documents
+       (when document is bigger than "max_lines" allows)
+
+2021.06.08
++ add: also use plugin cuda_prefs for Configuration dialog
+
+2021.03.02
++ add: i18n support (patch by Markus F.)
+- fix: must react to on_change too to clear marks after e.g. Replace-all in CudaText
+
+2021.01.06
++ add: show elapsed time in the statusbar: "Matches highlighted: 1/30 (3ms)"
+
+2020.05.23
+- fix: option "nearest_line_count" was not used since 2019.12, removed now
+
+2020.05.11
++ add: faster start due to optimized "imports"
+
+2020.04.13 (patch by @Jairo-Martinez)
+* change: "min_len" plugin setting will affect now only selections
+
+2020.04.07 (patch by @Jairo-Martinez)
++ add: four plugin commands to move caret onto first/last/next/previous occurrence
++ add: plugin setting to mark occurrences ignoring minimum length set by 'min_len' option, False by default
++ fix: code improvements
+
+2020.03.02
++ add: in CudaText 1.96.1, plugin will skip too long lines (len>500)
+
+2019.12.17
++ add: use CudaText 1.92 API to speedup mass search
+
+2019.12.09 (patch by @Jairo-Martinez)
++ add: command "Select all occurrences" to select all highlighted matches
+
+2019.11.14
++ add: react to editor theme changing
+
+2019.11.12
++ add: style BracketBG renders with borders, if border is set in theme
++ add: optimization
+
+2019.11.10
++ add: use Options Editor to show nice config dialog
+* change: now used JSON config file name (was INI config)
+
+2019.11.07
+* change: removed 4 color options, added instead 2 options to use syntax-theme items (see CudaText dialog: Options / Settings-themes-syntax)
+
+2019.10.07
++ add: respect CudaText option "nonword_chars", make plugin faster
+
+2019.07.05
++ add: option "lexers_allowed" (see readme)
++ add: option "lexers_disabled" (see readme)
++ add: plugin auto re-reads config file, when it's saved
+* change: plugin requires CudaText 1.76+
+
+2019.02.27
++ add: on new CudaText 1.76+, plugin skips too long lines (len>1000)
+* removed option "max_len"
+
+2018.04.21
++ add: option "use_nearest_line_count" - if set to 0, then plugin finds matches only on visible screen part; set big value to find matches in entire file
+
+2018.03.04
++ add: option "max_len" (2000) to not search inside too huge lines
+
+2018.03.04
++ add: detection of Unicode words too (e.g. Russian)
+
+2018.02.27
++ add: clear statusbar if only 1 match found (and none hilited)
+
+2018.02.24
+* hide menu item in Plugins
+
+2017.12.10
++ add: support PHP variables: $& are word chars
+
+2017.12.01
++ add: config file option "max_lines" (default 5000) - avoid work on big files
++ add: also show menu item in Options/ Settings-plugins
+* refactor: moved options to opt.py
+
+2017.01.27
+- fix: crash if caret with selection beyond EOF (mass replace)
+
+2016.07.31 (Alexey)
++ add: config file
++ add: command "Config" in Plugins menu
+
+Changes since original plugin:
+* refactored
++ add: hilite word under caret
++ add: hilite not only words but any chars
++ add: hilite case sensitive/insensitive
+- fix: if only 2 occurences exist, they're not hilited

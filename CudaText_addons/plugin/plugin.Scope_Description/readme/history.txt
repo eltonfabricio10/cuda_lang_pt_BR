@@ -1,0 +1,9 @@
+2026.07.08
+- fix: avoid deprecated API: PROP_SCROLL_HORZ_SMOOTH
+
+2024.09.19
++ add: command "Config" and options there: "lexers", "enabled", "gap_mode"
++ add: readme file
+
+2023.05.08:
+initial release

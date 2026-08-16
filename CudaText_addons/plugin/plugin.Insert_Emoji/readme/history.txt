@@ -1,0 +1,24 @@
+2025.11.25
++ add: update keywords in emoji-unicode-database (by @ildarkhasanshin)
+
+2025.11.20
+- fix: avoid deprecated API
+
+2025.10.02
++ add: update emoji-unicode-database to latest (by @ildarkhasanshin)
+
+2022.03.18
++ add: en descriptions
++ add: root menuitem in "Plugins" with 3 sub-items
+
+2022.03.17
++ add: command to insert emoji unicode-text e.g. 😀 (patch by @ildarkhasanshin)
+
+2017.09.04
+- fix: incorrect scroll on filter change
+- fix: vert-centering of text items
++ add: make icon size bigger
++ add: make "Filter" field instead of "Find"
+
+2017.09.03
+initial version

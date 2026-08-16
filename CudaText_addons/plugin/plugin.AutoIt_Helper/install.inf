@@ -1,0 +1,28 @@
+[info]
+title=AutoIt Helper
+desc=Autocompletion and function hints for AutoIt Lexer
+type=cudatext-plugin
+subdir=cuda_autoit_helper
+homepage=https://github.com/CudaText-addons/cuda_autoit_helper
+
+[item1]
+section=events
+events=on_goto_def,on_func_hint,on_complete
+lexers=AutoIt
+
+[item2]
+section=events
+events=on_key
+keys=9
+lexers=AutoIt
+
+[item3]
+section=commands
+caption=AutoIt Helper\Set AutoIt path
+method=set_autoit_path
+menu=o
+
+[item4]
+section=commands
+caption=AutoIt Helper\Show docstring
+method=show_docstring

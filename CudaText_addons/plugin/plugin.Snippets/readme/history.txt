@@ -1,0 +1,159 @@
+2026.05.17
++ add: don't expand snippet by Tab-key when Tab-key is currently jumping over snippet tabstops (thanks @egfips)
+
+2026.05.15
++ add: Tab-key now supports non-English Unicode snippet prefixes
++ add: new macro ${fname_base} to place filename without extension
++ add: all previously implemented macros from Sublime are now also supported for user-made snippets (before they were supported only for snippets from VSCode)
+
+2025.11.19
+- fix: avoid deprecated API: MARKERS_GET
+
+2024.11.14
++ add: Ctrl+Enter (and Ctrl+mouse_click) in snippets dialog makes dialog appear again after snippet insertion
+
+2024.01.17
+patches by @veksha
++ add: if user presses ESC: ask to save changes
++ add: Snippet Dialog called second time will restore comboboxes selection
+- fix: less debug prints
+- fix: fixed Tab Order of controls by moving around code
++ add: made dialog keyboard friendly.
+
+2024.01.14
+patches by @veksha
++ add: added (none) lexer for possible lexers for snippets
+- fix: crash if snippets JSON has comments; replaced "json.loads" with "_json_loads" which removes comments (thanks Alexey T.)
+- fix: VSCode snippets "Search dialog" UI fixes and adjustments
+
+2023.12.22
+- fix: adapt for changed menu_proc API
+
+2023.04.09
+patches by @veksha
++ add: read-only support for "std." and "snippets." packages
++ add: added DLG_SCALE call (form and controls will be bigger if scaling is configured)
++ add: user can now edit snippet after snippet without fear to lose changes
++ add: user can now edit lexers for different groups without fear to lose changes
+- fix: error on deleting of package
+- fix: lexers field reset on "add snippet" action
+
+2023.04.07
+* change: menu-dialog disables filtering by lexer-name
+- fix: if selection had the caret on the right, ${sel} macro expanded with wrong indent (thanks @veksha)
+
+2023.02.19
++ add: allow VSCode-format snippets (created via plugin's dialog "Manage snippets") to be for ALL lexers. To do so, enter "group lexers" field value '*'.
+
+2022.06.15
+- fix: Emmet abbreviation '#dd' must not expand to '#<dd></dd>'
+
+2022.05.24
++ add: support macro to run external commands: ${cmd:command_here}
+
+2021.07.20
++ add: command "Rename snippet" in the Snippet Manager (patch by @halfbrained)
+
+2021.07.19
+- fix: avoid crash if snippet files have not-UTF8 coding
+
+2021.07.12
++ add: plugin ignores 'bad chars' in JSON content, like in "ReactJS snippets"
+- fix: avoid deprecated API
+
+2021.05.13
++ add: things like '$0' work in snippet body, if escaped to '\$0' (patch by @halfbrained)
+
+2021.02.22
++ add: command "Add/edit snippets", which shows new dialog (patch by @halfbrained)
+
+2020.12.22
++ add: support for translation files (patches by Markus)
+
+2020.11.20
++ add: plugin uses snippets in new format (json), to load faster. All old snippets are converted to new format and published in addons with names "snippets_ct.<old_name>". Install needed snippets again. Paid work by @OlehL
++ add: plugin command "Convert snippets package from old format"
+
+2020.10.12
++ add: command "Remove VSCode snippets"
++ add: command "Visit homepage of VSCode snippets"
+- fixes for VSCode snippets installer
+
+2020.10.09
+Big rework by @OlehL:
++ new command "Install VSCode snippets..." - to install snippets from VSCode Marketplace
++ reworked snippets engine to support VSCode snippets, ie engine supports VSCode macros
++ now you can insert snippet in another snippet
++ improved work with placeholders ${}, now placeholders can be nested
++ command "Delete snippet markers" (clear all markers in the current document) added to menu Plugins/Snippets and to the editor context menu
+
+2020.07.16
+- fix: handle snippet-file utf-8 read errors
+
+2020.03.23
++ set higher priority of this plugin, so it is called before Emmet plugin on tab-key
++ disable plugin work after text "ul>li" so Emmet can handle it with lower priority
+
+2019.05.15
++ snippet, last called from menu, is suggested on next menu show
+
+2018.12.27
+- fix: .cuda-snips with line
+  nnn '\\${0:}'
+  was not handled Ok
+
+2018.12.17
++ added macro ${cmt_start}
++ added macro ${cmt_end}
++ added macro ${cmt_line}
+
+2018.08.30
++ refactored
+
+2018.04.24
+- advance .cuda-snips format, allow empty snippet id
+- fix for .cuda-snips format
+
+2018.04.20
++ added new format of snippet files - .cuda-snips, each file has several lines in format:
+  id /L="lexer" /N="name" text text
+
+2018.04.13
++ allow snippet name before other chars (and word-chars)
++ allow $ char in snippet name
+
+2018.03.16
++ allow snippet files have extension .cuda-snippet
+
+2018.01.29
+- fix: must allow chars )]} after snippet name
+
+2017.07.18
+- avoid using deprecated API
+
+2016.10.04
++ if snippet misses tab-stops, caret placed to end
+- fix: if no lexers in snippet, it must be available for all lexers
+
+2016.08.02
+- fix for nested insert-points ${ ${} }
+
+2016.07.20
++ allows multi-line def text of insert-points (for complex snippets)
+
+1.1.0
++ allows insert-point indexes 0..40
++ allows nested (1 level) insert-points
+
+1.0.4 (feb 2016)
++ cache list of snippets per lexer, faster
+
+1.0.3
++ support macro ${date}
++ show menu for N snippets for one snippet id
+
+1.0.1
++ support macros ${sel} ${cp} ${fname}
+
+1.0.0 (2015.11)
+initial version

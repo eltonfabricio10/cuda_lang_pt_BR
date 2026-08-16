@@ -1,0 +1,13 @@
+2023.12.27
+[*] avoid deprecated API, old since CudaText 1.197 (by Alexey T.)
+
+2023.03.22
+[*] optimization of code
+
+2023.03.18
+[+] display of the first-second-third.. levels
+[+] clickability of level cells
+[+] commands for 'Go to'
+
+2023.03.10
+initial version

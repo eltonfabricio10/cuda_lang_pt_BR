@@ -1,0 +1,25 @@
+2025.09.28
+* fix: replace ":" to "/"" in calculations
+
+2025.05.06
++ add: support automatic calculation in lite lexer 'Calc ^', which is shipped with the plugin
+
+2025.05.04
+* fix: cmd 'insert selected result' makes surrounding of '=' with spaces, if spaces exist in selection: '5+5=10', '5 + 5 = 10'
+
+2024.07.02
++ add: cmd 'insert selected result'
+
+2021.01.31
++ add: i18n from Markus
+
+2020.01.27
++ add: option digits_precision
+
+2019.12.17
++ add: functions: min, max, sum, mean, median
++ add: config file with 3 separator options, see readme.txt
++ add: menu item "Options / Settings-plugins / Calc Expression / Config"
+
+2017.04.25
+initial version

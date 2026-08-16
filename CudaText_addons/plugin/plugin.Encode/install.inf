@@ -1,0 +1,201 @@
+[info]
+title=Encode
+desc=Allows to encode text using many transformations (Base64, URL escape, HTML/XML escape, Hash, etc)
+type=cudatext-plugin
+subdir=cuda_encode
+homepage=https://github.com/cudatext-addons/cuda_encode
+
+[item1]
+section=commands
+caption=Encode\HTML Entity\HTML Entitize
+method=html_entitize
+[item2]
+section=commands
+caption=Encode\HTML Entity\HTML Deentitize
+method=html_deentitize
+[item11]
+section=commands
+caption=Encode\HTML Entity\XML Entitize
+method=xml_entitize
+[item12]
+section=commands
+caption=Encode\HTML Entity\XML Deentitize
+method=xml_deentitize
+[item21]
+section=commands
+caption=Encode\HTML Entity\Safe HTML Entitize (don't encode "'<>&&)
+method=safe_html_entitize
+[item22]
+section=commands
+caption=Encode\HTML Entity\Safe HTML Deentitize (don't decode "'<>&&)
+method=safe_html_deentitize
+
+[item31]
+section=commands
+caption=Encode\CSS Escape
+method=css_escape
+[item32]
+section=commands
+caption=Encode\CSS Unescape
+method=css_unescape
+
+[item41]
+section=commands
+caption=Encode\JSON Escape
+method=json_escape
+[item42]
+section=commands
+caption=Encode\JSON Unescape
+method=json_unescape
+
+[item51]
+section=commands
+caption=Encode\URLs\URL Encode
+method=url_encode
+[item52]
+section=commands
+caption=Encode\URLs\URL Encode Unrestricted (encode '+&&')
+method=url_encode_2
+[item53]
+section=commands
+caption=Encode\URLs\URL Encode Everything (encode letters)
+method=url_encode_3
+[item56]
+section=commands
+caption=Encode\URLs\URL Decode
+method=url_decode
+
+[item70]
+section=commands
+caption=Encode\Base\Base64 Encode
+method=base64_encode
+[item71]
+section=commands
+caption=Encode\Base\Base64 Decode
+method=base64_decode
+[item72]
+section=commands
+caption=Encode\Base\Base64 Encode by line
+method=base64_encode_line
+[item73]
+section=commands
+caption=Encode\Base\Base64 Decode by line
+method=base64_decode_line
+[item80]
+section=commands
+caption=Encode\Base\Base32 Encode
+method=base32_encode
+[item81]
+section=commands
+caption=Encode\Base\Base32 Decode
+method=base32_decode
+[item82]
+section=commands
+caption=Encode\Base\Base32 Encode by line
+method=base32_encode_line
+[item83]
+section=commands
+caption=Encode\Base\Base32 Decode by line
+method=base32_decode_line
+
+[item87]
+section=commands
+caption=Encode\Base\Base16 Encode
+method=base16_encode
+[item88]
+section=commands
+caption=Encode\Base\Base16 Decode
+method=base16_decode
+
+[item89]
+section=commands
+caption=Encode\Base\Insert Base64-encoded file...
+method=base64_file
+
+[item91]
+section=commands
+caption=Encode\Quoted-printable Encode
+method=quopri_encode
+[item92]
+section=commands
+caption=Encode\Quoted-printable Decode
+method=quopri_decode
+
+[item96]
+section=commands
+caption=Encode\Unicode-escape Encode
+method=uniescape_encode
+[item97]
+section=commands
+caption=Encode\Unicode-escape Decode
+method=uniescape_decode
+
+[item100]
+section=commands
+caption=Encode\ROT\ROT13
+method=rot13
+[item101]
+section=commands
+caption=Encode\ROT\ROT18
+method=rot18
+[item102]
+section=commands
+caption=Encode\ROT\ROT47
+method=rot47
+
+[item120]
+section=commands
+caption=Encode\Hash\MD5
+method=md5_encode
+[item121]
+section=commands
+caption=Encode\Hash\SHA256
+method=sha256_encode
+[item122]
+section=commands
+caption=Encode\Hash\SHA512
+method=sha512_encode
+
+[item130]
+section=commands
+caption=Encode\Unicode Normalize\NFC: Compose
+method=uni_norm_nfc
+[item131]
+section=commands
+caption=Encode\Unicode Normalize\NFD: Decompose
+method=uni_norm_nfd
+[item132]
+section=commands
+caption=Encode\Unicode Normalize\NFKC: Compose
+method=uni_norm_nfkc
+[item133]
+section=commands
+caption=Encode\Unicode Normalize\NFKD: Decompose
+method=uni_norm_nfkd
+
+[item201]
+section=commands
+caption=Encode\Misc\Escape regex
+method=escape_regex
+[item202]
+section=commands
+caption=Encode\Misc\Escape %_
+method=escape_like
+
+[item203]
+section=commands
+caption=Encode\Misc\Decimal to Hexadecimal
+method=dec_hex
+[item204]
+section=commands
+caption=Encode\Misc\Hexadecimal to Decimal
+method=hex_dec
+
+[item211]
+section=commands
+caption=Encode\Misc\QWERTY layout Russian to English
+method=qwerty_ru_en
+[item212]
+section=commands
+caption=Encode\Misc\QWERTY layout English to Russian
+method=qwerty_en_ru

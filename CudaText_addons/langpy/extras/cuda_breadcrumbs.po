@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-31 22:22-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:120
+msgid ""
+"NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" should "
+"be a comma-separated string of integers 0-2"
+msgstr "NOTA: Breadcrumbs - Não é possível analisar o valor da opção: \"root_dir_source\" deve ser uma string separada por vírgula de números inteiros 0-2"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:560
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:567
+msgid "Breadcrumbs doesn't work for untitled tabs"
+msgstr "Breadcrumbs não funciona para guias sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:753
+msgid "<empty>"
+msgstr "<vazio>"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:105
+msgid "BreadCrumbs Tree"
+msgstr "Árvore do BreadCrumbs"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:139
+msgid "Find next - F3"
+msgstr "Encontrar o próximo - F3"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:153
+msgid "Find previous - Shift+F3"
+msgstr "Encontrar o anterior - Shift+F3"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:164
+msgid "Search"
+msgstr "Pesquisar"
+
+#~ msgid ""
+#~ "NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" "
+#~ "should be comma-separated string of integers 0-2"
+#~ msgstr ""
+#~ "NOTA: Breadcrumbs - Não foi possível analisar o valor da opção: "
+#~ "\"root_dir_source\" deve ser uma string de inteiros 0-2 separada por "
+#~ "vírgulas"

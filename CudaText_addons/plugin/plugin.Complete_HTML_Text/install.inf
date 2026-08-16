@@ -1,0 +1,18 @@
+[info]
+title=Complete HTML Text
+desc=Handles auto-completion command (Ctrl+Space) for HTML documents, only for plain text parts of document (not for HTML tags/attributes)
+type=cudatext-plugin
+subdir=cuda_complete_html_text
+homepage=https://github.com/halfbrained/cuda_complete_html_text
+api=1.0.318
+
+[item1]
+section=events
+lexers=regex:HTML.*
+events=on_complete+
+
+[item100]
+section=commands
+caption=Complete HTML Text\Config
+method=config
+menu=o

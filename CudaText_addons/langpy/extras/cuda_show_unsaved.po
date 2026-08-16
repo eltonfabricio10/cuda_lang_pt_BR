@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-25 18:04-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:59
+msgid "File is not changed"
+msgstr "O arquivo não foi alterado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:67
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:74
+msgid "Unsaved changes"
+msgstr "Alterações não salvas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:118
+#, python-brace-format
+msgid "Install {} lexer if you want to see colors."
+msgstr "Instale a linguagem {} se quiser ver as cores."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:138
+msgid "Close"
+msgstr "Fechar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:151
+msgid "Save as..."
+msgstr "Salvar como..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:178
+msgid "Saved: "
+msgstr "Salvo: "
+
+#~ msgid "Unsaved changes: "
+#~ msgstr "Alterações não salvas: "

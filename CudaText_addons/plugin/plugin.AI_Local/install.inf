@@ -1,0 +1,31 @@
+[info]
+title=AI Local
+desc=Plugin can connect to Ollama to use a Large Language Model (LLM) locally
+type=cudatext-plugin
+subdir=cuda_ailocal
+homepage=https://github.com/walterm128/cuda_ailocal
+
+[item1]
+section=events
+events=on_exit
+
+[item3]
+section=commands
+caption=AI Local\Run over selected text
+method=over_selected_text
+
+[item5]
+section=commands
+caption=AI Local\Open console
+method=open_console
+
+[item10]
+section=commands
+caption=AI Local\Config
+method=config
+menu=o
+
+[bottombar1]
+hint=AI Local Console
+icon={dir}/ailocal.png
+method=open_console

@@ -1,0 +1,18 @@
+2025.12.29
+- fix: avoid deprecated API
+
+2023.03.18
++ add: support Emoji chars
++ add: react to "focus changed" event
+
+2022.09.17
+- fix: avoid using deprecated API
+
+2021.10.06 (patch by @JairoMartinezA)
++ add: command "Toggle", and using of config file plugins.ini
+
+2019.11.25
++ show result in a separate cell of statusbar
+
+2019.05.21
+initial version

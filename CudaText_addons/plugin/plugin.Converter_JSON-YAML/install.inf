@@ -1,0 +1,18 @@
+[info]
+title=Converter JSON-YAML
+desc=Converts document between JSON and YAML formats
+type=cudatext-plugin
+subdir=cuda_json_yaml
+homepage=https://github.com/CudaText-addons/cuda_json_yaml
+
+[item2]
+section=commands
+caption=Converter JSON-YAML\Convert JSON to YAML
+method=json_to_yaml
+lexers=JSON
+
+[item3]
+section=commands
+caption=Converter JSON-YAML\Convert YAML to JSON
+method=yaml_to_json
+lexers=YAML

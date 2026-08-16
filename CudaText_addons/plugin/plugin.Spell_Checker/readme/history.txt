@@ -1,0 +1,139 @@
+2026.02.23 (by Alexey T.)
++ add: spell-dialog now has 'Ignore all' button (ignore specified word until end of the checking)
+
+2025.12.30 (patches by @badrelmers)
+* change: use new+better API, but now require CudaText 1.231.0+
+
+2025.12.11 (by Alexey T.)
+- fix: wrong underline positions for misspelled words after Emojis
+- fix: in 'lite' lexer (name ends with '^') plugin must check all the text
+
+2025.11.21 (patches by @badrelmers)
++ add: Implemented "Persistent Smart Cache". Spell check results are now saved to disk (JSON), preserving the cache across CudaText restarts.
++ add: New option "cache_lifetime" (default 60 min). Controls how long the persistent cache lasts. Set to 0 for infinite duration.
+* change: "Smart Dictionary Update": Automatically detects if the source Hunspell dictionary (.dic) has been modified (by checking file size and timestamp) and regenerates the optimized word list only when necessary.
+
+2025.11.19 (patches by @badrelmers)
+* change: Refined dictionary architecture. Replaced generic "Extended Dictionaries" with an auto-generated optimized word list from the active Hunspell dictionary (stored in OS temp). This ensures O(1) lookup speed while correctly respecting language variants.
+* change: Replaced manual "use_global_cache" option with "Smart Global Cache". The cache is now always active for performance but automatically clears after 30 minutes of inactivity to save memory.
+* remove: Removed "Toggle the Extended Dictionary" menu and "use_extended_dictionary" option (no longer needed).
++ add: updated English dicts to newest, from 79k-words to 350k-words.
+
+2025.11.16 (patches by @badrelmers)
+* change: Major performance refactor. High-speed checking is now done against an in-memory Extended Dictionary (ext_dict/*.txt) for O(1) lookups, reducing false positives and checking a 6MB file in ~1.5s.
++ add: New menu command "Toggle the Extended Dictionary" to switch between the generic Extended Dictionary (high-speed, many words, language-variant-generic) and the language-variant-specific Hunspell dictionary.
++ add: New option "use_extended_dictionary" (1 by default).
++ add: New option "use_global_cache" (0 by default), enabling a global cache for faster non-first runs (~1s for 6MB file).
++ add: New plugin command "Create a list with all the misspelled words", like in Notepad++.
+* change: Enhanced programmer filters to skip checking words that are ALL-CAPS, camelCase/MixedCase.
+
+2025.06.07
+- fix: bug with right-click menu on empty space: 'Spelling' submenu was not updated (thanks @riven)
+
+2023.03.30 (patches by @veksha)
++ add: dialog 'Misspelled word' now uses dlg_proc API - now dialog position is kept during the app session
+- fix: if user clicks another editor during long spell-checking, checking can continue the work in another editor
+
+2023.02.23
++ add: even with CudaText option "mouse_rt_click_moves_caret":false, plugin correctly updates context menu "Spelling" submenu on right clicks
+
+2022.12.25
++ add: use new CudaText (1.181+) event on_click_right, so setting "handle on_click" was removed; also this fixed lags on fast clicking in CudaText
+
+2022.12.11
+- fix: when editor opens N>1 tabs from startup session, only one of them was checked by Spell Checker
+
+2022.11.29 (patch by @dinkumoil)
+* change: update Enchant to v2.2.7 in order to be able to store words in user defined dictionaries under Windows
+
+2022.11.27
+* change: instead of install.inf, write event-options (on_open/on_change_slow) to plugins.ini
+* change: by default, on_click handler is off, so context menu won't be updated after click on a word; to turn the on_click on - use the "Configure events" command
+
+2022.09.29
++ add: if selection is made, 'Check text' checks only this selection (by Alexey)
+* add/change: reworked lot of code by forum member 'A:C', code should work faster with big dictionary
+
+2022.09.01
++ add: when you right click a misspelled word your cursor is over, plugin adds "Spelling" sub-menu with suggestions to the editor context menu (feature by @DUOLabs333)
+
+2022.02.18
++ add: skip URLs on checking
++ add: option "url_regex" (thanks @DUOLabs333)
+
+2022.01.26
+- fix: on opening files, plugin ignored the setting "file_extension_list"
+* change: replaced 2 menu items to configure events - with one command "Configure events" which shows new dialog
+* change: to allow checking of files without extension, list item "-" in setting "file_extension_list" 
+
+2021.08.25
++ add: i18n (patch from Markus)
+- fix: Enchant C++ lib could not be loaded on some Linux systems (patch from @pablorq)
+
+2020.04.08
+- fix: error on checking with selected-all
+- fix: deleted carets on autocheck with multi-carets
+
+2019.11.21
++ added support for Windows 64 bit
+
+2019.11.18
++ optimized speed
+* don't handle Esc press during check, it's faster
+* removed several dicts (you can find them and install): FR, GB, RU
+
+2019.10.31
++ used API of CudaText 1.89 to place many marks at once
+
+2019.10.22
++ used API of CudaText 1.89 to speedup detection of syntax comments+strings - speed is greatly increased
++ add command "Remove marks"
+* deleted option "underline_color" (CudaText theme color is used)
+
+2019.09.09
++ file readme.txt is fixed and extended, added info how to permamently enable on_open, on_change_slow
+
+2018.08.10
+* some menu items are moved to "Options / Settings-plugins"
++ added menu item "Options / Settings-plugins / Spell Checker / Enable/disable checking on opening file"
++ added readme info about config
+- avoid deprecated API
+
+2017.08.28
+- fixed error in install.inf for command "Select language"
+
+2017.07.24
+- fix: suggest-dialog Cancel btn must stop all work
+- avoid using deprecated APIs
+
+2017.01.10
+- use new API of editor, to take only comments/strings of lexer
+
+2016.07.28
++ if selected text, must check selection only
+* refactored
+
+2016.06.04
++ commands "Check word", "Check word with suggestions"
+
+1.0.8
+- fix check substr with ' at begin/end
+
+1.0.7
++ cmds "Check", "Check with suggest"
+
+1.0.6
++ command "Edit config"
++ option confirm_esc
++ option file_extension_list
+
+1.0.4
++ button "Add" in suggest-dialog
++ progress on checking big file, can stop (Esc)
+
+1.0.2
++ support Rus/Ger chars
++ support other dict files
+
+1.0.0 (2016.03)
+initial version

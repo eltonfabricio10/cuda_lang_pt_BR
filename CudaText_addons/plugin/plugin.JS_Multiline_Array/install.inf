@@ -1,0 +1,16 @@
+[info]
+title=JS Multiline Array
+desc=Converts several selected lines of text - to JavaScript string array
+type=cudatext-plugin
+subdir=cuda_js_multiline_array
+homepage=https://github.com/CudaText-addons/cuda_js_multiline_array
+
+[item1]
+section=commands
+caption=JS Multiline Array\Replace selection with code
+method=do_replace
+
+[item2]
+section=commands
+caption=JS Multiline Array\Convert selection, copy to clipboard
+method=do_copy

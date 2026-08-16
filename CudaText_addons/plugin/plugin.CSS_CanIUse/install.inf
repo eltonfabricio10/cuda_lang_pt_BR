@@ -1,0 +1,12 @@
+[info]
+title=CSS CanIUse
+desc=For CSS files, shows info about selected word from CanIUse.com site
+type=cudatext-plugin
+subdir=cuda_css_caniuse
+homepage=https://github.com/CudaText-addons/cuda_css_caniuse
+
+[item1]
+section=commands
+caption=CSS CanIUse
+method=run
+lexers=CSS,SCSS,LESS,Sass,Stylus

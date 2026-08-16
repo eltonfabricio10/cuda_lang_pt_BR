@@ -1,0 +1,250 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:170
+#, python-brace-format
+msgid "Spell Checker: Could not find Hunspell dictionary for {}"
+msgstr "Corretor ortográfico: não foi possível encontrar o dicionário Hunspell para {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:193
+#, python-brace-format
+msgid "Spell Checker: Extracted {} words from Hunspell dictionary"
+msgstr "Corretor ortográfico: {} palavras extraídas do dicionário Hunspell"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:197
+#, python-brace-format
+msgid "Spell Checker: Error parsing Hunspell dictionary: {}"
+msgstr "Corretor ortográfico: erro ao analisar o dicionário Hunspell: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:198
+#, python-brace-format
+msgid "ERROR: Spell Checker: Error parsing Hunspell dictionary: {}"
+msgstr "ERRO: corretor ortográfico: erro ao analisar o dicionário Hunspell: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:215
+#, python-brace-format
+msgid "Spell Checker: Error creating temp directory: {}"
+msgstr "Corretor ortográfico: erro ao criar o diretório temporário: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:228
+msgid "Spell Checker: Dictionary updated, cleared caches"
+msgstr "Corretor ortográfico: dicionário atualizado, caches limpos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:240
+#, python-brace-format
+msgid "Spell Checker: Failed to create word list for {}"
+msgstr "Corretor ortográfico: falha ao criar lista de palavras para {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:249
+#, python-brace-format
+msgid "Spell Checker: Created cached word list: {} ({} words)"
+msgstr "Corretor ortográfico: lista de palavras em cache criada: {} ({} palavras)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:253
+#, python-brace-format
+msgid "Spell Checker: Error saving word list: {}"
+msgstr "Corretor ortográfico: erro ao salvar lista de palavras: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:270
+msgid "Spell Checker: Persistent cache expired and deleted"
+msgstr "Corretor ortográfico: cache persistente expirado e excluído"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:278
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:325
+#, python-brace-format
+msgid "Spell Checker: Loaded {} entries from persistent cache"
+msgstr "Corretor ortográfico: {} entradas carregadas do cache persistente"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:335
+msgid "Spell Checker: Could not create cached word list. Using Enchant only."
+msgstr "Corretor ortográfico: não foi possível criar a lista em cache. Usando apenas Enchant."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:352
+#, python-brace-format
+msgid "Spell Checker: Loaded {} base dictionary words into cache"
+msgstr "Corretor ortográfico: {} palavras do dicionário base carregadas no cache"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:355
+#, python-brace-format
+msgid "Spell Checker: Error loading cached word list: {}"
+msgstr "Corretor ortográfico: erro ao carregar lista de palavras em cache: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:378
+#, python-brace-format
+msgid "Spell Checker: Cache cleared after {} minutes"
+msgstr "Corretor ortográfico: cache limpo após {} minutos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:450
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:475
+msgid "Spelling"
+msgstr "Ortografia"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:471
+msgid "No suggestions found"
+msgstr "Nenhuma sugestão encontrada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:494
+msgid "Misspelled word"
+msgstr "Palavra incorreta"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:512
+msgid "Not found:"
+msgstr "Não encontrada:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:515
+msgid "C&ustom text:"
+msgstr "Te&xto personalizado:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:521
+msgid "Su&ggestions:"
+msgstr "Su&gestões:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:531
+msgid "&Ignore"
+msgstr "&Ignorar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:535
+msgid "&Ignore all"
+msgstr "Ignorar &todas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:538
+msgid "&Change"
+msgstr "&Alterar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:541
+msgid "&Add"
+msgstr "&Adicionar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:544
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1186
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:554
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:998
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1209
+msgid "Spell Checker dictionary was not inited"
+msgstr "O dicionário do corretor ortográfico não foi inicializado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:625
+msgid "Select dictionary"
+msgstr "Selecionar dicionário"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:860
+#, python-format
+msgid "CudaText is still parsing the file: '%s'."
+msgstr "O CudaText ainda está analisando o arquivo: '%s'."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:861
+msgid "This typically occurs with large files."
+msgstr "Isso normalmente ocorre com arquivos grandes."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:862
+msgid "Please wait a few seconds and try again."
+msgstr "Aguarde alguns segundos e tente novamente."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:911
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1230
+msgid "Spell-checking in progress..."
+msgstr "Verificação ortográfica em andamento..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:927
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1244
+msgid "Stop the spell-checking?"
+msgstr "Parar a verificação ortográfica?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:929
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1246
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1267
+msgid "Spell-checking stopped"
+msgstr "Verificação ortográfica interrompida"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:962
+msgid "selection only"
+msgstr "somente seleção"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:962
+msgid "all text"
+msgstr "todo o texto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:967
+msgid "time"
+msgstr "tempo"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:969
+#, python-brace-format
+msgid "Spell check: {}, {}, {} mistake(s), {} replace(s)"
+msgstr "Verificação ortográfica: {}, {}, {} erro(s), {} substituição(ões)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1002
+msgid "Caret not on word-char"
+msgstr "O cursor não está sobre um caractere de palavra"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1007
+msgid "Not text-word under caret"
+msgstr "Não há uma palavra de texto sob o cursor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1038
+#, python-format
+msgid "Word is Ok: \"%s\""
+msgstr "A palavra está correta: \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1041
+#, python-format
+msgid "Word is misspelled: \"%s\""
+msgstr "A palavra está incorreta: \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1072
+#, python-brace-format
+msgid "Go to misspelled: {}:{}"
+msgstr "Ir para palavra incorreta: {}:{}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1074
+msgid "Cannot go to next/previous misspelled"
+msgstr "Não é possível ir para a próxima/anterior palavra incorreta"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1182
+msgid "Configure events"
+msgstr "Configurar eventos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1183
+msgid "Check spelling when opening files"
+msgstr "Verificar ortografia ao abrir arquivos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1184
+msgid "Check spelling while editing (after pause)"
+msgstr "Verificar ortografia durante a edição (após uma pausa)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1185
+msgid "&OK"
+msgstr "&OK"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1271
+#, python-brace-format
+msgid "Found {} misspelled words, {} unique, time {:.2f}s"
+msgstr "Encontradas {} palavras incorretas, {} únicas, tempo {:.2f}s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1274
+msgid "Misspelled words"
+msgstr "Palavras incorretas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_spell_checker/__init__.py:1276
+#, python-brace-format
+msgid "No misspelled words found, time {:.2f}s"
+msgstr "Nenhuma palavra incorreta encontrada, tempo {:.2f}s"

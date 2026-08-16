@@ -1,0 +1,217 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-08-01 00:39-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:61
+#, python-format
+msgid ""
+"Document has too many lines. Plugin Sort will not work. Current value of "
+"option [sort] max_lines in \"settings/plugins.ini\" is %d."
+msgstr "O documento tem muitas linhas. A classificação do plug-in não funcionará. O valor atual da opção [sort] max_lines em \"settings/plugins.ini\" é %d."
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:63
+msgid ""
+"Instead of Sort plugin, you can always use CudaText built-in commands:\n"
+"\"(without undo) sort ...\"."
+msgstr "Em vez do plugin Sort, você sempre pode usar os comandos integrados do CudaText:\n\"(sem desfazer) classificar ...\"."
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:75
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:78
+msgid "Needed multiline selection"
+msgstr "É necessário a seleção de várias linhas"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:137
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:157
+msgid "Unknown operation: "
+msgstr "Operação desconhecida: "
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:141
+msgid "Lines operation: "
+msgstr "Operações nas linhas: "
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:161
+msgid "Cannot extract any lines"
+msgstr "Não foi possível extrair algumas linhas"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:167
+msgid "Extract lines: "
+msgstr "Extrair linhas: "
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:208
+msgid "Sorted"
+msgstr "Classificado"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:209
+msgid ", all text"
+msgstr ", todos os textos"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:210
+msgid ", reverse"
+msgstr ", inverso"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:211
+msgid ", ignore case"
+msgstr ", ignorar maiúsculas e minúsculas"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:212
+msgid ", numeric"
+msgstr ", numérico"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:213
+msgid ", offsets "
+msgstr ", deslocamentos "
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:289
+msgid "Sorted ini lines"
+msgstr "Linhas ini classificadas"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:314
+msgid "Sorted JSON-data based on keys (File -> Reopen for Undo)"
+msgstr "Dados JSON classificados com base em chaves (Arquivo -> Reabrir para Desfazer)"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:319
+msgid "Sort field:"
+msgstr "Campo de classificação:"
+
+#: CudaText_addons/langmenu/cuda_sort/__init__.py:333
+msgid "Sorted JSON-data based on key \""
+msgstr "Dados JSON classificados com base na chave \""
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:41
+msgid "&Sort descending (reverse)"
+msgstr "Classificação descendente (inverso)"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:42
+msgid "&Ignore case"
+msgstr "&Ignorar maiúsculas e minúsculas"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:43
+msgid "Delete d&uplicate lines"
+msgstr "Excluir linhas d&uplicadas"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:44
+msgid "Delete &blank lines"
+msgstr "Excluir linhas em &branco"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:45
+msgid "&Numeric (treat groups of digits as numbers)"
+msgstr "&Numeric (trata grupos de dígitos como números)"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:46
+msgid "Sort only by substring, offsets are 0-based:"
+msgstr "Classifique apenas por substring, os deslocamentos são baseados em 0:"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:47
+msgid "Be&gin (-1: don't cut begin)"
+msgstr "Be&gin (-1: não corte, comece)"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:49
+msgid "&End (-1: don't cut end)"
+msgstr "&Fim (-1: não corte o final)"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:51
+msgid "Sort"
+msgstr "Classificação"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:52
+msgid "Save only"
+msgstr "Salvar apenas"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:53
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:56
+msgid "Custom sort"
+msgstr "Classificação personalizada"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:81
+#, python-brace-format
+msgid "Incorrect offsets: {}..{}"
+msgstr "Deslocamentos incorretos: {}..{}"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:84
+msgid "Custom sort options saved"
+msgstr "Opções de classificação personalizada salvas"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_emails.py:22
+msgid "No e-mails in text"
+msgstr "Sem e-mails no texto"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_emails.py:28
+msgid "Sorted text as email list"
+msgstr "Texto classificado como lista de e-mails"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:23
+msgid "Sort: separator chars"
+msgstr "Classificar: caracteres separadores"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:24
+msgid "Separator of prefix, to skip prefix (optional):"
+msgstr "Separador de prefixo, para pular o prefixo (opcional):"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:25
+msgid "Separator of values after prefix:"
+msgstr "Separador de valores após o prefixo:"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:31
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:35
+msgid "Separators must have length=1"
+msgstr "Os separadores devem ter length=1"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:39
+msgid "Separators cannot be the same"
+msgstr "Os separadores não podem ser iguais"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:58
+#, python-format
+msgid "Changed %d line(s)"
+msgstr "%d de linha(s) alteradas"
+
+#: CudaText_addons/langmenu/cuda_sort/sort_sep.py:60
+msgid "No lines were changed"
+msgstr "As linhas não foram alteradas"
+
+#~ msgid ""
+#~ "Document has too many lines. Plugin Sort will not work. Current value of "
+#~ "option [sort] max_lines in \"settings/plugins.ini\" is %d.\n"
+#~ "\n"
+#~ "Instead of Sort plugin, use CudaText built-in commands: \"(without undo) "
+#~ "sort...\"."
+#~ msgstr ""
+#~ "O documento contém muitas linhas. O Plugin de Classificação não "
+#~ "funcionará. Valor atual da opção [sort] max_lines em \"settings/"
+#~ "plugins.ini\" é %d.\n"
+#~ "\n"
+#~ "Em vez do plugin de Classificação, utilizar os comandos internos do "
+#~ "CudaText: \"(sem desfazer) classificar...\"."
+
+#~ msgid "Numeric (treat beginning as number)"
+#~ msgstr "Numérico (trate o início como um número)"
+
+#~ msgid "Sort only by substring, offsets 0-based:"
+#~ msgstr "Classificar apenas por substring, deslocamentos em 0:"
+
+#~ msgid "&From:"
+#~ msgstr "&De:"
+
+#~ msgid "&To:"
+#~ msgstr "&Para:"
+
+#~ msgid "OK"
+#~ msgstr "OK"

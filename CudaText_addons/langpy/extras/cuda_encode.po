@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-25 10:26-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:15
+msgid "[Encode] "
+msgstr "[Codificação] "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:23
+#, python-format
+msgid "[Encode %s] "
+msgstr "[Codificação %s] "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:31
+msgid "All files"
+msgstr "Todos os arquivos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:55
+msgid "Caret(s) must have selection(s)"
+msgstr "O(s) cursor(es) deve(m) ter seleção(ões)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:77
+#, python-format
+msgid "Changed %d line(s)"
+msgstr "Linha(s) %d alterada(s)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:79
+#, python-format
+msgid "got %d error(s)"
+msgstr "obtive erro(s) %d"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:40
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:52
+#, python-format
+msgid "Global config file \"%s\" not found"
+msgstr "Arquivo de configuração global \"%s\" não foi encontrado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:44
+msgid "Cannot open local config file for untitled tab"
+msgstr "Não é possível abrir o arquivo de configuração local para a aba sem título"
+"Não foi possível abrir o arquivo de configuração local para a guia sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:54
+#, python-format
+msgid ""
+"Local config file \"%s\" not found.\n"
+"Do you want to create it?"
+msgstr ""
+"Arquivo de configuração local \"%s\" não foi encontrado.\n"
+"Você deseja criá-lo?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:59
+#, python-format
+msgid "Cannot copy global config file \"%s\" to local folder"
+msgstr "Não é possível copiar o arquivo de configuração global \"%s\" para a pasta local"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:64
+msgid "Column/line selections not supported"
+msgstr "Sem suporte para seleções de coluna/linha"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:71
+msgid "Cannot format text"
+msgstr "Não foi possível formatar o texto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:74
+msgid "Formatting selected text"
+msgstr "Formatando o texto selecionado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:86
+msgid "Cannot work without selection"
+msgstr "Não é possível trabalhar sem seleção"
+
+#~ msgid "Formatting entire text"
+#~ msgstr "Formatando o texto inteiro"

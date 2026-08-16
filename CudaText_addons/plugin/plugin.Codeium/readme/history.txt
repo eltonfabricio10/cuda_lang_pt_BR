@@ -1,0 +1,55 @@
+2026.03.02
++ add: new command "Get available versions"
+
+2026.03.01
+- fix: server version that will be downloaded for new users updated to "1.48.2"
+       old users must update manually by deleting old binary and changing version
+       in config.
+       server update was needed for chat to work.
+- fix: completions now work with newer server versions
+- fix: no answer from bot if some chat tab was closed not long ago
+
+2024.02.06
++ add: TAB completion support. new config option: "tab_completion".
++ add: new command "Toggle: Log in on startup". useful with tab_completion option.
++ add: chat dialog was redesigned. it's no longer MODAL and it remembers its position (until CudaText is closed).
++ add: editor (with codeium chat output) can be scrolled freely, while bot is answering.
+
+
+2024.01.12
++ add: new "Server info" command. It will show info about downloaded server and new version at github.
+- fix: server version that will be downloaded for new users updated to "1.6.22"
+       old users must update manually by deleting old binary and changing version
+       in config.
++ add: new config option: "version"
+
+2024.01.09
+- fix: protect from using incorrect tab for chat (workaround for macOS)
+
+2023.05.27
++ add: User can stop request by pressing ESC/Space/Enter
+
+2023.05.22
++ add: update tab title on every question
+
+2023.05.18
+- fix: protect from opening chat Ask Dialog twice
+
+2023.05.17
++ add: new option append_mode (enabled by default) and new command "Config"
+
+2023.05.16
+- fix: now waiting ~7.5 seconds for port file to appear
+
+2023.05.15
+- fix: error when bot answer is long
+- fix: AI autocompletion errors when invoked on virtual space (caret)
+- fix: make completion work on files with no lexer
+- fix: ImportError (cannot import name 'builder' from 'google.protobuf.internal')
++ add: insert quoted question to the beginning of the chat-reply
+
+2023.05.14
++ add: command "Chat..."
+
+2023.05.10
+initial version

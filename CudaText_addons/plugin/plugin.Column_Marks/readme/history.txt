@@ -1,0 +1,20 @@
+
+2021.11.29
++ add: i18n (by Markus)
+
+2021.11.28
++ add: improved prompt dialog which allows to prefix value with "!" to save option for good (thanks @newhoa)
+
+2021.11.27
++ add: plugin saves settings to user.json (thanks @newhoa)
+- fix: plugin used old deleted API
+
+2017.07.28
++ add command: "Set fixed margin"
+* rename command: "Set additional margins"
+
+2017.07.25
++ adapt to lines with tab-chars (jump to vertical margin line)
+
+2017.07.25
+port from SynWrite

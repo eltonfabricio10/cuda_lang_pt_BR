@@ -1,0 +1,39 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:48
+msgid "Remove find-results for replacement"
+msgstr "Remover resultados de busca para substituição"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:50
+msgid "Do you really want to remove find-result?"
+msgstr "Deseja realmente remover o resultado da busca?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:56
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:97
+msgid "No found find-results for replacement"
+msgstr "Nenhum resultado de busca para substituição foi encontrado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:72
+msgid "Find-results for replacement updated"
+msgstr "Resultados de busca para substituição atualizados"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_separate_find_replace_history/__init__.py:127
+msgid "History of find-replace cleaned"
+msgstr "Histórico de busca e substituição limpo"

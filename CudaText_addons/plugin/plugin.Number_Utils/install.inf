@@ -1,0 +1,67 @@
+[info]
+title=Number Utils
+desc=Commands for numbers: insert row of numbers, convert to text or Romans, etc.
+type=cudatext-plugin
+subdir=cuda_number_utils
+homepage=https://github.com/CudaText-addons/cuda_number_utils
+
+[item1]
+section=commands
+caption=Number Utils\Insert Numbers...
+method=dlg_insert_numbers
+
+[item3]
+section=commands
+caption=Number Utils\Carets Numbering...
+method=dlg_carets_num
+
+[item4]
+section=commands
+caption=Number Utils\Base Converter...
+method=dlg_base_converter
+
+[item20]
+section=commands
+caption=Number Utils\Roman numbers\Convert decimal/roman, show in statusbar
+method=dec_roman_show
+
+[item21]
+section=commands
+caption=Number Utils\Roman numbers\Convert decimal/roman, replace in editor
+method=dec_roman_replace
+
+[item51]
+section=commands
+caption=Number Utils\Number to words\Number to words, new tab
+method=num2word_new_tab
+
+[item52]
+section=commands
+caption=Number Utils\Number to words\Number to words, replace
+method=num2word_replace
+
+[item53]
+section=commands
+caption=Number Utils\Number to words\Select language...
+method=num2word_langs
+
+
+[item100]
+section=commands
+caption=Number Utils\Number to words, Ru\Number to words, new tab
+method=num2ru_new_tab
+
+[item101]
+section=commands
+caption=Number Utils\Number to words, Ru\Number to words, replace
+method=num2ru_replace
+
+[item103]
+section=commands
+caption=Number Utils\Number to words, Ru\Rubles to words, new tab
+method=num2ru_rubles_new_tab
+
+[item104]
+section=commands
+caption=Number Utils\Number to words, Ru\Rubles to words, replace
+method=num2ru_rubles_replace

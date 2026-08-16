@@ -1,0 +1,42 @@
+Plugin for CudaText.
+For CSV (comma-separated values) and TSV (tab-separated values), plugin highlights
+different columns in different colors.
+Plugin creates "CSV ^" and "TSV ^" lexers at startup (without creating files, these
+are 'virtual' in-memory lexers), and these lexers are used to detect data files.
+
+Features
+--------
+
+Plugin handles hovering mouse over text: it shows index/caption of current
+column in the statubar (caption is read from the first line).
+
+Plugin gives several commands (in the menu "Plugins / CSV Helper") to manage columns.
+Command "Align columns" aligns columns by adding extra spaces.
+Command "Shrink fields (trim spaces)" reduces line width by removing spaces.
+
+Options
+-------
+
+Plugin has several options in config file.
+Call menu item: "Options / Settings-plugins / CSV Helper / Config".
+Config file (settings/cuda_csv_hilite.ini) looks like this:
+
+  [op]
+  color_comma=#000000
+  colors_fixed=#0000FF,#00AA00,#E00000,#000080,#004400,#900000,#909000
+  colors_themed=Id,Id1,Id2,Id3,Id4,IdVar,String,Comment,Comment2,Label,Color
+  use_theme_colors=1
+  separator=,
+
+After changing config file, perform a reload of opened CSV and TSV files in order
+to apply new settings.
+
+About
+-----
+
+Authors:
+  Alexey Torgashin (CudaText)
+  Artem Gavrilov, https://github.com/Artem3213212
+  Oleh Lutsak, https://github.com/OlehL
+  wyxa, https://github.com/Wwyxa
+License: MIT

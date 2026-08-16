@@ -1,0 +1,10 @@
+[info]
+title=EditorConfig Support
+desc=Supports EditorConfig system
+type=cudatext-plugin
+subdir=cuda_editorconfig
+homepage=https://github.com/CudaText-addons/cuda_editorconfig
+
+[item1]
+section=events
+events=on_open,on_save_pre

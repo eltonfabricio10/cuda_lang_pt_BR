@@ -1,0 +1,75 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:53
+msgid ", "
+msgstr ", "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:62
+msgid "Incorrect environment! Python interpreter is not activated"
+msgstr "Ambiente incorreto! O interpretador Python não está ativado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:69
+msgid "Other..."
+msgstr "Outro..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:70
+msgid "Select Python interpreter"
+msgstr "Selecionar interpretador Python"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:74
+msgid "Executables"
+msgstr "Executáveis"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:98
+msgid "Go to file: "
+msgstr "Ir para o arquivo: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:195
+msgid "ERROR: Interpreter is not selected. Cannot use Python IntelliSense."
+msgstr "ERRO: o interpretador não foi selecionado. Não é possível usar o Python IntelliSense."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:324
+msgid "Rename to:"
+msgstr "Renomear para:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:378
+msgid "Extract variable:"
+msgstr "Extrair variável:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:390
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:423
+msgid "Cannot refactor, Jedi gave an error. :("
+msgstr "Não é possível refatorar; o Jedi retornou um erro. :("
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:411
+msgid "Extract function:"
+msgstr "Extrair função:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:510
+msgid "Cannot find doc-string"
+msgstr "Não foi possível encontrar a docstring"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:534
+msgid "Cannot find usages"
+msgstr "Não foi possível encontrar usos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_python_intel/__init__.py:552
+msgid "Usages"
+msgstr "Usos"

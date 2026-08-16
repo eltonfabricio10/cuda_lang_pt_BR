@@ -1,0 +1,13 @@
+2025.09.27
+[*] adapted under python 3.8
+
+2025.09.27
+[+] auto-add matching pair from plugin's db
+[*] small fixes
+
+2025.09.17
+[+] auto-add unique pairs of find-replace in plugin's db
+[*] small fixes
+
+2025.09.04
+initial

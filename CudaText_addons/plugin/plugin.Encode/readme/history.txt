@@ -1,0 +1,43 @@
+2025.11.06
+(ideas by @pintassilgo, done by Alexey T.)
++ add: 'HTML Deentitize' now handles dec-codes without leading zero
+- fix: 'URL Decode' did change '+' to space, don't do it now
++ add: 'URL Encode' two commands changed to 3 commands: 'URL Encode', 'URL Encode Unrestricted', 'URL Encode Everything', similar to Notepad++ plugin
+* change: current 6 HTML-Entity-related commands were tweaked, to be more like in Notepad++ plugin
+* change: rearrange menu items in "Plugins / Encode"
+
+2023.12.08
++ add: 2 commands "Base64 Encode/Decode by line"
++ add: 2 commands "Base32 Encode/Decode by line"
+
+2022.12.01
++ add: command "Insert Base64-encoded file"
+
+2022.08.11
+* change: disabled work of most of commands for the case 'no selection in text', because changing of entire text (w/o selection) doesn't support Undo
+
+2022.07.21
++ add: command "Misc / QWERTY layout Russian to English"
++ add: command "Misc / QWERTY layout English to Russian"
+
+2021.01.31
++ add: support translations (by Markus)
+
+2020.03.15
++ add: commands to encode/decode by ROT13, ROT18, ROT47
+
+2018.01.21
++ add: codings "Unicode Normalize": NFC, NFD, etc
+* removed commands "Unicode to Hex", "Hex to Unicode"-- seems it does the same as "Unicode-escape Encode/Decode"
+
+2018.01.20
++ add: codings Base32, Base16
++ add: coding Quoted-printable
++ add: coding Unicode-escape
++ coding Base64 compatible with some online implementation
+
+2017.11.21
+- fix: "URL Encode" must not encode safe chars - /:;,()[] etc.
+
+2016.06.07
+initial version

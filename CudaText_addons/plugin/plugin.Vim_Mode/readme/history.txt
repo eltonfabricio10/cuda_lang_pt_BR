@@ -1,0 +1,88 @@
+2026.07.08
+- fix: avoid deprecated API: PROP_SCROLL_VERT
+
+2022.09.17
+* change: confirmation message-box: set informative button captions
+- fix: avoid deprecated API
+
+2022.07.12
++ add: added commmand "Options / Settings-plugins / Vim Mode / Config" and 3 color options
+- fix: plugin was resetting caret-shape on opening files, even if it wasn't active
+
+2021.09.07
++ add: map Ctrl+F to PageDown command (from @nochiel)
++ add: map Ctrl+B to PageUp command 
+
+2020.12.30
++ add: map Ctrl+[ to Esc key (thanks @cser)
++ add: map Ctrl+I to Tab key
++ add: map Ctrl+H to Backspace key
++ add: map Ctrl+J and Ctrl+M to Enter key
+
+2020.12.23
++ add: changed "zz" and "z." to be like in https://vimhelp.org/index.txt.html#z (thanks @acicovic)
+
+2019.04.11
+- fix: after calling plugin Options Editor to change opts, Vim statusbar was broken
+
+2019.01.08
+- fix: Visual mode had broken commands h/l (caret left/right)
+
+2019.01.07
++ add: can remap Esc in insertion mode to "jj" or "jk". Use menu item "Options / Settings-plugins / Vim Mode".
+
+2018.12.04
++ add: command 'ZQ'
+- fix: arrows Left/Right in visual mode
++ add: 'f'/'t'/'F'/'T' now work in visual mode too
+
+2018.12.03
++ add: commands 'z.', 'zt', 'zb'
+
+2018.12.02
++ add: commands 'ctQ', 'cfQ', 'dtQ', 'dfQ' (delete until text)
+
+2018.11.25
+- fix: commands Y/p must insert text at line start
+- fix: commands y/p in visual/fullline mode must paste at line start
+* change: ini-file changed to "plugins.ini", so delete old "cuda_vim_mode.ini"
++ add: new messagebox on turning Vim mode off
+
+2018.11.21
+- fix: commands "Y", "V" must select lines with EOL
+
+2018.11.20
++ added: command "." repeats last entered command
++ added: statusbar colored indicator of Vim mode (Cmd=teal, Visual=blue, Insert=red)
+
+2018.10.24
+- avoid deleted CudaText API (for caret shape)
+
+2017.10.12
++ added: command S
++ added: command ZZ
+
+2017.10.08
+- fixed: command J on macOS didnt work
+
+2017.10.06.4
++ reworked visual mode with all movement keys
+
+2017.10.06
++ ask to make Vim mode persistent
++ added: command Y
++ added: commands H M L
+- fixed: visual mode and hjkl moves
+- fixed: command J
+- fixed: command 'de'
+
+2017.10.05
++ added: command #
++ added: 'd' in visual mode must cut
+- fixed: 'x' must only delete
+
+2017.10.04
++ commands, most needed for main user, done
+
+2017.10.01
+initial version

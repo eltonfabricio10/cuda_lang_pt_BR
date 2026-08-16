@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-08-02 19:28-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:55
+msgid ""
+"\n"
+"Console process was terminated.\n"
+msgstr ""
+"\n"
+"O processo do console foi encerrado.\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:571
+msgid "Add terminal for current document (will be ^free for Untitled)"
+msgstr "Adicionar terminal para o documento atual (será ^livre para Sem título)"
+"Adicionar terminal para o documento atual (será ^livre para Sem Título)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:584
+msgid "Close all terminals..."
+msgstr "Fechar todos os terminais..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:839
+msgid "Rename..."
+msgstr "Renomear..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:842
+msgid "Change icon"
+msgstr "Alterar ícone"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:848
+msgid "Terminal wrap"
+msgstr "Quebra de linha do terminal"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:851
+msgid "No wrap"
+msgstr "Sem quebra de linha"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:854
+msgid "By character"
+msgstr "Por caractere"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:857
+msgid "By word"
+msgstr "Por palavra"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:860
+msgid "Custom column: "
+msgstr "Coluna personalizada: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:861
+msgid "Custom column..."
+msgstr "Coluna personalizada..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:867
+msgid "Reset"
+msgstr "Redefinir"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:884
+msgid "Close"
+msgstr "Fechar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1081
+msgid "Document has no terminals: "
+msgstr "O documento não possui terminais: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1130
+msgid "Rename terminal:"
+msgstr "Renomear terminal:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1199
+msgid "CudaText Terminal"
+msgstr "Terminal do CudaText"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1200
+msgid "Terminal opened in floating window"
+msgstr "Terminal aberto na janela flutuante"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1347
+msgid "Break"
+msgstr "Interromper"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1348
+msgid "Hotkeys: Break or Ctrl+C"
+msgstr "Tecla de atalho: Break ou Ctrl+C"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1361
+msgid "Enter command here"
+msgstr "Inserir o comando aqui"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1809
+msgid "Close all terminals?"
+msgstr "Fechar todos os terminais?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1859
+msgid "Wrap margin position:"
+msgstr "Posição da margem de quebra de linha:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2090
+msgid "Last command terminal is no longer present"
+msgstr "O último comando do terminal não está mais presente"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2092
+msgid "Execute last command?"
+msgstr "Executar o último comando?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2101
+msgid "Executed: "
+msgstr "Executado: "
+
+#~ msgid "Document has no teminals: "
+#~ msgstr "O documento não tem terminais: "
+
+#~ msgid "Rename Terminal"
+#~ msgstr "Renomear Terminal"

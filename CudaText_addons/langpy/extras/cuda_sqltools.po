@@ -1,0 +1,109 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:61
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:68
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:75
+msgid "ERROR: SQL Tools:"
+msgstr "ERRO: Ferramentas SQL:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:98
+#, python-brace-format
+msgid "SQL Tools: {} active queries..."
+msgstr "Ferramentas SQL: {} consultas ativas..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:105
+msgid "SQL Tools: done"
+msgstr "Ferramentas SQL: concluído"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:187
+msgid "SQL result"
+msgstr "Resultado SQL"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:337
+msgid "You need to setup your connections first"
+msgstr "Você precisa configurar suas conexões primeiro"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:348
+msgid "Connections"
+msgstr "Conexões"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:354
+msgid "Your database has no tables"
+msgstr "Seu banco de dados não possui tabelas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:358
+msgid "Tables"
+msgstr "Tabelas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:365
+msgid "Your database has no functions"
+msgstr "Seu banco de dados não possui funções"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:369
+msgid "Functions"
+msgstr "Funções"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:397
+#, python-format
+msgid "Table \"%s\""
+msgstr "Tabela \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:438
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:464
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:529
+msgid "Text not selected"
+msgstr "Texto não selecionado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:451
+msgid "Text is empty"
+msgstr "O texto está vazio"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:477
+msgid "Need single caret"
+msgstr "É necessário um único cursor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:497
+msgid "SQL Tools: formatted all text"
+msgstr "Ferramentas SQL: todo o texto formatado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:508
+msgid "SQL Tools: formatted selection"
+msgstr "Ferramentas SQL: seleção formatada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:517
+msgid "SQL Tools: History is empty"
+msgstr "Ferramentas SQL: o histórico está vazio"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:520
+msgid "History"
+msgstr "Histórico"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:532
+msgid "Query alias:"
+msgstr "Alias da consulta:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:552
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:580
+msgid "Queries"
+msgstr "Consultas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_sqltools/__init__.py:572
+msgid "SQL Tools: No saved queries"
+msgstr "Ferramentas SQL: nenhuma consulta salva"

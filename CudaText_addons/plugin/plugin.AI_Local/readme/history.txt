@@ -1,0 +1,21 @@
+2025-03-03
++ Fix key config file
++ Fixed directory and translation name
+
+2025-03-02
++ Better support for translation (patch by Markus F.)
++ Spanish translation added 
++ Added key header
+
+2025-02-28
++ Change in the icon design for better visibility
++ Change in the icon name
+
+2025-02-20
++ A macro is added with confirmation to delete the characters ">>> " when
+inserting, and it can be enabled or disabled in the settings.
++ Added support for LM Studio
+
+2025-02-18
++ Initial version
++ My first CudaText plugin

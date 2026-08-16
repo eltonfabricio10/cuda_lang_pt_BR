@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-25 16:48-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:18
+#, python-brace-format
+msgid "&Hash -- of {}:"
+msgstr "&Hash -- de {}:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:18
+msgid "file"
+msgstr "arquivo"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:18
+msgid "string"
+msgstr "string"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:64
+msgid "Hash copied to clipboard"
+msgstr "Hash copiado para a área de transferência"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:75
+msgid "Verified"
+msgstr "Verificado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:82
+msgid "Hash Generator"
+msgstr "Gerador de Hash"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:85
+msgid "Hash &type:"
+msgstr "&Tipo de Hash:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:96
+msgid "Calculate hash from &string:"
+msgstr "Calcular o hash da &string:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:102
+msgid "C&alculate"
+msgstr "C&alcular"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:107
+msgid "Calculate hash from &file:"
+msgstr "Calcular o hash do ar&quivo:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:113
+msgid "&Browse..."
+msgstr "&Navegar..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:118
+msgid "&Hash value:"
+msgstr "Valor do &Hash:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:124
+msgid "&Copy"
+msgstr "&Copiar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:129
+msgid "&Enter hash to verify:"
+msgstr "&Inserir hash para verificar:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:138
+msgid "&Verify"
+msgstr "&Verificar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_hash_gen/__init__.py:143
+msgid "Close"
+msgstr "Fechar"

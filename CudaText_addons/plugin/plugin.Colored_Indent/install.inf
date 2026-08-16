@@ -1,0 +1,27 @@
+[info]
+title=Colored Indent
+desc=Colorizes spaces/tabs in indents
+type=cudatext-plugin
+subdir=cuda_colored_indent
+homepage=https://github.com/CudaText-addons/cuda_colored_indent
+api=1.0.471
+
+[item1]
+section=events
+events=on_start
+
+[item2]
+section=commands
+caption=Colored Indent\Toggle active
+method=toggle
+
+[item3]
+section=commands
+caption=Colored Indent\Reload config
+method=reload_config
+
+[item10]
+section=commands
+caption=Colored Indent\Config
+method=config
+menu=o

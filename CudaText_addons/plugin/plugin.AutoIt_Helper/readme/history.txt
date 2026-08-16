@@ -1,0 +1,34 @@
+2023.08.09
+- fix: trivial fix, must replace 'row'->'col' (by @veksha)
+
+2019.01.28
+- fix: error when open file and call command 'Show doc-string'
+
+2019.01.18
+- fix: init plugin after press tab key
+- fix: homepage address
+
+2019.01.08
++ changed file AutoIt.acp to au3.api; reworked parser for .au3 files and for au3.api file
++ implemented a variable's scope in autocomplete list
++ command 'Go to definition' works faster
++ added command 'Show doc-string'
++ added inserting arguments for funtions
++ added menu item in "Options / Settings-plugins" to set AutoIt dir
++ now not needed to restart editor after changing AutoIt dir
+- fix: double constants in autocomplete and rename id to 'const'
+- fix: when opened more then one *.au3 file in autocompete were functions/const/vars from all *.au3 files
+
+2018.02.02
+- deleted lexer check, is in install.inf
+~ code cleaned up
+
+2018.01.29
++ added "Go to definition" command handling
++ added parsing of include-files
+
+2017.08.29
++ added used variables to auto-completion 
+
+2017.05.05
+initial version

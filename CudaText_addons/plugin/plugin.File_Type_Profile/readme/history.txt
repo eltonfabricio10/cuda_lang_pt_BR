@@ -1,0 +1,78 @@
+================================================================================
+File Type Profile plugin for CudaText
+================================================================================
+
+
+1.0.8 (2026-07-18)
+~~~~~~~~~~~~~~~~~~
+
+fixed: Avoided deprecated CudaText API.
+
+
+
+1.0.7 (2025-11-01)
+~~~~~~~~~~~~~~~~~~
+
+enhanced: Use new event on_open_reopen, so plugin is able to kick in when file
+          is reopened manually or automatically from file-change-notification
+          etc.
+
+
+
+1.0.6 (2020-06-25)
+~~~~~~~~~~~~~~~~~~
+
+changed: Use new API PROP_ENC_RELOAD, thus it's not necessary anymore to update
+         plugin if character encodings are added/removed in the future.
+
+
+
+1.0.5 (2020-03-27)
+~~~~~~~~~~~~~~~~~~
+
+enhanced: Plugin ignores files which are part of a session or the file history.
+          This way users can override automatically set file encoding and EOL
+          format and it will be restored next time the file is opened.
+          Requires at least CudaText v1.97.5.2
+
+
+
+1.0.4 (2019-12-15)
+~~~~~~~~~~~~~~~~~~
+
+enhanced: Added support for UTF-32 LE/BE and ISO-8859-15
+
+
+
+1.0.3 (2019-11-11)
+~~~~~~~~~~~~~~~~~~
+
+changed: Removed debug output.
+
+
+
+1.0.2 (2019-06-11)
+~~~~~~~~~~~~~~~~~~
+
+changed: Default settings file created after first launch of plugin now contains
+         a profile for Linux shell scripts (file type .sh).
+changed: If a file type's profile contains no valid settings, processing of INI
+         file is stopped now instead of searching the file type in other
+         profiles.
+
+
+
+1.0.1 (2019-06-06)
+~~~~~~~~~~~~~~~~~~
+
+changed: Filename extensions in INI file now can be noted as semicolon separated
+         list.
+changed: Applied Python coding style recommendations.
+changed: Applied naming conventions for CudaText plugins and their repositories.
+
+
+
+1.0.0 (2019-06-05)
+~~~~~~~~~~~~~~~~~~
+
+Initial release

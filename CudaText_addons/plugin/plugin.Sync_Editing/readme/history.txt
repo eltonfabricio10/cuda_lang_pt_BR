@@ -1,0 +1,59 @@
+2025.12.30 (patches by @badrelmers)
+* change: removed backward compatability with old API, so can cleaup the code.
+
+2025.12.16 (patches by @badrelmers)
++ add: Optimization for faster caret placement: Implemented CARET_OPTION_NO_SORT to fix slow carets setting when switching from one ID to another in big files (speed went from 6s to instant for 20k carets).
+* change: Improved fix for late lexer tokens parsing by replacing on_lexer_parsed with the new good API PROP_LEXER_BUSY (removed dependency on on_lexer_parsed event and related timers and its dirty workarounds).
+
+2025.12.14 (patches by @badrelmers)
++ add: Big optimization for huge files: editing a word went from 48s to 0.0065s on 9mb file with 400k duplicates, and the first start scan went from 14min to 6s (issue #23)
++ add: Spatial Indexing for O(1) token lookup on large files.
++ add: Support for CudaText API PROC_EVENTS_SUB (sel, selreset) for zero-idle CPU/RAM usage.
++ add: Dynamic subscription to events (on_caret, on_scroll, on_key, on_click, etc.) to minimize resource usage.
+* change: Markers (borders/backgrounds) now only render for the visible viewport (continous on scroll live updates).
+* change: Implemented geometry-based length calculation for accurate token tracking.
+* change: Gutter Icon now follows the viewport, ensuring it's always visible.
+- fix: Solved the Caret problems: fixed all bugs related to caret jumping/movement after edits (issues #6, #7, #28).
+- fix: Fixed logic for handling complete word/ID deletion during an edit session.
+- fix: Resolved issues with the CudaText late lexer parsing for very large files.
+
+2025.12.01 (by @badrelmers)
++ add: big optimization for huge files: e.g. 8Mb JavaScript file (if enabled by app's option "ui_max_size_lexer":9) is now processed ~30 times faster
+
+2025.11.28 (patches by @badrelmers. Major Refactoring)
++ add: Continuous Edit mode (click a new word to switch editing immediately).
++ add: Multisession files edit support (you can enable the plugin now on multiple files at the same time).
++ add: Gutter Icon activation/deactivation for improved workflow.
++ add: Optimized the core code for speed and performance.
+* change: Unified configuration into a single INI file: `settings/cuda_sync_editing.ini`.
+* change: Removed the old configuration system (which used `user.json` and `lexer_*.json` files).
+
+2021.12.19
++ add: command 'Emulate mouse click' for ppl who don't like mouse (by Alexey T.)
+- fix: after activating, plugin moved caret to beginning of file
+
+2021.03.17
++ add: i18n (from Markus)
+
+2021.03.13
++ add: use new API
+
+2019.11.14
+- fix: avoid deleted API
+
+2019.07.16
+- fix: avoid deprecated API
+
+2018.09.08
+- fix: minor bug with 2 selections
+
+2018.08.29
++ add: support for reStructuredText lexer
++ add: support for Markdown lexer
++ add: support for "none" lexer
+
+2018.08.12
++ add: options "id_styles", "id_styles_no" (must be in lexer config)
+
+2018.08.11
+initial version

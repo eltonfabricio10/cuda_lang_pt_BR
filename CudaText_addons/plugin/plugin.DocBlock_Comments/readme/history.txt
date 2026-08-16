@@ -1,0 +1,14 @@
+2022.02.11
+- fix: wrong indent size using TAB
+
+2022.01.12
+- fix: adapt to last CudaText changes (JSDoc lexer appeared)
+- fix: pressing Enter after '* text' added bad empty line
+- fix: pressing Enter after 'text /**' inserted wrong non-space indent
++ add: completion for tags supports caret inside existing word, e.g. '@ac|ccess'
+
+2018.12.14
+- fix: plugin was blocking other auto-completion plugins
+
+2015.10
+initial

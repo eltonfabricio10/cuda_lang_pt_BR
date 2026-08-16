@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-08-01 00:58-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:39
+#, python-brace-format
+msgid "-- [${start_time}] Building: ${build_name}: ${file_name}"
+msgstr "-- [${start_time}] Construindo: ${build_name}: ${file_name}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:40
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:181
+msgid "-- Command: ${shell_cmd:${cmd}}"
+msgstr "-- Comando: ${shell_cmd:${cmd}}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:41
+#, python-brace-format
+msgid "-- Working dir: ${working_dir}"
+msgstr "-- Diretório de trabalho: ${working_dir}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:44
+#, python-brace-format
+msgid "-- Done (${duration}s), return code: ${return_code}"
+msgstr "-- Concluído (${duration}s), código de resposta: ${return_code}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:47
+msgid "Build"
+msgstr "Construir"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:146
+#, python-brace-format
+msgid "Failed to load build-system \"{}\": {}: {}"
+msgstr "Falhou ao carregar o sistema-construção \"{}\": {}: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:221
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:272
+msgid "Save document to disk before building"
+msgstr "Salvar o documento em disco antes de construir"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:228
+msgid "No build-system(s) found for lexer "
+msgstr "Nenhum sistema-construção encontrado para a linguagem "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:230
+msgid "No build-system(s) found for file "
+msgstr "Nenhum sistema-construção encontrado para o arquivo "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:236
+msgid "Build with..."
+msgstr "Construir com..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:257
+msgid "No such build-system: "
+msgstr "Não existe sistema-construção: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:277
+msgid "Choose build-system for lexer: "
+msgstr "Escolher sistema-construção para a linguagem: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:283
+msgid "Choose extention for association"
+msgstr "Escolher a extensão para associação"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:319
+#, python-brace-format
+msgid "No command \"{}\" in build-system \"{}\""
+msgstr "Nenhum comando \"{}\" no sistema-construção \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:320
+#, python-brace-format
+msgid ""
+":...\n"
+"  {}"
+msgstr ""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:325
+#, python-brace-format
+msgid "Failed to save document: {}; Cancelling build"
+msgstr "Falhou ao salvar o documento: {}; Cancelando a construção"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:331
+#, python-brace-format
+msgid "Failed to run command \"{}\" in build-system \"{}\""
+msgstr "Falhou ao executar o comando \"{}\" no sistema-construção \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:383
+msgid "No builds done yet"
+msgstr "Nenhuma construção concluída ainda"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:393
+#, python-brace-format
+msgid "No older build log present: {}/{}"
+msgstr "Nenhum registro de construção antiga presente: {}/{}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:396
+#, python-brace-format
+msgid "No newer build log present: {}/{}"
+msgstr "Nenhum registro de construção mais recente presente: {}/{}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:399
+#, python-brace-format
+msgid "Showing build log: {}/{}"
+msgstr "Exibindo registro da construção: {}/{}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:465
+msgid "Json Error"
+msgstr "Erro Json"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:467
+msgid "\"target\" option is not supported"
+msgstr "Não tem suporte para opção \"target\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:549
+#, python-brace-format
+msgid "Running: \"{}\""
+msgstr "Executando: \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:564
+#, python-brace-format
+msgid "Fail running: {}"
+msgstr "Falha ao executar: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:572
+msgid "Note: build-system is expecting a Project to be opened"
+msgstr "Nota: o sistema-construção está esperando que um projeto seja aberto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:598
+msgid "No such command: "
+msgstr "O comando não existe: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_runner/runner.py:656
+msgid "-- Canceled"
+msgstr "-- Cancelado"

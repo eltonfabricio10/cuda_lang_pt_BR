@@ -1,0 +1,22 @@
+[info]
+title=Font Changer
+desc=This plugin will allow you to cycle through fonts easily. It's more convenient then using default font dialog.
+type=cudatext-plugin
+subdir=cuda_font_changer
+homepage=https://github.com/veksha/cuda_font_changer
+
+[item2]
+section=commands
+caption=Font Changer\Next font
+method=next_font_
+
+[item3]
+section=commands
+caption=Font Changer\Previous font
+method=previous_font_
+
+[item4]
+section=commands
+caption=Font Changer\Select font...
+method=select_font_
+

@@ -1,0 +1,22 @@
+[info]
+title=Color Picker
+desc=Shows color-picker dialog, inserts color #rrggbb
+type=cudatext-plugin
+subdir=cuda_color_picker
+homepage=https://github.com/CudaText-addons/cuda_color_picker
+api=1.0.302
+
+[item1]
+section=commands
+caption=Color Picker\Choose color...
+method=run
+
+[item2]
+section=commands
+caption=Color Picker\Recent colors...
+method=recent_colors
+
+[item3]
+section=commands
+caption=Color Picker\Clear recent list
+method=recent_clear

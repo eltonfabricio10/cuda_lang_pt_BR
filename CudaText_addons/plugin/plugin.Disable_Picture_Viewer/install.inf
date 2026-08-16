@@ -1,0 +1,11 @@
+[info]
+title=Disable picture viewer
+desc=Disables picture viewer (see Python code for possible file-types: png/jpeg/bmp/ico). Instead app will open these files in hex viewer.
+type=cudatext-plugin
+subdir=cuda_disable_picture_viewer
+homepage=https://github.com/CudaText-addons/cuda_disable_picture_viewer
+
+[item1]
+section=events
+events=on_open_pre
+

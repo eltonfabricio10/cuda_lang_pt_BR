@@ -1,0 +1,8 @@
+2025.12.29
+- fix: avoid deprecated API
+
+2018.11.23
+- handle the case when 'reset python plugin' was called
+
+2018.11.04
+initial version

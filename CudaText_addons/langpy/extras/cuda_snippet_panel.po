@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-07-25 18:03-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:123
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:188
+msgid "Cannot insert to read-only editor"
+msgstr "Não é possível inserir no editor somente leitura"
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:128
+msgid "Inserting: "
+msgstr "Inserindo: "
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:193
+msgid "No folders with snippets"
+msgstr "Nenhuma pasta com snippets"
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:201
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:219
+msgid "Snippet Panel"
+msgstr "Painel de trechos"
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:201
+msgid "folders"
+msgstr "pastas"
+
+#: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:208
+msgid "No snippets in selected folder"
+msgstr "Nenhum snippet na pasta selecionada"

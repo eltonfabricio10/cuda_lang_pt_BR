@@ -1,0 +1,21 @@
+[info]
+title=Focus Mode
+desc=Shades/dims all lines except the current paragraph. Plugin is active only for some file extensions, configure this using menu item "Options / Settings-plugins / Focus Mode".
+type=cudatext-plugin
+subdir=cuda_focus_mode
+homepage=https://github.com/CudaText-addons/cuda_focus_mode
+
+[item1]
+section=events
+events=on_caret,on_lexer
+
+[item2]
+section=commands
+caption=Focus Mode\Toggle
+method=toggle
+
+[item10]
+section=commands
+caption=Focus Mode\Config
+method=config
+menu=o

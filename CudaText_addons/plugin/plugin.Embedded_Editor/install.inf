@@ -1,0 +1,27 @@
+[info]
+title=Embedded Editor
+desc=Shows documents in an embedded editors, ie in interline 'gaps'
+type=cudatext-plugin
+subdir=cuda_embed_ed
+homepage=https://github.com/CudaText-addons/cuda_embed_ed
+
+[item1]
+section=events
+events=on_close_pre~
+
+[item2]
+section=commands
+caption=Embedded Editor\Toggle
+method=toggle
+
+[item3]
+section=commands
+caption=Embedded Editor\Config
+method=config
+menu=o
+
+[item4]
+section=commands
+caption=Embedded Editor\Config patterns
+method=config_patterns
+menu=o

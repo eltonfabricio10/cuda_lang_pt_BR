@@ -1,0 +1,23 @@
+[info]
+title=File Type Profile
+desc=Create profiles for files with certain filename extensions and apply the settings automatically when opening a file.
+type=cudatext-plugin
+subdir=cuda_file_type_profile
+homepage=https://github.com/dinkumoil/cuda_file_type_profile
+api=1.0.336
+
+[item1]
+section=events
+events=on_open,on_open_reopen,on_close~
+
+[item2]
+section=events
+events=on_save~
+lexers=Ini files
+
+[item100]
+section=commands
+caption=File Type Profile\Config
+method=config
+menu=o
+

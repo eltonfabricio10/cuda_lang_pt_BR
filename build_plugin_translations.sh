@@ -2,9 +2,10 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-PO_DIR="$ROOT_DIR/langpy/extras"
-MO_DIR="$ROOT_DIR/langpy/pt_BR/LC_MESSAGES"
-PACKAGE="$ROOT_DIR/langpy/plugins-translations.pt_BR.zip"
+ADDON_ROOT="${CUDATEXT_ADDONS_DIR:-$ROOT_DIR/CudaText_addons}"
+PO_DIR="$ADDON_ROOT/langpy/extras"
+MO_DIR="$ADDON_ROOT/langpy/pt_BR/LC_MESSAGES"
+PACKAGE="$ADDON_ROOT/langpy/plugins-translations.pt_BR.zip"
 TMP_DIR="$(mktemp -d)"
 
 cleanup() {
@@ -56,7 +57,7 @@ done
 
 mkdir -p "$TMP_DIR/pt_BR/LC_MESSAGES"
 cp "$MO_DIR"/*.mo "$TMP_DIR/pt_BR/LC_MESSAGES/"
-cp "$ROOT_DIR/langpy/install.inf" "$TMP_DIR/install.inf"
+    cp "$ADDON_ROOT/langpy/install.inf" "$TMP_DIR/install.inf"
 
 rm -f "$PACKAGE"
 if [ "$ARCHIVER" = zip ]; then

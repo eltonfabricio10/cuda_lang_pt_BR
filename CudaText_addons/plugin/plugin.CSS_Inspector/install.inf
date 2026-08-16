@@ -1,0 +1,21 @@
+[info]
+title=CSS Inspector
+desc=Plugin shows in HTML document CSS properties of the current tag
+type=cudatext-plugin
+subdir=cuda_css_inspector
+homepage=https://github.com/cudatext-addons/cuda_css_inspector
+
+[item1]
+section=events
+events=on_caret~
+lexers=HTML
+
+[item2]
+section=commands
+caption=CSS Inspector
+method=show_panel
+
+[sidebar1]
+hint=CSS Inspector
+icon={dir}/icon.png
+method=show_panel

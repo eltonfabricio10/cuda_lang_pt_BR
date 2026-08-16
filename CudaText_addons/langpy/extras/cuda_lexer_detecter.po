@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-08-08 15:18-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:81
+msgid "Download lexer: "
+msgstr "Baixar a linguagem: "
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:82
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:85
+#, python-format
+msgid "Cancel, don't suggest anymore for *.%s"
+msgstr "Cancelar, não sugerir mais para *.%s"
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:87
+#, python-format
+msgid "Lexer(s) for \"%s\""
+msgstr "Linguagem(s) para \"%s\""
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:120
+#, python-format
+msgid "Could not download/install lexer \"%s\" from add-ons"
+msgstr ""
+"Não foi possível baixar/instalar a linguagem \"%s\" a partir dos complementos"
+
+#: CudaText_addons/langmenu/cuda_lexer_detecter/__init__.py:153
+#, python-format
+msgid "Installed lexer \"%s\", version \"%s\""
+msgstr "Linguagem instalado \"%s\", versão \"%s\""

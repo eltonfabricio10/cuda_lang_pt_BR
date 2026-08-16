@@ -1,0 +1,39 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:15
+msgid "[Vim] "
+msgstr "[Vim] "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:373
+msgid "Delete to text:"
+msgstr "Excluir até o texto:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:884
+msgid "Search forward:"
+msgstr "Buscar adiante:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:901
+msgid "Search backward:"
+msgstr "Buscar para trás:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:935
+msgid ""
+"Remap Esc to j<smth>. E.g. for command \"jk\" enter \"k\". Empty - no remap."
+msgstr "Remapeie Esc para j<smth>. Por exemplo para o comando \"jk\" digite \"k\". Vazio - sem remapeamento."

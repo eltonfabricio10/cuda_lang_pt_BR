@@ -1,0 +1,148 @@
+[info]
+title=Git Status
+desc=Shows Git information in the statusbar: current branch name, clean state, etc. Shows 'gutter decoration' for changed Git lines. Gives menu items (Add, Push, Pull, Commit, Get status, Jump to next changed line, etc) by clicking on the new statusbar cell.
+type=cudatext-plugin
+subdir=cuda_git_status
+homepage=https://github.com/CudaText-addons/cuda_git_status
+api=1.0.420
+
+[item1]
+section=events
+events=on_open,on_save,on_focus~,on_state~,on_change_slow~
+
+[item2]
+section=commands
+caption=Git Status\Config
+method=open_config
+menu=o
+
+[item10]
+section=commands
+caption=Git Status\Jump to next change
+method=next_change
+
+[item11]
+section=commands
+caption=Git Status\Jump to previous change
+method=prev_change
+
+[item12]
+section=commands
+caption=Git Status\-
+method=_
+
+[item13]
+section=commands
+caption=Git Status\Pull
+method=pull_
+
+[item14]
+section=commands
+caption=Git Status\-
+method=_
+
+[item20]
+section=commands
+caption=Git Status\Get log
+method=get_log_
+
+[item21]
+section=commands
+caption=Git Status\Get log of file
+method=get_log_file_
+
+[item22]
+section=commands
+caption=Git Status\-
+method=_
+
+[item30]
+section=commands
+caption=Git Status\Get status
+method=get_status_
+
+[item31]
+section=commands
+caption=Git Status\Get non-staged files
+method=get_notstaged_files_
+
+[item32]
+section=commands
+caption=Git Status\Get untracked files
+method=get_untracked_files_
+
+[item33]
+section=commands
+caption=Git Status\-
+method=_
+
+[item40]
+section=commands
+caption=Git Status\Add file...
+method=add_file_
+
+[item41]
+section=commands
+caption=Git Status\Restore file...
+method=restore_file_
+
+[item42]
+section=commands
+caption=Git Status\-
+method=_
+
+[item50]
+section=commands
+caption=Git Status\Commit...
+method=commit_
+
+[item51]
+section=commands
+caption=Git Status\Commit/amend...
+method=commit_amend_
+
+[item52]
+section=commands
+caption=Git Status\Push
+method=push_
+
+[item53]
+section=commands
+caption=Git Status\Push (set upstream)
+method=push_set_upstream_
+
+[item54]
+section=commands
+caption=Git Status\Push (force)
+method=push_force_
+
+[item55]
+section=commands
+caption=Git Status\View file changes
+method=diff_
+
+[item56]
+section=commands
+caption=Git Status\View all changes
+method=diff_all_
+
+[item57]
+section=commands
+caption=Git Status\-
+method=_
+
+[item60]
+section=commands
+caption=Git Status\Checkout branch...
+method=checkout_dlg_menu_
+
+[item61]
+section=commands
+caption=Git Status\Checkout new branch...
+method=checkout_new_branch_
+
+[item62]
+section=commands
+caption=Git Status\Rebase (interactive)
+method=rebase_
+

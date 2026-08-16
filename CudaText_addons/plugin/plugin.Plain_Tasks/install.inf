@@ -1,0 +1,45 @@
+[info]
+title=Plain Tasks
+desc=ToDo-list plugin for CudaText
+type=cudatext-plugin
+subdir=cuda_plain_tasks
+homepage=https://github.com/CudaText-addons/cuda_plain_tasks
+
+[item1]
+section=events
+events=on_key
+keys=9
+lexers=ToDo
+
+[item3]
+section=commands
+caption=Plain Tasks\New
+method=plain_tasks_new
+hotkey=Shift+Ctrl+I
+
+[item4]
+section=commands
+caption=Plain Tasks\Complete
+method=plain_tasks_complete
+lexers=ToDo
+hotkey=Shift+Ctrl+D
+
+[item5]
+section=commands
+caption=Plain Tasks\Cancel
+method=plain_tasks_cancel
+lexers=ToDo
+hotkey=Alt+C
+
+[item6]
+section=commands
+caption=Plain Tasks\Archive
+method=plain_tasks_archive
+lexers=ToDo
+hotkey=Shift+Ctrl+A
+
+[item10]
+section=commands
+caption=Plain Tasks\Config...
+method=change_cfg
+menu=o

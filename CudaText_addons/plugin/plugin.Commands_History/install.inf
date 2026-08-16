@@ -1,0 +1,22 @@
+[info]
+title=Commands History
+desc=Quick access to recently accessed menu and palette commands
+type=cudatext-plugin
+subdir=cuda_cmd_history
+homepage=https://github.com/CudaText-addons/cuda_cmd_history
+api=1.0.408
+
+[item1]
+section=events
+events=on_start,on_focus,on_close,on_exit
+
+[item2]
+section=commands
+caption=Commands History\Show Commands
+method=show_history
+
+[item100]
+section=commands
+caption=Commands History\Config
+method=config
+menu=o

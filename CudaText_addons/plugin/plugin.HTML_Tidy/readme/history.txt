@@ -1,0 +1,12 @@
+
+2019.02.01
++ command "Browse configs" works on Win/Linux/Mac
+- avoid deprecated API
+
+2018.08.15
++ Tidy Windows binary updated to v5.6.0
++ readme converted to txt format
+- avoid deprecated API
+
+2015.10
+initial

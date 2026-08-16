@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/conv_units.py:29
+msgid "Cannot convert selection"
+msgstr "Não é possível converter a seleção"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/conv_units.py:34
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:20
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:51
+msgid "Need single caret"
+msgstr "É necessário um único cursor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/conv_units.py:46
+msgid "Converted px<->rem"
+msgstr "px<->rem convertido"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/html_to_css.py:19
+msgid "No CSS classes found"
+msgstr "Nenhuma classe CSS encontrada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/html_to_css.py:28
+#, python-brace-format
+msgid "CSS styles ({}) copied to clipboard"
+msgstr "Estilos CSS ({}) copiados para a área de transferência"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/img_insert.py:9
+msgid "Images"
+msgstr "Imagens"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/img_insert.py:56
+#, python-format
+msgid ""
+"Cannot detect image file:\n"
+"%s"
+msgstr "Não é possível detectar o arquivo de imagem:\n%s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/img_insert.py:69
+msgid "Image info inserted"
+msgstr "Informações da imagem inseridas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:56
+msgid "No carets"
+msgstr "Sem sinais de intercalação"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:73
+#, python-format
+msgid "Changed %d values"
+msgstr "Valores %d alterados"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:79
+msgid "Place caret under number"
+msgstr "Coloque o cursor abaixo do número"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:83
+msgid "Incorrect number or zero: "
+msgstr "Número incorreto ou zero: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:90
+msgid "Increased value"
+msgstr "Valor aumentado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/increment.py:90
+msgid "Decreased value"
+msgstr "Valor diminuído"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/lines_to_list.py:17
+msgid "Table columns:"
+msgstr "Colunas da tabela:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/lines_to_list.py:22
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/lines_to_list.py:25
+msgid "Incorrect number: "
+msgstr "Número incorreto: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/lines_to_list.py:57
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:49
+msgid "Text not selected"
+msgstr "Texto não selecionado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/on_key.py:59
+msgid "Smart HTML indent"
+msgstr "Recuo inteligente de HTML"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:32
+msgid "Wrapped selection into tag"
+msgstr "Seleção agrupada em tag"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:41
+msgid "Added new tag"
+msgstr "Adicionada nova tag"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/ops.py:60
+#, python-format
+msgid "Added tag <%s>"
+msgstr "Adicionada tag <%s>"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/preview_browser.py:14
+msgid "Cannot preview untitled tab"
+msgstr "Não é possível visualizar a guia sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/preview_browser.py:27
+msgid "Cannot open file: "
+msgstr "Não é possível abrir o arquivo: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/preview_browser.py:42
+msgid "Opened preview in browser"
+msgstr "Visualização aberta no navegador"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/validator.py:29
+msgid "Cannot open validator URL"
+msgstr "Não é possível abrir o URL do validador"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/validator.py:38
+msgid "Cannot parse validator reply"
+msgstr "Não é possível analisar a resposta do validador"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/validator.py:42
+#, python-format
+msgid "Document successfully checked as %s"
+msgstr "Documento verificado com sucesso como %s"

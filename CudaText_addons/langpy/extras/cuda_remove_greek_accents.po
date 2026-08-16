@@ -1,0 +1,35 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_remove_greek_accents/format_proc.py:60
+msgid "Column/line selections not supported"
+msgstr "Seleções de coluna/linha não são compatíveis"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_remove_greek_accents/format_proc.py:67
+#: /tmp/cudatext-po-5vs9ne0w/cuda_remove_greek_accents/format_proc.py:85
+msgid "Cannot format text"
+msgstr "Não é possível formatar o texto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_remove_greek_accents/format_proc.py:70
+msgid "Formatting selected text"
+msgstr "Formatando o texto selecionado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_remove_greek_accents/format_proc.py:88
+msgid "Formatting entire text"
+msgstr "Formatando todo o texto"

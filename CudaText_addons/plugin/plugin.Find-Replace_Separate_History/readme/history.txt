@@ -1,0 +1,8 @@
+2026.01.11
+[*] command `settings: clear find/replace dialog history` also clears plugins json-file
+
+2025.09.27
+[*] adapted under python 3.8
+
+2025.09.26
+initial

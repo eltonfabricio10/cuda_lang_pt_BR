@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-12 18:24-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:115
+msgid "Cannot handle none-carets"
+msgstr "Não é possível lidar com nenhum sinal de intercalação"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:119
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:777
+msgid "Cannot handle multi-carets yet"
+msgstr "Ainda não é possível lidar com vários caracteres"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:135
+msgid ""
+"Cannot handle None-lexer; maybe file is big and \"ui_max_size_lexer\" blocks "
+"the lexer?"
+msgstr "Não é possível processar a opção 'Sem linguagem'; talvez o arquivo seja grande e \"ui_max_size_lexer\" a bloqueie?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:139
+msgid "Cannot handle None-lexer"
+msgstr "Não é possível processar a opção 'Sem linguagem'"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:160
+#, python-brace-format
+msgid "Selection overlaps sub-lexer block: \"{}\"/\"{}\"'"
+msgstr "A seleção se sobrepõe ao bloco sub-linguagem: \"{}\"/\"{}\"'"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:322
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:468
+#, python-format
+msgid "Formatters for %s"
+msgstr "Formatadores para %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:349
+msgid "Formatters: "
+msgstr "Fomatadores: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:409
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:451
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:530
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:753
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:830
+#, python-format
+msgid "No formatters for \"%s\""
+msgstr "Sem formatador para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:459
+#, python-format
+msgid "No configurable formatters for \"%s\""
+msgstr "Não há formatadores configuráveis ​​para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:491
+#, python-format
+msgid "Config method \"%s\" not found in module \"%s\""
+msgstr "Método de configuração \"%s\" não encontrado no módulo \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:495
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:574
+#, python-format
+msgid "Cannot import module \"%s\": %s"
+msgstr "Não é possível importar o módulo \"%s\": %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:498
+#, python-format
+msgid "Error calling config method: %s"
+msgstr "Erro ao chamar o método de configuração: %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:512
+#, python-format
+msgid "No configuration available for \"%s\""
+msgstr "Nenhuma configuração disponível para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:546
+#, python-format
+msgid "No formatters with help available for \"%s\""
+msgstr "Nenhum formatador com ajuda disponível para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:555
+#, python-format
+msgid "Formatter Help for %s"
+msgstr "Ajuda do formatador para %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:571
+#, python-format
+msgid "Help method \"%s\" not found in module \"%s\""
+msgstr "Método de ajuda \"%s\" não encontrado no módulo \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:576
+#, python-format
+msgid "Error calling help method: %s"
+msgstr "Erro ao chamar o método de ajuda: %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:585
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:587
+#, python-format
+msgid "No help available for \"%s\""
+msgstr "Nenhuma ajuda disponível para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:607
+msgid "Cannot open local config for untitled tab"
+msgstr "Não foi possível abrir a configuração local para guia sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:615
+msgid "File must be saved before creating local config"
+msgstr "O arquivo deve ser salvo antes de criar a configuração local"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:654
+msgid "Formatters per-lexer labels"
+msgstr "Rótulos por linguagem de formatadores"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:666
+msgid "Formatters cross-lexer labels"
+msgstr "Formatadores de rótulos cross-linguagem"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:699
+msgid "(None)"
+msgstr "(Nenhum)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:701
+#, python-format
+msgid "Label for \"%s\""
+msgstr "Rótulo para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:728
+msgid "Formatters label \"on_save\""
+msgstr "Rótulo dos formatadores \"on_save\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:767
+#, python-brace-format
+msgid "No formatter for \"{}\" with label \"{}\""
+msgstr "Sem formatador para \"{}\" com o rótulo \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:791
+#, python-brace-format
+msgid "No cross-lexer formatter with label \"{}\""
+msgstr "Nenhum formatador cross-linguagem com rótulo \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:804
+msgid "Cannot handle untitled tab"
+msgstr "Não é possível lidar com a guia sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:810
+msgid "File name does not contain \".\" char"
+msgstr "O nome do arquivo não contém \".\" personagem"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:825
+msgid "No lexer active"
+msgstr "Sem linguagem"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:841
+msgid "Already minified"
+msgstr "Já minificado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:845
+#, python-format
+msgid "Minified to \"%s\""
+msgstr "Minificado para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:849
+#, python-format
+msgid "No minifier for \"%s\""
+msgstr "Sem minificador para \"%s\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:39
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:56
+#, python-format
+msgid "Global config file \"%s\" not found"
+msgstr "Arquivo de configuração global \"%s\" não encontrado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:46
+msgid "Cannot open local config file for untitled tab"
+msgstr "Não é possível abrir o arquivo de configuração local para a aba sem título"
+"Não foi possível abrir o arquivo de configuração local para guia sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:59
+#, python-format
+msgid ""
+"Local config file \"%s\" not found.\n"
+"Do you want to create it?"
+msgstr ""
+"Arquivo de configuração local \"%s\" não encontrado.\n"
+"Você deseja criá-lo?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:64
+#, python-format
+msgid "Cannot copy global config file \"%s\" to local folder"
+msgstr "Não é possível copiar o arquivo de configuração global \"%s\" para a pasta local"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:150
+msgid "Column selection is not supported"
+msgstr "Sem suporte para seleção em coluna"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:194
+#, python-brace-format
+msgid "Formatted {} selections"
+msgstr "{} seleções formatadas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:196
+msgid "Formatted selection"
+msgstr "Seleção formatada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:198
+msgid "Cannot format selection(s)"
+msgstr "Não foi possível formatar selecão(ões)"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:215
+msgid "Formatter gave exception:"
+msgstr "O formatador deu exceção:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:219
+msgid "Cannot format text"
+msgstr "Não foi possível formatar o texto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:223
+msgid "Text is already formatted"
+msgstr "O texto já está formatado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:227
+msgid "Formatted entire text"
+msgstr "Texto formatado completamente"
+
+#~ msgid "No formatters for None-linguagem"
+#~ msgstr "Sem formatador para a linguagem Nenhum"
+
+#~ msgid "No configurable formatters"
+#~ msgstr "Sem formatadores configuráveis"
+
+#~ msgid "Formatters"
+#~ msgstr "Fomatadores"
+
+#~ msgid "Formatters labels"
+#~ msgstr "Rótulos dos formatadores"
+
+#~ msgid "Formatters label \"save\""
+#~ msgstr "Rótulo do formatador \"salvar\""

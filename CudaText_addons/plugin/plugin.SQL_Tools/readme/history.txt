@@ -1,0 +1,46 @@
+2024.04.08
++ add: support for i18n (by Markus)
+
+2023.01.07 (by @veksha)
+- fix: timeout printed before query
+- fix: freeze when right after startup user calls "Describe table" or "Describe function"
+- fix: freeze when "show_result_on_window": true
+- fix: no timeout message with "use_streams": true
+
+2023.01.03
++ add: some reworking via threads/timers, to avoid slow work compared with Sublime version (by @veksha)
+
+2022.12.29
+- fix: error under Python 3.10+
++ add: support value "paragraph" of option "expand_to"
++ add: executing query scrolls Output panel to end
+
+2018.11.06
++ show table title for output of "Describe table", "Show table records"
++ add command "Execute entire file"
++ add command "Insert saved query"
++ supported option "focus_on_result"
++ supported option "clear_output"
++ supported option "expand_to"
+
+2018.11.05
++ updated SQLTools API from last ST3 plugin (lot of changes)
++ updated default configs from ST3 plugin - you may need to delete file [CudaText]/settings/cuda_sqltools_settings.json
++ add captions to menu dialogs
++ add command "Refresh connection data"
++ add command "Clear cache"
+
+2018.08.31
+- avoid deprecated CudaText API
+
+2017.03.30
++ updated SQLTools API
++ added command: Show explain plan for queries (PostgreSQL, MySQL, Oracle, Vertica, SQLite) 
+
+2017.03.14
++ add same new options (def config file) as ST3 version:
+  + "clear_output"
+  + "safe_limit"
+  + "show_query"
+  + "expand_to_paragraph"
++ patch for ST3 vers: run commands in `before` items in the main setting file

@@ -1,0 +1,16 @@
+[info]
+title=Clock
+desc=Shows clock HH:MM:SS in the statusbar
+type=cudatext-plugin
+subdir=cuda_clock
+homepage=https://github.com/CudaText-addons/cuda_clock
+
+[item1]
+section=events
+events=on_start
+
+[item10]
+section=commands
+caption=Clock\Config
+method=config
+menu=o

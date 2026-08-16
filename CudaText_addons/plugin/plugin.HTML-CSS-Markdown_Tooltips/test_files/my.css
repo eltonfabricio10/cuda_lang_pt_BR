@@ -1,0 +1,8 @@
+br {
+    background: #f00 #0000ff;
+    background: rgb(255, 0, 0);
+    background: rgb(0, 0, 255);
+    background: hsl(0, 100%, 50%);
+    background: hsl(240, 100%,50%);
+    background-image: url(img/pic.png);
+}

@@ -1,0 +1,16 @@
+[info]
+title=Font Preview
+desc=Show html-preview of font-file (default-ext: ttf, woff, eot, otf, ttc).
+type=cudatext-plugin
+subdir=cuda_font_preview
+homepage=https://github.com/ildarkhasanshin/cuda_font_preview/
+
+[item1]
+section=events
+events=on_open_pre,on_exit
+
+[item2]
+section=commands
+caption=Font Preview\Config
+method=config
+menu=o

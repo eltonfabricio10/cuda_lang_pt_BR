@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-08-08 15:29-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:78
+#, python-brace-format
+msgid "Choose lexer for: {}"
+msgstr "Escolher linguagem para: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:130
+#, python-brace-format
+msgid "NOTE: pattern ({}) in group \"{}\" is missing a named group \"path\":"
+msgstr "OBSERVAÇÃO: o padrão ({}) no grupo \"{}\" não possui o grupo nomeado \"path\":"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:137
+#, python-brace-format
+msgid "NOTE: failed to compile pattern in group \"{}\": {}"
+msgstr "NOTA: Falhou ao compilar o padrão no grupo \"{}\": {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:146
+#, python-brace-format
+msgid "NOTE: invalid \"lexers\" in group: {}. Should be a list"
+msgstr "NOTA: \"Linguagens\" inválidos no grupo: {}. Deveria ser uma lista"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:149
+#, python-brace-format
+msgid "NOTE: invalid patterns in group: {}. Should be a list"
+msgstr "NOTA: Padrões inválidos no grupo: {}. Deveria ser uma lista"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:240
+#, python-brace-format
+msgid "Opened '{}' in embedded editor, encoding '{}'"
+msgstr "Abriu '{}' no editor incorporado, codificando '{}'"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:242
+#, python-brace-format
+msgid "Linked file was not found: {}"
+msgstr "O arquivo do link não foi encontrado: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:265
+msgid "No embedded file-path was found"
+msgstr "Nenhum caminho de arquivo embutido foi encontrado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:513
+msgid "To new tab"
+msgstr "Para nova guia"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:516
+msgid "Save"
+msgstr "Salvar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:522
+msgid "Close"
+msgstr "Fechar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:576
+#, python-brace-format
+msgid ""
+"Text is modified:\n"
+"{}\n"
+"\n"
+"Save it first?"
+msgstr ""
+"O texto foi modificado:\n"
+"{}\n"
+"\n"
+"Salvá-lo antes?"
+
+#~ msgid "Opened '{}' in embedded window"
+#~ msgstr "'{}' aberto na janela embutida"

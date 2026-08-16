@@ -1,0 +1,18 @@
+[info]
+title=DocBlock
+desc=Helps to type DocBlock comments, for JS/PHP lexers
+type=cudatext-plugin
+subdir=cuda_docblock
+homepage=https://github.com/CudaText-addons/cuda_docblock_comments
+$lex=JavaScript,CoffeeScript,TypeScript,PHP
+
+[item1]
+section=events
+events=on_key
+lexers=$lex
+keys=13
+
+[item2]
+section=events
+events=on_complete
+lexers=$lex

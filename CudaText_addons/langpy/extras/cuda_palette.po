@@ -1,0 +1,4953 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-07-28 22:54-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:90
+msgid "M&ark named"
+msgstr "M&arcar nomeada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:91
+msgid "N&earby"
+msgstr "A&proximada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:92
+msgid "&No color"
+msgstr "&Sem cor"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:93
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:357
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:647
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:94
+msgid "Config..."
+msgstr "Configurar..."
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:96
+msgid " (Shift+Click to preview. Ctrl+Click to copy data)"
+msgstr " (Shift+Click para visualizar. Ctrl+Click para copiar os dados)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:97
+msgid "Show/Hide advanced options"
+msgstr "Exibir/Ocultar opções avançadas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:98
+msgid "Mark named colors with \"!\""
+msgstr "Marcar o nome das cores com \"!\""
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:99
+msgid ""
+"Assign names to some colors, which are \"near\" named colors. Marks show "
+"distance to these near colors:\r\"!\" if distance is very low,\r\".\" if "
+"distance is small, \r\"..\" all others"
+msgstr ""
+"Atribuir nomes em algumas cores, que são cores \"aproximadas\" das nomeadas. "
+"Exibir o marcador de distância para estas cores aproximadas:\r\"!\" se a "
+"distância for muito curta,\r\".\" se a distância for curta, \r\"..\" todas "
+"as outras"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:104
+msgid "Point colors which name includes the string"
+msgstr "Cor do ponto que o nome inclui a string"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:105
+msgid "New color"
+msgstr "Nova cor"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:106
+msgid "Old color"
+msgstr "Cor antiga"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:354
+msgid "Select active palettes"
+msgstr "Selecionar paletas ativas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:356
+msgid "OK"
+msgstr "OK"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:362
+msgid "Select some palettes"
+msgstr "Selecionar algumas paletas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:851
+msgid "Black"
+msgstr "Preto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:852
+msgid "Navy"
+msgstr "Marinha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:853
+msgid "Dark blue"
+msgstr "Azul escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:854
+msgid "Duke blue"
+msgstr "Duque azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:855
+msgid "Medium blue"
+msgstr "Azul médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:856
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:857
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:861
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:911
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:917
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:961
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1013
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1054
+msgid "Blue"
+msgstr "Azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:858
+msgid "Phthalo blue"
+msgstr "Azul ftalo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:859
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:876
+msgid "Dark imperial blue"
+msgstr "Azul imperial escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:860
+msgid "Zaffre"
+msgstr "Zaffre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:862
+msgid "Maastricht blue"
+msgstr "Maastricht azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:863
+msgid "Oxford blue"
+msgstr "Azul oxford"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:864
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1028
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1070
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1090
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1093
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1111
+msgid "Royal blue"
+msgstr "Azul real"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:865
+msgid "Resolution blue"
+msgstr "Resolução azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:866
+msgid "Imperial blue"
+msgstr "Azul imperial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:867
+msgid "Cool black"
+msgstr "Preto legal"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:868
+msgid "International Klein blue"
+msgstr "Internacional Klein azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:869
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1181
+msgid "Air Force blue"
+msgstr "Azul da Força Aérea"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:870
+msgid "Prussian blue"
+msgstr "Azul da Prússia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:871
+msgid "Dark midnight blue"
+msgstr "Azul meia-noite escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:872
+msgid "Smalt, Dark powder blue"
+msgstr "Smalt, azul pó escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:873
+msgid "UA blue"
+msgstr "U azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:874
+msgid "Royal azure"
+msgstr "Azul real"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:875
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:956
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:957
+msgid "Rich black"
+msgstr "Preto rico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:877
+msgid "British racing green"
+msgstr "Verde de corrida britânico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:878
+msgid "Warm black"
+msgstr "Preto quente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:879
+msgid "Cobalt blue"
+msgstr "Azul cobalto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:880
+msgid "Absolute zero"
+msgstr "Zero absoluto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:881
+msgid "Midnight green, Eagle green"
+msgstr "Verde meia-noite, verde águia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:882
+msgid "Deep jungle green"
+msgstr "Verde profundo da selva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:883
+msgid "USAFA blue"
+msgstr "Azul USAFA"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:884
+msgid "Sacramento state green"
+msgstr "Verde do estado de Sacramento"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:885
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:958
+msgid "Dark green"
+msgstr "Verde escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:886
+msgid "Pakistan green"
+msgstr "Verde paquistanês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:887
+msgid "Sapphire blue"
+msgstr "Azul safira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:888
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:921
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:932
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:935
+msgid "Deep sky blue"
+msgstr "Céu azul profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:889
+msgid "Sea blue"
+msgstr "Mar azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:890
+msgid "Bottle green"
+msgstr "Garrafa verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:891
+msgid "Cadmium green"
+msgstr "Verde cádmio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:892
+msgid "Honolulu blue"
+msgstr "Honolulu azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:893
+msgid "Dartmouth green"
+msgstr "Dartmouth verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:894
+msgid "Spanish blue"
+msgstr "Azul espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:895
+msgid "Brandeis blue"
+msgstr "Brandeis azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:896
+msgid "French blue"
+msgstr "Azul francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:897
+msgid "True blue"
+msgstr "Azul verdadeiro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:898
+msgid "Skobeloff"
+msgstr "Skobeloff"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:899
+msgid "Tropical rain forest"
+msgstr "Floresta tropical"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:900
+msgid "Ocean boat blue"
+msgstr "Barco oceano azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:901
+msgid "CG blue"
+msgstr "CG azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:902
+msgid "Celadon blue"
+msgstr "Azul Celadon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:903
+msgid "Star command blue"
+msgstr "Comando estrela azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:904
+msgid "Spanish viridian"
+msgstr "viridiano espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:905
+msgid "Generic viridian"
+msgstr "Viridiano genérico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:906
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1331
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1669
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1873
+msgid "Azure"
+msgstr "Azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:907
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:912
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:924
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:925
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:928
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:931
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:942
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:947
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1007
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1213
+msgid "Green"
+msgstr "Verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:908
+msgid "Teal"
+msgstr "Cerceta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:909
+msgid "Teal green"
+msgstr "Verde-azulado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:910
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:937
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:946
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:950
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1087
+msgid "Turquoise"
+msgstr "Turquesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:913
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:943
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:948
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:953
+msgid "Spring green"
+msgstr "Primavera verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:914
+msgid "Dark cyan"
+msgstr "Ciano escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:915
+msgid "Islamic green"
+msgstr "Verde islâmico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:916
+msgid "Spanish green"
+msgstr "Verde espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:918
+msgid "Bondi blue"
+msgstr "Bondi azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:919
+msgid "Viridian green"
+msgstr "Verde viridiano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:920
+msgid "Green-cyan"
+msgstr "Verde-ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:922
+msgid "Paolo Veronese green"
+msgstr "Paulo Veronese verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:923
+msgid "Shamrock green"
+msgstr "trevo verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:926
+msgid "Persian green"
+msgstr "Verde persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:927
+msgid "Jade"
+msgstr "Jade"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:929
+msgid "Vivid cerulean"
+msgstr "Cerúleo vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:930
+msgid "GO green"
+msgstr "VÁ verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:933
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:944
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:949
+msgid "Cyan"
+msgstr "Ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:934
+msgid "Blue bolt"
+msgstr "Parafuso azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:936
+msgid "Amazonite"
+msgstr "Amazonita"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:938
+msgid "Vivid malachite"
+msgstr "Malaquita vívida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:939
+msgid "Caribbean green"
+msgstr "Verde caribenho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:940
+msgid "Robin egg blue"
+msgstr "Ovo Robin azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:941
+msgid "Vivid sky blue"
+msgstr "Azul celeste vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:945
+msgid "Dark turquoise"
+msgstr "Turquesa escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:951
+msgid "Medium spring green"
+msgstr "Verde primavera médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:952
+msgid "Lime green "
+msgstr "Verde limão "
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:954
+msgid "Turquoise blue"
+msgstr "Azul turquesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:955
+msgid "Cyan, Spanish sky blue"
+msgstr "Ciano, azul celeste espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:959
+msgid "Forest green (traditional)"
+msgstr "Verde floresta (tradicional)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:960
+msgid "Pine green"
+msgstr "Verde pinho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:962
+msgid "Medium electric blue"
+msgstr "Azul elétrico médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:963
+msgid "Dark pastel green"
+msgstr "Verde pastel escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:964
+msgid "Deep green"
+msgstr "Verde profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:965
+msgid "North Texas green"
+msgstr "Verde norte do Texas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:966
+msgid "Catalina blue"
+msgstr "Catalina azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:967
+msgid "Dark cerulean"
+msgstr "Cerúleo escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:968
+msgid "La Salle green"
+msgstr "La Salle verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:969
+msgid "Rich electric blue"
+msgstr "Azul elétrico rico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:970
+msgid "Bright turquoise"
+msgstr "Turquesa brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:971
+msgid "Indigo dye"
+msgstr "Corante índigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:972
+msgid "Metallic seaweed"
+msgstr "Algas metálicas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:973
+msgid "Tiffany blue"
+msgstr "Azul Tiffany"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:974
+msgid "Malachite"
+msgstr "Malaquita"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:975
+msgid "Blue-green"
+msgstr "Azul esverdeado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:976
+msgid "Deep green-cyan turquoise"
+msgstr "Turquesa verde-ciano profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:977
+msgid "Yale blue"
+msgstr "Yale azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:978
+msgid "Sapphire"
+msgstr "Safira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:979
+msgid "Spiro Disco Ball"
+msgstr "Bola de discoteca Spiro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:980
+msgid "Smoky black"
+msgstr "Preto esfumaçado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:981
+msgid "Egyptian blue"
+msgstr "Azul egípcio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:982
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:991
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1005
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1011
+msgid "Dodger blue"
+msgstr "Azul esquivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:983
+msgid "Green-blue"
+msgstr "Verde-azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:984
+msgid "Phthalo green"
+msgstr "Verde ftalo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:985
+msgid "Blue sapphire"
+msgstr "Safira azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:986
+msgid "India green"
+msgstr "Índia verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:987
+msgid "Denim"
+msgstr "Jeans"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:988
+msgid "Vomit+indogo+Lopen+Gabriel"
+msgstr "Vômito+indogo+Lopen+Gabriel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:989
+msgid "Dark spring green"
+msgstr "Verde escuro primavera"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:990
+msgid "MSU green"
+msgstr "Universidade Estadual de Massachusetts verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:992
+msgid "Cyan cornflower blue"
+msgstr "Azul centáurea ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:993
+msgid "Midnight blue"
+msgstr "Azul meia-noite"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:994
+msgid "Lincoln green"
+msgstr "Lincoln verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:995
+msgid "Bright navy blue"
+msgstr "Azul marinho brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:996
+msgid "Licorice"
+msgstr "Alcaçuz"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:997
+msgid "Dark jungle green"
+msgstr "Verde escuro da selva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:998
+msgid "Eerie black"
+msgstr "Preto misterioso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:999
+msgid "English green"
+msgstr "Verde inglês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1000
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1062
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1136
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1503
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1619
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1926
+msgid "Grey"
+msgstr "Cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1001
+msgid "Bluebonnet"
+msgstr "Boné azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1002
+msgid "Yankees blue"
+msgstr "Yankees azuis"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1003
+msgid "Medium jungle green"
+msgstr "Verde selva médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1004
+msgid "Persian blue"
+msgstr "Azul persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1006
+msgid "Pacific blue"
+msgstr "Azul Pacífico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1008
+msgid "Space cadet"
+msgstr "Cadete espacial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1009
+msgid "Battery charged blue"
+msgstr "Bateria carregada azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1010
+msgid "Cal Poly Pomona green"
+msgstr "Cal Poly Pomona verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1012
+msgid "Dark gunmetal"
+msgstr "Metal escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1014
+msgid "Light sea green"
+msgstr "Verde mar claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1015
+msgid "Middle Red purple"
+msgstr "Roxo vermelho médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1016
+msgid "New car"
+msgstr "Carro novo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1017
+msgid "Ball blue"
+msgstr "Bola azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1018
+msgid "Denim blue"
+msgstr "Azul jeans"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1019
+msgid "Forest green"
+msgstr "Verde floresta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1020
+msgid "St. Patrick's blue"
+msgstr "Azul de São Patrício"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1021
+msgid "Charleston green"
+msgstr "Verde charleston"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1022
+msgid "Raisin black"
+msgstr "Passas pretas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1023
+msgid "Button blue"
+msgstr "Botão azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1024
+msgid "Black leather jacket"
+msgstr "Jaqueta de couro preta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1025
+msgid "Japanese indigo"
+msgstr "índigo japonês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1026
+msgid "Lapis lazuli"
+msgstr "lápis-lazúli"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1027
+msgid "Palatinate blue"
+msgstr "Azul Palatinado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1029
+msgid "Cyan cobalt blue"
+msgstr "Azul cobalto ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1030
+msgid "Slimy green"
+msgstr "Verde pegajoso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1031
+msgid "Jungle green"
+msgstr "Verde selva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1032
+msgid "Gunmetal"
+msgstr "Metal de bronze"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1033
+msgid "Cerulean blue"
+msgstr "Azul cerúleo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1034
+msgid "Napier green"
+msgstr "Verde Napier"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1035
+msgid "Zinnwaldite brown"
+msgstr "Zinnwaldita marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1036
+msgid "Cosmic cobalt"
+msgstr "Cobalto cósmico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1037
+msgid "B'dazzled blue"
+msgstr "Azul deslumbrado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1038
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1095
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1133
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1159
+msgid "Sea green"
+msgstr "Verde mar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1039
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1149
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1286
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1430
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1468
+msgid "Dark slate gray"
+msgstr "Cinza ardósia escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1040
+msgid "Celadon green"
+msgstr "Verde Celadon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1041
+msgid "Dark purple"
+msgstr "Roxo escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1042
+msgid "Mughal green"
+msgstr "Verde mogol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1043
+msgid "Mountain Meadow"
+msgstr "Prado da montanha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1044
+msgid "Maximum blue green"
+msgstr "Máximo azul verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1045
+msgid "Myrtle green"
+msgstr "Murta verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1046
+msgid "Bleu de France"
+msgstr "Azul de França"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1047
+msgid "Illuminating emerald"
+msgstr "Esmeralda iluminadora"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1048
+msgid "Persian indigo"
+msgstr "índigo persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1049
+msgid "Russian violet"
+msgstr "Violeta russa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1050
+msgid "Violet-blue"
+msgstr "Violeta-azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1051
+msgid "Lime green"
+msgstr "Verde limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1052
+msgid "Deep violet"
+msgstr "Violeta profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1053
+msgid "Deep koamaru"
+msgstr "Koamaru Profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1055
+msgid "Brilliant azure"
+msgstr "Azul brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1056
+msgid "Jet"
+msgstr "Jato"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1057
+msgid "Wageningen green"
+msgstr "Verde Wageningen"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1058
+msgid "Onyx"
+msgstr "Ônix"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1059
+msgid "Kombu green"
+msgstr "Kombu verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1060
+msgid "Deep moss green"
+msgstr "Verde musgo profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1061
+msgid "Interdimensional blue"
+msgstr "Azul interdimensional"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1063
+msgid "Charcoal"
+msgstr "Carvão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1064
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1103
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1140
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1177
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1194
+msgid "Steel blue"
+msgstr "Azul aço"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1065
+msgid "Ming"
+msgstr "Ming"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1066
+msgid "Teal blue"
+msgstr "Azul-petróleo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1067
+msgid "Pixie powder"
+msgstr "Pó de duende"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1068
+msgid "Zomp"
+msgstr "Zomp"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1069
+msgid "Neon green"
+msgstr "Verde néon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1071
+msgid "Keppel"
+msgstr "Keppel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1072
+msgid "Pullman green"
+msgstr "Pullman verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1073
+msgid "Black olive"
+msgstr "Azeitona preta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1074
+msgid "Arsenic"
+msgstr "Arsênico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1075
+msgid "Amazon"
+msgstr "Amazônia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1076
+msgid "Dark sienna"
+msgstr "Siena escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1077
+msgid "Olive Drab #7"
+msgstr "Azeitona monótona #7"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1078
+msgid "Medium sea green"
+msgstr "Verde mar médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1079
+msgid "UFO green"
+msgstr "OVNI verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1080
+msgid "Black bean"
+msgstr "Feijão preto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1081
+msgid "Bistre"
+msgstr "Bistre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1082
+msgid "Tufts blue"
+msgstr "Tufos azuis"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1083
+msgid "Mint"
+msgstr "Hortelã"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1084
+msgid "Ultramarine"
+msgstr "Ultramarino"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1085
+msgid "Harlequin"
+msgstr "Arlequim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1086
+msgid "Deep aquamarine"
+msgstr "Água-marinha profunda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1088
+msgid "Outer space"
+msgstr "Espaço exterior"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1089
+msgid "Ultramarine blue"
+msgstr "Azul ultramarino"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1091
+msgid "Old burgundy"
+msgstr "Borgonha velho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1092
+msgid "Queen blue"
+msgstr "Rainha azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1094
+msgid "Verdigris"
+msgstr "Verdete"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1096
+msgid "Rifle green"
+msgstr "Rifle verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1097
+msgid "Han blue"
+msgstr "Han azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1098
+msgid "Eucalyptus"
+msgstr "Eucalipto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1099
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1214
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1273
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1310
+msgid "Chartreuse"
+msgstr "Chartreuse"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1100
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1274
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1311
+msgid "Aquamarine"
+msgstr "Água Marinha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1101
+msgid "Picton blue"
+msgstr "Picton azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1102
+msgid "Gray-asparagus"
+msgstr "Espargos Cinzentos"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1104
+msgid "Cyan-blue azure"
+msgstr "Azul ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1105
+msgid "Harlequin green"
+msgstr "Arlequim verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1106
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1228
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1232
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1288
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1328
+msgid "Slate blue"
+msgstr "Azul ardósia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1107
+msgid "Maximum blue"
+msgstr "Azul máximo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1108
+msgid "Bulgarian rose"
+msgstr "Rosa búlgara"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1109
+msgid "Taupe"
+msgstr "cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1110
+msgid "Dark slate blue"
+msgstr "Azul ardósia escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1112
+msgid "Ocean green"
+msgstr "Verde oceano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1113
+msgid "Medium turquoise"
+msgstr "Turquesa médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1114
+msgid "Hooker's green"
+msgstr "Verde da prostituta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1115
+msgid "Celestial blue"
+msgstr "Azul celestial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1116
+msgid "Dark moss green"
+msgstr "Verde musgo escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1117
+msgid "Deep space sparkle"
+msgstr "Brilho do espaço profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1118
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1240
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1306
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1349
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1351
+msgid "Sky blue"
+msgstr "Céu azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1119
+msgid "Chlorophyll green"
+msgstr "Clorofila verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1120
+msgid "Indigo"
+msgstr "Índigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1121
+msgid "Cafe noir"
+msgstr "Café Noir"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1122
+msgid "Army green"
+msgstr "Verde exército"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1123
+msgid "Sea serpent"
+msgstr "Serpente marinha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1124
+msgid "Spanish violet"
+msgstr "Violeta espanhola"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1125
+msgid "Independence"
+msgstr "Independência"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1126
+msgid "May green"
+msgstr "Maio verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1127
+msgid "Kelly green"
+msgstr "Kelly verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1128
+msgid "Feldgrau"
+msgstr "Feldgrau"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1129
+msgid "Middle green"
+msgstr "Verde médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1130
+msgid "French puce"
+msgstr "puce francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1131
+msgid "Purple navy"
+msgstr "Marinha roxa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1132
+msgid "Cyan azure"
+msgstr "Azul ciano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1134
+msgid "Dark puce"
+msgstr "Puce escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1135
+msgid "Ocean blue"
+msgstr "Azul oceano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1137
+msgid "Stormcloud"
+msgstr "Nuvem de tempestade"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1138
+msgid "Fern green"
+msgstr "Samambaia verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1139
+msgid "Blueberry"
+msgstr "Mirtilo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1141
+msgid "Purple taupe"
+msgstr "Roxo cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1142
+msgid "Blue yonder"
+msgstr "Azul além"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1143
+msgid "Sap green"
+msgstr "Verde seiva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1144
+msgid "Emerald"
+msgstr "Esmeralda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1145
+msgid "KSU purple"
+msgstr "KSU roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1146
+msgid "Quartz"
+msgstr "Quartzo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1147
+msgid "Han purple"
+msgstr "Han roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1148
+msgid "Regalia"
+msgstr "Regalias"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1150
+msgid "Dark liver"
+msgstr "Fígado escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1151
+msgid "Cadet"
+msgstr "Cadete"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1152
+msgid "Dark electric blue"
+msgstr "Azul elétrico escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1153
+msgid "UCLA blue"
+msgstr "Azul UCLA"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1154
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1186
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1290
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1434
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1476
+msgid "Cadet blue"
+msgstr "Cadete azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1155
+msgid "Dark liver (horses)"
+msgstr "Fígado escuro (cavalos)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1156
+msgid "Liberty"
+msgstr "Liberdade"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1157
+msgid "Black Coral"
+msgstr "Coral Negro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1158
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1301
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1477
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1493
+msgid "Pale green"
+msgstr "Verde pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1160
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1303
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1441
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1495
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1509
+msgid "Purple"
+msgstr "Roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1161
+msgid "Blue-magenta violet"
+msgstr "Violeta azul-magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1162
+msgid "Davy's grey"
+msgstr "Davy é cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1163
+msgid "Ebony"
+msgstr "Ébano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1164
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1244
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1530
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1645
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1705
+msgid "Dark olive green"
+msgstr "Verde oliva escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1165
+msgid "Dark scarlet"
+msgstr "Escarlate escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1166
+msgid "Pineapple"
+msgstr "Abacaxi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1167
+msgid "Avocado"
+msgstr "Abacate"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1168
+msgid "Wintergreen Dream"
+msgstr "Sonho Wintergreen"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1169
+msgid "Carolina blue"
+msgstr "Carolina azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1170
+msgid "Cyber grape"
+msgstr "Uva cibernética"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1171
+msgid "Seal brown"
+msgstr "Selo marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1172
+msgid "Caput mortuum"
+msgstr "Caput mortuum"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1173
+msgid "Plump purple"
+msgstr "Roxo rechonchudo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1174
+msgid "Iris"
+msgstr "Íris"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1175
+msgid "Japanese violet"
+msgstr "Violeta japonesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1176
+msgid "United nations blue"
+msgstr "Nações Unidas azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1178
+msgid "Dark byzantium"
+msgstr "Bizâncio escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1179
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1364
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1451
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1514
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1568
+msgid "Medium purple"
+msgstr "Roxo médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1180
+msgid "Silver lake blue"
+msgstr "Lago prateado azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1182
+msgid "Polished Pine"
+msgstr "Pinho Polido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1183
+msgid "Blue jeans"
+msgstr "Calça jeans"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1184
+msgid "Maximum green"
+msgstr "Verde máximo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1185
+msgid "Steel teal"
+msgstr "Verde-azulado de aço"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1187
+msgid "Shiny shamrock"
+msgstr "Trevo brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1188
+msgid "Imperial"
+msgstr "Imperial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1189
+msgid "Majorelle blue"
+msgstr "Majorelle azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1190
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1350
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1428
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1535
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1596
+msgid "Light sky blue"
+msgstr "Céu azul claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1191
+msgid "Glaucous"
+msgstr "Glauco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1192
+msgid "Eggplant"
+msgstr "Beringela"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1193
+msgid "Umber"
+msgstr "Umbra"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1195
+msgid "Pullman brown"
+msgstr "Pullman marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1196
+msgid "Wenge"
+msgstr "Wengé"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1197
+msgid "Cornflower blue"
+msgstr "Azul centáurea"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1198
+msgid "Very light malachite green"
+msgstr "Verde malaquita muito claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1199
+msgid "Rosewood"
+msgstr "Jacarandá"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1200
+msgid "Dark brown"
+msgstr "Castanho escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1201
+msgid "Imperial purple"
+msgstr "Roxo imperial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1202
+msgid "Rebecca purple"
+msgstr "Rebeca roxa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1203
+msgid "Halaya ube"
+msgstr "Halaya ube"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1204
+msgid "Van dyke brown"
+msgstr "Van dique marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1205
+msgid "Deep tuscan red"
+msgstr "Vermelho toscano profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1206
+msgid "Donkey brown"
+msgstr "Burro marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1207
+msgid "Antique bronze"
+msgstr "Bronze antigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1208
+msgid "Dark blue-gray"
+msgstr "Azul acinzentado escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1209
+msgid "Very light blue"
+msgstr "Azul muito claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1210
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1465
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1639
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2286
+msgid "Pale turquoise"
+msgstr "Turquesa pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1211
+msgid "Desaturated cyan"
+msgstr "Ciano dessaturado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1212
+msgid "Livid"
+msgstr "Lívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1215
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1216
+msgid "Medium aquamarine"
+msgstr "Água-marinha média"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1217
+msgid "Bright green"
+msgstr "Verde brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1218
+msgid "Screamin' green"
+msgstr "Gritando verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1219
+msgid "Wine dregs"
+msgstr "Restos de vinho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1220
+msgid "Rose ebony"
+msgstr "Rosa ébano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1221
+msgid "Medium taupe"
+msgstr "Cinza médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1222
+msgid "Granite Gray"
+msgstr "Granito Cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1223
+msgid "Russian green"
+msgstr "Verde russo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1224
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1480
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1488
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1599
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1653
+msgid "Dark orchid"
+msgstr "Orquídea escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1225
+msgid "Palatinate purple"
+msgstr "Roxo Palatinado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1226
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1491
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1579
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1602
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1658
+msgid "Light blue"
+msgstr "Azul claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1227
+msgid "Purple heart"
+msgstr "Coração roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1229
+msgid "Dim gray"
+msgstr "Cinza escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1230
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1234
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1609
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1665
+msgid "Olive drab"
+msgstr "Azeitona monótona"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1231
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1437
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1499
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1613
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1670
+msgid "Dark sea green"
+msgstr "Verde mar escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1233
+msgid "Kobicha"
+msgstr "Kobicha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1235
+msgid "Liver (organ)"
+msgstr "Fígado (órgão)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1236
+msgid "Eminence"
+msgstr "Eminência"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1237
+msgid "Field drab"
+msgstr "Campo monótono"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1238
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1256
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1517
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1631
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1687
+msgid "Slate gray"
+msgstr "Cinza ardósia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1239
+msgid "Little boy blue"
+msgstr "Garotinho azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1241
+msgid "Cerulean frost"
+msgstr "Geada cerúlea"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1242
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1529
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1594
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1643
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1704
+msgid "Light steel blue"
+msgstr "Azul aço claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1243
+msgid "Auro metal saurus"
+msgstr "Sauro de metal auro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1245
+msgid "Green Sheen"
+msgstr "Brilho Verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1246
+msgid "Electric indigo"
+msgstr "Índigo elétrico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1247
+msgid "Grape"
+msgstr "Uva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1248
+msgid "Tuscan brown"
+msgstr "Marrom toscano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1249
+msgid "Palm Leaf"
+msgstr "Folha de palmeira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1250
+msgid "Persian plum"
+msgstr "Ameixa persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1251
+msgid "Midnight"
+msgstr "Meia-noite"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1252
+msgid "Byzantium"
+msgstr "Bizâncio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1253
+msgid "Catawba"
+msgstr "Catawba"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1254
+msgid "Sepia"
+msgstr "Sépia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1255
+msgid "Roast coffee"
+msgstr "Café torrado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1257
+msgid "Iceberg"
+msgstr "Iceberg"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1258
+msgid "Iguana green"
+msgstr "Iguana verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1259
+msgid "Puce red"
+msgstr "Puce vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1260
+msgid "Nickel"
+msgstr "Níquel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1261
+msgid "Air superiority blue"
+msgstr "Superioridade aérea azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1262
+msgid "Maximum purple"
+msgstr "Roxo máximo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1263
+msgid "Dark lavender"
+msgstr "Lavanda escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1264
+msgid "Bronze yellow"
+msgstr "Amarelo bronze"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1265
+msgid "Smoke"
+msgstr "Fumaça"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1266
+msgid "Xanadu"
+msgstr "Xanadu"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1267
+msgid "Moonstone blue"
+msgstr "Pedra da lua azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1268
+msgid "Maya blue"
+msgstr "Azul maia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1269
+msgid "Toolbox"
+msgstr "Caixa de ferramentas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1270
+msgid "Very light azure"
+msgstr "Azul muito claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1271
+msgid "Mantis"
+msgstr "Louva-a-deus"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1272
+msgid "Sonic silver"
+msgstr "Prata sônica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1275
+msgid "Rhythm"
+msgstr "Ritmo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1276
+msgid "Light slate gray"
+msgstr "Cinza ardósia claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1277
+msgid "Shadow blue"
+msgstr "Sombra azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1278
+msgid "Dark pastel blue"
+msgstr "Azul pastel escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1279
+msgid "French sky blue"
+msgstr "Céu francês azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1280
+msgid "Pastel green"
+msgstr "Verde pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1281
+msgid "Pansy purple"
+msgstr "Amor-perfeito roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1282
+msgid "Royal purple"
+msgstr "Roxo real"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1283
+msgid "Camouflage green"
+msgstr "Camuflagem verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1284
+msgid "Medium tuscan red"
+msgstr "Vermelho toscano médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1285
+msgid "Old lavender"
+msgstr "Lavanda velha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1287
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1610
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1634
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1802
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1869
+msgid "Medium orchid"
+msgstr "Orquídea média"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1289
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1612
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1806
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1874
+msgid "Light cyan"
+msgstr "Ciano claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1291
+msgid "UP maroon"
+msgstr "UP marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1292
+msgid "Chocolate (traditional)"
+msgstr "Chocolate (tradicional)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1293
+msgid "Medium slate blue"
+msgstr "Azul ardósia médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1294
+msgid "Bud green"
+msgstr "Botão verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1295
+msgid "Barn red"
+msgstr "Celeiro vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1296
+msgid "Kenyan copper"
+msgstr "Cobre queniano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1297
+msgid "Tuscan red"
+msgstr "Vermelho toscano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1298
+msgid "Weldon blue"
+msgstr "Weldon azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1299
+msgid "Vista blue"
+msgstr "Vista azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1300
+msgid "Aero"
+msgstr "Aéreo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1302
+msgid "Lawn green"
+msgstr "Gramado verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1304
+msgid "Electric blue"
+msgstr "Azul elétrico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1305
+msgid "Deep taupe"
+msgstr "Cinza profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1307
+msgid "Middle blue"
+msgstr "Azul médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1308
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1343
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1435
+msgid "Violet"
+msgstr "Violeta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1309
+msgid "Claret"
+msgstr "Clarete"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1312
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1377
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1737
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1953
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2142
+msgid "Maroon"
+msgstr "Marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1313
+msgid "Burgundy"
+msgstr "Borgonha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1314
+msgid "Patriarch, purple"
+msgstr "Patriarca, roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1315
+msgid "Falu red"
+msgstr "Falu vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1316
+msgid "Russet"
+msgstr "Avermelhado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1317
+msgid "Spanish bistre"
+msgstr "Bistrô espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1318
+msgid "Olive"
+msgstr "Azeitona"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1319
+msgid "Trolley grey"
+msgstr "Carrinho cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1320
+msgid "Medium sky blue"
+msgstr "Céu azul médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1321
+msgid "French plum"
+msgstr "Ameixa francesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1322
+msgid "Coyote brown"
+msgstr "Coiote marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1323
+msgid "Deep maroon"
+msgstr "Marrom profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1324
+msgid "Raw umber"
+msgstr "Âmbar cru"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1325
+msgid "Dolphin gray"
+msgstr "Golfinho cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1326
+msgid "Smokey topaz"
+msgstr "Topázio esfumado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1327
+msgid "Pastel brown"
+msgstr "Castanho pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1329
+msgid "Roman silver"
+msgstr "Prata romana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1330
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1668
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1872
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2012
+msgid "Honeydew"
+msgstr "Melada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1332
+msgid "Antique ruby"
+msgstr "Rubi antigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1333
+msgid "Deep ruby"
+msgstr "Rubi profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1334
+msgid "Light slate blue"
+msgstr "Azul ardósia claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1335
+msgid "Old silver"
+msgstr "Prata velha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1336
+msgid "Alien armpit"
+msgstr "Axila alienígena"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1337
+msgid "Deep red"
+msgstr "Vermelho profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1338
+msgid "Chinese violet"
+msgstr "Violeta chinesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1339
+msgid "French bistre"
+msgstr "Bistrô francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1340
+msgid "Gold Fusion"
+msgstr "Fusão de Ouro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1341
+msgid "Dollar bill"
+msgstr "Nota de dólar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1342
+msgid "Red devil"
+msgstr "diabo vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1344
+msgid "French lilac"
+msgstr "Lilás francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1345
+msgid "Old moss green"
+msgstr "Velho verde musgo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1346
+msgid "Dark raspberry"
+msgstr "Framboesa escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1347
+msgid "Boysenberry"
+msgstr "Amora"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1348
+msgid "Asparagus"
+msgstr "Espargos"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1352
+msgid "Pale cyan"
+msgstr "Ciano pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1353
+msgid "Spring Frost"
+msgstr "Geada de primavera"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1354
+msgid "Mardi gras"
+msgstr "Carnaval"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1355
+msgid "French violet"
+msgstr "Violeta francesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1356
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1387
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1520
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1750
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1963
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2182
+msgid "Sienna"
+msgstr "Siena"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1357
+msgid "Grizzly"
+msgstr "Pardo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1358
+msgid "Dark brown-tangelo"
+msgstr "Tangelo marrom escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1359
+msgid "Ube"
+msgstr "Ube"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1360
+msgid "Light cobalt blue"
+msgstr "Azul cobalto claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1361
+msgid "Pearl aqua"
+msgstr "Água pérola"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1362
+msgid "Solid pink"
+msgstr "Rosa sólido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1363
+msgid "Cordovan"
+msgstr "cordovão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1365
+msgid "Baby blue"
+msgstr "Azul bebê"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1366
+msgid "Blue-violet"
+msgstr "Azul-violeta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1367
+msgid "Burnt umber"
+msgstr "Âmbar queimado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1368
+msgid "Twilight lavender"
+msgstr "Lavanda crepuscular"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1369
+msgid "Shadow"
+msgstr "Sombra"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1370
+msgid "Rocket metallic"
+msgstr "Foguete metálico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1371
+msgid "Turtle green"
+msgstr "Tartaruga verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1372
+msgid "Jordy blue"
+msgstr "Jordan azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1373
+msgid "Dark red"
+msgstr "Vermelho escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1374
+msgid "Dark magenta"
+msgstr "Magenta escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1375
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1735
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1950
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2135
+msgid "Deep pink"
+msgstr "Rosa profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1376
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1598
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1736
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1952
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2140
+msgid "Firebrick"
+msgstr "Tijolo refratário"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1378
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1738
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1796
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1954
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2146
+msgid "Violet red"
+msgstr "Vermelho violeta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1379
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1739
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1955
+msgid "Brown"
+msgstr "Marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1380
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1740
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1956
+msgid "Orange red"
+msgstr "Laranja vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1381
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1741
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1957
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2162
+msgid "Tomato"
+msgstr "Tomate"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1382
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1742
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1745
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1958
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2167
+msgid "Indian red"
+msgstr "Vermelho indiano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1383
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1747
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1960
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2166
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2170
+msgid "Hot pink"
+msgstr "Rosa choque"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1384
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1959
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2172
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2180
+msgid "Coral"
+msgstr "Coral"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1385
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1748
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1961
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2178
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2187
+msgid "Dark orange"
+msgstr "Laranja escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1386
+msgid "Saddle brown"
+msgstr "Sela marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1388
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1751
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1964
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2183
+msgid "Pale violet red"
+msgstr "Vermelho violeta pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1389
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1752
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1842
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1965
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2184
+msgid "Orchid"
+msgstr "Orquídea"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1390
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1753
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1966
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2067
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2188
+msgid "Salmon"
+msgstr "Salmão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1391
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1755
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1968
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2198
+msgid "Light salmon"
+msgstr "Salmão claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1392
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1756
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1969
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2081
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2158
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2201
+msgid "Orange"
+msgstr "Laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1393
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1808
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1970
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2202
+msgid "Tan"
+msgstr "Bronzeado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1394
+msgid "Spicy mix"
+msgstr "Mistura picante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1395
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1758
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1971
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2208
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2214
+msgid "Light pink"
+msgstr "Rosa claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1396
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1759
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1824
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1972
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2213
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2222
+msgid "Pink"
+msgstr "Rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1397
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1629
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1760
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1973
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2216
+msgid "Dark goldenrod"
+msgstr "Vara dourada escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1398
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1432
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1762
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1974
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2218
+msgid "Plum"
+msgstr "Ameixa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1399
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1763
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1845
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1975
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2223
+msgid "Goldenrod"
+msgstr "Vara de Ouro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1400
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1640
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1764
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1976
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2224
+msgid "Rosy brown"
+msgstr "Castanho rosado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1401
+msgid "Middle blue purple"
+msgstr "Roxo azul médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1402
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1766
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1861
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1977
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2234
+msgid "Burlywood"
+msgstr "Burlywood"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1403
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1767
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1978
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2235
+msgid "Gold"
+msgstr "Ouro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1404
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1768
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1979
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2237
+msgid "Peach puff"
+msgstr "folhado de pêssego"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1405
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1769
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1980
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2243
+msgid "Navajo white"
+msgstr "branco navajo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1406
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1770
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1828
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1982
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2248
+msgid "Thistle"
+msgstr "Cardo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1407
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1771
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1983
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2251
+msgid "Bisque"
+msgstr "Bisque"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1408
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1772
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1984
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2253
+msgid "Misty rose"
+msgstr "Rosa enevoada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1409
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1773
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1985
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2039
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2255
+msgid "Wheat"
+msgstr "Trigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1410
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1774
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2258
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2285
+msgid "Light goldenrod"
+msgstr "Vara dourada clara"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1411
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1775
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1987
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2261
+msgid "Antique white"
+msgstr "Branco antigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1412
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1776
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1988
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2263
+msgid "Lavender blush"
+msgstr "Blush lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1413
+msgid "Taupe gray"
+msgstr "Cinza cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1414
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1677
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1778
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1991
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2267
+msgid "Khaki"
+msgstr "Cáqui"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1415
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1777
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1989
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2265
+msgid "Seashell"
+msgstr "Concha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1416
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1779
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1993
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2269
+msgid "Cornsilk"
+msgstr "Seda de milho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1417
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1780
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1994
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2271
+msgid "Lemon chiffon"
+msgstr "Chiffon limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1418
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1781
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1995
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2273
+msgid "Snow"
+msgstr "Neve"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1419
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1782
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1996
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2002
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2095
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2120
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2121
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2275
+msgid "Yellow"
+msgstr "Amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1420
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1783
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1997
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2281
+msgid "Light yellow"
+msgstr "Amarelo claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1421
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1784
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2282
+msgid "Ivory"
+msgstr "Marfim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1422
+msgid "Pewter blue"
+msgstr "Azul estanho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1423
+msgid "Cool grey, Gray-blue"
+msgstr "Cinza frio, azul acinzentado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1424
+msgid "Dark sky blue"
+msgstr "Céu azul escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1425
+msgid "Razzmic berry"
+msgstr "Baga Razzmic"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1426
+msgid "Morning blue"
+msgstr "Manhã azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1427
+msgid "Apple green"
+msgstr "Verde maçã"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1429
+msgid "Middle blue green"
+msgstr "Verde azul médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1431
+msgid "Quinacridone magenta"
+msgstr "Quinacridona magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1433
+msgid "Kiwi"
+msgstr "Kiwi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1436
+msgid "Artichoke"
+msgstr "Alcachofra"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1438
+msgid "Sheen green"
+msgstr "Verde brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1439
+msgid "Rose taupe"
+msgstr "Rosa cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1440
+msgid "Light green"
+msgstr "Verde claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1442
+msgid "Sugar plum"
+msgstr "Ameixa de açúcar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1443
+msgid "Antique fuchsia"
+msgstr "Fúcsia antigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1444
+msgid "Mauve taupe"
+msgstr "Cinza malva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1445
+msgid "Dark tan"
+msgstr "Bronzeado escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1446
+msgid "Cadet grey"
+msgstr "Cadete cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1447
+msgid "Sangria"
+msgstr "Sangria"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1448
+msgid "Vivid auburn"
+msgstr "Castanho vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1449
+msgid "Ceil"
+msgstr "Teto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1450
+msgid "Smoky Topaz"
+msgstr "Topázio Esfumaçado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1452
+msgid "Pistachio"
+msgstr "Pistache"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1453
+msgid "Light cornflower blue"
+msgstr "Azul centáurea claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1454
+msgid "Dark violet"
+msgstr "Violeta escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1455
+msgid "Lavender indigo, Navy purple"
+msgstr "Lavanda índigo, roxo marinho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1456
+msgid "Chestnut"
+msgstr "Castanha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1457
+msgid "Carmine, Heidelberg red"
+msgstr "Carmim, vermelho Heidelberg"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1458
+msgid "Brown (traditional)"
+msgstr "Marrom (tradicional)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1459
+msgid "Coconut"
+msgstr "Coco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1460
+msgid "Dark pastel purple"
+msgstr "Roxo pastel escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1461
+msgid "Sandy taupe"
+msgstr "Cinza arenoso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1462
+msgid "Purple mountain majesty"
+msgstr "Majestade da montanha roxa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1463
+msgid "Lavender purple"
+msgstr "Roxo lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1464
+msgid "Eton blue"
+msgstr "Eton azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1466
+msgid "Pale robin egg blue"
+msgstr "Azul claro ovo robin"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1467
+msgid "Manatee"
+msgstr "Peixe-boi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1469
+msgid "Pink raspberry"
+msgstr "Framboesa rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1470
+msgid "Dark chestnut"
+msgstr "Castanho escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1471
+msgid "Liver chestnut"
+msgstr "Castanha de fígado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1472
+msgid "Pale brown"
+msgstr "Castanho claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1473
+msgid "Bazaar"
+msgstr "Bazar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1474
+msgid "Cinereous"
+msgstr "Cineroso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1475
+msgid "Spanish gray"
+msgstr "Cinza espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1478
+msgid "Mint green"
+msgstr "Verde menta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1479
+msgid "Crimson red"
+msgstr "Vermelho carmesim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1481
+msgid "Deep lilac"
+msgstr "Lilás profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1482
+msgid "Golden brown"
+msgstr "Castanho dourado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1483
+msgid "Gamboge orange (brown)"
+msgstr "Laranja Gamboge (marrom)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1484
+msgid "Copper rose"
+msgstr "Rosa de cobre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1485
+msgid "Amethyst"
+msgstr "Ametista"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1486
+msgid "Mountbatten pink"
+msgstr "Mountbatten rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1487
+msgid "Teal deer"
+msgstr "Cervo verde-azulado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1489
+msgid "Purpureus"
+msgstr "Purpureus"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1490
+msgid "Olivine"
+msgstr "Olivina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1492
+msgid "Yellow-green"
+msgstr "Verde-amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1494
+msgid "Ruby red"
+msgstr "Vermelho rubi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1496
+msgid "Dirt"
+msgstr "Sujeira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1497
+msgid "Dark yellow"
+msgstr "Amarelo escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1498
+msgid "Pale cerulean"
+msgstr "Cerúleo pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1500
+msgid "Big dip o'ruby"
+msgstr "Grande mergulho em Ruby"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1501
+msgid "Purple Plum"
+msgstr "Ameixa Roxa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1502
+msgid "Metallic sunburst"
+msgstr "Raio de sol metálico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1504
+msgid "Japanese carmine"
+msgstr "Carmim japonês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1505
+msgid "Limerick"
+msgstr "Limerick"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1506
+msgid "Spartan crimson"
+msgstr "Carmesim espartano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1507
+msgid "Rose dust"
+msgstr "Pó de rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1508
+msgid "French lime"
+msgstr "Limão francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1510
+msgid "Vivid violet"
+msgstr "Violeta vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1511
+msgid "Vivid burgundy"
+msgstr "Borgonha vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1512
+msgid "Amaranth deep purple"
+msgstr "Amaranto roxo profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1513
+msgid "Magenta haze"
+msgstr "Névoa magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1515
+msgid "Beaver"
+msgstr "Castor"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1516
+msgid "Citron"
+msgstr "Cidra"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1518
+msgid "Sea Foam green"
+msgstr "Espuma do mar verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1519
+msgid "Purple, Veronica"
+msgstr "Roxa, Verônica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1521
+msgid "Chamoisee"
+msgstr "Camurça"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1522
+msgid "Turquoise green"
+msgstr "Verde turquesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1523
+msgid "Winter wizard"
+msgstr "Feiticeiro de inverno"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1524
+msgid "Burnished brown"
+msgstr "Castanho polido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1525
+msgid "Baby blue eyes"
+msgstr "Olhos azuis bebê"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1526
+msgid "Flirt"
+msgstr "Flertar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1527
+msgid "Blue bell"
+msgstr "Sino azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1528
+msgid "Wild blue yonder"
+msgstr "Azul selvagem além"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1531
+msgid "Cambridge blue"
+msgstr "Cambridge azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1532
+msgid "Dark candy apple red"
+msgstr "Maçã doce escura vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1533
+msgid "Redwood"
+msgstr "sequoia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1534
+msgid "Android green"
+msgstr "Android verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1536
+msgid "Non-photo blue"
+msgstr "Azul não fotográfico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1537
+msgid "Waterspout"
+msgstr "Tromba d'água"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1538
+msgid "Jazzberry jam"
+msgstr "Geléia de Jazzberry"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1539
+msgid "Auburn, brown"
+msgstr "Castanho, castanho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1540
+msgid "Middle red purple"
+msgstr "Roxo vermelho médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1541
+msgid "Blast-off bronze"
+msgstr "Bronze de explosão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1542
+msgid "Maximum red purple"
+msgstr "Máximo vermelho roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1543
+msgid "French beige, Tuscan tan"
+msgstr "Bege francês, bronzeado toscano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1544
+msgid "Quick silver"
+msgstr "Prata rápida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1545
+msgid "Vivid lime green"
+msgstr "Verde limão vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1546
+msgid "Fresh air"
+msgstr "Ar fresco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1547
+msgid "Windsor tan"
+msgstr "Bronzeado Windsor"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1548
+msgid "Rich lavender"
+msgstr "Lavanda rica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1549
+msgid "Green lizard"
+msgstr "Lagarto verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1550
+msgid "Spring bud"
+msgstr "Botão de primavera"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1551
+msgid "Rufous"
+msgstr "Ruivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1552
+msgid "Sweet brown"
+msgstr "Marrom doce"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1553
+msgid "China rose"
+msgstr "China rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1554
+msgid "Granny Smith apple"
+msgstr "Maçã Vovó Smith"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1555
+msgid "Deep carmine"
+msgstr "Carmim profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1556
+msgid "Deep puce"
+msgstr "Puce profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1557
+msgid "Grullo"
+msgstr "Grullo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1558
+msgid "Dark medium gray"
+msgstr "Cinza médio escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1559
+msgid "Laurel green"
+msgstr "louro verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1560
+msgid "Heliotrope magenta"
+msgstr "Heliotrópio magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1561
+msgid "Chinese red"
+msgstr "Vermelho chinês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1562
+msgid "Medium ruby"
+msgstr "Rubi médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1563
+msgid "Heliotrope gray, Rose quartz"
+msgstr "Heliotrópio cinza, quartzo rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1564
+msgid "Magic mint"
+msgstr "Menta mágica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1565
+msgid "Amaranth purple"
+msgstr "Amaranto roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1566
+msgid "English red"
+msgstr "Vermelho inglês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1567
+msgid "Rose vale"
+msgstr "Rosa vale"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1569
+msgid "Glossy grape"
+msgstr "Uva brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1570
+msgid "Pale cornflower blue"
+msgstr "Azul centáurea pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1571
+msgid "French wine"
+msgstr "Vinho francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1572
+msgid "Silver chalice"
+msgstr "Cálice de prata"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1573
+msgid "Maximum blue purple"
+msgstr "Máximo azul roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1574
+msgid "Middle green yellow"
+msgstr "Verde médio amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1575
+msgid "Celadon"
+msgstr "Celadon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1576
+msgid "Blizzard blue, Blue Lagoon"
+msgstr "Azul nevasca, Lagoa Azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1577
+msgid "Mystic maroon"
+msgstr "Marrom místico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1578
+msgid "Copper penny"
+msgstr "Moeda de cobre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1580
+msgid "Light moss green"
+msgstr "Verde musgo claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1581
+msgid "Green-yellow"
+msgstr "Verde-amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1582
+msgid "Mordant red 19"
+msgstr "Vermelho mordente 19"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1583
+msgid "Upsdell red"
+msgstr "Upsdell vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1584
+msgid "Lilac luster"
+msgstr "Brilho lilás"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1585
+msgid "Pastel blue"
+msgstr "Azul pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1586
+msgid "Alabama crimson"
+msgstr "Alabama carmesim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1587
+msgid "Pale carmine"
+msgstr "Carmim pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1588
+msgid "Brown sugar"
+msgstr "Açúcar mascavo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1589
+msgid "Pale blue"
+msgstr "Azul pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1590
+msgid "Rich maroon"
+msgstr "Marrom rico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1591
+msgid "Giant's club"
+msgstr "clube do gigante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1592
+msgid "Ginger"
+msgstr "Ruivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1593
+msgid "Acid green"
+msgstr "Verde ácido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1595
+msgid "Powder blue"
+msgstr "Pó azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1597
+msgid "Light pastel purple"
+msgstr "Roxo pastel claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1600
+msgid "African violet"
+msgstr "Violeta africana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1601
+msgid "Ash grey"
+msgstr "Cinza cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1603
+msgid "Inchworm"
+msgstr "Lagarta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1604
+msgid "Celeste, Italian sky blue"
+msgstr "Celeste, céu azul italiano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1605
+msgid "Carnelian, Cornell red"
+msgstr "Cornalina, vermelho Cornell"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1606
+msgid "Irresistible, Raspberry rose"
+msgstr "Irresistível, framboesa rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1607
+msgid "Light taupe"
+msgstr "Cinza claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1608
+msgid "Pastel purple"
+msgstr "Roxo pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1611
+msgid "English lavender"
+msgstr "Lavanda inglesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1614
+msgid "Fandango"
+msgstr "Fandango"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1615
+msgid "Light brown"
+msgstr "Castanho claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1616
+msgid "Turkish rose"
+msgstr "Rosa turca"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1617
+msgid "Lavender (floral)"
+msgstr "Lavanda (floral)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1618
+msgid "Brass"
+msgstr "Latão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1620
+msgid "Rich lilac"
+msgstr "Lilás rico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1621
+msgid "Rust"
+msgstr "Ferrugem"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1622
+msgid "Pearly purple"
+msgstr "Roxo perolado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1623
+msgid "Rose gold"
+msgstr "Ouro rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1624
+msgid "Opera mauve"
+msgstr "Ópera malva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1625
+msgid "University of California Gold"
+msgstr "Ouro da Universidade da Califórnia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1626
+msgid "Vivid mulberry"
+msgstr "Amoreira viva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1627
+msgid "Liver (dogs)"
+msgstr "Fígado (cães)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1628
+msgid "Copper"
+msgstr "Cobre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1630
+msgid "Deep chestnut"
+msgstr "Castanho profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1632
+msgid "Diamond"
+msgstr "Diamante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1633
+msgid "International orange"
+msgstr "Laranja internacional"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1635
+msgid "Deer"
+msgstr "Cervo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1636
+msgid "Medium red-violet"
+msgstr "Vermelho-violeta médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1637
+msgid "Ruddy brown"
+msgstr "Castanho avermelhado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1638
+msgid "Misty moss"
+msgstr "Musgo enevoado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1641
+msgid "Pale taupe"
+msgstr "Cinza pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1642
+msgid "Sage"
+msgstr "Sábio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1644
+msgid "Pale aqua"
+msgstr "Água pálida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1646
+msgid "Byzantine"
+msgstr "bizantino"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1647
+msgid "Dark khaki"
+msgstr "Cáqui escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1648
+msgid "June bud"
+msgstr "Botão de junho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1649
+msgid "Crimson glory"
+msgstr "Glória carmesim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1650
+msgid "Popstar"
+msgstr "Estrela pop"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1651
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1795
+msgid "Gray"
+msgstr "Cinza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1652
+msgid "Electric purple"
+msgstr "Roxo elétrico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1654
+msgid "Bittersweet shimmer"
+msgstr "Brilho agridoce"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1655
+msgid "Bright lavender"
+msgstr "Lavanda brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1656
+msgid "Black shadows"
+msgstr "Sombras negras"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1657
+msgid "Silver sand"
+msgstr "Areia prateada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1659
+msgid "Bitter lime"
+msgstr "Limão amargo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1660
+msgid "International orange (Golden Gate Bridge)"
+msgstr "Laranja internacional (Ponte Golden Gate)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1661
+msgid "Mahogany"
+msgstr "Mogno"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1662
+msgid "Old rose"
+msgstr "Rosa velha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1663
+msgid "Tuscany"
+msgstr "Toscana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1664
+msgid "Silver"
+msgstr "Prata"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1666
+msgid "Deep fuchsia"
+msgstr "Fúcsia profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1667
+msgid "Camel, Desert, Wood brown"
+msgstr "Camelo, Deserto, Madeira Marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1671
+msgid "Rose red"
+msgstr "Rosa vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1672
+msgid "Dark pastel red"
+msgstr "Vermelho pastel escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1673
+msgid "Sand"
+msgstr "Areia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1674
+msgid "Pictorial carmine"
+msgstr "Carmim pictórico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1675
+msgid "Bright maroon"
+msgstr "Marrom brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1676
+msgid "Aztec gold"
+msgstr "Ouro asteca"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1678
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1733
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1943
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1948
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1951
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2017
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2114
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2123
+msgid "Red"
+msgstr "Vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1679
+msgid "Cardinal"
+msgstr "Cardeal"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1680
+msgid "Alloy orange"
+msgstr "Liga laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1681
+msgid "Silver pink"
+msgstr "Rosa prateado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1682
+msgid "Lavender gray"
+msgstr "Cinza lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1683
+msgid "Columbia blue"
+msgstr "Azul Colômbia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1684
+msgid "Dingy dungeon"
+msgstr "Masmorra suja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1685
+msgid "Mulberry"
+msgstr "Amoreira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1686
+msgid "Vegas gold"
+msgstr "Ouro de Las Vegas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1688
+msgid "Medium violet-red"
+msgstr "Vermelho-violeta médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1689
+msgid "French raspberry"
+msgstr "Framboesa Francesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1690
+msgid "Fuchsia rose"
+msgstr "Rosa fúcsia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1691
+msgid "Venetian red"
+msgstr "Vermelho veneziano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1692
+msgid "Smitten"
+msgstr "Apaixonado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1693
+msgid "Lilac"
+msgstr "Lilás"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1694
+msgid "Light french beige"
+msgstr "Bege francês claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1695
+msgid "Harvard crimson"
+msgstr "Carmesim de Harvard"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1696
+msgid "Cedar Chest"
+msgstr "Baú de Cedro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1697
+msgid "Wisteria"
+msgstr "Glicínias"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1698
+msgid "Pale silver"
+msgstr "Prata pálida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1699
+msgid "Medium spring bud"
+msgstr "Botão médio de primavera"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1700
+msgid "Aero blue"
+msgstr "Aero azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1701
+msgid "Magenta (dye)"
+msgstr "Magenta (corante)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1702
+msgid "Royal fuchsia"
+msgstr "Fúcsia real"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1703
+msgid "Bitter lemon"
+msgstr "Limão amargo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1706
+msgid "Sinopia"
+msgstr "Sinópia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1707
+msgid "Brick red"
+msgstr "Vermelho tijolo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1708
+msgid "Copper red"
+msgstr "Vermelho cobre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1709
+msgid "Pastel violet"
+msgstr "Violeta pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1710
+msgid "Satin sheen gold"
+msgstr "Ouro acetinado com brilho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1711
+msgid "Boston university red"
+msgstr "Universidade de Boston vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1712
+msgid "Vivid crimson"
+msgstr "Carmesim vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1713
+msgid "Deep magenta"
+msgstr "Magenta profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1714
+msgid "Vivid orchid"
+msgstr "Orquídea vívida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1715
+msgid "Persian red"
+msgstr "Vermelho persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1716
+msgid "Madder lake"
+msgstr "Lago mais louco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1717
+msgid "Magenta-pink"
+msgstr "Rosa magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1718
+msgid "Steel pink"
+msgstr "Rosa aço"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1719
+msgid "Fuchsia purple"
+msgstr "Roxo fúcsia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1720
+msgid "English vermillion"
+msgstr "Vermelhão inglês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1721
+msgid "Dark terra cotta"
+msgstr "Terracota escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1722
+msgid "Burnt orange"
+msgstr "Laranja queimada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1723
+msgid "Fuzzy Wuzzy"
+msgstr "Fuzzy Wuzzy"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1724
+msgid "Ochre"
+msgstr "Ocre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1725
+msgid "Puce"
+msgstr "Puce"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1726
+msgid "Vivid amber"
+msgstr "Âmbar vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1727
+msgid "Brown yellow"
+msgstr "Marrom amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1728
+msgid "Light grayish magenta"
+msgstr "Magenta acinzentado claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1729
+msgid "Pale violet"
+msgstr "Violeta pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1730
+msgid "Lemon curry"
+msgstr "Caril de limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1731
+msgid "Lavender blue, Periwinkle"
+msgstr "Azul lavanda, pervinca"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1732
+msgid "Fluorescent yellow"
+msgstr "Amarelo fluorescente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1734
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1797
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1949
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2131
+msgid "Magenta"
+msgstr "Magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1743
+msgid "Tenne (tawny)"
+msgstr "Tenne (castanho)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1744
+msgid "Dark coral"
+msgstr "Coral escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1746
+msgid "Cinnamon satin"
+msgstr "Cetim canela"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1749
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1962
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2179
+msgid "Chocolate"
+msgstr "Chocolate"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1754
+msgid "Bronze"
+msgstr "Bronze"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1757
+msgid "Peru"
+msgstr "Peru"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1761
+msgid "Antique brass"
+msgstr "Latão antigo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1765
+msgid "Tropical violet"
+msgstr "Violeta tropical"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1785
+msgid "Fire engine red"
+msgstr "Carro de bombeiros vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1786
+msgid "Ruber"
+msgstr "Ruber"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1787
+msgid "Soap"
+msgstr "Sabão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1788
+msgid "Volt"
+msgstr "Volt"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1789
+msgid "Lava"
+msgstr "Lava"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1790
+msgid "Telemagenta"
+msgstr "Telemagenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1791
+msgid "Super pink"
+msgstr "Super rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1792
+msgid "Sky magenta"
+msgstr "Céu magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1793
+msgid "Old gold"
+msgstr "Ouro velho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1794
+msgid "Pastel gray"
+msgstr "Cinza pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1798
+msgid "Tea green"
+msgstr "Chá verde"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1799
+msgid "Arctic lime"
+msgstr "Cal ártico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1800
+msgid "Spanish carmine"
+msgstr "carmim espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1801
+msgid "Rubine red"
+msgstr "Vermelho rubi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1803
+msgid "Bright ube"
+msgstr "Ube brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1804
+msgid "Dark vanilla"
+msgstr "Baunilha escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1805
+msgid "Pear"
+msgstr "Pera"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1807
+msgid "Chocolate, Cocoa brown"
+msgstr "Chocolate, Castanho Cacau"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1809
+msgid "Utah Crimson"
+msgstr "Carmesim de Utah"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1810
+msgid "Amaranth red"
+msgstr "Amaranto vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1811
+msgid "Light medium orchid"
+msgstr "Orquídea média clara"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1812
+msgid "Light gray"
+msgstr "Cinza claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1813
+msgid "Rosso corsa"
+msgstr "Rosso Corsa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1814
+msgid "Wild orchid"
+msgstr "Orquídea selvagem"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1815
+msgid "Deep mauve"
+msgstr "Malva profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1816
+msgid "Gold (metallic)"
+msgstr "Ouro (metálico)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1817
+msgid "Mystic"
+msgstr "Místico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1818
+msgid "Raw sienna"
+msgstr "Siena crua"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1819
+msgid "Languid lavender"
+msgstr "Lavanda lânguida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1820
+msgid "Rich carmine"
+msgstr "Carmim rico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1821
+msgid "Debian red"
+msgstr "Debian vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1822
+msgid "Dogwood rose"
+msgstr "Rosa Dogwood"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1823
+msgid "Jasper"
+msgstr "Jaspe"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1825
+msgid "New York pink"
+msgstr "Rosa de Nova York"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1826
+msgid "Bright lilac"
+msgstr "Lilás brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1827
+msgid "Pink lavender"
+msgstr "Lavanda rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1829
+msgid "UA red"
+msgstr "U vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1830
+msgid "Maximum red"
+msgstr "Vermelho máximo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1831
+msgid "Vermilion"
+msgstr "Vermelhão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1832
+msgid "Medium vermilion"
+msgstr "Vermelhão médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1833
+msgid "Middle purple"
+msgstr "Roxo médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1834
+msgid "Shimmering blush"
+msgstr "Blush cintilante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1835
+msgid "Persian orange"
+msgstr "Laranja persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1836
+msgid "Parrot pink"
+msgstr "Papagaio rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1837
+msgid "Maximum green yellow"
+msgstr "Máximo verde amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1838
+msgid "Vivid cerise"
+msgstr "Cereja viva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1839
+msgid "Rusty red"
+msgstr "Vermelho enferrujado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1840
+msgid "Deep cerise"
+msgstr "Cereja profunda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1841
+msgid "Jelly bean"
+msgstr "Jujuba"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1843
+msgid "Pale copper"
+msgstr "Cobre pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1844
+msgid "Harvest gold"
+msgstr "Colha ouro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1846
+msgid "Pale red-violet"
+msgstr "Vermelho-violeta pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1847
+msgid "Timberwolf"
+msgstr "Lobo Timber"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1848
+msgid "Azureish white"
+msgstr "Branco azulado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1849
+msgid "Crimson"
+msgstr "Carmesim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1850
+msgid "Pale lavender"
+msgstr "Lavanda pálida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1851
+msgid "Gainsboro"
+msgstr "Gainsboro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1852
+msgid "Medium lavender magenta, Pale plum"
+msgstr "Magenta lavanda médio, ameixa pálida"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1853
+msgid "Pale chestnut"
+msgstr "Castanho claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1854
+msgid "Booger buster"
+msgstr "Destruidor de meleca"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1855
+msgid "Cherry"
+msgstr "Cereja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1856
+msgid "Fandango pink"
+msgstr "Fandango rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1857
+msgid "Blush"
+msgstr "Corar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1858
+msgid "China pink, Liseran purple"
+msgstr "Rosa China, roxo Liseran"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1859
+msgid "Pastel pink"
+msgstr "Rosa pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1860
+msgid "Tumbleweed"
+msgstr "Erva daninha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1862
+msgid "Phlox, Psychedelic purple"
+msgstr "Phlox, roxo psicodélico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1863
+msgid "Vivid red-tangelo"
+msgstr "Tangelo vermelho vivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1864
+msgid "Heliotrope"
+msgstr "Heliotrópio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1865
+msgid "Chartreuse (traditional)"
+msgstr "Chartreuse (tradicional)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1866
+msgid "Ruby"
+msgstr "Rubi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1867
+msgid "Barbie pink"
+msgstr "Barbie rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1868
+msgid "CG red"
+msgstr "CG vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1870
+msgid "Tiger's eye"
+msgstr "Olho de tigre"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1871
+msgid "Mauve"
+msgstr "Malva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1875
+msgid "Permanent geranium lake"
+msgstr "Lago permanente de gerânio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1876
+msgid "Ruddy pink"
+msgstr "Rosa avermelhado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1877
+msgid "Earth yellow"
+msgstr "Amarelo terra"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1878
+msgid "Urobilin"
+msgstr "Urobilina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1879
+msgid "Medium candy apple red"
+msgstr "Maçã doce média vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1880
+msgid "Raspberry pink"
+msgstr "Rosa framboesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1881
+msgid "Flame"
+msgstr "Chama"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1882
+msgid "Terra cotta"
+msgstr "Terracota"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1883
+msgid "Cadmium red"
+msgstr "Vermelho cádmio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1884
+msgid "Raspberry"
+msgstr "Framboesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1885
+msgid "Razzmatazz"
+msgstr "Razzmatazz"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1886
+msgid "Alizarin crimson, Rose madder"
+msgstr "Alizarin carmesim, Rose Madder"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1887
+msgid "Cinnabar, Vermilion"
+msgstr "Cinábrio, Vermelhão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1888
+msgid "Indian yellow"
+msgstr "Amarelo indiano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1889
+msgid "Sunray"
+msgstr "raio de sol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1890
+msgid "Bone"
+msgstr "Osso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1891
+msgid "Mindaro"
+msgstr "Mindarô"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1892
+msgid "Lemon lime"
+msgstr "Limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1893
+msgid "Red-purple"
+msgstr "Vermelho-roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1894
+msgid "Mexican pink"
+msgstr "Rosa mexicano"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1895
+msgid "Tango pink"
+msgstr "Tango rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1896
+msgid "Fulvous"
+msgstr "Fulvoso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1897
+msgid "Gamboge"
+msgstr "Gamboge"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1898
+msgid "Citrine"
+msgstr "Citrino"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1899
+msgid "Straw"
+msgstr "Canudo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1900
+msgid "Spanish crimson"
+msgstr "Carmesim espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1901
+msgid "Amaranth"
+msgstr "Amaranto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1902
+msgid "Vivid vermilion"
+msgstr "Vermelhão vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1903
+msgid "Middle red"
+msgstr "Vermelho médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1904
+msgid "Fawn"
+msgstr "fulvo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1905
+msgid "Meat brown"
+msgstr "Carne marrom"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1906
+msgid "Dust storm"
+msgstr "Tempestade de poeira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1907
+msgid "Platinum"
+msgstr "Platina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1908
+msgid "Spanish red"
+msgstr "Vermelho espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1909
+msgid "Lust"
+msgstr "Luxúria"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1910
+msgid "Paradise pink"
+msgstr "Rosa paraíso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1911
+msgid "Light carmine pink"
+msgstr "Rosa carmim claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1912
+msgid "Light Thulian pink"
+msgstr "Rosa Thulian claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1913
+msgid "Light orchid"
+msgstr "Orquídea clara"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1914
+msgid "Pale gold"
+msgstr "Ouro pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1915
+msgid "Peridot"
+msgstr "Peridoto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1916
+msgid "Lavender mist"
+msgstr "Névoa de lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1917
+msgid "Glitter"
+msgstr "Brilho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1918
+msgid "Dark pink"
+msgstr "Rosa escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1919
+msgid "Kobi"
+msgstr "Kobi"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1920
+msgid "Pink pearl"
+msgstr "Pérola rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1921
+msgid "Bubbles"
+msgstr "Bolhas"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1922
+msgid "KU crimson"
+msgstr "KU carmesim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1923
+msgid "Spanish orange"
+msgstr "Laranja espanhola"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1924
+msgid "Big foot feet"
+msgstr "Pés grandes"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1925
+msgid "Queen pink"
+msgstr "Rainha rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1927
+msgid "Key Lime"
+msgstr "Limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1928
+msgid "Frostbite"
+msgstr "Congelamento"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1929
+msgid "Deep carrot orange"
+msgstr "Laranja cenoura profunda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1930
+msgid "Burnt sienna, Light red ochre"
+msgstr "Siena queimada, ocre vermelho claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1931
+msgid "Dark salmon"
+msgstr "Salmão escuro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1932
+msgid "Arylide yellow"
+msgstr "Arilide amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1933
+msgid "Nyanza"
+msgstr "Nyanza"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1934
+msgid "Desire"
+msgstr "Desejo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1935
+msgid "Marigold"
+msgstr "Calêndula"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1936
+msgid "Pearl"
+msgstr "Pérola"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1937
+msgid "Carmine pink"
+msgstr "Rosa carmim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1938
+msgid "Cerise pink"
+msgstr "Rosa cereja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1939
+msgid "Persimmon"
+msgstr "Caqui"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1940
+msgid "Middle yellow red"
+msgstr "Vermelho amarelo médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1941
+msgid "Sandstorm"
+msgstr "Tempestade de areia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1942
+msgid "Pale spring bud"
+msgstr "Botão de primavera pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1944
+msgid "Imperial red"
+msgstr "Vermelho imperial"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1945
+msgid "Cadmium orange"
+msgstr "Laranja cádmio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1946
+msgid "Carrot orange"
+msgstr "Cenoura laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1947
+msgid "Desert sand"
+msgstr "Areia do deserto"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1967
+msgid "Lavender magenta, Violet"
+msgstr "Lavanda magenta, Violeta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1981
+msgid "Safety yellow"
+msgstr "Amarelo de segurança"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1986
+msgid "Flax, Light goldenrod"
+msgstr "Linho, vara dourada clara"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1990
+msgid "Titanium yellow"
+msgstr "Amarelo titânio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1992
+msgid "Pale goldenrod"
+msgstr "Goldenrod pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1998
+msgid "vory"
+msgstr "Vory"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:1999
+msgid "Deep carmine pink"
+msgstr "Rosa carmim profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2000
+msgid "Mauvelous"
+msgstr "Mauveloso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2001
+msgid "Cameo pink"
+msgstr "Camafeu rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2003
+msgid "Almond"
+msgstr "Amêndoa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2004
+msgid "Dutch white"
+msgstr "branco holandês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2005
+msgid "Vivid tangelo"
+msgstr "Tangelo vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2006
+msgid "Light coral"
+msgstr "Coral claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2007
+msgid "Buff"
+msgstr "Buff"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2008
+msgid "Dandelion"
+msgstr "Dente de Leão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2009
+msgid "Light khaki"
+msgstr "Cáqui claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2010
+msgid "Eggshell"
+msgstr "Casca de ovo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2011
+msgid "Alice blue"
+msgstr "Alice azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2013
+msgid "Azure mist"
+msgstr "Névoa azul"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2014
+msgid "Amaranth pink"
+msgstr "Amaranto rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2015
+msgid "Rich brilliant lavender"
+msgstr "Lavanda rica e brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2016
+msgid "Champagne pink"
+msgstr "Rosa champanhe"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2018
+msgid "Tangerine"
+msgstr "tangerina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2019
+msgid "Maximum yellow red"
+msgstr "Máximo amarelo vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2020
+msgid "Orchid pink"
+msgstr "Orquídea rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2021
+msgid "Alabaster"
+msgstr "Alabastro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2022
+msgid "Sunny"
+msgstr "Ensolarado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2023
+msgid "Anti-flash white"
+msgstr "Branco anti-flash"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2024
+msgid "Mandarin"
+msgstr "Mandarim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2025
+msgid "Vanilla ice"
+msgstr "Gelo de baunilha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2026
+msgid "Medium champagne, Vanilla"
+msgstr "Champanhe médio, Baunilha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2027
+msgid "Fashion fuchsia, Hollywood cerise"
+msgstr "Moda fúcsia, cereja de Hollywood"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2028
+msgid "Pastel magenta"
+msgstr "Magenta pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2029
+msgid "Sandy brown"
+msgstr "Castanho arenoso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2030
+msgid "Brilliant lavender"
+msgstr "Lavanda brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2031
+msgid "Baby pink, Tea rose"
+msgstr "Rosa bebê, Rosa chá"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2032
+msgid "Saffron"
+msgstr "Açafrão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2033
+msgid "Jonquil"
+msgstr "Jonquil"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2034
+msgid "Isabelline"
+msgstr "Isabelina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2035
+msgid "Light crimson"
+msgstr "Carmesim claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2036
+msgid "Cyclamen"
+msgstr "Ciclâmen"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2037
+msgid "Princeton orange"
+msgstr "Laranja Princeton"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2038
+msgid "Deep lemon"
+msgstr "Limão profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2040
+msgid "Minion yellow"
+msgstr "Lacaio amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2041
+msgid "Beige"
+msgstr "Bege"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2042
+msgid "White smoke"
+msgstr "Fumaça branca"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2043
+msgid "Mint cream"
+msgstr "Creme de menta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2044
+msgid "French rose"
+msgstr "Rosa francesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2045
+msgid "Nadeshiko pink"
+msgstr "Nadeshiko rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2046
+msgid "Lemon meringue"
+msgstr "Merengue de limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2047
+msgid "Vivid red"
+msgstr "Vermelho vivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2048
+msgid "Violet-red"
+msgstr "Violeta-vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2049
+msgid "University of Tennessee orange"
+msgstr "Laranja da Universidade do Tennessee"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2050
+msgid "Persian pink"
+msgstr "Rosa persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2051
+msgid "Pink sherbet"
+msgstr "Sorvete rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2052
+msgid "Spanish pink"
+msgstr "Rosa espanhol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2053
+msgid "Champagne"
+msgstr "champanhe"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2054
+msgid "Flavescent"
+msgstr "Flavescente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2055
+msgid "Coral pink, Tea rose"
+msgstr "Rosa coral, Rosa chá"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2056
+msgid "Mellow apricot"
+msgstr "Damasco suave"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2057
+msgid "Orange-yellow"
+msgstr "Amarelo alaranjado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2058
+msgid "Jasmine, Mellow yellow"
+msgstr "Jasmim, amarelo suave"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2059
+msgid "Magnolia"
+msgstr "Magnólia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2060
+msgid "Ghost white"
+msgstr "Fantasma branco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2061
+msgid "Rose bonbon"
+msgstr "Bombom de rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2062
+msgid "Tangelo"
+msgstr "Tangelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2063
+msgid "Pale magenta"
+msgstr "Magenta pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2064
+msgid "Light fuchsia pink"
+msgstr "Rosa fúcsia claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2065
+msgid "Orange soda"
+msgstr "Refrigerante de laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2066
+msgid "Begonia"
+msgstr "Begônia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2068
+msgid "Deep champagne, Sunset, Tuscan"
+msgstr "Champanhe profundo, Pôr do sol, Toscana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2069
+msgid "Royal yellow"
+msgstr "Amarelo real"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2070
+msgid "Pale pink"
+msgstr "Rosa pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2071
+msgid "Peach-yellow"
+msgstr "Amarelo pêssego"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2072
+msgid "Banana mania"
+msgstr "Mania de banana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2073
+msgid "Antique white, Moccasin"
+msgstr "Branco antigo, Mocassim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2074
+msgid "Blond"
+msgstr "Loiro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2075
+msgid "Linen"
+msgstr "Linho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2076
+msgid "Maximum yellow"
+msgstr "Amarelo máximo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2077
+msgid "Light goldenrod yellow"
+msgstr "Amarelo dourado claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2078
+msgid "Tart orange"
+msgstr "Laranja azeda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2079
+msgid "Orioles orange"
+msgstr "Laranja Orioles"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2080
+msgid "Brink pink"
+msgstr "Rosa beira"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2082
+msgid "Lavender rose"
+msgstr "Rosa lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2083
+msgid "Rajah"
+msgstr "Rajah"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2084
+msgid "Lavender pink"
+msgstr "Rosa lavanda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2085
+msgid "Classic rose"
+msgstr "Rosa clássica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2086
+msgid "Apricot"
+msgstr "Damasco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2087
+msgid "Corn"
+msgstr "Milho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2088
+msgid "Shocking pink"
+msgstr "Rosa chocante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2089
+msgid "Strawberry"
+msgstr "Morango"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2090
+msgid "Ultra red, Wild watermelon"
+msgstr "Ultra vermelho, melancia selvagem"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2091
+msgid "Pink Flamingo"
+msgstr "Flamingo Rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2092
+msgid "Tickle me pink"
+msgstr "Faça-me cócegas rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2093
+msgid "Flamingo pink"
+msgstr "Flamingo rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2094
+msgid "Golden poppy"
+msgstr "Papoila dourada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2096
+msgid "Icterine"
+msgstr "Icterina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2097
+msgid "Scarlet, Tractor red"
+msgstr "Escarlate, trator vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2098
+msgid "Red Salsa"
+msgstr "Salsa Vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2099
+msgid "French fuchsia"
+msgstr "Fúcsia francesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2100
+msgid "Ogre odor"
+msgstr "Odor de ogro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2101
+msgid "Willpower orange"
+msgstr "Força de vontade laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2102
+msgid "Sunset orange"
+msgstr "Pôr do sol laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2103
+msgid "French pink"
+msgstr "Rosa francês"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2104
+msgid "Coral reef"
+msgstr "Recife de coral"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2105
+msgid "Melon"
+msgstr "Melão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2106
+msgid "Feldspar, Light apricot"
+msgstr "Feldspato, damasco claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2107
+msgid "Sandy tan"
+msgstr "Bronzeado arenoso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2108
+msgid "Piggy pink"
+msgstr "Porquinho rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2109
+msgid "Aureolin"
+msgstr "Aureolina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2110
+msgid "Old lace"
+msgstr "Renda velha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2111
+msgid "Pastel yellow"
+msgstr "Amarelo pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2112
+msgid "Lemon glacier"
+msgstr "Geleira Limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2113
+msgid "Milk"
+msgstr "Leite"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2115
+msgid "Persian rose"
+msgstr "Rosa persa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2116
+msgid "Neon fuchsia"
+msgstr "Fúcsia néon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2117
+msgid "Purple pizzazz"
+msgstr "Um toque especial roxo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2118
+msgid "Giants orange"
+msgstr "Laranja gigante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2119
+msgid "Bittersweet"
+msgstr "Agridoce"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2122
+msgid "Baby powder"
+msgstr "Pó de bebê"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2124
+msgid "Ruddy"
+msgstr "Ruivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2125
+msgid "Carmine red"
+msgstr "Vermelho carmim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2126
+msgid "Electric crimson"
+msgstr "Carmesim elétrico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2127
+msgid "Folly"
+msgstr "Loucura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2128
+msgid "Vivid raspberry"
+msgstr "Framboesa viva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2129
+msgid "Winter sky"
+msgstr "Céu de inverno"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2130
+msgid "Bright pink, Rose"
+msgstr "Rosa brilhante, Rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2132
+msgid "Fuchsia, Magenta"
+msgstr "Fúcsia, Magenta"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2133
+msgid "American rose"
+msgstr "Rosa americana"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2134
+msgid "Candy apple red"
+msgstr "Maçã doce vermelha"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2136
+msgid "Hot magenta"
+msgstr "Magenta quente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2137
+msgid "Awesome"
+msgstr "Incrível"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2138
+msgid "Scarlet"
+msgstr "Escarlate"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2139
+msgid "Ferrari red"
+msgstr "Vermelho Ferrari"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2141
+msgid "Razzle dazzle rose"
+msgstr "Razzle deslumbrante rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2143
+msgid "Radical red"
+msgstr "Vermelho radical"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2144
+msgid "Coquelicot"
+msgstr "Coquelicote"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2145
+msgid "Sizzling red"
+msgstr "Vermelho escaldante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2147
+msgid "Brown, Coral red"
+msgstr "Marrom, Vermelho coral"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2148
+msgid "Sunburnt cyclops"
+msgstr "Ciclope queimado de sol"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2149
+msgid "Wild strawberry"
+msgstr "Morango selvagem"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2150
+msgid "Magic potion"
+msgstr "Poção mágica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2151
+msgid "Orange-red"
+msgstr "Laranja-vermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2152
+msgid "Sasquatch socks"
+msgstr "Meias Sasquatch"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2153
+msgid "Infra red"
+msgstr "Infravermelho"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2154
+msgid "International orange (aerospace)"
+msgstr "Laranja internacional (aeroespacial)"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2155
+msgid "Red-orange"
+msgstr "Vermelho-laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2156
+msgid "Fiery Rose"
+msgstr "Rosa ardente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2157
+msgid "Brilliant rose"
+msgstr "Rosa brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2159
+msgid "Portland orange"
+msgstr "Laranja Portland"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2160
+msgid "Light deep pink"
+msgstr "Rosa claro profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2161
+msgid "Vivid orange"
+msgstr "Laranja vivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2163
+msgid "Rose pink"
+msgstr "Rosa rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2164
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2175
+msgid "Safety orange"
+msgstr "Laranja de segurança"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2165
+msgid "Pastel red"
+msgstr "Vermelho pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2168
+msgid "Smashed pumpkin"
+msgstr "Abóbora esmagada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2169
+msgid "Outrageous orange"
+msgstr "Laranja ultrajante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2171
+msgid "Ultra pink"
+msgstr "Ultra rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2173
+msgid "Pumpkin"
+msgstr "Abóbora"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2174
+msgid "Fuchsia pink"
+msgstr "Rosa fúcsia"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2176
+msgid "Heat wave"
+msgstr "Onda de calor"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2177
+msgid "Amber"
+msgstr "Âmbar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2181
+msgid "Mango tango"
+msgstr "Tango de manga"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2185
+msgid "Princess perfume"
+msgstr "Perfume de princesa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2186
+msgid "Tulip"
+msgstr "Tulipa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2189
+msgid "Salmon pink"
+msgstr "Rosa salmão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2190
+msgid "Baker-Miller pink, Schauss pink"
+msgstr "Rosa Baker-Miller, rosa Schauss"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2191
+msgid "Vivid gamboge"
+msgstr "Gamboge vívido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2192
+msgid "Deep saffron"
+msgstr "Açafrão profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2193
+msgid "Atomic tangerine"
+msgstr "Tangerina atômica"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2194
+msgid "Light salmon pink"
+msgstr "Rosa salmão claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2195
+msgid "Pale magenta-pink"
+msgstr "Rosa magenta pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2196
+msgid "Orange peel"
+msgstr "Casca de laranja"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2197
+msgid "Vivid orange peel"
+msgstr "Casca de laranja viva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2199
+msgid "Vivid tangerine"
+msgstr "Tangerina viva"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2200
+msgid "Neon Carrot"
+msgstr "Cenoura néon"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2203
+msgid "Carnation pink"
+msgstr "Cravo rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2204
+msgid "Chrome yellow"
+msgstr "Amarelo cromo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2205
+msgid "Dark tangerine"
+msgstr "Tangerina escura"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2206
+msgid "Bright yellow"
+msgstr "Amarelo brilhante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2207
+msgid "Yellow orange"
+msgstr "Laranja amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2209
+msgid "Very light tangelo"
+msgstr "Tangelo bem leve"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2210
+msgid "UCLA Gold"
+msgstr "Ouro da UCLA"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2211
+msgid "Pastel orange"
+msgstr "Laranja pastel"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2212
+msgid "Light hot pink"
+msgstr "Rosa choque claro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2215
+msgid "Cherry blossom pink"
+msgstr "Flor de cerejeira rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2217
+msgid "Selective yellow"
+msgstr "Amarelo seletivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2219
+msgid "Cotton candy"
+msgstr "Algodão doce"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2220
+msgid "Macaroni and cheese"
+msgstr "Macarrão e queijo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2221
+msgid "Amber, Fluorescent orange"
+msgstr "Âmbar, laranja fluorescente"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2225
+msgid "Bubble gum"
+msgstr "Chiclete"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2226
+msgid "Mikado yellow"
+msgstr "Mikado amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2227
+msgid "Topaz"
+msgstr "Topázio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2228
+msgid "Deep peach"
+msgstr "Pêssego profundo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2229
+msgid "Tangerine yellow"
+msgstr "Amarelo tangerina"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2230
+msgid "Sunglow"
+msgstr "brilho solar"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2231
+msgid "Peach-orange"
+msgstr "Laranja-pêssego"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2232
+msgid "Shampoo"
+msgstr "Xampu"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2233
+msgid "Cyber yellow"
+msgstr "Amarelo cibernético"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2236
+msgid "School bus yellow"
+msgstr "Ônibus escolar amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2238
+msgid "Mimi pink"
+msgstr "Mimi rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2239
+msgid "Sizzling sunrise"
+msgstr "Nascer do sol escaldante"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2240
+msgid "Mustard"
+msgstr "Mostarda"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2241
+msgid "Unbleached silk"
+msgstr "Seda crua"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2242
+msgid "Pink lace"
+msgstr "Renda rosa"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2244
+msgid "Golden yellow"
+msgstr "Amarelo dourado"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2245
+msgid "Gargoyle gas"
+msgstr "Gárgula de gás"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2246
+msgid "Very pale orange"
+msgstr "Laranja muito pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2247
+msgid "Banana yellow"
+msgstr "Banana amarela"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2249
+msgid "Vivid yellow"
+msgstr "Amarelo vivo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2250
+msgid "Moccasin"
+msgstr "Mocassim"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2252
+msgid "Lumber"
+msgstr "Madeira serrada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2254
+msgid "Peach"
+msgstr "Pêssego"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2256
+msgid "Middle yellow"
+msgstr "Amarelo médio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2257
+msgid "Blanched almond"
+msgstr "Amêndoa descascada"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2259
+msgid "Canary yellow"
+msgstr "Amarelo canário"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2260
+msgid "Papaya whip"
+msgstr "Chicote de mamão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2262
+msgid "Yellow rose"
+msgstr "Rosa amarela"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2264
+msgid "Lemon yellow"
+msgstr "Amarelo limão"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2266
+msgid "Cadmium yellow"
+msgstr "Amarelo cádmio"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2268
+msgid "Lemon, Yellow sunshine"
+msgstr "Limão, sol amarelo"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2270
+msgid "Cosmic latte"
+msgstr "Café com leite cósmico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2272
+msgid "Floral white"
+msgstr "Floral branco"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2274
+msgid "Cream"
+msgstr "Creme"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2276
+msgid "Daffodil"
+msgstr "Narciso"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2277
+msgid "Electric yellow"
+msgstr "Amarelo elétrico"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2278
+msgid "Unmellow yellow"
+msgstr "Amarelo não maduro"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2279
+msgid "Canary"
+msgstr "Canário"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2280
+msgid "Very pale yellow"
+msgstr "Amarelo muito pálido"
+
+#: CudaText_addons/langmenu/cuda_palette/__init__.py:2283
+msgid "White"
+msgstr "Branco"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:603
+msgid "Adjust vertical alignments"
+msgstr "Ajustar os alinhamentos verticais"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:644
+msgid "&Save"
+msgstr "&Salvar"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:645
+msgid ""
+"Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to "
+"mail report."
+msgstr ""
+"Aplicar os acessórios aos controles de todas as caixas de diálogo."
+"\rCtrl+Click  - Exibir os dados para enviar o relatório."
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:685
+msgid "Report"
+msgstr "Relatar"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:687
+msgid "Send the report to the address"
+msgstr "Enviar o relatório para o endereço"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:689
+msgid "or post it on"
+msgstr "ou postar em"
+
+#: CudaText_addons/langmenu/cuda_palette/cd_plug_lib.py:691
+msgid "Close"
+msgstr "Fechar"

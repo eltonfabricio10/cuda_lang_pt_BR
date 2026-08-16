@@ -1,0 +1,14 @@
+2026.01.02
++ add: i18n support
+
+2018.05.30
++ add: added association of CudaText with folders too
+* change: renamed context menu item to "Open in CudaText"
++ add: added icon to context menu item
+
+2016.09.05
++ add: option for extension list
++ add: file port.py for SynWrite
+
+2016.09.04
+initial version

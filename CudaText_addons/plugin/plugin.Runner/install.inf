@@ -1,0 +1,60 @@
+[info]
+title=Runner
+desc=Allows to run external tools, supports build-systems from Sublime Text editor
+type=cudatext-plugin
+subdir=cuda_runner
+homepage=https://github.com/CudaText-addons/cuda_runner
+
+[item1]
+section=events
+events=on_open,on_exit
+;events=
+
+[item2]
+section=commands
+caption=Runner\Build
+method=build
+
+[item3]
+section=commands
+caption=Runner\Build with...
+method=cmds_menu
+
+[item4]
+section=commands
+caption=Runner\Choose build config...
+method=lexmap_cfg
+
+[item5]
+section=commands
+caption=Runner\-
+method=_
+
+
+[item6]
+section=commands
+caption=Runner\Next output
+method=next_output
+
+[item7]
+section=commands
+caption=Runner\Previous output
+method=prev_output
+
+[item8]
+section=commands
+caption=Runner\-
+method=_
+
+
+[item9]
+section=commands
+caption=Runner\Cancel build
+method=cancel_build
+
+
+[item20]
+section=commands
+caption=Runner\Config
+method=config
+menu=o

@@ -14,7 +14,11 @@ KEYWORDS = ["_", "msg_status", "dlg_input", "dlg_menu", "dlg_custom"]
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("sources", type=Path)
-    parser.add_argument("--output-dir", type=Path, default=Path("langpy/extras"))
+    parser.add_argument(
+        "--output-dir",
+        type=Path,
+        default=Path("CudaText_addons/langpy/extras"),
+    )
     args = parser.parse_args()
     args.output_dir.mkdir(parents=True, exist_ok=True)
 

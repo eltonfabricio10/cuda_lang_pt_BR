@@ -1,0 +1,22 @@
+2025.11.20
+- fix: avoid deprecated API
+
+2021.06.17
+- fix: avoid deprecated API
+
+2019.06.14
+- fix: fixed command "Extract character dialog" to work in CudaText 1.8x
++ add: added command "Preview in browser" - it requires Node.js installed
+
+2017.06.05
++ add: command "Extract" also makes side-panel "Dialogs" and fills it with found talks. Click on these Dialog-lines puts caret to clicked dialog.
+
+2017.05.20
++ add: command "Extract" adds title to 1st line of result file
+
+2017.05.17
++ add: refactoring
++ add: more status messages
+
+2017.05.16
+initial version

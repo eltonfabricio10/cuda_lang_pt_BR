@@ -1,0 +1,11 @@
+[info]
+title=Windows Portable Fonts
+desc=Allows to use portable fonts only in CudaText. Fonts are loaded from CudaText data/fonts folder.
+type=cudatext-plugin
+subdir=cuda_fonts
+homepage=https://github.com/CudaText-addons/cuda_fonts
+os=win
+
+[item1]
+section=events
+events=on_start

@@ -1,0 +1,377 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-29 22:09-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:43
+msgid "FTP Log"
+msgstr "Registro FTP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:95
+#, python-brace-format
+msgid "Password for {}:"
+msgstr "Senha para {}:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:315
+msgid "Enter private key passphrase:"
+msgstr "Insira a senha da chave privada:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:421
+msgid "Please install 'Paramiko' library for SFTP support"
+msgstr "Instale a biblioteca 'Paramiko' para suporte SFTP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:475
+msgid "New server"
+msgstr "Novo servidor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:478
+msgid "New server..."
+msgstr "Novo servidor..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:479
+msgid "Edit server..."
+msgstr "Editar servidor..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:480
+msgid "Rename server..."
+msgstr "Renomear servidor..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:481
+msgid "Remove server"
+msgstr "Remover servidor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:483
+msgid "Go to dir..."
+msgstr "Vá para o diretório..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:484
+msgid "Go to file..."
+msgstr "Vá para o arquivo..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:485
+msgid "History..."
+msgstr "História..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:487
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:494
+msgid "New file..."
+msgstr "Novo arquivo..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:488
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:495
+msgid "New dir..."
+msgstr "Novo diretório..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:489
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:499
+msgid "Upload here..."
+msgstr "Carregue aqui..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:491
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:504
+msgid "Refresh"
+msgstr "Atualizar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:497
+msgid "Remove"
+msgstr "Remover"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:498
+msgid "Rename"
+msgstr "Renomear"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:501
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:514
+msgid "Copy path"
+msgstr "Copiar caminho"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:502
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:515
+msgid "Copy link"
+msgstr "Copiar link"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:507
+msgid "Open"
+msgstr "Abrir"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:509
+msgid "Remove..."
+msgstr "Remover..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:510
+msgid "Rename..."
+msgstr "Renomear..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:511
+msgid "Download"
+msgstr "Download"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:512
+msgid "Backup..."
+msgstr "Backup..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:517
+msgid "Get properties"
+msgstr "Obtenha propriedades"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:602
+msgid "Connect to server"
+msgstr "Conecte-se ao servidor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:608
+msgid "Connect to: "
+msgstr "Conecte-se a: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:633
+#, python-brace-format
+msgid "Cannot find server with label \"{}\""
+msgstr "Não é possível encontrar o servidor com o rótulo \"{}\""
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:719
+msgid ""
+"First connection to this host.\n"
+"Accept host's certificate?\n"
+"\n"
+msgstr "Primeira conexão com este host.\nAceitar certificado do host?\n\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:731
+msgid ""
+"Host's certificate changed! Proceed?\n"
+"\n"
+msgstr "Certificado do anfitrião alterado! Continuar?\n\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:757
+#, python-brace-format
+msgid "Downloading '{}': {} Kbytes"
+msgstr "Baixando '{}': {} Kbytes"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:926
+#, python-brace-format
+msgid "Rename server: {}"
+msgstr "Renomear servidor: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:928
+#, python-brace-format
+msgid ""
+"\n"
+"Name taken: {}"
+msgstr "\nNome escolhido: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:946
+msgid "Do you really want to remove server?"
+msgstr "Você realmente deseja remover o servidor?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:957
+msgid "Go to directory"
+msgstr "Ir para o diretório"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:958
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:968
+msgid "Path:"
+msgstr "Caminho:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:967
+msgid "Go to file"
+msgstr "Ir para o arquivo"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:999
+msgid "Error: file not found on server!"
+msgstr "Erro: arquivo não encontrado no servidor!"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1086
+msgid "History"
+msgstr "História"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1099
+msgid "No history found"
+msgstr "Nenhum histórico encontrado"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1157
+msgid "FTP new file"
+msgstr "Novo arquivo FTP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1158
+msgid "File name:"
+msgstr "Nome do arquivo:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1191
+msgid "Do you really want to remove file?"
+msgstr "Você realmente deseja remover o arquivo?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1210
+msgid "FTP new directory"
+msgstr "Novo diretório FTP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1211
+msgid "Directory name:"
+msgstr "Nome do diretório:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1237
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1242
+msgid "Removing ftp dir: "
+msgstr "Removendo diretório FTP: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1240
+msgid "Removing ftp file: "
+msgstr "Removendo arquivo FTP: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1248
+msgid "Do you really want to remove directory?"
+msgstr "Você realmente deseja remover o diretório?"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1291
+msgid "today "
+msgstr "hoje "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1305
+msgid "Size: "
+msgstr "Tamanho: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1307
+msgid "Modification: "
+msgstr "Modificação: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1309
+msgid "Permissions: "
+msgstr "Permissões: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1352
+msgid "Link copied to clipboard: "
+msgstr "Link copiado para a área de transferência: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1384
+msgid "File downloaded to: "
+msgstr "Arquivo baixado para: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1396
+msgid "Backup: "
+msgstr "Backup: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:1428
+msgid "Rename: "
+msgstr "Renomear: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:23
+msgid "FTP server info"
+msgstr "Informações do servidor FTP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:38
+msgid "Choose private key file"
+msgstr "Escolher o arquivo de chave privada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:42
+msgid ""
+"You chose a private key in the PuTTYgen format,\n"
+"which is not supported.\n"
+"You need to convert it to the OpenSSH format first.\n"
+"PuTTYgen can accomplish that."
+msgstr "Você escolheu uma chave privada no formato PuTTYgen,\nque não é suportado.\nVocê precisa primeiro convertê-lo para o formato OpenSSH.\nPuTTYgen pode fazer isso."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:65
+msgid "Fill the Host field"
+msgstr "Preencha o campo Host"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:68
+msgid "Fill the Username field"
+msgstr "Preencha o campo Nome do usuário"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:98
+msgid "Server"
+msgstr "Servidor"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:111
+msgid "Server Type: "
+msgstr "Tipo de Servidor: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:147
+msgid "Host: "
+msgstr "Host: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:170
+msgid "Port: "
+msgstr "Porta: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:196
+msgid "Authentication"
+msgstr "Autenticação"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:209
+msgid "Username: "
+msgstr "Nome do usuário: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:232
+msgid "Password: "
+msgstr "Senha: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:257
+msgid "Default anonymous login"
+msgstr "Login anônimo por padrão"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:271
+msgid "Ask password every time"
+msgstr "Sempre perguntar pela senha"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:284
+msgid "or Private key: "
+msgstr "ou Chave privada: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:296
+msgid "Choose file..."
+msgstr "Escolher arquivo..."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:308
+msgid "In OpenSSH format, not .ppk"
+msgstr "Em formato OpenSSH, não .ppk"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:323
+msgid "Misc"
+msgstr "Diversos"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:335
+msgid "Initial remote dir: "
+msgstr "Diretório remoto inicial: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:358
+msgid "Timeout (seconds): "
+msgstr "Tempo de espera (segundos): "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:385
+msgid "Label (for menu): "
+msgstr "Etiqueta (para menu): "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:414
+msgid "Use old LIST command"
+msgstr "Usar LISTA de comando antiga"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:431
+msgid "OK"
+msgstr "OK"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:446
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:529
+msgid "&OK"
+msgstr "&OK"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:544
+msgid "&Cancel"
+msgstr "&Cancelar"
+
+#~ msgid "Lable (for menu): "
+#~ msgstr "Rótulo (para o menu): "

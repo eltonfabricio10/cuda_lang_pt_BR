@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-08-08 15:23-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:45
+msgid "(Line commands) Try to keep text position after (un)commenting"
+msgstr ""
+"(Comandos de linha) Tentar manter a posição do texto após (des)comentar"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:46
+msgid ""
+"Try to replace only blank(s) to keep text positions:\rUncommented lines:"
+"\r····foo1\r····foo2\rCommented lines:\r#···foo1\r···#foo2"
+msgstr ""
+"Tentar substituir somente os espaços em branco para manter as posições do "
+"texto:\rLinhas não comentadas:\r····foo1\r····foo2\rLinhas comentadas:"
+"\r#···foo1\r···#foo2"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:54
+msgid ""
+"(Line \"at non-space\") If selected few lines, insert comment at maximal "
+"common indent"
+msgstr ""
+"(Linha \"em não-espaço\") Se selecionar linhas, inserir o comentário na "
+"indentação comum"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:55
+msgid ""
+"Use maximal common column of first non-blank char:\rUncommented lines:"
+"\r··foo1\r····foo2\r······foo3\rCommented lines:"
+"\r··#foo1\r··#··foo2\r··#····foo3"
+msgstr ""
+"Usar a máxima coluna comum do primeiro caractere não em branco:\rLinhas não "
+"comentadas:\r··foo1\r····foo2\r······foo3\rLinhas comentadas:"
+"\r··#foo1\r··#··foo2\r··#····foo3"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:65
+msgid "(All) Move caret to next line"
+msgstr "(Tudo) Mover cursor para próxima linha"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:66
+msgid "(Line commands) Skip blank lines"
+msgstr "(Comandos de linha) Pular linhas em branco"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:67
+msgid "\"Toggle line comment\" detects action by first non-blank line"
+msgstr ""
+"\"Alternar comentário de linha\" detecta a ação pela primeira linha não em "
+"branco"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:70
+msgid "Configure commenting commands"
+msgstr "Configurar os comandos de comentários"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:77
+msgid "OK"
+msgstr "OK"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:78
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:162
+#, python-format
+msgid "Toggled commenting for %d line(s)"
+msgstr "Comentários alternados para linha(s) %d"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:169
+msgid "No commenting action was done"
+msgstr "Nenhuma ação de comentário foi realizada"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:182
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:392
+msgid "Commenting requires an active lexer"
+msgstr "Comentar requer uma linguagem ativa"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:199
+#, python-brace-format
+msgid "Lexer \"{}\" doesn't support \"line comments\""
+msgstr "A linguagem \"{}\" não tem suporte para \"comentário de linha\""
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:209
+msgid "Cannot handle multi-carets"
+msgstr "Não é possível lidar com vários caracteres"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:250
+msgid "Cannot handle blank lines / multi-carets"
+msgstr "Não é possível lidar com linhas em branco/multi-carets"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:389
+msgid "Commenting works only with normal selection"
+msgstr "Os comentários funcionam apenas com a seleção normal"
+
+#: CudaText_addons/langmenu/cuda_comments/cd_comments.py:395
+#, python-brace-format
+msgid "No stream comment for lexer \"{}\""
+msgstr "Sem comentário de bloco para a linguagem \"{}\""
+
+#~ msgid "Cannot handle blank lines only"
+#~ msgstr "Não foi possível lidar apenas com linhas em branco"
+
+#~ msgid "Commenting"
+#~ msgstr "Comentário"
+
+#~ msgid "{} works only with normal selection"
+#~ msgstr "{} funciona apenas com seleção normal"

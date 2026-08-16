@@ -1,0 +1,48 @@
+2025.07.15:
+- fix: adapt to new filename bookmarks[SUFFIX].json of CudaText 1.226
+
+2025.05.02
+* change: disabled on_save handler, to avoid very long collecting of bookmarks in big _closed_ files during file-saving (Alexey T.)
+
+2025.01.13
+- fix: crash on showing bookmarks from UTF-16 encoded _closed_ file (by Alexey T.)
+
+2024.12.07
++ add: Ctrl+Enter to copy line to clipboard, in dialog-list (ildar r. khasanshin)
++ add: Ctrl+C to copy line to clipboard, in sidebar-list (ildar r. khasanshin)
++ add: update list on side-panel activation (ildar r. khasanshin)
+
+2024.11.02
+* change: toolbar icons replaced with grayscale variant (from Markus F.)
+
+2024.02.22
+- fix: do not show exception if git is not installed
+
+2024.01.11
+- fix: "Go to hotspot" dialog size is now auto calculated based on screen size (thanks ildar r. khasanshin and Alexey T.)
+
+2024.01.10
+- fix: "Go to hotspot" dialog is now centered and wider
+
+2024.01.08
+- fix: bookmark text was empty when bookmark is on very long line in opened tab.
++ add: some support for git unmerged files (conflicts)
+
+2024.01.07
+- fix: made a lot of bug fixes and optimizations (thanks Alexey T. for alpha testing)
++ add: more i18n (thanks Alexey T.)
++ add: selecting file in a tree and pressing Enter/Space/F4 will now open the file.
++ add: new command "Go to hotspot" (thanks Alexey T. and Miroslav Matas)
+- fix: temporarily disabled "preview" tab feature because of CudaText bug
+- fix: better deduplication
+- fix: UnboundLocalError (thanks Miroslav Matas)
+- fix: crash when calling go to dialog with no bookmarks (thanks Alexey T.)
++ add: new command "Collect hotspots" (thanks Miroslav Matas)
++ add: show status message instead of showing empty go to dialog (thanks Alexey T.)
++ add: new toolbar icons (thanks Alexey T.)
++ add: show line content of bookmarks (thanks Miroslav Matas)
++ add: new sidebar icon by Markus Feichtinger
++ add: support cyrillic chars for filenames in git repo, and other codepage fixes.
+
+2024.01.06
+initial version

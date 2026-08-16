@@ -1,0 +1,68 @@
+2026.04.28
++ add: support "hsla()" fragments
+
+2025.09.27
++ add: support Markdown lexer, its image-links, they can be local and URLs
+
+2025.09.01
++ add: support "hsl()" fragments
+
+2024.03.07
++ add: support WEBP pictures, if plugin is used under CudaText 1.210.1+
+
+2022.08.30
++ add: support more CSS color formats: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/rgba
+
+2021.09.25
+- fix: usage of old Python 3.4 API html.parser.HTMLParser().unescape()
+
+2021.03.24
++ add: better show tooltip for &#10; &#13; &#9; &nbsp;
+
+2021.03.06
+- fix: avoid deprecated API
+
+2019.02.04
+- fix: second file in splitted tab was not handled by plugin
+
+2018.05.25
++ add: option "max_lines" which limits count if lines handled (at file begin)
+
+2018.05.19
++ add: allow preview also for entities &#NNNN;
++ add: handle lexer PHP too
+
+2018.02.12
++ add: option "lexers_css" - it's additional to install.inf
+- fix: didn't work on "rgba(n, n, n, .m)"
+
+2018.02.07
+- fix: didn't see pics in Sass/Less lexer
+
+2018.02.04
++ added 2 options for size of color-preview-rectangle
+
+2018.02.02
+- fix color-preview for high-DPI mode
+
+2018.02.01
++ command to open config file: Options/ Settings-plugins/ HTML Tooltips
++ picture preview: use small size for small pics
++ show tooltip nearest to its text
+
+2018.01.30
++ color tooltips don't hide if mouse enters them
++ support lexers: Sass, LESS
+
+2018.01.24
++ support fragments rgb(n,n,n) and rgba(n,n,n,a)
+
+2018.01.24
++ supports HTML entities like &copy; &amp;
++ supports CSS picture filenames in () brackets
+
+2018.01.23
++ supports tooltips for picture files (<img src="....">)
+
+2018.01.21
+init

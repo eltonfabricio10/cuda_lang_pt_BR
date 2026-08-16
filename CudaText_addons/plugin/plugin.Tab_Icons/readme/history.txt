@@ -1,0 +1,39 @@
+2026.08.01
++ add: add many new icons to plugin's subfolder
++ add: rework menu-dialog to choose custom icon for ui-tab, now it shows icons along with descriptions (by @ildarkhasanshin)
+
+2022.12.02
+- fix: crash on calling 'plugins / tab icons / set document's tab icon'
+
+2022.11.15
++ add: on CudaText 1.176.5+, plugin correctly handles tab-context-menu command for passive tabs
+
+2022.11.10
++ add: show correct icons for tabs containing pictures and binary viewer
+
+2022.10.17
++ add: support changing of icon_map from other plugins (e.g. CudaExt needs this)
+
+2021.09.15
++ add: better support variations of JavaScript and TypeScript lexers
+
+2021.03.30
++ add: per-document user-chosen icons (by @halfbrained)
++ add: included some icons from GNOME Adwaita theme (by @halfbrained)
++ add: plugin option "collapse on pinned", for CudaText 1.130+, it hides tab caption when tab is "pinned" by user (by @halfbrained)
+
+2020.03.20
+- fix: CudaText didn't show icons for files loaded on start (due to not fired on_lexer)
+
+2018.12.07
++ add: option for icons theme. Menu item "Options / Settings-plugins / Tab Icons / Config". Value in [tab_icons] must be the name of folder in "data/filetypeicons". Install any addon of kind "filetypeicons" to add such folder.
+
+2017.12.02
++ add: support lite lexers (with ^ suffix)
++ add: homepage link in install.inf
+
+2017.07.26
++ add: show icons for picture files too
+
+2017.07.25
+initial

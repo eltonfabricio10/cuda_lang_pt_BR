@@ -1,0 +1,18 @@
+[info]
+title=Auto Center Line
+desc=Plugin keeps current line in the center of the editor window
+type=cudatext-plugin
+subdir=cuda_auto_center_line
+homepage=https://github.com/CudaText-addons/cuda_auto_center_line
+api=1.0.471
+
+[item1]
+section=commands
+caption=Auto Center Line\Toggle active state
+method=toggle
+
+[item10]
+section=commands
+caption=Auto Center Line\Config
+method=config
+menu=o

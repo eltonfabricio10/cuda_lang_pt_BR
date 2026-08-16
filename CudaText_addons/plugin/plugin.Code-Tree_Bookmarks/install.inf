@@ -1,0 +1,16 @@
+[info]
+title=Code-Tree Bookmarks
+desc=Show bookmarks in the Code-Tree
+type=cudatext-plugin
+subdir=cuda_code_tree_x
+homepage=https://github.com/CudaText-addons/cuda_code_tree_x
+
+[item1]
+section=events
+events=on_state,on_state_ed
+
+[disabled_item10]
+section=commands
+caption=Code-Tree Bookmarks\Config
+method=config
+menu=o

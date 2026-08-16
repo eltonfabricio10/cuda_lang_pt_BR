@@ -1,0 +1,7 @@
+[info]
+title=pywin32 libraries
+desc=
+type=cudatext-plugin
+subdir=pywin32
+homepage=https://github.com/CudaText-addons/cuda_pywin32
+os=win

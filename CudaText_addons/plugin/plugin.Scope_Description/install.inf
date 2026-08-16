@@ -1,0 +1,26 @@
+[info]
+title=Scope Description
+desc=For C-like lexers only. Shows signature of each function after the end of the function.
+type=cudatext-plugin
+subdir=cuda_scope_description
+homepage=https://github.com/cudatext-addons/cuda_scope_description
+
+[item1]
+section=events
+events=on_caret_slow,on_state~,on_tab_change,on_scroll
+
+[item2]
+section=commands
+caption=Scope Description\Toggle ON/OFF
+method=toggle_on_off_cmd
+
+[item3]
+section=commands
+caption=Scope Description\Toggle mode
+method=toggle_mode_cmd
+
+[item10]
+section=commands
+caption=Scope Description\Config
+method=config
+menu=o

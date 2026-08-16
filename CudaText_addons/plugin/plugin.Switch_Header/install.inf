@@ -1,0 +1,17 @@
+[info]
+title=Switch Header
+desc=Switches file pairs: c<>h, cpp<>h, cc<>h, asm<>inc
+type=cudatext-plugin
+subdir=cuda_switch_header
+homepage=https://github.com/CudaText-addons/cuda_switch_header
+
+[item1]
+section=commands
+caption=Switch Header
+method=run
+
+[item2]
+section=commands
+caption=Switch Header\Config
+method=config
+menu=o

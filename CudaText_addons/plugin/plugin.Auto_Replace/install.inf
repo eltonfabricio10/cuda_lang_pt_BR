@@ -1,0 +1,28 @@
+[info]
+title=Auto Replace
+desc=Plugin auto-replaces currently typed words, based on set of snippets with such words.
+type=cudatext-plugin
+subdir=cuda_auto_replace
+homepage=https://github.com/iRamSoft/cuda_auto_replace
+
+[item1]
+section=events
+events=on_change,on_click,on_insert,on_start
+
+[item2]
+section=events
+events=on_key
+keys=9,13,33,34,35,36,38,40
+; Tab, Enter, Home, End, PageUp, PageDown, Up, Down
+
+[item10]
+section=commands
+caption=Auto Replace\Reload snips
+method=reload_snips
+menu=o
+
+[item11]
+section=commands
+caption=Auto Replace\Change lexers
+method=config
+menu=o

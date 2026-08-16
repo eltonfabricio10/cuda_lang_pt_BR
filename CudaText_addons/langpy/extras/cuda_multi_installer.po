@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-08-01 00:21-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:39
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:162
+msgid "CudaText Multi Installer"
+msgstr "Instalador Múltiplo do CudaText"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:49
+msgid "Downloading data..."
+msgstr "Baixando os dados..."
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:119
+#, python-brace-format
+msgid "Not found: {} {}"
+msgstr "Não encontrado: {} {}"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:123
+#, python-brace-format
+msgid "Installing: {} {}"
+msgstr "Instalando: {} {}"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:147
+msgid "Multi Installer: cannot download list"
+msgstr "Instalador Múltiplo: não foi possível baixar a lista"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:163
+msgid "Check groups of add-ons needed for you."
+msgstr "Verifique os grupos de complementos necessários para você."
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:164
+msgid "Plugin will suggest items for checked groups."
+msgstr "O plugin irá sugerir itens para grupos verificados."
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:165
+msgid "Note: only ~30% of all plugins are here."
+msgstr "Nota: apenas ~30% of todos os plugins estão aqui."
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:169
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:170
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:250
+msgid "Next"
+msgstr "Próximo"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:208
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:364
+msgid "Multi Installer: nothing selected"
+msgstr "Instalador Múltiplo: nada selecionado"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:244
+msgid "Back"
+msgstr "Voltar"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:256
+#, python-brace-format
+msgid "Step {} of {}"
+msgstr "Etapa {} de {}"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:261
+msgid "Select add-ons - "
+msgstr "Selecionar os complementos - "
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:354
+msgid "Multi Installer: done"
+msgstr "Instalador Múltiplo: concluído"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:358
+#, python-brace-format
+msgid ""
+"\n"
+"{} add-on(s) installed"
+msgstr ""
+"\n"
+"{} complemento(s) instalado(s)"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:360
+#, python-brace-format
+msgid ""
+"\n"
+"{} download error(s) (SF.net has problems?)"
+msgstr ""
+"\n"
+"{} erro(s) ao baixar (SF.net está com problemas?)"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:371
+msgid "Multi Installer"
+msgstr "Instalador Múltiplo"
+
+#: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:380
+msgid "Installing..."
+msgstr "Instalando..."
+
+#~ msgid "Select groups of add-ons needed for you."
+#~ msgstr "Selecione os grupos de complementos para você."
+
+#~ msgid "Next steps will suggest group items."
+#~ msgstr "As próximas etapas irão sugerir itens de grupo."

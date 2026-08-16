@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-08-16 21:51-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:42
+msgid "Snip characters: letters, digits, \"_\". First character must be letter."
+msgstr "Caracteres do atalho: letras, dígitos e \"_\". O primeiro caractere deve ser uma letra."
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:43
+msgid ""
+"\n"
+"\"Snip\" is an alternative way to call commands.\n"
+"    \n"
+"• Simple case:\n"
+"    \"pu\" is snip for command PageUp.\n"
+"    Type in any text\n"
+"        /pu\n"
+"    and press Tab-key.\n"
+"    Fragment \"/pu\" will be removed from text and undo-history, \n"
+"    command PageUp will be called.\n"
+"• More complex case:\n"
+"    Type\n"
+"        /3pu\n"
+"    and command will be called 3 times.\n"
+"    \n"
+"Snip contains only letters, digits, \"_\", and starts with a letter.\n"
+"        \n"
+"Any command can have many snips assigned to it.\n"
+"It's a good idea to assign keystrokes, for all available keyboard layouts, to the same command.\n"
+"                        "
+msgstr "\n\"Snip\" é uma forma alternativa de chamar comandos.\n \n• Caso simples:\n \"pu\" é um recorte para o comando PageUp.\n Digite qualquer texto\n /pu\n e pressione a tecla Tab.\n O fragmento \"/pu\" será removido do texto e do histórico de desfazer, o comando \n PageUp será chamado.\n• Caso mais complexo:\n Type\n /3pu\n e o comando serão chamados 3 vezes.\n \nSnip contém apenas letras, dígitos, \"_\" e começa com uma letra.\n \nQualquer comando pode ter muitos recortes atribuídos a ele.\nÉ uma boa ideia atribuir pressionamentos de teclas, para todos os layouts de teclado disponíveis, ao mesmo comando.\n                        "
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:181
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:319
+msgid "Need update CudaText"
+msgstr "É necessário atualizar o CudaText"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:200
+msgid "Suitable command names will contain all specified words.\r · Case is ignored.\r · Use \"_\" for word boundary.\r     \"_up\" selects \"upper\" but not \"group\"."
+msgstr "Nomes de comandos adequados conterão todas as palavras especificadas.\r · O caso é ignorado.\r · Use \"_\" para limite de palavra.\r     \"_up\" seleciona \"superior\", mas não \"grupo\"."
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:204
+msgid "Suitable command snips will match specified string.\r · Case is important.\r · Use ? for any character and * for any fragment."
+msgstr "Os recortes de comando adequados corresponderão à string especificada.\r · O caso é importante.\r · Usar ? para qualquer caractere e * para qualquer fragmento."
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:225
+msgid "Command"
+msgstr "Comando"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:225
+msgid "Snip(s)"
+msgstr "Atalho(s)"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:228
+msgid "&Filter"
+msgstr "&Filtro"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:229
+msgid "&All"
+msgstr "&Todos"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:230
+msgid "&OR"
+msgstr "&OU"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:231
+msgid "In &Command:"
+msgstr "No &comando:"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:233
+msgid "In &Snip(s):"
+msgstr "Nos &atalhos:"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:234
+msgid "&?"
+msgstr "&?"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:237
+msgid "A&dd Snip"
+msgstr "A&dicionar atalho"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:238
+msgid "F&ree Snip(s)"
+msgstr "Atalho(s) li&vre(s)"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:239
+msgid "Hel&p"
+msgstr "A&juda"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:240
+msgid "Close"
+msgstr "Fechar"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:251
+msgid "Configure \"SnipToCall\""
+msgstr "Configurar \"SnipToCall\""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:272
+msgid "Help for \"Config SnipToCall\""
+msgstr "Ajuda para \"Configurar SnipToCall\""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:274
+msgid "&Close"
+msgstr "&Fechar"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:275
+msgid "• In Command.\r{ccnd_h}\r \r• In Snip. \r{scnd_h}\r "
+msgstr "• No Comando.\r{ccnd_h}\r \r• Em Recorte. \r{scnd_h}\r "
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:287
+msgid ""
+"Do you want to remove snip(s) \n"
+"    {}\n"
+"for command \"{}\"?"
+msgstr "Você deseja remover recorte(s) \n    {}\npara o comando \"{}\"?"
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:296
+msgid "Snippet for \"{}\" without leading \"/\""
+msgstr "Atalho para \"{}\" sem a barra inicial \"/\""
+
+#:
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:307
+msgid ""
+"Snippet \"{}\" is already assigned\n"
+"to command \"{}\".\n"
+"\n"
+"Do you want to reassign the snippet\n"
+"to command \"{}\"?"
+msgstr "O snippet \"{}\" já está atribuído\npara comandar \"{}\".\n\nVocê deseja reatribuir o snippet\ncomandar \"{}\"?"

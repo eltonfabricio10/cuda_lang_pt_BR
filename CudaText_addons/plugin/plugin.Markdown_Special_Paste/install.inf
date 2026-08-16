@@ -1,0 +1,17 @@
+[info]
+title=Markdown Special Paste
+desc=Specially handles 'Paste' action for lexers Markdown/reStructuredText/MediaWiki/AsciiDoc/LaTeX: 1) pasting of URLs, 2) pasting of pictures.
+type=cudatext-plugin
+subdir=cuda_markdown_special_paste
+homepage=https://github.com/CudaText-addons/cuda_markdown_special_paste
+
+[item1]
+section=events
+events=on_paste
+lexers=Markdown,reStructuredText,MediaWiki,AsciiDoc,LaTeX
+
+[item20]
+section=commands
+caption=Markdown Special Paste\Config
+method=config
+menu=o

@@ -1,0 +1,12 @@
+[info]
+title=Hash Generator
+desc=Dialog which allows to calculate hash sums (several algorithms) for files/strings
+type=cudatext-plugin
+subdir=cuda_hash_gen
+homepage=https://github.com/CudaText-addons/cuda_hash_gen
+
+[item2]
+section=commands
+caption=Hash Generator
+method=dialog
+

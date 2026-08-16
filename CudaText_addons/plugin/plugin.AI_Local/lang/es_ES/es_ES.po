@@ -1,0 +1,82 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-03-02 12:22-0300\n"
+"PO-Revision-Date: 2025-03-02 12:29-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:203
+msgid "Hotkey: Enter"
+msgstr ""
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:216
+msgid "Enter the prompt text for the selected text (or /help):"
+msgstr "Escriba el Prompt para el texto seleccionado (or /help):"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:370
+msgid "Option 1: select the text and type the prompt"
+msgstr "Opción 1: selecciones el texto y escriba el Promp"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:371
+msgid "Option 2: just type the prompt"
+msgstr "Opcion 2: o solo escriba el Prompt"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:372
+msgid "/clear: clear the console text"
+msgstr "/clear: limpia el texto de la consola"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:373
+msgid "/insert: insert console selected text to the current document"
+msgstr "/insert: inserta el texto de la consola en el documento actual"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:381
+msgid ""
+"\n"
+"User prompt\n"
+msgstr ""
+"\n"
+"Prompt de Usuario\n"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:405
+msgid "Answer"
+msgstr "Respuesta"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:430
+msgid "Sorry, I couldn't get a response."
+msgstr "Lo siento, no pude obtener respuesta."
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:434
+msgid "Error: Request failed with status code "
+msgstr "Error: Solicitud fallida con código de estado "
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:514
+msgid "Inserted item %d..."
+msgstr "Elemento insertado %d..."
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:522
+msgid "AI Local: bad icons folder name: \"%s\""
+msgstr "AI Local: nombre de carpeta de iconos incorrecto: \"%s\""
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:525
+msgid "AI Local: bad icons size: \"%s\""
+msgstr "AI Local: mal tamaño de los iconos: \"%s\""
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:546
+msgid "Open Project action"
+msgstr "Acción Proyecto Abierto"
+
+#: d:\Utiles\Cudatext\DOCs\000HowToMakePlugin\AIOllama\LANG_Translate\__init__.py:551
+msgid "Save Project As action"
+msgstr "Acción Guardar proyecto como"

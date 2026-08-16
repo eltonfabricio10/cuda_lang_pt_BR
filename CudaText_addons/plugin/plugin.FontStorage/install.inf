@@ -1,0 +1,11 @@
+[info]
+title=FontStorage
+desc=In CSS code, inserts usage of external fonts from FontStorage.com site
+type=cudatext-plugin
+subdir=cuda_webfont
+homepage=https://github.com/CudaText-addons/cuda_webfont
+
+[item1]
+section=commands
+caption=FontStorage
+method=run

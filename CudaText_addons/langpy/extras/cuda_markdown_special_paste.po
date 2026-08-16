@@ -1,0 +1,47 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:54
+msgid "Cannot import Project Manager in Markdown Special Paste plugin"
+msgstr "Não é possível importar o Gerenciador de Projetos no plugin Markdown Special Paste"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:96
+#, python-format
+msgid "Bad value in plugins.ini [%s] %s"
+msgstr "Valor inválido em plugins.ini [%s] %s"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:123
+msgid "Cannot paste picture in the untitled tab"
+msgstr "Não é possível colar uma imagem na aba sem título"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:133
+#, python-brace-format
+msgid ""
+"Clipboard contains some picture.\n"
+"Save it to file in: \"{}\"\n"
+"(without \".{}\"):"
+msgstr "A área de transferência contém alguma imagem.\nSalve-o no arquivo em: \"{}\"\n(sem \".{}\"):"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:142
+msgid "File already exists: "
+msgstr "O arquivo já existe: "
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:147
+msgid "Cannot save clipboard to file: "
+msgstr "Não é possível salvar a área de transferência no arquivo: "

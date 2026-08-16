@@ -1,0 +1,26 @@
+[info]
+title=Dash Help
+desc=Opens Dash help pages, for selected text or current word
+type=cudatext-plugin
+subdir=cuda_dash_help
+homepage=http://github.com/cudatext-addons/cuda_dash_help
+
+[item1]
+section=commands
+caption=Dash Help\Syntax-sensitive, in foreground
+method=run_syntax_foreground
+
+[item2]
+section=commands
+caption=Dash Help\Syntax-sensitive, in background
+method=run_syntax_background
+
+[item3]
+section=commands
+caption=Dash Help\Ignore syntax, in foreground
+method=run_nosyntax_foreground
+
+[item4]
+section=commands
+caption=Dash Help\Ignore syntax, in background
+method=run_nosyntax_background

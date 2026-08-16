@@ -1,0 +1,19 @@
+2025.03.14
++ add: in the case of missing installed libs (lxml, cssselect) show nice error message-box
+
+2022.07.31
+* change: removed Python libs for Windows, changed the readme.txt info about installation
+
+2022.07.29
++ add: support several class-names space-separated
++ add: remove CSS comments from output
++ add: change UI control 'label' to 'listbox_ex' which has vert scrollbar
++ add: CudaText sidebar always shows plugin's icon
++ add: plugin is not activated (even in HTML files) until you call it by menu item or sidebar button
+- fix: many exceptions
+
+2019.04.01
++ add: support included CSS files: <link rel="stylesheet" type="text/css" href="style.css">
+
+2019.03.10
+initial version

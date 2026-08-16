@@ -1,0 +1,60 @@
+[info]
+title=Online Search
+desc=Opens webbrowser with search for selection/word, supports several search engines
+type=cudatext-plugin
+subdir=cuda_online_search
+homepage=http://github.com/cudatext-addons/cuda_online_search
+
+[item1]
+section=commands
+caption=Online Search\Wikipedia
+method=do_wikipedia
+
+[item5]
+section=commands
+caption=Online Search\Google
+method=do_google
+
+[item6]
+section=commands
+caption=Online Search\Bing
+method=do_bing
+
+[item10]
+section=commands
+caption=Online Search\MSDN
+method=do_msdn
+
+[item20]
+section=commands
+caption=Online Search\HTML4
+method=do_html4
+
+[item21]
+section=commands
+caption=Online Search\HTML5
+method=do_html5
+
+[item25]
+section=commands
+caption=Online Search\PHP.net
+method=do_php
+
+[item26]
+section=commands
+caption=Online Search\Laravel Docs
+method=do_laravel
+
+[item27]
+section=commands
+caption=Online Search\WordPress
+method=do_wordpress
+
+[item28]
+section=commands
+caption=Online Search\1C-Bitrix
+method=do_bitrix
+
+[item101]
+section=events
+events=on_click_right

@@ -2,6 +2,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ADDON_ROOT="${CUDATEXT_ADDONS_DIR:-$ROOT_DIR/CudaText_addons}"
 REGISTRY_URL="https://raw.githubusercontent.com/Alexey-T/CudaText-registry/master/json/plugins.json"
 
 command -v curl >/dev/null 2>&1 || {
@@ -14,10 +15,10 @@ command -v jq >/dev/null 2>&1 || {
 }
 
 registry_modules="$(curl -fsSL "$REGISTRY_URL" | jq -r '.[].module' | sort -u)"
-menu_modules="$(find "$ROOT_DIR/langmenu" -mindepth 1 -maxdepth 1 -type d -printf '%f\n' | sort -u)"
-po_modules="$(find "$ROOT_DIR/langpy/extras" -maxdepth 1 -type f -name '*.po' -printf '%f\n' \
+menu_modules="$(find "$ADDON_ROOT/langmenu" -mindepth 1 -maxdepth 1 -type d -printf '%f\n' | sort -u)"
+po_modules="$(find "$ADDON_ROOT/langpy/extras" -maxdepth 1 -type f -name '*.po' -printf '%f\n' \
     | sed 's/\.po$//' | sed 's/-bkp$//' | sort -u)"
-mo_modules="$(find "$ROOT_DIR/langpy/pt_BR/LC_MESSAGES" -maxdepth 1 -type f -name '*.mo' -printf '%f\n' \
+mo_modules="$(find "$ADDON_ROOT/langpy/pt_BR/LC_MESSAGES" -maxdepth 1 -type f -name '*.mo' -printf '%f\n' \
     | sed 's/\.mo$//' | sort -u)"
 
 printf '%s\n' "Plugins registrados: $(printf '%s\n' "$registry_modules" | sed '/^$/d' | wc -l)"

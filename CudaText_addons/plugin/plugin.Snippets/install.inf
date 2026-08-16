@@ -1,0 +1,75 @@
+[info]
+title=Snippets
+desc=Snippets engine, described in CudaText wiki. Snippets are expanded by Tab-key or can be called from menu.
+type=cudatext-plugin
+subdir=cuda_snippets
+homepage=https://github.com/CudaText-addons/cuda_snippets
+
+[item1]
+section=events
+events=on_key+
+keys=9
+
+;[item2]
+;section=events
+;events=on_start
+
+[item3]
+section=commands
+caption=Snippets\Snippets menu...
+method=do_menu
+
+[item30]
+section=commands
+caption=Snippets\Add/edit snippets...
+method=show_snipman
+
+[item4]
+section=commands
+caption=Snippets\Delete snippet markers
+method=del_markers
+
+[item10]
+section=commands
+caption=Snippets\-
+method=_
+
+[item11]
+section=commands
+caption=Snippets\Install VSCode snippets...
+method=install_vs_snip
+
+[item12]
+section=commands
+caption=Snippets\Remove VSCode snippets...
+method=remove_vs_snip
+
+[item13]
+section=commands
+caption=Snippets\Visit homepage of VSCode snippets...
+method=issues_vs
+
+[item20]
+section=commands
+caption=Addons Manager\-
+method=_
+
+[item21]
+section=commands
+caption=Addons Manager\Install VSCode snippets...
+method=install_vs_snip
+
+[item22]
+section=commands
+caption=Addons Manager\Remove VSCode snippets...
+method=remove_vs_snip
+
+[item23]
+section=commands
+caption=Addons Manager\Visit homepage of VSCode snippets...
+method=issues_vs
+
+[item99]
+section=commands
+caption=Snippets\Convert snippets package from old format
+method=convert_from_old_format

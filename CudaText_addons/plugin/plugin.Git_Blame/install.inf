@@ -1,0 +1,42 @@
+[info]
+title=Git Blame
+desc=Quickly show git blame information.
+type=cudatext-plugin
+subdir=cuda_git_blame
+homepage=https://github.com/ThaiDat/cuda_git_blame
+
+[item10]
+section=commands
+caption=Git Blame\Blame current line
+method=do_blame_current_line
+
+[item11]
+section=commands
+caption=Git Blame\Blame analyze file
+method=do_blame_analyze
+
+[item12]
+section=commands
+caption=Git Blame\See current line history
+method=do_see_line_history
+
+[item13]
+section=commands
+caption=Git Blame\See file history
+method=do_see_file_history
+
+[item14]
+section=commands
+caption=Git Blame\See file history by committer
+method=do_see_file_history_by_commiter
+
+[item15]
+section=commands
+caption=Git Blame\View file content in history
+method=do_view_file_content_past
+
+[item100]
+section=commands
+caption=Git Blame\Config
+method=do_config
+menu=o

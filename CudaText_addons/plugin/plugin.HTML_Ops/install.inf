@@ -1,0 +1,251 @@
+[info]
+title=HTML Ops
+desc=Commands to work with HTML/CSS
+type=cudatext-plugin
+subdir=cuda_html_ops
+homepage=https://github.com/cudatext-addons/cuda_html_ops
+$html=regex:.*HTML.*
+
+;--------------
+[item1]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Default, new tab
+method=preview_tab
+
+[item2]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Default, new window
+method=preview_window
+
+[item3]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Chrome, new tab
+method=preview_tab_chrome
+
+[item4]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Chrome, new window
+method=preview_window_chrome
+
+[item5]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Firefox, new tab
+method=preview_tab_firefox
+
+[item6]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Firefox, new window
+method=preview_window_firefox
+
+[item7]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Safari, new tab
+method=preview_tab_safari
+
+[item8]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Safari, new window
+method=preview_window_safari
+
+[item9]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Opera, new tab
+method=preview_tab_opera
+
+[item10]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Opera, new window
+method=preview_window_opera
+
+[item11]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Windows default, new tab
+method=preview_tab_windows
+
+[item12]
+section=commands
+caption=HTML Ops\Preview HTML in browser\Windows default, new window
+method=preview_window_windows
+
+;---------------
+[item20]
+section=commands
+caption=HTML Ops\Add new tag, or wrap selection in tag (Sublime like)
+method=tag_new_or_wrap
+
+[item25]
+section=commands
+caption=HTML Ops\HTML selection to CSS classes, copy to clipboard
+method=to_css_classes
+
+[item26]
+section=commands
+caption=HTML Ops\HTML selection to CSS classes, copy to clipboard, compact
+method=to_css_classes_compact
+
+[item30]
+section=commands
+caption=HTML Ops\Convert selection px<->rem
+method=convert_px_rem
+
+[item40]
+section=commands
+caption=HTML Ops\Insert <img> tag (or css lines) with picture info
+method=insert_image_info
+
+[item51]
+section=commands
+caption=HTML Ops\Convert lines to list\To ordered list
+method=to_list_o
+[item52]
+section=commands
+caption=HTML Ops\Convert lines to list\To unordered list
+method=to_list_u
+[item53]
+section=commands
+caption=HTML Ops\Convert lines to list\To table, by lines
+method=to_table_lines
+[item54]
+section=commands
+caption=HTML Ops\Convert lines to list\To table, by columns
+method=to_table_cols
+
+
+[item61]
+section=commands
+caption=HTML Ops\Online HTML5 validator
+method=validate_html5
+
+;[item62]
+;section=commands
+;caption=HTML Ops\Online HTML validator\HTML4
+;method=validate_html4_strict
+
+;[item63]
+;section=commands
+;caption=HTML Ops\Online HTML validator\HTML4 Transitional
+;method=validate_html4_tran
+
+;--------------
+[item100]
+section=commands
+caption=HTML Ops\Wrap in tag\<b>
+method=wrap_b
+[item101]
+section=commands
+caption=HTML Ops\Wrap in tag\<i>
+method=wrap_i
+[item102]
+section=commands
+caption=HTML Ops\Wrap in tag\<u>
+method=wrap_u
+[item103]
+section=commands
+caption=HTML Ops\Wrap in tag\<p>
+method=wrap_p
+[item104]
+section=commands
+caption=HTML Ops\Wrap in tag\<div>
+method=wrap_div
+[item105]
+section=commands
+caption=HTML Ops\Wrap in tag\<span>
+method=wrap_span
+[item106]
+section=commands
+caption=HTML Ops\Wrap in tag\<pre>
+method=wrap_pre
+[item107]
+section=commands
+caption=HTML Ops\Wrap in tag\<strong>
+method=wrap_strong
+[item108]
+section=commands
+caption=HTML Ops\Wrap in tag\<em>
+method=wrap_em
+[item109]
+section=commands
+caption=HTML Ops\Wrap in tag\<ul>
+method=wrap_ul
+[item110]
+section=commands
+caption=HTML Ops\Wrap in tag\<ol>
+method=wrap_ol
+[item111]
+section=commands
+caption=HTML Ops\Wrap in tag\<li>
+method=wrap_li
+[item112]
+section=commands
+caption=HTML Ops\Wrap in tag\<sub>
+method=wrap_sub
+[item113]
+section=commands
+caption=HTML Ops\Wrap in tag\<sup>
+method=wrap_sup
+[item114]
+section=commands
+caption=HTML Ops\Wrap in tag\<small>
+method=wrap_small
+[item115]
+section=commands
+caption=HTML Ops\Wrap in tag\<bdi>
+method=wrap_bdi
+[item116]
+section=commands
+caption=HTML Ops\Wrap in tag\<h1>
+method=wrap_h1
+[item117]
+section=commands
+caption=HTML Ops\Wrap in tag\<h2>
+method=wrap_h2
+[item118]
+section=commands
+caption=HTML Ops\Wrap in tag\<h3>
+method=wrap_h3
+[item119]
+section=commands
+caption=HTML Ops\Wrap in tag\<h4>
+method=wrap_h4
+[item120]
+section=commands
+caption=HTML Ops\Wrap in tag\<h5>
+method=wrap_h5
+[item121]
+section=commands
+caption=HTML Ops\Wrap in tag\<h6>
+method=wrap_h6
+[item122]
+section=commands
+caption=HTML Ops\Wrap in tag\<blockquote>
+method=wrap_blockquote
+[item123]
+section=commands
+caption=HTML Ops\Wrap in tag\<q>
+method=wrap_q
+[item124]
+section=commands
+caption=HTML Ops\Wrap in tag\<cite>
+method=wrap_cite
+
+
+[item250]
+section=commands
+caption=HTML Ops\-
+method=-
+
+[item251]
+section=commands
+caption=HTML Ops\Increase value
+method=increment
+
+[item252]
+section=commands
+caption=HTML Ops\Decrease value
+method=decrement
+
+[item400]
+section=events
+events=on_key
+lexers=$html
+keys=13

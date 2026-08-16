@@ -1,0 +1,104 @@
+2026.03.05
++ add: Reopen current file after using "Git Status: Restore file" command to see changes faster (by @veksha)
+
+2025.12.05
++ add: "Reset" commands (by @ildarkhasanshin)
+
+2024.01.16
++ add: Commit message input dialog is now multi-line (by @veksha)
++ add: support detached HEAD and show [detached] on badge (by @veksha)
+- fix: "Pull" msgbox with question replaced with input dialog (by @veksha)
+
+2024.01.14
+- fix: "Get log", "Get status" and alike dialogs are scaled according to DPI (by @veksha)
+
+2023.12.25
+* change: replace "Commit/amend" menu item to 2 items: "Edit previous commit's message (amend)" + "Combine... with previous commit (amend)", which become visible only when needed (by @veksha)
+
+2023.12.16
++ add: save/restore sizes of Diff dialog
++ add: command 'Config' scrolls to plugin's section
+
+2023.05.28
+- fix: properly set back-color of Git statusbar cell if Vim Mode plugin is also used
+
+2022.11.11
+- fix: avoid editor hanging, if Git path is wrong (by @veksha)
+
+2022.10.12
+- fix: if untitled tab is opened on startup, plugin could show error "not a git reposotiry" (by @veksha)
+
+2022.09.17
++ add: under CudaText 1.171+, plugin handles situation 'app config was reloaded' and moves Git-cell to righter OK position
+
+2022.07.25
+- fix: supress Unicode-decode error for non-UTF8 files
+
+2022.07.04
++ add: change usage of API dlg_custom -> dlg_proc
+
+2022.06.14
+- fix: "Add file..." menu item was incorrecly disabled for files in subdirs (by @veksha)
+
+2022.06.08
++ add: menu item "Plugins / Git Status / Rebase (interactive)" (by @veksha and Alexey T.)
+
+2022.06.02
++ add: menu items, only in Plugins menu: "Push (force)" and "Push (set upsteam)" (by @veksha)
++ add: menu item "Checkout" with list of all branches + "new branch" item (by @veksha)
++ add: 'pull' command suggests to choose a 'remote' (by @veksha)
++ add: show error message-box if 'fatal' Git error occurs (by @veksha)
+
+2022.05.29
++ add: menu items "View file changes" and "View all changes", which show diff in a dialog (by @veksha)
+
+2022.05.13
++ add: show console 'NOTE: .....' line if Git writes to stderr (thanks @veksha)
+- fix: hanging of 'Get log' on Windows (thanks @veksha)
+
+2022.04.18
++ add: 'Commit (amend)' and 'Pull' menu items (by @ildarkhasanshin)
++ add: disable 'push' menu item when needed
++ add: show proper branch name in the 'push' parameters
+
+2022.04.14
++ add: options for 'status' dialog width/height
++ add: more menu items in the statusbar click menu
++ add: click on the Git statusbar cell shows new menu with several commands (by @ildarkhasanshin and Alexey T.)
+
+2022.04.12
++ added: option "decor_style" (by Alexey)
+
+2022.04.10
++ added: commands for jump to git-changes (by @ildarkhasanshin)
+
+2022.04.10
+* change: config file is now settings/plugins.ini (by Alexey)
++ added: changed Git lines are now marked on the gutter by a color mark (by @ildarkhasanshin)
+
+2022.04.05
+* change: get the branch info using Git key "rev-parse" (by @ildarkhasanshin)
+
+2021.07.13
+- fix: don't call Git too often (@halfbrained)
+- fix: plugin didn't work with non-EN locale on Linux (@ildarkhasanshin)
+
+2021.06.03
+* change: git_manager part is rewritten by @demanuel, to speedup ui tab-switching
+* change: move git manager to a thread (@halfbrained)
+* change: ignore unnecessary `on_open()` during session-loading (@halfbrained)
+- fix: main code refactored to fix plugin's cell position as first cell
+
+2018.04.15
++ changed event on_focus->on_tab_change
+- fixed distorted statusbar icon
+
+2018.01.15
++ auto-hide icon and cell in the statusbar, for non-git files
++ config file: added option "white_icon" (0/1)
+
+2018.01.15
++ config file added with 2 options; to open, use "Options / Settings-plugins / Git Status / Config", then restart app
+
+2018.01.14
+initial port from Sublime Text plugin

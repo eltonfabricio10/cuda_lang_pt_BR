@@ -1,0 +1,28 @@
+[info]
+title=Vim Mode
+desc=Allows to use Vim key bindings
+type=cudatext-plugin
+subdir=cuda_vim_mode
+homepage=https://github.com/CudaText-addons/cuda_vim_mode
+api=1.0.435
+
+[item1]
+section=events
+events=on_key,on_insert,on_start2,on_open,on_state
+
+[item2]
+section=commands
+caption=Vim Mode\Toggle
+method=toggle_active
+
+[item10]
+section=commands
+caption=Vim Mode\Config
+method=config
+menu=o
+
+[item12]
+section=commands
+caption=Vim Mode\Remap Esc key
+method=config_esc
+menu=o

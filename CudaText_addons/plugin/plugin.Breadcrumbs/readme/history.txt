@@ -1,0 +1,35 @@
+2025.12.29
+- fix: avoid deprecated API
+
+2025.11.20
+- fix: avoid deprecated API
+
+2024.03.21
+- fix: avoid deprecated API
+
+2023.06.14
++ add: option "show_bar" (by @mix-7)
+
+2023.06.04
+- fix: crash when entering search-text in 'search' field and press Enter
++ add: put caret on ini-section, when calling Config command
+
+2023.02.27
++ add: options "dialog width" and "dialog height" (by Alexey T.)
+
+2022.10.20
+- fix: after switch to ui-tab w/o lexer, plugin must clear it's code-tree cells (by Alexey T.)
+
+2021.07.09
++ add: file system tree-dialog: go up a level on <Shift+Backspace>
+
+2021.07.15
++ add: plugin shows additional buttons from the code-tree, ie gives navigation inside the document symbols
++ add: tree-dialog has additional "Search" field, and handles F3 to find-next, Shift+F3 to find-previous
++ add: added commands in the "Plugins / Breadcrumbs": "Show file-tree", "Show code-tree"
++ add: Ctrl+click in the tree-dialog _replaces_ the current tab with the clicked file
++ add: plugin works also for CudaText picture-tabs and binary-viewer-tabs
++ add: options (to show code-tree buttons, to show path-separator, etc)
+
+2021.07.04
+initial version

@@ -1,0 +1,47 @@
+[info]
+title=Highlight Occurrences
+desc=Highlights/Marks all occurrences of current/selected word/fragment
+type=cudatext-plugin
+subdir=cuda_hilite_occurrences
+homepage=https://github.com/CudaText-addons/cuda_hilite_occurrences
+api=1.0.471
+
+[item1]
+section=events
+events=on_caret,on_state,on_change_slow
+
+[item2]
+section=commands
+caption=&Highlight Occurrences\Move to &first occurrence
+method=move_first
+
+[item3]
+section=commands
+caption=&Highlight Occurrences\Move to &last occurrence
+method=move_last
+
+[item4]
+section=commands
+caption=&Highlight Occurrences\Move to &previous occurrence
+method=move_prev
+
+[item5]
+section=commands
+caption=&Highlight Occurrences\Move to &next occurrence
+method=move_next
+
+[item10]
+section=commands
+caption=&Highlight Occurrences\-
+method=_
+
+[item11]
+section=commands
+caption=&Highlight Occurrences\Select &all occurrences
+method=select_all
+
+[item21]
+section=commands
+caption=Highlight Occurrences\Config...
+method=config
+menu=o

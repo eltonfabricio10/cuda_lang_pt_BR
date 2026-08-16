@@ -1,0 +1,37 @@
+2026.03.03
++ add: new options "font_filter_name", "font_filter_size"
++ add: new command "Open, focus filter"
+
+2025.11.11 (by @badrelmers)
++ add: Add drag-and-drop functionality to reorder tabs directly within the list.
++ add: Tabs can be moved between different editor groups (e.g., from "Group 1" to a "Floating" group).
++ add: The list now displays headers for each tab group, making it easier to see tab organization.
++ add: Add auto-scrolling when dragging a tab near the top or bottom of the list.
++ add: Add new configuration option: `auto_scroll_speed` (in `cuda_tabs_list.ini`).
+* change: The filter input box now respects the `font_name` and `font_size` settings from the config.
+
+2019.07.17
++ add: added config file with few options: show_index_group, show_index_tab, font_name, font_size
+
+2018.03
+* change: removed Config dialog
+
+2018.02
++ add: plugin has always visible sidebar button
+
+2017.06.08
++ add: command "Config" which shows dialog
+
+2017.03.24
++ add: option in __init__.py "option_open_at_start"
+
+2016.07.22
++ add: change of tab-is-modified shows in list as '*'
++ add: tab-indexes in brackets hidden
+
+2016.04.21
++ add: auto-load on start
+- fix: for "Find in Files"
+
+2016.02
+initial version

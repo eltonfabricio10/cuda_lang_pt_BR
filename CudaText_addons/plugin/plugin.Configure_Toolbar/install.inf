@@ -1,0 +1,40 @@
+[info]
+title=Configure Toolbar
+desc=Configures main toolbar in CudaText: icon-set and buttons
+type=cudatext-plugin
+subdir=cuda_config_toolbar
+homepage=https://github.com/CudaText-addons/cuda_config_toolbar
+
+[item1]
+section=events
+events=on_start,on_lexer,on_focus,on_open
+
+[item2]
+section=commands
+caption=Configure Toolbar\Configure buttons...
+method=do_buttons
+
+[item3]
+section=commands
+caption=Configure Toolbar\Hide standard buttons...
+method=hide_std
+
+[item10]
+section=commands
+caption=Configure Toolbar\-
+method=_
+
+[item12]
+section=commands
+caption=Configure Toolbar\Choose icon-set of main toolbar...
+method=icons_toolbar
+
+[item13]
+section=commands
+caption=Configure Toolbar\Choose icon-set of sidebar...
+method=icons_sidebar
+
+[item15]
+section=commands
+caption=Configure Toolbar\Choose icon-set of code tree...
+method=icons_codetree

@@ -1,0 +1,30 @@
+[info]
+title=CSS Table of Contents
+desc=For CSS files: creates table-of-contents, its sections/sub-sections
+type=cudatext-plugin
+subdir=cuda_css_toc
+homepage=https://github.com/CudaText-addons/cuda_css_toc
+
+[item1]
+section=commands
+caption=CSS Table of Contents\Create section
+method=do_section
+lexers=CSS
+
+[item2]
+section=commands
+caption=CSS Table of Contents\Create sub-section
+method=do_section_sub
+lexers=CSS
+
+[item3]
+section=commands
+caption=CSS Table of Contents\Create sub-sub-section
+method=do_section_sub_sub
+lexers=CSS
+
+[item4]
+section=commands
+caption=CSS Table of Contents\Create TOC
+method=do_toc
+lexers=CSS

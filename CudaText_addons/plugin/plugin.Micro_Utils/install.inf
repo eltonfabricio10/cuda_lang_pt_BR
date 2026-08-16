@@ -1,0 +1,26 @@
+[info]
+title=Micro Utils
+desc=Minor commands to work with bin/hex numbers, etc
+type=cudatext-plugin
+subdir=cuda_micro_utils
+homepage=https://github.com/CudaText-addons/cuda_micro_utils
+
+[item1]
+section=commands
+caption=Micro Utils\Sort lines by length
+method=sort_by_len
+
+[item2]
+section=commands
+caption=Micro Utils\Binary Sum, show in messagebox
+method=binarysum_msg
+
+[item3]
+section=commands
+caption=Micro Utils\Binary Sum, show in editor
+method=binarysum_editor
+
+[item10]
+section=commands
+caption=Micro Utils\Convert base-2 numbers to hex NNNN_NNNN form
+method=base2tohex

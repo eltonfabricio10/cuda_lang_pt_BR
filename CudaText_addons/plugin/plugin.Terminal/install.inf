@@ -1,0 +1,27 @@
+[info]
+title=Terminal
+desc=Gives "Terminal" panel in the bottom panel of CudaText
+type=cudatext-plugin
+subdir=cuda_terminal
+homepage=https://github.com/Artem3213212/cuda_terminal
+api=1.0.344
+
+[item1]
+section=events
+events=on_exit
+
+[item2]
+section=commands
+caption=Terminal
+method=open
+
+[item10]
+section=commands
+caption=Terminal\Config
+method=config
+menu=o
+
+[bottombar1]
+hint=Terminal
+icon={dir}/terminal.png
+method=open

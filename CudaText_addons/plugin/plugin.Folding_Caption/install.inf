@@ -1,0 +1,27 @@
+[info]
+title=Folding Caption
+desc=Shows, in the new 'statusbar' at the editor top, the chain of blocks containing line with caret. Looks like a breadcrumb bar, but for folding blocks.
+type=cudatext-plugin
+subdir=cuda_folding_caption
+homepage=https://github.com/ildarkhasanshin/cuda_folding_caption/
+api=1.0.448
+
+[item1]
+section=events
+events=on_caret_slow,on_focus,on_close
+
+[item2]
+section=commands
+caption=Folding Caption\Go to level above
+method=go_level_above
+
+[item3]
+section=commands
+caption=Folding Caption\Go to root-level
+method=go_level_root
+
+[item10]
+section=commands
+caption=Folding Caption\Config
+method=config
+menu=o

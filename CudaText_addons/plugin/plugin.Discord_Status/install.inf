@@ -1,0 +1,30 @@
+[info]
+title=Discord Status
+desc=Plugin for displaying your status in the Discord
+type=cudatext-plugin
+subdir=cuda_discord_status
+homepage=https://github.com/CudaText-addons/cuda_discord_status
+
+[item1]
+section=events
+events=on_app_activate,on_app_deactivate,on_close,on_exit,on_open,on_save,on_focus,on_start,on_tab_change,on_change,on_lexer
+
+[item2]
+section=commands
+caption=Discord Status\Connect
+method=connect
+
+[item3]
+section=commands
+caption=Discord Status\Disconnect
+method=close_session
+
+[item4]
+section=commands
+caption=Discord Status\Restart
+method=restart
+
+[item5]
+section=commands
+caption=Discord Status\Settings
+method=edit_card

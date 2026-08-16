@@ -1,0 +1,142 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:19
+msgid "@critical"
+msgstr "@critical"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:20
+msgid "@high"
+msgstr "@high"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:21
+msgid "@low"
+msgstr "@low"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:22
+msgid "@today"
+msgstr "@today"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:38
+msgid ""
+"Plugin \"Plain Tasks\" could not find its required lexer ToDo. Please "
+"install this lexer from \"Plugins / Addon Manager / Install\" and restart "
+"CudaText."
+msgstr "O plug-in \"Plain Tasks\" não conseguiu encontrar o ToDo da linguagem necessário. Instale este linguagem em \"Plugins / Addon Manager / Install\" e reinicie o CudaText."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:118
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:16
+msgid "@created"
+msgstr "@created"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/__init__.py:249
+#, python-brace-format
+msgid "@project({})"
+msgstr "@project({})"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:61
+msgid "Character of opened task, one of:"
+msgstr "Caractere da tarefa aberta, um de:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:68
+msgid "Character of completed task, one of:"
+msgstr "Caractere da tarefa concluída, um de:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:75
+msgid "Character of cancelled task, one of:"
+msgstr "Caractere da tarefa cancelada, um de:"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:82
+msgid ""
+"Format of date/time. Possible macro characters are:  %a: First three "
+"characters of the weekday, e.g. Wed.  %A: Full name of the weekday, e.g. "
+"Wednesday.  %B: Full name of the month, e.g. September.  %w: Weekday as a "
+"number, from 0 to 6, with Sunday being 0.  %m: Month as a number, from 01 to "
+"12.  %p: AM/PM for time.  %y: Year in two-digit format, that is, without the "
+"century. For example, '19' instead of '2019'.  %Y: Year in four-digit "
+"format. For example '2019'.  %f: Microsecond from 000000 to 999999.  %Z: "
+"Timezone.  %z: UTC offset.  %j: Number of the day in the year, from 001 to "
+"366.  %W: Week number of the year, from 00 to 53, with Monday being counted "
+"as the first day of the week.  %U: Week number of the year, from 00 to 53, "
+"with Sunday counted as the first day of each week.  %c: Local date and time "
+"version.  %x: Local version of date.  %X: Local version of time."
+msgstr "Formato de data/hora. Os caracteres macro possíveis são: %a: Os três primeiros caracteres do dia da semana, por ex. Qua.  %A: Nome completo do dia da semana, por ex. Quarta-feira.  %B: Nome completo do mês, por ex. Setembro.  %w: Dia da semana como número, de 0 a 6, sendo domingo 0. %m: Mês como número, de 01 a 12. %p: AM/PM para horário.  %y: Ano no formato de dois dígitos, ou seja, sem século. Por exemplo, '19' em vez de '2019'.  %Y: Ano em formato de quatro dígitos. Por exemplo '2019'.  %f: Microssegundo de 000000 a 999999. %Z: Fuso horário.  %z: deslocamento UTC.  %j: Número do dia do ano, de 001 a 366. %W: Número da semana do ano, de 00 a 53, sendo a segunda-feira contada como primeiro dia da semana.  %U: Número da semana do ano, de 00 a 53, sendo o domingo contado como primeiro dia de cada semana.  %c: Versão local de data e hora.  %x: Versão local da data.  %X: Versão local da hora."
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:104
+msgid "Caption which is inserted above archived tasks"
+msgstr "Legenda inserida acima das tarefas arquivadas"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:109
+msgid "When creating new task, add tag @created"
+msgstr "Ao criar uma nova tarefa, adicionar a tag @created"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:114
+msgid "When task is changed between Done/Cancelled, add tag @done/@canceled"
+msgstr "Quando a tarefa mudar entre Concluída/Cancelada, adicionar a tag @done/@canceled"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:119
+msgid "When task is changed between Done/Cancelled, add timestamp"
+msgstr "Quando a tarefa mudar entre Concluída/Cancelada, adicionar data e hora"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/setting.py:162
+msgid "Plain Tasks options"
+msgstr "Opções de Tarefas Simples"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:10
+msgid "@done"
+msgstr "@done"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:11
+msgid "@cancelled"
+msgstr "@cancelled"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:12
+msgid "@lasted"
+msgstr "@lasted"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:13
+msgid "@wasted"
+msgstr "@wasted"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:14
+msgid "@started"
+msgstr "@started"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:15
+msgid "@toggle"
+msgstr "@toggle"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:25
+#, python-brace-format
+msgid "{} WARNING: {}"
+msgstr "{} AVISO: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:27
+#, python-brace-format
+msgid "{} ERROR: {}"
+msgstr "{} ERRO: {}"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:208
+#, python-brace-format
+msgid "{}days"
+msgstr "{}dias"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_plain_tasks/utils.py:210
+msgid "1day"
+msgstr "1dia"

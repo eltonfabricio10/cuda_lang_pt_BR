@@ -1,0 +1,4766 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-07-28 22:54-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: py/cuda_palette/__init__.py:90
+msgid "M&ark named"
+msgstr "M&arcar nomeada"
+
+#: py/cuda_palette/__init__.py:91
+msgid "N&earby"
+msgstr "A&proximada"
+
+#: py/cuda_palette/__init__.py:92
+msgid "&No color"
+msgstr "&Sem cor"
+
+#: py/cuda_palette/__init__.py:93 py/cuda_palette/__init__.py:357
+#: py/cuda_palette/cd_plug_lib.py:647
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: py/cuda_palette/__init__.py:94
+msgid "Config..."
+msgstr "Configurar..."
+
+#: py/cuda_palette/__init__.py:96
+msgid " (Shift+Click to preview. Ctrl+Click to copy data)"
+msgstr " (Shift+Click para visualizar. Ctrl+Click para copiar os dados)"
+
+#: py/cuda_palette/__init__.py:97
+msgid "Show/Hide advanced options"
+msgstr "Exibir/Ocultar opções avançadas"
+
+#: py/cuda_palette/__init__.py:98
+msgid "Mark named colors with \"!\""
+msgstr "Marcar o nome das cores com \"!\""
+
+#: py/cuda_palette/__init__.py:99
+msgid "Assign names to some colors, which are \"near\" named colors. Marks show distance to these near colors:\r\"!\" if distance is very low,\r\".\" if distance is small, \r\"..\" all others"
+msgstr "Atribuir nomes em algumas cores, que são cores \"aproximadas\" das nomeadas. Exibir o marcador de distância para estas cores aproximadas:\r\"!\" se a distância for muito curta,\r\".\" se a distância for curta, \r\"..\" todas as outras"
+
+#: py/cuda_palette/__init__.py:104
+msgid "Point colors which name includes the string"
+msgstr "Cor do ponto que o nome inclui a string"
+
+#: py/cuda_palette/__init__.py:105
+msgid "New color"
+msgstr "Nova cor"
+
+#: py/cuda_palette/__init__.py:106
+msgid "Old color"
+msgstr "Cor antiga"
+
+#: py/cuda_palette/__init__.py:354
+msgid "Select active palettes"
+msgstr "Selecionar paletas ativas"
+
+#: py/cuda_palette/__init__.py:356
+msgid "OK"
+msgstr "OK"
+
+#: py/cuda_palette/__init__.py:362
+msgid "Select some palettes"
+msgstr "Selecionar algumas paletas"
+
+#: py/cuda_palette/__init__.py:851
+msgid "Black"
+msgstr "Preto"
+
+#: py/cuda_palette/__init__.py:852
+msgid "Navy"
+msgstr "Marinha"
+
+#: py/cuda_palette/__init__.py:853
+msgid "Dark blue"
+msgstr "Azul escuro"
+
+#: py/cuda_palette/__init__.py:854
+msgid "Duke blue"
+msgstr "Duque azul"
+
+#: py/cuda_palette/__init__.py:855
+msgid "Medium blue"
+msgstr "Azul médio"
+
+#: py/cuda_palette/__init__.py:856 py/cuda_palette/__init__.py:857
+#: py/cuda_palette/__init__.py:861 py/cuda_palette/__init__.py:911
+#: py/cuda_palette/__init__.py:917 py/cuda_palette/__init__.py:961
+#: py/cuda_palette/__init__.py:1013 py/cuda_palette/__init__.py:1054
+msgid "Blue"
+msgstr "Azul"
+
+#: py/cuda_palette/__init__.py:858
+msgid "Phthalo blue"
+msgstr "Azul ftalo"
+
+#: py/cuda_palette/__init__.py:859 py/cuda_palette/__init__.py:876
+msgid "Dark imperial blue"
+msgstr "Azul imperial escuro"
+
+#: py/cuda_palette/__init__.py:860
+msgid "Zaffre"
+msgstr "Zaffre"
+
+#: py/cuda_palette/__init__.py:862
+msgid "Maastricht blue"
+msgstr "Maastricht azul"
+
+#: py/cuda_palette/__init__.py:863
+msgid "Oxford blue"
+msgstr "Azul oxford"
+
+#: py/cuda_palette/__init__.py:864 py/cuda_palette/__init__.py:1028
+#: py/cuda_palette/__init__.py:1070 py/cuda_palette/__init__.py:1090
+#: py/cuda_palette/__init__.py:1093 py/cuda_palette/__init__.py:1111
+msgid "Royal blue"
+msgstr "Azul real"
+
+#: py/cuda_palette/__init__.py:865
+msgid "Resolution blue"
+msgstr "Resolução azul"
+
+#: py/cuda_palette/__init__.py:866
+msgid "Imperial blue"
+msgstr "Azul imperial"
+
+#: py/cuda_palette/__init__.py:867
+msgid "Cool black"
+msgstr "Preto legal"
+
+#: py/cuda_palette/__init__.py:868
+msgid "International Klein blue"
+msgstr "Internacional Klein azul"
+
+#: py/cuda_palette/__init__.py:869 py/cuda_palette/__init__.py:1181
+msgid "Air Force blue"
+msgstr "Azul da Força Aérea"
+
+#: py/cuda_palette/__init__.py:870
+msgid "Prussian blue"
+msgstr "Azul da Prússia"
+
+#: py/cuda_palette/__init__.py:871
+msgid "Dark midnight blue"
+msgstr "Azul meia-noite escuro"
+
+#: py/cuda_palette/__init__.py:872
+msgid "Smalt, Dark powder blue"
+msgstr "Smalt, azul pó escuro"
+
+#: py/cuda_palette/__init__.py:873
+msgid "UA blue"
+msgstr "U azul"
+
+#: py/cuda_palette/__init__.py:874
+msgid "Royal azure"
+msgstr "Azul real"
+
+#: py/cuda_palette/__init__.py:875 py/cuda_palette/__init__.py:956
+#: py/cuda_palette/__init__.py:957
+msgid "Rich black"
+msgstr "Preto rico"
+
+#: py/cuda_palette/__init__.py:877
+msgid "British racing green"
+msgstr "Verde de corrida britânico"
+
+#: py/cuda_palette/__init__.py:878
+msgid "Warm black"
+msgstr "Preto quente"
+
+#: py/cuda_palette/__init__.py:879
+msgid "Cobalt blue"
+msgstr "Azul cobalto"
+
+#: py/cuda_palette/__init__.py:880
+msgid "Absolute zero"
+msgstr "Zero absoluto"
+
+#: py/cuda_palette/__init__.py:881
+msgid "Midnight green, Eagle green"
+msgstr "Verde meia-noite, verde águia"
+
+#: py/cuda_palette/__init__.py:882
+msgid "Deep jungle green"
+msgstr "Verde profundo da selva"
+
+#: py/cuda_palette/__init__.py:883
+msgid "USAFA blue"
+msgstr "Azul USAFA"
+
+#: py/cuda_palette/__init__.py:884
+msgid "Sacramento state green"
+msgstr "Verde do estado de Sacramento"
+
+#: py/cuda_palette/__init__.py:885 py/cuda_palette/__init__.py:958
+msgid "Dark green"
+msgstr "Verde escuro"
+
+#: py/cuda_palette/__init__.py:886
+msgid "Pakistan green"
+msgstr "Verde paquistanês"
+
+#: py/cuda_palette/__init__.py:887
+msgid "Sapphire blue"
+msgstr "Azul safira"
+
+#: py/cuda_palette/__init__.py:888 py/cuda_palette/__init__.py:921
+#: py/cuda_palette/__init__.py:932 py/cuda_palette/__init__.py:935
+msgid "Deep sky blue"
+msgstr "Céu azul profundo"
+
+#: py/cuda_palette/__init__.py:889
+msgid "Sea blue"
+msgstr "Mar azul"
+
+#: py/cuda_palette/__init__.py:890
+msgid "Bottle green"
+msgstr "Garrafa verde"
+
+#: py/cuda_palette/__init__.py:891
+msgid "Cadmium green"
+msgstr "Verde cádmio"
+
+#: py/cuda_palette/__init__.py:892
+msgid "Honolulu blue"
+msgstr "Honolulu azul"
+
+#: py/cuda_palette/__init__.py:893
+msgid "Dartmouth green"
+msgstr "Dartmouth verde"
+
+#: py/cuda_palette/__init__.py:894
+msgid "Spanish blue"
+msgstr "Azul espanhol"
+
+#: py/cuda_palette/__init__.py:895
+msgid "Brandeis blue"
+msgstr "Brandeis azul"
+
+#: py/cuda_palette/__init__.py:896
+msgid "French blue"
+msgstr "Azul francês"
+
+#: py/cuda_palette/__init__.py:897
+msgid "True blue"
+msgstr "Azul verdadeiro"
+
+#: py/cuda_palette/__init__.py:898
+msgid "Skobeloff"
+msgstr "Skobeloff"
+
+#: py/cuda_palette/__init__.py:899
+msgid "Tropical rain forest"
+msgstr "Floresta tropical"
+
+#: py/cuda_palette/__init__.py:900
+msgid "Ocean boat blue"
+msgstr "Barco oceano azul"
+
+#: py/cuda_palette/__init__.py:901
+msgid "CG blue"
+msgstr "CG azul"
+
+#: py/cuda_palette/__init__.py:902
+msgid "Celadon blue"
+msgstr "Azul Celadon"
+
+#: py/cuda_palette/__init__.py:903
+msgid "Star command blue"
+msgstr "Comando estrela azul"
+
+#: py/cuda_palette/__init__.py:904
+msgid "Spanish viridian"
+msgstr "viridiano espanhol"
+
+#: py/cuda_palette/__init__.py:905
+msgid "Generic viridian"
+msgstr "Viridiano genérico"
+
+#: py/cuda_palette/__init__.py:906 py/cuda_palette/__init__.py:1331
+#: py/cuda_palette/__init__.py:1669 py/cuda_palette/__init__.py:1873
+msgid "Azure"
+msgstr "Azul"
+
+#: py/cuda_palette/__init__.py:907 py/cuda_palette/__init__.py:912
+#: py/cuda_palette/__init__.py:924 py/cuda_palette/__init__.py:925
+#: py/cuda_palette/__init__.py:928 py/cuda_palette/__init__.py:931
+#: py/cuda_palette/__init__.py:942 py/cuda_palette/__init__.py:947
+#: py/cuda_palette/__init__.py:1007 py/cuda_palette/__init__.py:1213
+msgid "Green"
+msgstr "Verde"
+
+#: py/cuda_palette/__init__.py:908
+msgid "Teal"
+msgstr "Cerceta"
+
+#: py/cuda_palette/__init__.py:909
+msgid "Teal green"
+msgstr "Verde-azulado"
+
+#: py/cuda_palette/__init__.py:910 py/cuda_palette/__init__.py:937
+#: py/cuda_palette/__init__.py:946 py/cuda_palette/__init__.py:950
+#: py/cuda_palette/__init__.py:1087
+msgid "Turquoise"
+msgstr "Turquesa"
+
+#: py/cuda_palette/__init__.py:913 py/cuda_palette/__init__.py:943
+#: py/cuda_palette/__init__.py:948 py/cuda_palette/__init__.py:953
+msgid "Spring green"
+msgstr "Primavera verde"
+
+#: py/cuda_palette/__init__.py:914
+msgid "Dark cyan"
+msgstr "Ciano escuro"
+
+#: py/cuda_palette/__init__.py:915
+msgid "Islamic green"
+msgstr "Verde islâmico"
+
+#: py/cuda_palette/__init__.py:916
+msgid "Spanish green"
+msgstr "Verde espanhol"
+
+#: py/cuda_palette/__init__.py:918
+msgid "Bondi blue"
+msgstr "Bondi azul"
+
+#: py/cuda_palette/__init__.py:919
+msgid "Viridian green"
+msgstr "Verde viridiano"
+
+#: py/cuda_palette/__init__.py:920
+msgid "Green-cyan"
+msgstr "Verde-ciano"
+
+#: py/cuda_palette/__init__.py:922
+msgid "Paolo Veronese green"
+msgstr "Paulo Veronese verde"
+
+#: py/cuda_palette/__init__.py:923
+msgid "Shamrock green"
+msgstr "trevo verde"
+
+#: py/cuda_palette/__init__.py:926
+msgid "Persian green"
+msgstr "Verde persa"
+
+#: py/cuda_palette/__init__.py:927
+msgid "Jade"
+msgstr "Jade"
+
+#: py/cuda_palette/__init__.py:929
+msgid "Vivid cerulean"
+msgstr "Cerúleo vívido"
+
+#: py/cuda_palette/__init__.py:930
+msgid "GO green"
+msgstr "VÁ verde"
+
+#: py/cuda_palette/__init__.py:933 py/cuda_palette/__init__.py:944
+#: py/cuda_palette/__init__.py:949
+msgid "Cyan"
+msgstr "Ciano"
+
+#: py/cuda_palette/__init__.py:934
+msgid "Blue bolt"
+msgstr "Parafuso azul"
+
+#: py/cuda_palette/__init__.py:936
+msgid "Amazonite"
+msgstr "Amazonita"
+
+#: py/cuda_palette/__init__.py:938
+msgid "Vivid malachite"
+msgstr "Malaquita vívida"
+
+#: py/cuda_palette/__init__.py:939
+msgid "Caribbean green"
+msgstr "Verde caribenho"
+
+#: py/cuda_palette/__init__.py:940
+msgid "Robin egg blue"
+msgstr "Ovo Robin azul"
+
+#: py/cuda_palette/__init__.py:941
+msgid "Vivid sky blue"
+msgstr "Azul celeste vívido"
+
+#: py/cuda_palette/__init__.py:945
+msgid "Dark turquoise"
+msgstr "Turquesa escuro"
+
+#: py/cuda_palette/__init__.py:951
+msgid "Medium spring green"
+msgstr "Verde primavera médio"
+
+#: py/cuda_palette/__init__.py:952
+msgid "Lime green "
+msgstr "Verde limão "
+
+#: py/cuda_palette/__init__.py:954
+msgid "Turquoise blue"
+msgstr "Azul turquesa"
+
+#: py/cuda_palette/__init__.py:955
+msgid "Cyan, Spanish sky blue"
+msgstr "Ciano, azul celeste espanhol"
+
+#: py/cuda_palette/__init__.py:959
+msgid "Forest green (traditional)"
+msgstr "Verde floresta (tradicional)"
+
+#: py/cuda_palette/__init__.py:960
+msgid "Pine green"
+msgstr "Verde pinho"
+
+#: py/cuda_palette/__init__.py:962
+msgid "Medium electric blue"
+msgstr "Azul elétrico médio"
+
+#: py/cuda_palette/__init__.py:963
+msgid "Dark pastel green"
+msgstr "Verde pastel escuro"
+
+#: py/cuda_palette/__init__.py:964
+msgid "Deep green"
+msgstr "Verde profundo"
+
+#: py/cuda_palette/__init__.py:965
+msgid "North Texas green"
+msgstr "Verde norte do Texas"
+
+#: py/cuda_palette/__init__.py:966
+msgid "Catalina blue"
+msgstr "Catalina azul"
+
+#: py/cuda_palette/__init__.py:967
+msgid "Dark cerulean"
+msgstr "Cerúleo escuro"
+
+#: py/cuda_palette/__init__.py:968
+msgid "La Salle green"
+msgstr "La Salle verde"
+
+#: py/cuda_palette/__init__.py:969
+msgid "Rich electric blue"
+msgstr "Azul elétrico rico"
+
+#: py/cuda_palette/__init__.py:970
+msgid "Bright turquoise"
+msgstr "Turquesa brilhante"
+
+#: py/cuda_palette/__init__.py:971
+msgid "Indigo dye"
+msgstr "Corante índigo"
+
+#: py/cuda_palette/__init__.py:972
+msgid "Metallic seaweed"
+msgstr "Algas metálicas"
+
+#: py/cuda_palette/__init__.py:973
+msgid "Tiffany blue"
+msgstr "Azul Tiffany"
+
+#: py/cuda_palette/__init__.py:974
+msgid "Malachite"
+msgstr "Malaquita"
+
+#: py/cuda_palette/__init__.py:975
+msgid "Blue-green"
+msgstr "Azul esverdeado"
+
+#: py/cuda_palette/__init__.py:976
+msgid "Deep green-cyan turquoise"
+msgstr "Turquesa verde-ciano profundo"
+
+#: py/cuda_palette/__init__.py:977
+msgid "Yale blue"
+msgstr "Yale azul"
+
+#: py/cuda_palette/__init__.py:978
+msgid "Sapphire"
+msgstr "Safira"
+
+#: py/cuda_palette/__init__.py:979
+msgid "Spiro Disco Ball"
+msgstr "Bola de discoteca Spiro"
+
+#: py/cuda_palette/__init__.py:980
+msgid "Smoky black"
+msgstr "Preto esfumaçado"
+
+#: py/cuda_palette/__init__.py:981
+msgid "Egyptian blue"
+msgstr "Azul egípcio"
+
+#: py/cuda_palette/__init__.py:982 py/cuda_palette/__init__.py:991
+#: py/cuda_palette/__init__.py:1005 py/cuda_palette/__init__.py:1011
+msgid "Dodger blue"
+msgstr "Azul esquivo"
+
+#: py/cuda_palette/__init__.py:983
+msgid "Green-blue"
+msgstr "Verde-azul"
+
+#: py/cuda_palette/__init__.py:984
+msgid "Phthalo green"
+msgstr "Verde ftalo"
+
+#: py/cuda_palette/__init__.py:985
+msgid "Blue sapphire"
+msgstr "Safira azul"
+
+#: py/cuda_palette/__init__.py:986
+msgid "India green"
+msgstr "Índia verde"
+
+#: py/cuda_palette/__init__.py:987
+msgid "Denim"
+msgstr "Jeans"
+
+#: py/cuda_palette/__init__.py:988
+msgid "Vomit+indogo+Lopen+Gabriel"
+msgstr "Vômito+indogo+Lopen+Gabriel"
+
+#: py/cuda_palette/__init__.py:989
+msgid "Dark spring green"
+msgstr "Verde escuro primavera"
+
+#: py/cuda_palette/__init__.py:990
+msgid "MSU green"
+msgstr "Universidade Estadual de Massachusetts verde"
+
+#: py/cuda_palette/__init__.py:992
+msgid "Cyan cornflower blue"
+msgstr "Azul centáurea ciano"
+
+#: py/cuda_palette/__init__.py:993
+msgid "Midnight blue"
+msgstr "Azul meia-noite"
+
+#: py/cuda_palette/__init__.py:994
+msgid "Lincoln green"
+msgstr "Lincoln verde"
+
+#: py/cuda_palette/__init__.py:995
+msgid "Bright navy blue"
+msgstr "Azul marinho brilhante"
+
+#: py/cuda_palette/__init__.py:996
+msgid "Licorice"
+msgstr "Alcaçuz"
+
+#: py/cuda_palette/__init__.py:997
+msgid "Dark jungle green"
+msgstr "Verde escuro da selva"
+
+#: py/cuda_palette/__init__.py:998
+msgid "Eerie black"
+msgstr "Preto misterioso"
+
+#: py/cuda_palette/__init__.py:999
+msgid "English green"
+msgstr "Verde inglês"
+
+#: py/cuda_palette/__init__.py:1000 py/cuda_palette/__init__.py:1062
+#: py/cuda_palette/__init__.py:1136 py/cuda_palette/__init__.py:1503
+#: py/cuda_palette/__init__.py:1619 py/cuda_palette/__init__.py:1926
+msgid "Grey"
+msgstr "Cinza"
+
+#: py/cuda_palette/__init__.py:1001
+msgid "Bluebonnet"
+msgstr "Boné azul"
+
+#: py/cuda_palette/__init__.py:1002
+msgid "Yankees blue"
+msgstr "Yankees azuis"
+
+#: py/cuda_palette/__init__.py:1003
+msgid "Medium jungle green"
+msgstr "Verde selva médio"
+
+#: py/cuda_palette/__init__.py:1004
+msgid "Persian blue"
+msgstr "Azul persa"
+
+#: py/cuda_palette/__init__.py:1006
+msgid "Pacific blue"
+msgstr "Azul Pacífico"
+
+#: py/cuda_palette/__init__.py:1008
+msgid "Space cadet"
+msgstr "Cadete espacial"
+
+#: py/cuda_palette/__init__.py:1009
+msgid "Battery charged blue"
+msgstr "Bateria carregada azul"
+
+#: py/cuda_palette/__init__.py:1010
+msgid "Cal Poly Pomona green"
+msgstr "Cal Poly Pomona verde"
+
+#: py/cuda_palette/__init__.py:1012
+msgid "Dark gunmetal"
+msgstr "Metal escuro"
+
+#: py/cuda_palette/__init__.py:1014
+msgid "Light sea green"
+msgstr "Verde mar claro"
+
+#: py/cuda_palette/__init__.py:1015
+msgid "Middle Red purple"
+msgstr "Roxo vermelho médio"
+
+#: py/cuda_palette/__init__.py:1016
+msgid "New car"
+msgstr "Carro novo"
+
+#: py/cuda_palette/__init__.py:1017
+msgid "Ball blue"
+msgstr "Bola azul"
+
+#: py/cuda_palette/__init__.py:1018
+msgid "Denim blue"
+msgstr "Azul jeans"
+
+#: py/cuda_palette/__init__.py:1019
+msgid "Forest green"
+msgstr "Verde floresta"
+
+#: py/cuda_palette/__init__.py:1020
+msgid "St. Patrick's blue"
+msgstr "Azul de São Patrício"
+
+#: py/cuda_palette/__init__.py:1021
+msgid "Charleston green"
+msgstr "Verde charleston"
+
+#: py/cuda_palette/__init__.py:1022
+msgid "Raisin black"
+msgstr "Passas pretas"
+
+#: py/cuda_palette/__init__.py:1023
+msgid "Button blue"
+msgstr "Botão azul"
+
+#: py/cuda_palette/__init__.py:1024
+msgid "Black leather jacket"
+msgstr "Jaqueta de couro preta"
+
+#: py/cuda_palette/__init__.py:1025
+msgid "Japanese indigo"
+msgstr "índigo japonês"
+
+#: py/cuda_palette/__init__.py:1026
+msgid "Lapis lazuli"
+msgstr "lápis-lazúli"
+
+#: py/cuda_palette/__init__.py:1027
+msgid "Palatinate blue"
+msgstr "Azul Palatinado"
+
+#: py/cuda_palette/__init__.py:1029
+msgid "Cyan cobalt blue"
+msgstr "Azul cobalto ciano"
+
+#: py/cuda_palette/__init__.py:1030
+msgid "Slimy green"
+msgstr "Verde pegajoso"
+
+#: py/cuda_palette/__init__.py:1031
+msgid "Jungle green"
+msgstr "Verde selva"
+
+#: py/cuda_palette/__init__.py:1032
+msgid "Gunmetal"
+msgstr "Metal de bronze"
+
+#: py/cuda_palette/__init__.py:1033
+msgid "Cerulean blue"
+msgstr "Azul cerúleo"
+
+#: py/cuda_palette/__init__.py:1034
+msgid "Napier green"
+msgstr "Verde Napier"
+
+#: py/cuda_palette/__init__.py:1035
+msgid "Zinnwaldite brown"
+msgstr "Zinnwaldita marrom"
+
+#: py/cuda_palette/__init__.py:1036
+msgid "Cosmic cobalt"
+msgstr "Cobalto cósmico"
+
+#: py/cuda_palette/__init__.py:1037
+msgid "B'dazzled blue"
+msgstr "Azul deslumbrado"
+
+#: py/cuda_palette/__init__.py:1038 py/cuda_palette/__init__.py:1095
+#: py/cuda_palette/__init__.py:1133 py/cuda_palette/__init__.py:1159
+msgid "Sea green"
+msgstr "Verde mar"
+
+#: py/cuda_palette/__init__.py:1039 py/cuda_palette/__init__.py:1149
+#: py/cuda_palette/__init__.py:1286 py/cuda_palette/__init__.py:1430
+#: py/cuda_palette/__init__.py:1468
+msgid "Dark slate gray"
+msgstr "Cinza ardósia escuro"
+
+#: py/cuda_palette/__init__.py:1040
+msgid "Celadon green"
+msgstr "Verde Celadon"
+
+#: py/cuda_palette/__init__.py:1041
+msgid "Dark purple"
+msgstr "Roxo escuro"
+
+#: py/cuda_palette/__init__.py:1042
+msgid "Mughal green"
+msgstr "Verde mogol"
+
+#: py/cuda_palette/__init__.py:1043
+msgid "Mountain Meadow"
+msgstr "Prado da montanha"
+
+#: py/cuda_palette/__init__.py:1044
+msgid "Maximum blue green"
+msgstr "Máximo azul verde"
+
+#: py/cuda_palette/__init__.py:1045
+msgid "Myrtle green"
+msgstr "Murta verde"
+
+#: py/cuda_palette/__init__.py:1046
+msgid "Bleu de France"
+msgstr "Azul de França"
+
+#: py/cuda_palette/__init__.py:1047
+msgid "Illuminating emerald"
+msgstr "Esmeralda iluminadora"
+
+#: py/cuda_palette/__init__.py:1048
+msgid "Persian indigo"
+msgstr "índigo persa"
+
+#: py/cuda_palette/__init__.py:1049
+msgid "Russian violet"
+msgstr "Violeta russa"
+
+#: py/cuda_palette/__init__.py:1050
+msgid "Violet-blue"
+msgstr "Violeta-azul"
+
+#: py/cuda_palette/__init__.py:1051
+msgid "Lime green"
+msgstr "Verde limão"
+
+#: py/cuda_palette/__init__.py:1052
+msgid "Deep violet"
+msgstr "Violeta profundo"
+
+#: py/cuda_palette/__init__.py:1053
+msgid "Deep koamaru"
+msgstr "Koamaru Profundo"
+
+#: py/cuda_palette/__init__.py:1055
+msgid "Brilliant azure"
+msgstr "Azul brilhante"
+
+#: py/cuda_palette/__init__.py:1056
+msgid "Jet"
+msgstr "Jato"
+
+#: py/cuda_palette/__init__.py:1057
+msgid "Wageningen green"
+msgstr "Verde Wageningen"
+
+#: py/cuda_palette/__init__.py:1058
+msgid "Onyx"
+msgstr "Ônix"
+
+#: py/cuda_palette/__init__.py:1059
+msgid "Kombu green"
+msgstr "Kombu verde"
+
+#: py/cuda_palette/__init__.py:1060
+msgid "Deep moss green"
+msgstr "Verde musgo profundo"
+
+#: py/cuda_palette/__init__.py:1061
+msgid "Interdimensional blue"
+msgstr "Azul interdimensional"
+
+#: py/cuda_palette/__init__.py:1063
+msgid "Charcoal"
+msgstr "Carvão"
+
+#: py/cuda_palette/__init__.py:1064 py/cuda_palette/__init__.py:1103
+#: py/cuda_palette/__init__.py:1140 py/cuda_palette/__init__.py:1177
+#: py/cuda_palette/__init__.py:1194
+msgid "Steel blue"
+msgstr "Azul aço"
+
+#: py/cuda_palette/__init__.py:1065
+msgid "Ming"
+msgstr "Ming"
+
+#: py/cuda_palette/__init__.py:1066
+msgid "Teal blue"
+msgstr "Azul-petróleo"
+
+#: py/cuda_palette/__init__.py:1067
+msgid "Pixie powder"
+msgstr "Pó de duende"
+
+#: py/cuda_palette/__init__.py:1068
+msgid "Zomp"
+msgstr "Zomp"
+
+#: py/cuda_palette/__init__.py:1069
+msgid "Neon green"
+msgstr "Verde néon"
+
+#: py/cuda_palette/__init__.py:1071
+msgid "Keppel"
+msgstr "Keppel"
+
+#: py/cuda_palette/__init__.py:1072
+msgid "Pullman green"
+msgstr "Pullman verde"
+
+#: py/cuda_palette/__init__.py:1073
+msgid "Black olive"
+msgstr "Azeitona preta"
+
+#: py/cuda_palette/__init__.py:1074
+msgid "Arsenic"
+msgstr "Arsênico"
+
+#: py/cuda_palette/__init__.py:1075
+msgid "Amazon"
+msgstr "Amazônia"
+
+#: py/cuda_palette/__init__.py:1076
+msgid "Dark sienna"
+msgstr "Siena escura"
+
+#: py/cuda_palette/__init__.py:1077
+msgid "Olive Drab #7"
+msgstr "Azeitona monótona #7"
+
+#: py/cuda_palette/__init__.py:1078
+msgid "Medium sea green"
+msgstr "Verde mar médio"
+
+#: py/cuda_palette/__init__.py:1079
+msgid "UFO green"
+msgstr "OVNI verde"
+
+#: py/cuda_palette/__init__.py:1080
+msgid "Black bean"
+msgstr "Feijão preto"
+
+#: py/cuda_palette/__init__.py:1081
+msgid "Bistre"
+msgstr "Bistre"
+
+#: py/cuda_palette/__init__.py:1082
+msgid "Tufts blue"
+msgstr "Tufos azuis"
+
+#: py/cuda_palette/__init__.py:1083
+msgid "Mint"
+msgstr "Hortelã"
+
+#: py/cuda_palette/__init__.py:1084
+msgid "Ultramarine"
+msgstr "Ultramarino"
+
+#: py/cuda_palette/__init__.py:1085
+msgid "Harlequin"
+msgstr "Arlequim"
+
+#: py/cuda_palette/__init__.py:1086
+msgid "Deep aquamarine"
+msgstr "Água-marinha profunda"
+
+#: py/cuda_palette/__init__.py:1088
+msgid "Outer space"
+msgstr "Espaço exterior"
+
+#: py/cuda_palette/__init__.py:1089
+msgid "Ultramarine blue"
+msgstr "Azul ultramarino"
+
+#: py/cuda_palette/__init__.py:1091
+msgid "Old burgundy"
+msgstr "Borgonha velho"
+
+#: py/cuda_palette/__init__.py:1092
+msgid "Queen blue"
+msgstr "Rainha azul"
+
+#: py/cuda_palette/__init__.py:1094
+msgid "Verdigris"
+msgstr "Verdete"
+
+#: py/cuda_palette/__init__.py:1096
+msgid "Rifle green"
+msgstr "Rifle verde"
+
+#: py/cuda_palette/__init__.py:1097
+msgid "Han blue"
+msgstr "Han azul"
+
+#: py/cuda_palette/__init__.py:1098
+msgid "Eucalyptus"
+msgstr "Eucalipto"
+
+#: py/cuda_palette/__init__.py:1099 py/cuda_palette/__init__.py:1214
+#: py/cuda_palette/__init__.py:1273 py/cuda_palette/__init__.py:1310
+msgid "Chartreuse"
+msgstr "Chartreuse"
+
+#: py/cuda_palette/__init__.py:1100 py/cuda_palette/__init__.py:1274
+#: py/cuda_palette/__init__.py:1311
+msgid "Aquamarine"
+msgstr "Água Marinha"
+
+#: py/cuda_palette/__init__.py:1101
+msgid "Picton blue"
+msgstr "Picton azul"
+
+#: py/cuda_palette/__init__.py:1102
+msgid "Gray-asparagus"
+msgstr "Espargos Cinzentos"
+
+#: py/cuda_palette/__init__.py:1104
+msgid "Cyan-blue azure"
+msgstr "Azul ciano"
+
+#: py/cuda_palette/__init__.py:1105
+msgid "Harlequin green"
+msgstr "Arlequim verde"
+
+#: py/cuda_palette/__init__.py:1106 py/cuda_palette/__init__.py:1228
+#: py/cuda_palette/__init__.py:1232 py/cuda_palette/__init__.py:1288
+#: py/cuda_palette/__init__.py:1328
+msgid "Slate blue"
+msgstr "Azul ardósia"
+
+#: py/cuda_palette/__init__.py:1107
+msgid "Maximum blue"
+msgstr "Azul máximo"
+
+#: py/cuda_palette/__init__.py:1108
+msgid "Bulgarian rose"
+msgstr "Rosa búlgara"
+
+#: py/cuda_palette/__init__.py:1109
+msgid "Taupe"
+msgstr "cinza"
+
+#: py/cuda_palette/__init__.py:1110
+msgid "Dark slate blue"
+msgstr "Azul ardósia escuro"
+
+#: py/cuda_palette/__init__.py:1112
+msgid "Ocean green"
+msgstr "Verde oceano"
+
+#: py/cuda_palette/__init__.py:1113
+msgid "Medium turquoise"
+msgstr "Turquesa médio"
+
+#: py/cuda_palette/__init__.py:1114
+msgid "Hooker's green"
+msgstr "Verde da prostituta"
+
+#: py/cuda_palette/__init__.py:1115
+msgid "Celestial blue"
+msgstr "Azul celestial"
+
+#: py/cuda_palette/__init__.py:1116
+msgid "Dark moss green"
+msgstr "Verde musgo escuro"
+
+#: py/cuda_palette/__init__.py:1117
+msgid "Deep space sparkle"
+msgstr "Brilho do espaço profundo"
+
+#: py/cuda_palette/__init__.py:1118 py/cuda_palette/__init__.py:1240
+#: py/cuda_palette/__init__.py:1306 py/cuda_palette/__init__.py:1349
+#: py/cuda_palette/__init__.py:1351
+msgid "Sky blue"
+msgstr "Céu azul"
+
+#: py/cuda_palette/__init__.py:1119
+msgid "Chlorophyll green"
+msgstr "Clorofila verde"
+
+#: py/cuda_palette/__init__.py:1120
+msgid "Indigo"
+msgstr "Índigo"
+
+#: py/cuda_palette/__init__.py:1121
+msgid "Cafe noir"
+msgstr "Café Noir"
+
+#: py/cuda_palette/__init__.py:1122
+msgid "Army green"
+msgstr "Verde exército"
+
+#: py/cuda_palette/__init__.py:1123
+msgid "Sea serpent"
+msgstr "Serpente marinha"
+
+#: py/cuda_palette/__init__.py:1124
+msgid "Spanish violet"
+msgstr "Violeta espanhola"
+
+#: py/cuda_palette/__init__.py:1125
+msgid "Independence"
+msgstr "Independência"
+
+#: py/cuda_palette/__init__.py:1126
+msgid "May green"
+msgstr "Maio verde"
+
+#: py/cuda_palette/__init__.py:1127
+msgid "Kelly green"
+msgstr "Kelly verde"
+
+#: py/cuda_palette/__init__.py:1128
+msgid "Feldgrau"
+msgstr "Feldgrau"
+
+#: py/cuda_palette/__init__.py:1129
+msgid "Middle green"
+msgstr "Verde médio"
+
+#: py/cuda_palette/__init__.py:1130
+msgid "French puce"
+msgstr "puce francês"
+
+#: py/cuda_palette/__init__.py:1131
+msgid "Purple navy"
+msgstr "Marinha roxa"
+
+#: py/cuda_palette/__init__.py:1132
+msgid "Cyan azure"
+msgstr "Azul ciano"
+
+#: py/cuda_palette/__init__.py:1134
+msgid "Dark puce"
+msgstr "Puce escuro"
+
+#: py/cuda_palette/__init__.py:1135
+msgid "Ocean blue"
+msgstr "Azul oceano"
+
+#: py/cuda_palette/__init__.py:1137
+msgid "Stormcloud"
+msgstr "Nuvem de tempestade"
+
+#: py/cuda_palette/__init__.py:1138
+msgid "Fern green"
+msgstr "Samambaia verde"
+
+#: py/cuda_palette/__init__.py:1139
+msgid "Blueberry"
+msgstr "Mirtilo"
+
+#: py/cuda_palette/__init__.py:1141
+msgid "Purple taupe"
+msgstr "Roxo cinza"
+
+#: py/cuda_palette/__init__.py:1142
+msgid "Blue yonder"
+msgstr "Azul além"
+
+#: py/cuda_palette/__init__.py:1143
+msgid "Sap green"
+msgstr "Verde seiva"
+
+#: py/cuda_palette/__init__.py:1144
+msgid "Emerald"
+msgstr "Esmeralda"
+
+#: py/cuda_palette/__init__.py:1145
+msgid "KSU purple"
+msgstr "KSU roxo"
+
+#: py/cuda_palette/__init__.py:1146
+msgid "Quartz"
+msgstr "Quartzo"
+
+#: py/cuda_palette/__init__.py:1147
+msgid "Han purple"
+msgstr "Han roxo"
+
+#: py/cuda_palette/__init__.py:1148
+msgid "Regalia"
+msgstr "Regalias"
+
+#: py/cuda_palette/__init__.py:1150
+msgid "Dark liver"
+msgstr "Fígado escuro"
+
+#: py/cuda_palette/__init__.py:1151
+msgid "Cadet"
+msgstr "Cadete"
+
+#: py/cuda_palette/__init__.py:1152
+msgid "Dark electric blue"
+msgstr "Azul elétrico escuro"
+
+#: py/cuda_palette/__init__.py:1153
+msgid "UCLA blue"
+msgstr "Azul UCLA"
+
+#: py/cuda_palette/__init__.py:1154 py/cuda_palette/__init__.py:1186
+#: py/cuda_palette/__init__.py:1290 py/cuda_palette/__init__.py:1434
+#: py/cuda_palette/__init__.py:1476
+msgid "Cadet blue"
+msgstr "Cadete azul"
+
+#: py/cuda_palette/__init__.py:1155
+msgid "Dark liver (horses)"
+msgstr "Fígado escuro (cavalos)"
+
+#: py/cuda_palette/__init__.py:1156
+msgid "Liberty"
+msgstr "Liberdade"
+
+#: py/cuda_palette/__init__.py:1157
+msgid "Black Coral"
+msgstr "Coral Negro"
+
+#: py/cuda_palette/__init__.py:1158 py/cuda_palette/__init__.py:1301
+#: py/cuda_palette/__init__.py:1477 py/cuda_palette/__init__.py:1493
+msgid "Pale green"
+msgstr "Verde pálido"
+
+#: py/cuda_palette/__init__.py:1160 py/cuda_palette/__init__.py:1303
+#: py/cuda_palette/__init__.py:1441 py/cuda_palette/__init__.py:1495
+#: py/cuda_palette/__init__.py:1509
+msgid "Purple"
+msgstr "Roxo"
+
+#: py/cuda_palette/__init__.py:1161
+msgid "Blue-magenta violet"
+msgstr "Violeta azul-magenta"
+
+#: py/cuda_palette/__init__.py:1162
+msgid "Davy's grey"
+msgstr "Davy é cinza"
+
+#: py/cuda_palette/__init__.py:1163
+msgid "Ebony"
+msgstr "Ébano"
+
+#: py/cuda_palette/__init__.py:1164 py/cuda_palette/__init__.py:1244
+#: py/cuda_palette/__init__.py:1530 py/cuda_palette/__init__.py:1645
+#: py/cuda_palette/__init__.py:1705
+msgid "Dark olive green"
+msgstr "Verde oliva escuro"
+
+#: py/cuda_palette/__init__.py:1165
+msgid "Dark scarlet"
+msgstr "Escarlate escuro"
+
+#: py/cuda_palette/__init__.py:1166
+msgid "Pineapple"
+msgstr "Abacaxi"
+
+#: py/cuda_palette/__init__.py:1167
+msgid "Avocado"
+msgstr "Abacate"
+
+#: py/cuda_palette/__init__.py:1168
+msgid "Wintergreen Dream"
+msgstr "Sonho Wintergreen"
+
+#: py/cuda_palette/__init__.py:1169
+msgid "Carolina blue"
+msgstr "Carolina azul"
+
+#: py/cuda_palette/__init__.py:1170
+msgid "Cyber grape"
+msgstr "Uva cibernética"
+
+#: py/cuda_palette/__init__.py:1171
+msgid "Seal brown"
+msgstr "Selo marrom"
+
+#: py/cuda_palette/__init__.py:1172
+msgid "Caput mortuum"
+msgstr "Caput mortuum"
+
+#: py/cuda_palette/__init__.py:1173
+msgid "Plump purple"
+msgstr "Roxo rechonchudo"
+
+#: py/cuda_palette/__init__.py:1174
+msgid "Iris"
+msgstr "Íris"
+
+#: py/cuda_palette/__init__.py:1175
+msgid "Japanese violet"
+msgstr "Violeta japonesa"
+
+#: py/cuda_palette/__init__.py:1176
+msgid "United nations blue"
+msgstr "Nações Unidas azul"
+
+#: py/cuda_palette/__init__.py:1178
+msgid "Dark byzantium"
+msgstr "Bizâncio escuro"
+
+#: py/cuda_palette/__init__.py:1179 py/cuda_palette/__init__.py:1364
+#: py/cuda_palette/__init__.py:1451 py/cuda_palette/__init__.py:1514
+#: py/cuda_palette/__init__.py:1568
+msgid "Medium purple"
+msgstr "Roxo médio"
+
+#: py/cuda_palette/__init__.py:1180
+msgid "Silver lake blue"
+msgstr "Lago prateado azul"
+
+#: py/cuda_palette/__init__.py:1182
+msgid "Polished Pine"
+msgstr "Pinho Polido"
+
+#: py/cuda_palette/__init__.py:1183
+msgid "Blue jeans"
+msgstr "Calça jeans"
+
+#: py/cuda_palette/__init__.py:1184
+msgid "Maximum green"
+msgstr "Verde máximo"
+
+#: py/cuda_palette/__init__.py:1185
+msgid "Steel teal"
+msgstr "Verde-azulado de aço"
+
+#: py/cuda_palette/__init__.py:1187
+msgid "Shiny shamrock"
+msgstr "Trevo brilhante"
+
+#: py/cuda_palette/__init__.py:1188
+msgid "Imperial"
+msgstr "Imperial"
+
+#: py/cuda_palette/__init__.py:1189
+msgid "Majorelle blue"
+msgstr "Majorelle azul"
+
+#: py/cuda_palette/__init__.py:1190 py/cuda_palette/__init__.py:1350
+#: py/cuda_palette/__init__.py:1428 py/cuda_palette/__init__.py:1535
+#: py/cuda_palette/__init__.py:1596
+msgid "Light sky blue"
+msgstr "Céu azul claro"
+
+#: py/cuda_palette/__init__.py:1191
+msgid "Glaucous"
+msgstr "Glauco"
+
+#: py/cuda_palette/__init__.py:1192
+msgid "Eggplant"
+msgstr "Beringela"
+
+#: py/cuda_palette/__init__.py:1193
+msgid "Umber"
+msgstr "Umbra"
+
+#: py/cuda_palette/__init__.py:1195
+msgid "Pullman brown"
+msgstr "Pullman marrom"
+
+#: py/cuda_palette/__init__.py:1196
+msgid "Wenge"
+msgstr "Wengé"
+
+#: py/cuda_palette/__init__.py:1197
+msgid "Cornflower blue"
+msgstr "Azul centáurea"
+
+#: py/cuda_palette/__init__.py:1198
+msgid "Very light malachite green"
+msgstr "Verde malaquita muito claro"
+
+#: py/cuda_palette/__init__.py:1199
+msgid "Rosewood"
+msgstr "Jacarandá"
+
+#: py/cuda_palette/__init__.py:1200
+msgid "Dark brown"
+msgstr "Castanho escuro"
+
+#: py/cuda_palette/__init__.py:1201
+msgid "Imperial purple"
+msgstr "Roxo imperial"
+
+#: py/cuda_palette/__init__.py:1202
+msgid "Rebecca purple"
+msgstr "Rebeca roxa"
+
+#: py/cuda_palette/__init__.py:1203
+msgid "Halaya ube"
+msgstr "Halaya ube"
+
+#: py/cuda_palette/__init__.py:1204
+msgid "Van dyke brown"
+msgstr "Van dique marrom"
+
+#: py/cuda_palette/__init__.py:1205
+msgid "Deep tuscan red"
+msgstr "Vermelho toscano profundo"
+
+#: py/cuda_palette/__init__.py:1206
+msgid "Donkey brown"
+msgstr "Burro marrom"
+
+#: py/cuda_palette/__init__.py:1207
+msgid "Antique bronze"
+msgstr "Bronze antigo"
+
+#: py/cuda_palette/__init__.py:1208
+msgid "Dark blue-gray"
+msgstr "Azul acinzentado escuro"
+
+#: py/cuda_palette/__init__.py:1209
+msgid "Very light blue"
+msgstr "Azul muito claro"
+
+#: py/cuda_palette/__init__.py:1210 py/cuda_palette/__init__.py:1465
+#: py/cuda_palette/__init__.py:1639 py/cuda_palette/__init__.py:2286
+msgid "Pale turquoise"
+msgstr "Turquesa pálido"
+
+#: py/cuda_palette/__init__.py:1211
+msgid "Desaturated cyan"
+msgstr "Ciano dessaturado"
+
+#: py/cuda_palette/__init__.py:1212
+msgid "Livid"
+msgstr "Lívido"
+
+#: py/cuda_palette/__init__.py:1215 py/cuda_palette/__init__.py:1216
+msgid "Medium aquamarine"
+msgstr "Água-marinha média"
+
+#: py/cuda_palette/__init__.py:1217
+msgid "Bright green"
+msgstr "Verde brilhante"
+
+#: py/cuda_palette/__init__.py:1218
+msgid "Screamin' green"
+msgstr "Gritando verde"
+
+#: py/cuda_palette/__init__.py:1219
+msgid "Wine dregs"
+msgstr "Restos de vinho"
+
+#: py/cuda_palette/__init__.py:1220
+msgid "Rose ebony"
+msgstr "Rosa ébano"
+
+#: py/cuda_palette/__init__.py:1221
+msgid "Medium taupe"
+msgstr "Cinza médio"
+
+#: py/cuda_palette/__init__.py:1222
+msgid "Granite Gray"
+msgstr "Granito Cinza"
+
+#: py/cuda_palette/__init__.py:1223
+msgid "Russian green"
+msgstr "Verde russo"
+
+#: py/cuda_palette/__init__.py:1224 py/cuda_palette/__init__.py:1480
+#: py/cuda_palette/__init__.py:1488 py/cuda_palette/__init__.py:1599
+#: py/cuda_palette/__init__.py:1653
+msgid "Dark orchid"
+msgstr "Orquídea escura"
+
+#: py/cuda_palette/__init__.py:1225
+msgid "Palatinate purple"
+msgstr "Roxo Palatinado"
+
+#: py/cuda_palette/__init__.py:1226 py/cuda_palette/__init__.py:1491
+#: py/cuda_palette/__init__.py:1579 py/cuda_palette/__init__.py:1602
+#: py/cuda_palette/__init__.py:1658
+msgid "Light blue"
+msgstr "Azul claro"
+
+#: py/cuda_palette/__init__.py:1227
+msgid "Purple heart"
+msgstr "Coração roxo"
+
+#: py/cuda_palette/__init__.py:1229
+msgid "Dim gray"
+msgstr "Cinza escuro"
+
+#: py/cuda_palette/__init__.py:1230 py/cuda_palette/__init__.py:1234
+#: py/cuda_palette/__init__.py:1609 py/cuda_palette/__init__.py:1665
+msgid "Olive drab"
+msgstr "Azeitona monótona"
+
+#: py/cuda_palette/__init__.py:1231 py/cuda_palette/__init__.py:1437
+#: py/cuda_palette/__init__.py:1499 py/cuda_palette/__init__.py:1613
+#: py/cuda_palette/__init__.py:1670
+msgid "Dark sea green"
+msgstr "Verde mar escuro"
+
+#: py/cuda_palette/__init__.py:1233
+msgid "Kobicha"
+msgstr "Kobicha"
+
+#: py/cuda_palette/__init__.py:1235
+msgid "Liver (organ)"
+msgstr "Fígado (órgão)"
+
+#: py/cuda_palette/__init__.py:1236
+msgid "Eminence"
+msgstr "Eminência"
+
+#: py/cuda_palette/__init__.py:1237
+msgid "Field drab"
+msgstr "Campo monótono"
+
+#: py/cuda_palette/__init__.py:1238 py/cuda_palette/__init__.py:1256
+#: py/cuda_palette/__init__.py:1517 py/cuda_palette/__init__.py:1631
+#: py/cuda_palette/__init__.py:1687
+msgid "Slate gray"
+msgstr "Cinza ardósia"
+
+#: py/cuda_palette/__init__.py:1239
+msgid "Little boy blue"
+msgstr "Garotinho azul"
+
+#: py/cuda_palette/__init__.py:1241
+msgid "Cerulean frost"
+msgstr "Geada cerúlea"
+
+#: py/cuda_palette/__init__.py:1242 py/cuda_palette/__init__.py:1529
+#: py/cuda_palette/__init__.py:1594 py/cuda_palette/__init__.py:1643
+#: py/cuda_palette/__init__.py:1704
+msgid "Light steel blue"
+msgstr "Azul aço claro"
+
+#: py/cuda_palette/__init__.py:1243
+msgid "Auro metal saurus"
+msgstr "Sauro de metal auro"
+
+#: py/cuda_palette/__init__.py:1245
+msgid "Green Sheen"
+msgstr "Brilho Verde"
+
+#: py/cuda_palette/__init__.py:1246
+msgid "Electric indigo"
+msgstr "Índigo elétrico"
+
+#: py/cuda_palette/__init__.py:1247
+msgid "Grape"
+msgstr "Uva"
+
+#: py/cuda_palette/__init__.py:1248
+msgid "Tuscan brown"
+msgstr "Marrom toscano"
+
+#: py/cuda_palette/__init__.py:1249
+msgid "Palm Leaf"
+msgstr "Folha de palmeira"
+
+#: py/cuda_palette/__init__.py:1250
+msgid "Persian plum"
+msgstr "Ameixa persa"
+
+#: py/cuda_palette/__init__.py:1251
+msgid "Midnight"
+msgstr "Meia-noite"
+
+#: py/cuda_palette/__init__.py:1252
+msgid "Byzantium"
+msgstr "Bizâncio"
+
+#: py/cuda_palette/__init__.py:1253
+msgid "Catawba"
+msgstr "Catawba"
+
+#: py/cuda_palette/__init__.py:1254
+msgid "Sepia"
+msgstr "Sépia"
+
+#: py/cuda_palette/__init__.py:1255
+msgid "Roast coffee"
+msgstr "Café torrado"
+
+#: py/cuda_palette/__init__.py:1257
+msgid "Iceberg"
+msgstr "Iceberg"
+
+#: py/cuda_palette/__init__.py:1258
+msgid "Iguana green"
+msgstr "Iguana verde"
+
+#: py/cuda_palette/__init__.py:1259
+msgid "Puce red"
+msgstr "Puce vermelho"
+
+#: py/cuda_palette/__init__.py:1260
+msgid "Nickel"
+msgstr "Níquel"
+
+#: py/cuda_palette/__init__.py:1261
+msgid "Air superiority blue"
+msgstr "Superioridade aérea azul"
+
+#: py/cuda_palette/__init__.py:1262
+msgid "Maximum purple"
+msgstr "Roxo máximo"
+
+#: py/cuda_palette/__init__.py:1263
+msgid "Dark lavender"
+msgstr "Lavanda escura"
+
+#: py/cuda_palette/__init__.py:1264
+msgid "Bronze yellow"
+msgstr "Amarelo bronze"
+
+#: py/cuda_palette/__init__.py:1265
+msgid "Smoke"
+msgstr "Fumaça"
+
+#: py/cuda_palette/__init__.py:1266
+msgid "Xanadu"
+msgstr "Xanadu"
+
+#: py/cuda_palette/__init__.py:1267
+msgid "Moonstone blue"
+msgstr "Pedra da lua azul"
+
+#: py/cuda_palette/__init__.py:1268
+msgid "Maya blue"
+msgstr "Azul maia"
+
+#: py/cuda_palette/__init__.py:1269
+msgid "Toolbox"
+msgstr "Caixa de ferramentas"
+
+#: py/cuda_palette/__init__.py:1270
+msgid "Very light azure"
+msgstr "Azul muito claro"
+
+#: py/cuda_palette/__init__.py:1271
+msgid "Mantis"
+msgstr "Louva-a-deus"
+
+#: py/cuda_palette/__init__.py:1272
+msgid "Sonic silver"
+msgstr "Prata sônica"
+
+#: py/cuda_palette/__init__.py:1275
+msgid "Rhythm"
+msgstr "Ritmo"
+
+#: py/cuda_palette/__init__.py:1276
+msgid "Light slate gray"
+msgstr "Cinza ardósia claro"
+
+#: py/cuda_palette/__init__.py:1277
+msgid "Shadow blue"
+msgstr "Sombra azul"
+
+#: py/cuda_palette/__init__.py:1278
+msgid "Dark pastel blue"
+msgstr "Azul pastel escuro"
+
+#: py/cuda_palette/__init__.py:1279
+msgid "French sky blue"
+msgstr "Céu francês azul"
+
+#: py/cuda_palette/__init__.py:1280
+msgid "Pastel green"
+msgstr "Verde pastel"
+
+#: py/cuda_palette/__init__.py:1281
+msgid "Pansy purple"
+msgstr "Amor-perfeito roxo"
+
+#: py/cuda_palette/__init__.py:1282
+msgid "Royal purple"
+msgstr "Roxo real"
+
+#: py/cuda_palette/__init__.py:1283
+msgid "Camouflage green"
+msgstr "Camuflagem verde"
+
+#: py/cuda_palette/__init__.py:1284
+msgid "Medium tuscan red"
+msgstr "Vermelho toscano médio"
+
+#: py/cuda_palette/__init__.py:1285
+msgid "Old lavender"
+msgstr "Lavanda velha"
+
+#: py/cuda_palette/__init__.py:1287 py/cuda_palette/__init__.py:1610
+#: py/cuda_palette/__init__.py:1634 py/cuda_palette/__init__.py:1802
+#: py/cuda_palette/__init__.py:1869
+msgid "Medium orchid"
+msgstr "Orquídea média"
+
+#: py/cuda_palette/__init__.py:1289 py/cuda_palette/__init__.py:1612
+#: py/cuda_palette/__init__.py:1806 py/cuda_palette/__init__.py:1874
+msgid "Light cyan"
+msgstr "Ciano claro"
+
+#: py/cuda_palette/__init__.py:1291
+msgid "UP maroon"
+msgstr "UP marrom"
+
+#: py/cuda_palette/__init__.py:1292
+msgid "Chocolate (traditional)"
+msgstr "Chocolate (tradicional)"
+
+#: py/cuda_palette/__init__.py:1293
+msgid "Medium slate blue"
+msgstr "Azul ardósia médio"
+
+#: py/cuda_palette/__init__.py:1294
+msgid "Bud green"
+msgstr "Botão verde"
+
+#: py/cuda_palette/__init__.py:1295
+msgid "Barn red"
+msgstr "Celeiro vermelho"
+
+#: py/cuda_palette/__init__.py:1296
+msgid "Kenyan copper"
+msgstr "Cobre queniano"
+
+#: py/cuda_palette/__init__.py:1297
+msgid "Tuscan red"
+msgstr "Vermelho toscano"
+
+#: py/cuda_palette/__init__.py:1298
+msgid "Weldon blue"
+msgstr "Weldon azul"
+
+#: py/cuda_palette/__init__.py:1299
+msgid "Vista blue"
+msgstr "Vista azul"
+
+#: py/cuda_palette/__init__.py:1300
+msgid "Aero"
+msgstr "Aéreo"
+
+#: py/cuda_palette/__init__.py:1302
+msgid "Lawn green"
+msgstr "Gramado verde"
+
+#: py/cuda_palette/__init__.py:1304
+msgid "Electric blue"
+msgstr "Azul elétrico"
+
+#: py/cuda_palette/__init__.py:1305
+msgid "Deep taupe"
+msgstr "Cinza profundo"
+
+#: py/cuda_palette/__init__.py:1307
+msgid "Middle blue"
+msgstr "Azul médio"
+
+#: py/cuda_palette/__init__.py:1308 py/cuda_palette/__init__.py:1343
+#: py/cuda_palette/__init__.py:1435
+msgid "Violet"
+msgstr "Violeta"
+
+#: py/cuda_palette/__init__.py:1309
+msgid "Claret"
+msgstr "Clarete"
+
+#: py/cuda_palette/__init__.py:1312 py/cuda_palette/__init__.py:1377
+#: py/cuda_palette/__init__.py:1737 py/cuda_palette/__init__.py:1953
+#: py/cuda_palette/__init__.py:2142
+msgid "Maroon"
+msgstr "Marrom"
+
+#: py/cuda_palette/__init__.py:1313
+msgid "Burgundy"
+msgstr "Borgonha"
+
+#: py/cuda_palette/__init__.py:1314
+msgid "Patriarch, purple"
+msgstr "Patriarca, roxo"
+
+#: py/cuda_palette/__init__.py:1315
+msgid "Falu red"
+msgstr "Falu vermelho"
+
+#: py/cuda_palette/__init__.py:1316
+msgid "Russet"
+msgstr "Avermelhado"
+
+#: py/cuda_palette/__init__.py:1317
+msgid "Spanish bistre"
+msgstr "Bistrô espanhol"
+
+#: py/cuda_palette/__init__.py:1318
+msgid "Olive"
+msgstr "Azeitona"
+
+#: py/cuda_palette/__init__.py:1319
+msgid "Trolley grey"
+msgstr "Carrinho cinza"
+
+#: py/cuda_palette/__init__.py:1320
+msgid "Medium sky blue"
+msgstr "Céu azul médio"
+
+#: py/cuda_palette/__init__.py:1321
+msgid "French plum"
+msgstr "Ameixa francesa"
+
+#: py/cuda_palette/__init__.py:1322
+msgid "Coyote brown"
+msgstr "Coiote marrom"
+
+#: py/cuda_palette/__init__.py:1323
+msgid "Deep maroon"
+msgstr "Marrom profundo"
+
+#: py/cuda_palette/__init__.py:1324
+msgid "Raw umber"
+msgstr "Âmbar cru"
+
+#: py/cuda_palette/__init__.py:1325
+msgid "Dolphin gray"
+msgstr "Golfinho cinza"
+
+#: py/cuda_palette/__init__.py:1326
+msgid "Smokey topaz"
+msgstr "Topázio esfumado"
+
+#: py/cuda_palette/__init__.py:1327
+msgid "Pastel brown"
+msgstr "Castanho pastel"
+
+#: py/cuda_palette/__init__.py:1329
+msgid "Roman silver"
+msgstr "Prata romana"
+
+#: py/cuda_palette/__init__.py:1330 py/cuda_palette/__init__.py:1668
+#: py/cuda_palette/__init__.py:1872 py/cuda_palette/__init__.py:2012
+msgid "Honeydew"
+msgstr "Melada"
+
+#: py/cuda_palette/__init__.py:1332
+msgid "Antique ruby"
+msgstr "Rubi antigo"
+
+#: py/cuda_palette/__init__.py:1333
+msgid "Deep ruby"
+msgstr "Rubi profundo"
+
+#: py/cuda_palette/__init__.py:1334
+msgid "Light slate blue"
+msgstr "Azul ardósia claro"
+
+#: py/cuda_palette/__init__.py:1335
+msgid "Old silver"
+msgstr "Prata velha"
+
+#: py/cuda_palette/__init__.py:1336
+msgid "Alien armpit"
+msgstr "Axila alienígena"
+
+#: py/cuda_palette/__init__.py:1337
+msgid "Deep red"
+msgstr "Vermelho profundo"
+
+#: py/cuda_palette/__init__.py:1338
+msgid "Chinese violet"
+msgstr "Violeta chinesa"
+
+#: py/cuda_palette/__init__.py:1339
+msgid "French bistre"
+msgstr "Bistrô francês"
+
+#: py/cuda_palette/__init__.py:1340
+msgid "Gold Fusion"
+msgstr "Fusão de Ouro"
+
+#: py/cuda_palette/__init__.py:1341
+msgid "Dollar bill"
+msgstr "Nota de dólar"
+
+#: py/cuda_palette/__init__.py:1342
+msgid "Red devil"
+msgstr "diabo vermelho"
+
+#: py/cuda_palette/__init__.py:1344
+msgid "French lilac"
+msgstr "Lilás francês"
+
+#: py/cuda_palette/__init__.py:1345
+msgid "Old moss green"
+msgstr "Velho verde musgo"
+
+#: py/cuda_palette/__init__.py:1346
+msgid "Dark raspberry"
+msgstr "Framboesa escura"
+
+#: py/cuda_palette/__init__.py:1347
+msgid "Boysenberry"
+msgstr "Amora"
+
+#: py/cuda_palette/__init__.py:1348
+msgid "Asparagus"
+msgstr "Espargos"
+
+#: py/cuda_palette/__init__.py:1352
+msgid "Pale cyan"
+msgstr "Ciano pálido"
+
+#: py/cuda_palette/__init__.py:1353
+msgid "Spring Frost"
+msgstr "Geada de primavera"
+
+#: py/cuda_palette/__init__.py:1354
+msgid "Mardi gras"
+msgstr "Carnaval"
+
+#: py/cuda_palette/__init__.py:1355
+msgid "French violet"
+msgstr "Violeta francesa"
+
+#: py/cuda_palette/__init__.py:1356 py/cuda_palette/__init__.py:1387
+#: py/cuda_palette/__init__.py:1520 py/cuda_palette/__init__.py:1750
+#: py/cuda_palette/__init__.py:1963 py/cuda_palette/__init__.py:2182
+msgid "Sienna"
+msgstr "Siena"
+
+#: py/cuda_palette/__init__.py:1357
+msgid "Grizzly"
+msgstr "Pardo"
+
+#: py/cuda_palette/__init__.py:1358
+msgid "Dark brown-tangelo"
+msgstr "Tangelo marrom escuro"
+
+#: py/cuda_palette/__init__.py:1359
+msgid "Ube"
+msgstr "Ube"
+
+#: py/cuda_palette/__init__.py:1360
+msgid "Light cobalt blue"
+msgstr "Azul cobalto claro"
+
+#: py/cuda_palette/__init__.py:1361
+msgid "Pearl aqua"
+msgstr "Água pérola"
+
+#: py/cuda_palette/__init__.py:1362
+msgid "Solid pink"
+msgstr "Rosa sólido"
+
+#: py/cuda_palette/__init__.py:1363
+msgid "Cordovan"
+msgstr "cordovão"
+
+#: py/cuda_palette/__init__.py:1365
+msgid "Baby blue"
+msgstr "Azul bebê"
+
+#: py/cuda_palette/__init__.py:1366
+msgid "Blue-violet"
+msgstr "Azul-violeta"
+
+#: py/cuda_palette/__init__.py:1367
+msgid "Burnt umber"
+msgstr "Âmbar queimado"
+
+#: py/cuda_palette/__init__.py:1368
+msgid "Twilight lavender"
+msgstr "Lavanda crepuscular"
+
+#: py/cuda_palette/__init__.py:1369
+msgid "Shadow"
+msgstr "Sombra"
+
+#: py/cuda_palette/__init__.py:1370
+msgid "Rocket metallic"
+msgstr "Foguete metálico"
+
+#: py/cuda_palette/__init__.py:1371
+msgid "Turtle green"
+msgstr "Tartaruga verde"
+
+#: py/cuda_palette/__init__.py:1372
+msgid "Jordy blue"
+msgstr "Jordan azul"
+
+#: py/cuda_palette/__init__.py:1373
+msgid "Dark red"
+msgstr "Vermelho escuro"
+
+#: py/cuda_palette/__init__.py:1374
+msgid "Dark magenta"
+msgstr "Magenta escuro"
+
+#: py/cuda_palette/__init__.py:1375 py/cuda_palette/__init__.py:1735
+#: py/cuda_palette/__init__.py:1950 py/cuda_palette/__init__.py:2135
+msgid "Deep pink"
+msgstr "Rosa profundo"
+
+#: py/cuda_palette/__init__.py:1376 py/cuda_palette/__init__.py:1598
+#: py/cuda_palette/__init__.py:1736 py/cuda_palette/__init__.py:1952
+#: py/cuda_palette/__init__.py:2140
+msgid "Firebrick"
+msgstr "Tijolo refratário"
+
+#: py/cuda_palette/__init__.py:1378 py/cuda_palette/__init__.py:1738
+#: py/cuda_palette/__init__.py:1796 py/cuda_palette/__init__.py:1954
+#: py/cuda_palette/__init__.py:2146
+msgid "Violet red"
+msgstr "Vermelho violeta"
+
+#: py/cuda_palette/__init__.py:1379 py/cuda_palette/__init__.py:1739
+#: py/cuda_palette/__init__.py:1955
+msgid "Brown"
+msgstr "Marrom"
+
+#: py/cuda_palette/__init__.py:1380 py/cuda_palette/__init__.py:1740
+#: py/cuda_palette/__init__.py:1956
+msgid "Orange red"
+msgstr "Laranja vermelho"
+
+#: py/cuda_palette/__init__.py:1381 py/cuda_palette/__init__.py:1741
+#: py/cuda_palette/__init__.py:1957 py/cuda_palette/__init__.py:2162
+msgid "Tomato"
+msgstr "Tomate"
+
+#: py/cuda_palette/__init__.py:1382 py/cuda_palette/__init__.py:1742
+#: py/cuda_palette/__init__.py:1745 py/cuda_palette/__init__.py:1958
+#: py/cuda_palette/__init__.py:2167
+msgid "Indian red"
+msgstr "Vermelho indiano"
+
+#: py/cuda_palette/__init__.py:1383 py/cuda_palette/__init__.py:1747
+#: py/cuda_palette/__init__.py:1960 py/cuda_palette/__init__.py:2166
+#: py/cuda_palette/__init__.py:2170
+msgid "Hot pink"
+msgstr "Rosa choque"
+
+#: py/cuda_palette/__init__.py:1384 py/cuda_palette/__init__.py:1959
+#: py/cuda_palette/__init__.py:2172 py/cuda_palette/__init__.py:2180
+msgid "Coral"
+msgstr "Coral"
+
+#: py/cuda_palette/__init__.py:1385 py/cuda_palette/__init__.py:1748
+#: py/cuda_palette/__init__.py:1961 py/cuda_palette/__init__.py:2178
+#: py/cuda_palette/__init__.py:2187
+msgid "Dark orange"
+msgstr "Laranja escuro"
+
+#: py/cuda_palette/__init__.py:1386
+msgid "Saddle brown"
+msgstr "Sela marrom"
+
+#: py/cuda_palette/__init__.py:1388 py/cuda_palette/__init__.py:1751
+#: py/cuda_palette/__init__.py:1964 py/cuda_palette/__init__.py:2183
+msgid "Pale violet red"
+msgstr "Vermelho violeta pálido"
+
+#: py/cuda_palette/__init__.py:1389 py/cuda_palette/__init__.py:1752
+#: py/cuda_palette/__init__.py:1842 py/cuda_palette/__init__.py:1965
+#: py/cuda_palette/__init__.py:2184
+msgid "Orchid"
+msgstr "Orquídea"
+
+#: py/cuda_palette/__init__.py:1390 py/cuda_palette/__init__.py:1753
+#: py/cuda_palette/__init__.py:1966 py/cuda_palette/__init__.py:2067
+#: py/cuda_palette/__init__.py:2188
+msgid "Salmon"
+msgstr "Salmão"
+
+#: py/cuda_palette/__init__.py:1391 py/cuda_palette/__init__.py:1755
+#: py/cuda_palette/__init__.py:1968 py/cuda_palette/__init__.py:2198
+msgid "Light salmon"
+msgstr "Salmão claro"
+
+#: py/cuda_palette/__init__.py:1392 py/cuda_palette/__init__.py:1756
+#: py/cuda_palette/__init__.py:1969 py/cuda_palette/__init__.py:2081
+#: py/cuda_palette/__init__.py:2158 py/cuda_palette/__init__.py:2201
+msgid "Orange"
+msgstr "Laranja"
+
+#: py/cuda_palette/__init__.py:1393 py/cuda_palette/__init__.py:1808
+#: py/cuda_palette/__init__.py:1970 py/cuda_palette/__init__.py:2202
+msgid "Tan"
+msgstr "Bronzeado"
+
+#: py/cuda_palette/__init__.py:1394
+msgid "Spicy mix"
+msgstr "Mistura picante"
+
+#: py/cuda_palette/__init__.py:1395 py/cuda_palette/__init__.py:1758
+#: py/cuda_palette/__init__.py:1971 py/cuda_palette/__init__.py:2208
+#: py/cuda_palette/__init__.py:2214
+msgid "Light pink"
+msgstr "Rosa claro"
+
+#: py/cuda_palette/__init__.py:1396 py/cuda_palette/__init__.py:1759
+#: py/cuda_palette/__init__.py:1824 py/cuda_palette/__init__.py:1972
+#: py/cuda_palette/__init__.py:2213 py/cuda_palette/__init__.py:2222
+msgid "Pink"
+msgstr "Rosa"
+
+#: py/cuda_palette/__init__.py:1397 py/cuda_palette/__init__.py:1629
+#: py/cuda_palette/__init__.py:1760 py/cuda_palette/__init__.py:1973
+#: py/cuda_palette/__init__.py:2216
+msgid "Dark goldenrod"
+msgstr "Vara dourada escura"
+
+#: py/cuda_palette/__init__.py:1398 py/cuda_palette/__init__.py:1432
+#: py/cuda_palette/__init__.py:1762 py/cuda_palette/__init__.py:1974
+#: py/cuda_palette/__init__.py:2218
+msgid "Plum"
+msgstr "Ameixa"
+
+#: py/cuda_palette/__init__.py:1399 py/cuda_palette/__init__.py:1763
+#: py/cuda_palette/__init__.py:1845 py/cuda_palette/__init__.py:1975
+#: py/cuda_palette/__init__.py:2223
+msgid "Goldenrod"
+msgstr "Vara de Ouro"
+
+#: py/cuda_palette/__init__.py:1400 py/cuda_palette/__init__.py:1640
+#: py/cuda_palette/__init__.py:1764 py/cuda_palette/__init__.py:1976
+#: py/cuda_palette/__init__.py:2224
+msgid "Rosy brown"
+msgstr "Castanho rosado"
+
+#: py/cuda_palette/__init__.py:1401
+msgid "Middle blue purple"
+msgstr "Roxo azul médio"
+
+#: py/cuda_palette/__init__.py:1402 py/cuda_palette/__init__.py:1766
+#: py/cuda_palette/__init__.py:1861 py/cuda_palette/__init__.py:1977
+#: py/cuda_palette/__init__.py:2234
+msgid "Burlywood"
+msgstr "Burlywood"
+
+#: py/cuda_palette/__init__.py:1403 py/cuda_palette/__init__.py:1767
+#: py/cuda_palette/__init__.py:1978 py/cuda_palette/__init__.py:2235
+msgid "Gold"
+msgstr "Ouro"
+
+#: py/cuda_palette/__init__.py:1404 py/cuda_palette/__init__.py:1768
+#: py/cuda_palette/__init__.py:1979 py/cuda_palette/__init__.py:2237
+msgid "Peach puff"
+msgstr "folhado de pêssego"
+
+#: py/cuda_palette/__init__.py:1405 py/cuda_palette/__init__.py:1769
+#: py/cuda_palette/__init__.py:1980 py/cuda_palette/__init__.py:2243
+msgid "Navajo white"
+msgstr "branco navajo"
+
+#: py/cuda_palette/__init__.py:1406 py/cuda_palette/__init__.py:1770
+#: py/cuda_palette/__init__.py:1828 py/cuda_palette/__init__.py:1982
+#: py/cuda_palette/__init__.py:2248
+msgid "Thistle"
+msgstr "Cardo"
+
+#: py/cuda_palette/__init__.py:1407 py/cuda_palette/__init__.py:1771
+#: py/cuda_palette/__init__.py:1983 py/cuda_palette/__init__.py:2251
+msgid "Bisque"
+msgstr "Bisque"
+
+#: py/cuda_palette/__init__.py:1408 py/cuda_palette/__init__.py:1772
+#: py/cuda_palette/__init__.py:1984 py/cuda_palette/__init__.py:2253
+msgid "Misty rose"
+msgstr "Rosa enevoada"
+
+#: py/cuda_palette/__init__.py:1409 py/cuda_palette/__init__.py:1773
+#: py/cuda_palette/__init__.py:1985 py/cuda_palette/__init__.py:2039
+#: py/cuda_palette/__init__.py:2255
+msgid "Wheat"
+msgstr "Trigo"
+
+#: py/cuda_palette/__init__.py:1410 py/cuda_palette/__init__.py:1774
+#: py/cuda_palette/__init__.py:2258 py/cuda_palette/__init__.py:2285
+msgid "Light goldenrod"
+msgstr "Vara dourada clara"
+
+#: py/cuda_palette/__init__.py:1411 py/cuda_palette/__init__.py:1775
+#: py/cuda_palette/__init__.py:1987 py/cuda_palette/__init__.py:2261
+msgid "Antique white"
+msgstr "Branco antigo"
+
+#: py/cuda_palette/__init__.py:1412 py/cuda_palette/__init__.py:1776
+#: py/cuda_palette/__init__.py:1988 py/cuda_palette/__init__.py:2263
+msgid "Lavender blush"
+msgstr "Blush lavanda"
+
+#: py/cuda_palette/__init__.py:1413
+msgid "Taupe gray"
+msgstr "Cinza cinza"
+
+#: py/cuda_palette/__init__.py:1414 py/cuda_palette/__init__.py:1677
+#: py/cuda_palette/__init__.py:1778 py/cuda_palette/__init__.py:1991
+#: py/cuda_palette/__init__.py:2267
+msgid "Khaki"
+msgstr "Cáqui"
+
+#: py/cuda_palette/__init__.py:1415 py/cuda_palette/__init__.py:1777
+#: py/cuda_palette/__init__.py:1989 py/cuda_palette/__init__.py:2265
+msgid "Seashell"
+msgstr "Concha"
+
+#: py/cuda_palette/__init__.py:1416 py/cuda_palette/__init__.py:1779
+#: py/cuda_palette/__init__.py:1993 py/cuda_palette/__init__.py:2269
+msgid "Cornsilk"
+msgstr "Seda de milho"
+
+#: py/cuda_palette/__init__.py:1417 py/cuda_palette/__init__.py:1780
+#: py/cuda_palette/__init__.py:1994 py/cuda_palette/__init__.py:2271
+msgid "Lemon chiffon"
+msgstr "Chiffon limão"
+
+#: py/cuda_palette/__init__.py:1418 py/cuda_palette/__init__.py:1781
+#: py/cuda_palette/__init__.py:1995 py/cuda_palette/__init__.py:2273
+msgid "Snow"
+msgstr "Neve"
+
+#: py/cuda_palette/__init__.py:1419 py/cuda_palette/__init__.py:1782
+#: py/cuda_palette/__init__.py:1996 py/cuda_palette/__init__.py:2002
+#: py/cuda_palette/__init__.py:2095 py/cuda_palette/__init__.py:2120
+#: py/cuda_palette/__init__.py:2121 py/cuda_palette/__init__.py:2275
+msgid "Yellow"
+msgstr "Amarelo"
+
+#: py/cuda_palette/__init__.py:1420 py/cuda_palette/__init__.py:1783
+#: py/cuda_palette/__init__.py:1997 py/cuda_palette/__init__.py:2281
+msgid "Light yellow"
+msgstr "Amarelo claro"
+
+#: py/cuda_palette/__init__.py:1421 py/cuda_palette/__init__.py:1784
+#: py/cuda_palette/__init__.py:2282
+msgid "Ivory"
+msgstr "Marfim"
+
+#: py/cuda_palette/__init__.py:1422
+msgid "Pewter blue"
+msgstr "Azul estanho"
+
+#: py/cuda_palette/__init__.py:1423
+msgid "Cool grey, Gray-blue"
+msgstr "Cinza frio, azul acinzentado"
+
+#: py/cuda_palette/__init__.py:1424
+msgid "Dark sky blue"
+msgstr "Céu azul escuro"
+
+#: py/cuda_palette/__init__.py:1425
+msgid "Razzmic berry"
+msgstr "Baga Razzmic"
+
+#: py/cuda_palette/__init__.py:1426
+msgid "Morning blue"
+msgstr "Manhã azul"
+
+#: py/cuda_palette/__init__.py:1427
+msgid "Apple green"
+msgstr "Verde maçã"
+
+#: py/cuda_palette/__init__.py:1429
+msgid "Middle blue green"
+msgstr "Verde azul médio"
+
+#: py/cuda_palette/__init__.py:1431
+msgid "Quinacridone magenta"
+msgstr "Quinacridona magenta"
+
+#: py/cuda_palette/__init__.py:1433
+msgid "Kiwi"
+msgstr "Kiwi"
+
+#: py/cuda_palette/__init__.py:1436
+msgid "Artichoke"
+msgstr "Alcachofra"
+
+#: py/cuda_palette/__init__.py:1438
+msgid "Sheen green"
+msgstr "Verde brilhante"
+
+#: py/cuda_palette/__init__.py:1439
+msgid "Rose taupe"
+msgstr "Rosa cinza"
+
+#: py/cuda_palette/__init__.py:1440
+msgid "Light green"
+msgstr "Verde claro"
+
+#: py/cuda_palette/__init__.py:1442
+msgid "Sugar plum"
+msgstr "Ameixa de açúcar"
+
+#: py/cuda_palette/__init__.py:1443
+msgid "Antique fuchsia"
+msgstr "Fúcsia antigo"
+
+#: py/cuda_palette/__init__.py:1444
+msgid "Mauve taupe"
+msgstr "Cinza malva"
+
+#: py/cuda_palette/__init__.py:1445
+msgid "Dark tan"
+msgstr "Bronzeado escuro"
+
+#: py/cuda_palette/__init__.py:1446
+msgid "Cadet grey"
+msgstr "Cadete cinza"
+
+#: py/cuda_palette/__init__.py:1447
+msgid "Sangria"
+msgstr "Sangria"
+
+#: py/cuda_palette/__init__.py:1448
+msgid "Vivid auburn"
+msgstr "Castanho vívido"
+
+#: py/cuda_palette/__init__.py:1449
+msgid "Ceil"
+msgstr "Teto"
+
+#: py/cuda_palette/__init__.py:1450
+msgid "Smoky Topaz"
+msgstr "Topázio Esfumaçado"
+
+#: py/cuda_palette/__init__.py:1452
+msgid "Pistachio"
+msgstr "Pistache"
+
+#: py/cuda_palette/__init__.py:1453
+msgid "Light cornflower blue"
+msgstr "Azul centáurea claro"
+
+#: py/cuda_palette/__init__.py:1454
+msgid "Dark violet"
+msgstr "Violeta escuro"
+
+#: py/cuda_palette/__init__.py:1455
+msgid "Lavender indigo, Navy purple"
+msgstr "Lavanda índigo, roxo marinho"
+
+#: py/cuda_palette/__init__.py:1456
+msgid "Chestnut"
+msgstr "Castanha"
+
+#: py/cuda_palette/__init__.py:1457
+msgid "Carmine, Heidelberg red"
+msgstr "Carmim, vermelho Heidelberg"
+
+#: py/cuda_palette/__init__.py:1458
+msgid "Brown (traditional)"
+msgstr "Marrom (tradicional)"
+
+#: py/cuda_palette/__init__.py:1459
+msgid "Coconut"
+msgstr "Coco"
+
+#: py/cuda_palette/__init__.py:1460
+msgid "Dark pastel purple"
+msgstr "Roxo pastel escuro"
+
+#: py/cuda_palette/__init__.py:1461
+msgid "Sandy taupe"
+msgstr "Cinza arenoso"
+
+#: py/cuda_palette/__init__.py:1462
+msgid "Purple mountain majesty"
+msgstr "Majestade da montanha roxa"
+
+#: py/cuda_palette/__init__.py:1463
+msgid "Lavender purple"
+msgstr "Roxo lavanda"
+
+#: py/cuda_palette/__init__.py:1464
+msgid "Eton blue"
+msgstr "Eton azul"
+
+#: py/cuda_palette/__init__.py:1466
+msgid "Pale robin egg blue"
+msgstr "Azul claro ovo robin"
+
+#: py/cuda_palette/__init__.py:1467
+msgid "Manatee"
+msgstr "Peixe-boi"
+
+#: py/cuda_palette/__init__.py:1469
+msgid "Pink raspberry"
+msgstr "Framboesa rosa"
+
+#: py/cuda_palette/__init__.py:1470
+msgid "Dark chestnut"
+msgstr "Castanho escuro"
+
+#: py/cuda_palette/__init__.py:1471
+msgid "Liver chestnut"
+msgstr "Castanha de fígado"
+
+#: py/cuda_palette/__init__.py:1472
+msgid "Pale brown"
+msgstr "Castanho claro"
+
+#: py/cuda_palette/__init__.py:1473
+msgid "Bazaar"
+msgstr "Bazar"
+
+#: py/cuda_palette/__init__.py:1474
+msgid "Cinereous"
+msgstr "Cineroso"
+
+#: py/cuda_palette/__init__.py:1475
+msgid "Spanish gray"
+msgstr "Cinza espanhol"
+
+#: py/cuda_palette/__init__.py:1478
+msgid "Mint green"
+msgstr "Verde menta"
+
+#: py/cuda_palette/__init__.py:1479
+msgid "Crimson red"
+msgstr "Vermelho carmesim"
+
+#: py/cuda_palette/__init__.py:1481
+msgid "Deep lilac"
+msgstr "Lilás profundo"
+
+#: py/cuda_palette/__init__.py:1482
+msgid "Golden brown"
+msgstr "Castanho dourado"
+
+#: py/cuda_palette/__init__.py:1483
+msgid "Gamboge orange (brown)"
+msgstr "Laranja Gamboge (marrom)"
+
+#: py/cuda_palette/__init__.py:1484
+msgid "Copper rose"
+msgstr "Rosa de cobre"
+
+#: py/cuda_palette/__init__.py:1485
+msgid "Amethyst"
+msgstr "Ametista"
+
+#: py/cuda_palette/__init__.py:1486
+msgid "Mountbatten pink"
+msgstr "Mountbatten rosa"
+
+#: py/cuda_palette/__init__.py:1487
+msgid "Teal deer"
+msgstr "Cervo verde-azulado"
+
+#: py/cuda_palette/__init__.py:1489
+msgid "Purpureus"
+msgstr "Purpureus"
+
+#: py/cuda_palette/__init__.py:1490
+msgid "Olivine"
+msgstr "Olivina"
+
+#: py/cuda_palette/__init__.py:1492
+msgid "Yellow-green"
+msgstr "Verde-amarelo"
+
+#: py/cuda_palette/__init__.py:1494
+msgid "Ruby red"
+msgstr "Vermelho rubi"
+
+#: py/cuda_palette/__init__.py:1496
+msgid "Dirt"
+msgstr "Sujeira"
+
+#: py/cuda_palette/__init__.py:1497
+msgid "Dark yellow"
+msgstr "Amarelo escuro"
+
+#: py/cuda_palette/__init__.py:1498
+msgid "Pale cerulean"
+msgstr "Cerúleo pálido"
+
+#: py/cuda_palette/__init__.py:1500
+msgid "Big dip o'ruby"
+msgstr "Grande mergulho em Ruby"
+
+#: py/cuda_palette/__init__.py:1501
+msgid "Purple Plum"
+msgstr "Ameixa Roxa"
+
+#: py/cuda_palette/__init__.py:1502
+msgid "Metallic sunburst"
+msgstr "Raio de sol metálico"
+
+#: py/cuda_palette/__init__.py:1504
+msgid "Japanese carmine"
+msgstr "Carmim japonês"
+
+#: py/cuda_palette/__init__.py:1505
+msgid "Limerick"
+msgstr "Limerick"
+
+#: py/cuda_palette/__init__.py:1506
+msgid "Spartan crimson"
+msgstr "Carmesim espartano"
+
+#: py/cuda_palette/__init__.py:1507
+msgid "Rose dust"
+msgstr "Pó de rosa"
+
+#: py/cuda_palette/__init__.py:1508
+msgid "French lime"
+msgstr "Limão francês"
+
+#: py/cuda_palette/__init__.py:1510
+msgid "Vivid violet"
+msgstr "Violeta vívido"
+
+#: py/cuda_palette/__init__.py:1511
+msgid "Vivid burgundy"
+msgstr "Borgonha vívido"
+
+#: py/cuda_palette/__init__.py:1512
+msgid "Amaranth deep purple"
+msgstr "Amaranto roxo profundo"
+
+#: py/cuda_palette/__init__.py:1513
+msgid "Magenta haze"
+msgstr "Névoa magenta"
+
+#: py/cuda_palette/__init__.py:1515
+msgid "Beaver"
+msgstr "Castor"
+
+#: py/cuda_palette/__init__.py:1516
+msgid "Citron"
+msgstr "Cidra"
+
+#: py/cuda_palette/__init__.py:1518
+msgid "Sea Foam green"
+msgstr "Espuma do mar verde"
+
+#: py/cuda_palette/__init__.py:1519
+msgid "Purple, Veronica"
+msgstr "Roxa, Verônica"
+
+#: py/cuda_palette/__init__.py:1521
+msgid "Chamoisee"
+msgstr "Camurça"
+
+#: py/cuda_palette/__init__.py:1522
+msgid "Turquoise green"
+msgstr "Verde turquesa"
+
+#: py/cuda_palette/__init__.py:1523
+msgid "Winter wizard"
+msgstr "Feiticeiro de inverno"
+
+#: py/cuda_palette/__init__.py:1524
+msgid "Burnished brown"
+msgstr "Castanho polido"
+
+#: py/cuda_palette/__init__.py:1525
+msgid "Baby blue eyes"
+msgstr "Olhos azuis bebê"
+
+#: py/cuda_palette/__init__.py:1526
+msgid "Flirt"
+msgstr "Flertar"
+
+#: py/cuda_palette/__init__.py:1527
+msgid "Blue bell"
+msgstr "Sino azul"
+
+#: py/cuda_palette/__init__.py:1528
+msgid "Wild blue yonder"
+msgstr "Azul selvagem além"
+
+#: py/cuda_palette/__init__.py:1531
+msgid "Cambridge blue"
+msgstr "Cambridge azul"
+
+#: py/cuda_palette/__init__.py:1532
+msgid "Dark candy apple red"
+msgstr "Maçã doce escura vermelha"
+
+#: py/cuda_palette/__init__.py:1533
+msgid "Redwood"
+msgstr "sequoia"
+
+#: py/cuda_palette/__init__.py:1534
+msgid "Android green"
+msgstr "Android verde"
+
+#: py/cuda_palette/__init__.py:1536
+msgid "Non-photo blue"
+msgstr "Azul não fotográfico"
+
+#: py/cuda_palette/__init__.py:1537
+msgid "Waterspout"
+msgstr "Tromba d'água"
+
+#: py/cuda_palette/__init__.py:1538
+msgid "Jazzberry jam"
+msgstr "Geléia de Jazzberry"
+
+#: py/cuda_palette/__init__.py:1539
+msgid "Auburn, brown"
+msgstr "Castanho, castanho"
+
+#: py/cuda_palette/__init__.py:1540
+msgid "Middle red purple"
+msgstr "Roxo vermelho médio"
+
+#: py/cuda_palette/__init__.py:1541
+msgid "Blast-off bronze"
+msgstr "Bronze de explosão"
+
+#: py/cuda_palette/__init__.py:1542
+msgid "Maximum red purple"
+msgstr "Máximo vermelho roxo"
+
+#: py/cuda_palette/__init__.py:1543
+msgid "French beige, Tuscan tan"
+msgstr "Bege francês, bronzeado toscano"
+
+#: py/cuda_palette/__init__.py:1544
+msgid "Quick silver"
+msgstr "Prata rápida"
+
+#: py/cuda_palette/__init__.py:1545
+msgid "Vivid lime green"
+msgstr "Verde limão vívido"
+
+#: py/cuda_palette/__init__.py:1546
+msgid "Fresh air"
+msgstr "Ar fresco"
+
+#: py/cuda_palette/__init__.py:1547
+msgid "Windsor tan"
+msgstr "Bronzeado Windsor"
+
+#: py/cuda_palette/__init__.py:1548
+msgid "Rich lavender"
+msgstr "Lavanda rica"
+
+#: py/cuda_palette/__init__.py:1549
+msgid "Green lizard"
+msgstr "Lagarto verde"
+
+#: py/cuda_palette/__init__.py:1550
+msgid "Spring bud"
+msgstr "Botão de primavera"
+
+#: py/cuda_palette/__init__.py:1551
+msgid "Rufous"
+msgstr "Ruivo"
+
+#: py/cuda_palette/__init__.py:1552
+msgid "Sweet brown"
+msgstr "Marrom doce"
+
+#: py/cuda_palette/__init__.py:1553
+msgid "China rose"
+msgstr "China rosa"
+
+#: py/cuda_palette/__init__.py:1554
+msgid "Granny Smith apple"
+msgstr "Maçã Vovó Smith"
+
+#: py/cuda_palette/__init__.py:1555
+msgid "Deep carmine"
+msgstr "Carmim profundo"
+
+#: py/cuda_palette/__init__.py:1556
+msgid "Deep puce"
+msgstr "Puce profundo"
+
+#: py/cuda_palette/__init__.py:1557
+msgid "Grullo"
+msgstr "Grullo"
+
+#: py/cuda_palette/__init__.py:1558
+msgid "Dark medium gray"
+msgstr "Cinza médio escuro"
+
+#: py/cuda_palette/__init__.py:1559
+msgid "Laurel green"
+msgstr "louro verde"
+
+#: py/cuda_palette/__init__.py:1560
+msgid "Heliotrope magenta"
+msgstr "Heliotrópio magenta"
+
+#: py/cuda_palette/__init__.py:1561
+msgid "Chinese red"
+msgstr "Vermelho chinês"
+
+#: py/cuda_palette/__init__.py:1562
+msgid "Medium ruby"
+msgstr "Rubi médio"
+
+#: py/cuda_palette/__init__.py:1563
+msgid "Heliotrope gray, Rose quartz"
+msgstr "Heliotrópio cinza, quartzo rosa"
+
+#: py/cuda_palette/__init__.py:1564
+msgid "Magic mint"
+msgstr "Menta mágica"
+
+#: py/cuda_palette/__init__.py:1565
+msgid "Amaranth purple"
+msgstr "Amaranto roxo"
+
+#: py/cuda_palette/__init__.py:1566
+msgid "English red"
+msgstr "Vermelho inglês"
+
+#: py/cuda_palette/__init__.py:1567
+msgid "Rose vale"
+msgstr "Rosa vale"
+
+#: py/cuda_palette/__init__.py:1569
+msgid "Glossy grape"
+msgstr "Uva brilhante"
+
+#: py/cuda_palette/__init__.py:1570
+msgid "Pale cornflower blue"
+msgstr "Azul centáurea pálido"
+
+#: py/cuda_palette/__init__.py:1571
+msgid "French wine"
+msgstr "Vinho francês"
+
+#: py/cuda_palette/__init__.py:1572
+msgid "Silver chalice"
+msgstr "Cálice de prata"
+
+#: py/cuda_palette/__init__.py:1573
+msgid "Maximum blue purple"
+msgstr "Máximo azul roxo"
+
+#: py/cuda_palette/__init__.py:1574
+msgid "Middle green yellow"
+msgstr "Verde médio amarelo"
+
+#: py/cuda_palette/__init__.py:1575
+msgid "Celadon"
+msgstr "Celadon"
+
+#: py/cuda_palette/__init__.py:1576
+msgid "Blizzard blue, Blue Lagoon"
+msgstr "Azul nevasca, Lagoa Azul"
+
+#: py/cuda_palette/__init__.py:1577
+msgid "Mystic maroon"
+msgstr "Marrom místico"
+
+#: py/cuda_palette/__init__.py:1578
+msgid "Copper penny"
+msgstr "Moeda de cobre"
+
+#: py/cuda_palette/__init__.py:1580
+msgid "Light moss green"
+msgstr "Verde musgo claro"
+
+#: py/cuda_palette/__init__.py:1581
+msgid "Green-yellow"
+msgstr "Verde-amarelo"
+
+#: py/cuda_palette/__init__.py:1582
+msgid "Mordant red 19"
+msgstr "Vermelho mordente 19"
+
+#: py/cuda_palette/__init__.py:1583
+msgid "Upsdell red"
+msgstr "Upsdell vermelho"
+
+#: py/cuda_palette/__init__.py:1584
+msgid "Lilac luster"
+msgstr "Brilho lilás"
+
+#: py/cuda_palette/__init__.py:1585
+msgid "Pastel blue"
+msgstr "Azul pastel"
+
+#: py/cuda_palette/__init__.py:1586
+msgid "Alabama crimson"
+msgstr "Alabama carmesim"
+
+#: py/cuda_palette/__init__.py:1587
+msgid "Pale carmine"
+msgstr "Carmim pálido"
+
+#: py/cuda_palette/__init__.py:1588
+msgid "Brown sugar"
+msgstr "Açúcar mascavo"
+
+#: py/cuda_palette/__init__.py:1589
+msgid "Pale blue"
+msgstr "Azul pálido"
+
+#: py/cuda_palette/__init__.py:1590
+msgid "Rich maroon"
+msgstr "Marrom rico"
+
+#: py/cuda_palette/__init__.py:1591
+msgid "Giant's club"
+msgstr "clube do gigante"
+
+#: py/cuda_palette/__init__.py:1592
+msgid "Ginger"
+msgstr "Ruivo"
+
+#: py/cuda_palette/__init__.py:1593
+msgid "Acid green"
+msgstr "Verde ácido"
+
+#: py/cuda_palette/__init__.py:1595
+msgid "Powder blue"
+msgstr "Pó azul"
+
+#: py/cuda_palette/__init__.py:1597
+msgid "Light pastel purple"
+msgstr "Roxo pastel claro"
+
+#: py/cuda_palette/__init__.py:1600
+msgid "African violet"
+msgstr "Violeta africana"
+
+#: py/cuda_palette/__init__.py:1601
+msgid "Ash grey"
+msgstr "Cinza cinza"
+
+#: py/cuda_palette/__init__.py:1603
+msgid "Inchworm"
+msgstr "Lagarta"
+
+#: py/cuda_palette/__init__.py:1604
+msgid "Celeste, Italian sky blue"
+msgstr "Celeste, céu azul italiano"
+
+#: py/cuda_palette/__init__.py:1605
+msgid "Carnelian, Cornell red"
+msgstr "Cornalina, vermelho Cornell"
+
+#: py/cuda_palette/__init__.py:1606
+msgid "Irresistible, Raspberry rose"
+msgstr "Irresistível, framboesa rosa"
+
+#: py/cuda_palette/__init__.py:1607
+msgid "Light taupe"
+msgstr "Cinza claro"
+
+#: py/cuda_palette/__init__.py:1608
+msgid "Pastel purple"
+msgstr "Roxo pastel"
+
+#: py/cuda_palette/__init__.py:1611
+msgid "English lavender"
+msgstr "Lavanda inglesa"
+
+#: py/cuda_palette/__init__.py:1614
+msgid "Fandango"
+msgstr "Fandango"
+
+#: py/cuda_palette/__init__.py:1615
+msgid "Light brown"
+msgstr "Castanho claro"
+
+#: py/cuda_palette/__init__.py:1616
+msgid "Turkish rose"
+msgstr "Rosa turca"
+
+#: py/cuda_palette/__init__.py:1617
+msgid "Lavender (floral)"
+msgstr "Lavanda (floral)"
+
+#: py/cuda_palette/__init__.py:1618
+msgid "Brass"
+msgstr "Latão"
+
+#: py/cuda_palette/__init__.py:1620
+msgid "Rich lilac"
+msgstr "Lilás rico"
+
+#: py/cuda_palette/__init__.py:1621
+msgid "Rust"
+msgstr "Ferrugem"
+
+#: py/cuda_palette/__init__.py:1622
+msgid "Pearly purple"
+msgstr "Roxo perolado"
+
+#: py/cuda_palette/__init__.py:1623
+msgid "Rose gold"
+msgstr "Ouro rosa"
+
+#: py/cuda_palette/__init__.py:1624
+msgid "Opera mauve"
+msgstr "Ópera malva"
+
+#: py/cuda_palette/__init__.py:1625
+msgid "University of California Gold"
+msgstr "Ouro da Universidade da Califórnia"
+
+#: py/cuda_palette/__init__.py:1626
+msgid "Vivid mulberry"
+msgstr "Amoreira viva"
+
+#: py/cuda_palette/__init__.py:1627
+msgid "Liver (dogs)"
+msgstr "Fígado (cães)"
+
+#: py/cuda_palette/__init__.py:1628
+msgid "Copper"
+msgstr "Cobre"
+
+#: py/cuda_palette/__init__.py:1630
+msgid "Deep chestnut"
+msgstr "Castanho profundo"
+
+#: py/cuda_palette/__init__.py:1632
+msgid "Diamond"
+msgstr "Diamante"
+
+#: py/cuda_palette/__init__.py:1633
+msgid "International orange"
+msgstr "Laranja internacional"
+
+#: py/cuda_palette/__init__.py:1635
+msgid "Deer"
+msgstr "Cervo"
+
+#: py/cuda_palette/__init__.py:1636
+msgid "Medium red-violet"
+msgstr "Vermelho-violeta médio"
+
+#: py/cuda_palette/__init__.py:1637
+msgid "Ruddy brown"
+msgstr "Castanho avermelhado"
+
+#: py/cuda_palette/__init__.py:1638
+msgid "Misty moss"
+msgstr "Musgo enevoado"
+
+#: py/cuda_palette/__init__.py:1641
+msgid "Pale taupe"
+msgstr "Cinza pálido"
+
+#: py/cuda_palette/__init__.py:1642
+msgid "Sage"
+msgstr "Sábio"
+
+#: py/cuda_palette/__init__.py:1644
+msgid "Pale aqua"
+msgstr "Água pálida"
+
+#: py/cuda_palette/__init__.py:1646
+msgid "Byzantine"
+msgstr "bizantino"
+
+#: py/cuda_palette/__init__.py:1647
+msgid "Dark khaki"
+msgstr "Cáqui escuro"
+
+#: py/cuda_palette/__init__.py:1648
+msgid "June bud"
+msgstr "Botão de junho"
+
+#: py/cuda_palette/__init__.py:1649
+msgid "Crimson glory"
+msgstr "Glória carmesim"
+
+#: py/cuda_palette/__init__.py:1650
+msgid "Popstar"
+msgstr "Estrela pop"
+
+#: py/cuda_palette/__init__.py:1651 py/cuda_palette/__init__.py:1795
+msgid "Gray"
+msgstr "Cinza"
+
+#: py/cuda_palette/__init__.py:1652
+msgid "Electric purple"
+msgstr "Roxo elétrico"
+
+#: py/cuda_palette/__init__.py:1654
+msgid "Bittersweet shimmer"
+msgstr "Brilho agridoce"
+
+#: py/cuda_palette/__init__.py:1655
+msgid "Bright lavender"
+msgstr "Lavanda brilhante"
+
+#: py/cuda_palette/__init__.py:1656
+msgid "Black shadows"
+msgstr "Sombras negras"
+
+#: py/cuda_palette/__init__.py:1657
+msgid "Silver sand"
+msgstr "Areia prateada"
+
+#: py/cuda_palette/__init__.py:1659
+msgid "Bitter lime"
+msgstr "Limão amargo"
+
+#: py/cuda_palette/__init__.py:1660
+msgid "International orange (Golden Gate Bridge)"
+msgstr "Laranja internacional (Ponte Golden Gate)"
+
+#: py/cuda_palette/__init__.py:1661
+msgid "Mahogany"
+msgstr "Mogno"
+
+#: py/cuda_palette/__init__.py:1662
+msgid "Old rose"
+msgstr "Rosa velha"
+
+#: py/cuda_palette/__init__.py:1663
+msgid "Tuscany"
+msgstr "Toscana"
+
+#: py/cuda_palette/__init__.py:1664
+msgid "Silver"
+msgstr "Prata"
+
+#: py/cuda_palette/__init__.py:1666
+msgid "Deep fuchsia"
+msgstr "Fúcsia profundo"
+
+#: py/cuda_palette/__init__.py:1667
+msgid "Camel, Desert, Wood brown"
+msgstr "Camelo, Deserto, Madeira Marrom"
+
+#: py/cuda_palette/__init__.py:1671
+msgid "Rose red"
+msgstr "Rosa vermelha"
+
+#: py/cuda_palette/__init__.py:1672
+msgid "Dark pastel red"
+msgstr "Vermelho pastel escuro"
+
+#: py/cuda_palette/__init__.py:1673
+msgid "Sand"
+msgstr "Areia"
+
+#: py/cuda_palette/__init__.py:1674
+msgid "Pictorial carmine"
+msgstr "Carmim pictórico"
+
+#: py/cuda_palette/__init__.py:1675
+msgid "Bright maroon"
+msgstr "Marrom brilhante"
+
+#: py/cuda_palette/__init__.py:1676
+msgid "Aztec gold"
+msgstr "Ouro asteca"
+
+#: py/cuda_palette/__init__.py:1678 py/cuda_palette/__init__.py:1733
+#: py/cuda_palette/__init__.py:1943 py/cuda_palette/__init__.py:1948
+#: py/cuda_palette/__init__.py:1951 py/cuda_palette/__init__.py:2017
+#: py/cuda_palette/__init__.py:2114 py/cuda_palette/__init__.py:2123
+msgid "Red"
+msgstr "Vermelho"
+
+#: py/cuda_palette/__init__.py:1679
+msgid "Cardinal"
+msgstr "Cardeal"
+
+#: py/cuda_palette/__init__.py:1680
+msgid "Alloy orange"
+msgstr "Liga laranja"
+
+#: py/cuda_palette/__init__.py:1681
+msgid "Silver pink"
+msgstr "Rosa prateado"
+
+#: py/cuda_palette/__init__.py:1682
+msgid "Lavender gray"
+msgstr "Cinza lavanda"
+
+#: py/cuda_palette/__init__.py:1683
+msgid "Columbia blue"
+msgstr "Azul Colômbia"
+
+#: py/cuda_palette/__init__.py:1684
+msgid "Dingy dungeon"
+msgstr "Masmorra suja"
+
+#: py/cuda_palette/__init__.py:1685
+msgid "Mulberry"
+msgstr "Amoreira"
+
+#: py/cuda_palette/__init__.py:1686
+msgid "Vegas gold"
+msgstr "Ouro de Las Vegas"
+
+#: py/cuda_palette/__init__.py:1688
+msgid "Medium violet-red"
+msgstr "Vermelho-violeta médio"
+
+#: py/cuda_palette/__init__.py:1689
+msgid "French raspberry"
+msgstr "Framboesa Francesa"
+
+#: py/cuda_palette/__init__.py:1690
+msgid "Fuchsia rose"
+msgstr "Rosa fúcsia"
+
+#: py/cuda_palette/__init__.py:1691
+msgid "Venetian red"
+msgstr "Vermelho veneziano"
+
+#: py/cuda_palette/__init__.py:1692
+msgid "Smitten"
+msgstr "Apaixonado"
+
+#: py/cuda_palette/__init__.py:1693
+msgid "Lilac"
+msgstr "Lilás"
+
+#: py/cuda_palette/__init__.py:1694
+msgid "Light french beige"
+msgstr "Bege francês claro"
+
+#: py/cuda_palette/__init__.py:1695
+msgid "Harvard crimson"
+msgstr "Carmesim de Harvard"
+
+#: py/cuda_palette/__init__.py:1696
+msgid "Cedar Chest"
+msgstr "Baú de Cedro"
+
+#: py/cuda_palette/__init__.py:1697
+msgid "Wisteria"
+msgstr "Glicínias"
+
+#: py/cuda_palette/__init__.py:1698
+msgid "Pale silver"
+msgstr "Prata pálida"
+
+#: py/cuda_palette/__init__.py:1699
+msgid "Medium spring bud"
+msgstr "Botão médio de primavera"
+
+#: py/cuda_palette/__init__.py:1700
+msgid "Aero blue"
+msgstr "Aero azul"
+
+#: py/cuda_palette/__init__.py:1701
+msgid "Magenta (dye)"
+msgstr "Magenta (corante)"
+
+#: py/cuda_palette/__init__.py:1702
+msgid "Royal fuchsia"
+msgstr "Fúcsia real"
+
+#: py/cuda_palette/__init__.py:1703
+msgid "Bitter lemon"
+msgstr "Limão amargo"
+
+#: py/cuda_palette/__init__.py:1706
+msgid "Sinopia"
+msgstr "Sinópia"
+
+#: py/cuda_palette/__init__.py:1707
+msgid "Brick red"
+msgstr "Vermelho tijolo"
+
+#: py/cuda_palette/__init__.py:1708
+msgid "Copper red"
+msgstr "Vermelho cobre"
+
+#: py/cuda_palette/__init__.py:1709
+msgid "Pastel violet"
+msgstr "Violeta pastel"
+
+#: py/cuda_palette/__init__.py:1710
+msgid "Satin sheen gold"
+msgstr "Ouro acetinado com brilho"
+
+#: py/cuda_palette/__init__.py:1711
+msgid "Boston university red"
+msgstr "Universidade de Boston vermelha"
+
+#: py/cuda_palette/__init__.py:1712
+msgid "Vivid crimson"
+msgstr "Carmesim vívido"
+
+#: py/cuda_palette/__init__.py:1713
+msgid "Deep magenta"
+msgstr "Magenta profundo"
+
+#: py/cuda_palette/__init__.py:1714
+msgid "Vivid orchid"
+msgstr "Orquídea vívida"
+
+#: py/cuda_palette/__init__.py:1715
+msgid "Persian red"
+msgstr "Vermelho persa"
+
+#: py/cuda_palette/__init__.py:1716
+msgid "Madder lake"
+msgstr "Lago mais louco"
+
+#: py/cuda_palette/__init__.py:1717
+msgid "Magenta-pink"
+msgstr "Rosa magenta"
+
+#: py/cuda_palette/__init__.py:1718
+msgid "Steel pink"
+msgstr "Rosa aço"
+
+#: py/cuda_palette/__init__.py:1719
+msgid "Fuchsia purple"
+msgstr "Roxo fúcsia"
+
+#: py/cuda_palette/__init__.py:1720
+msgid "English vermillion"
+msgstr "Vermelhão inglês"
+
+#: py/cuda_palette/__init__.py:1721
+msgid "Dark terra cotta"
+msgstr "Terracota escura"
+
+#: py/cuda_palette/__init__.py:1722
+msgid "Burnt orange"
+msgstr "Laranja queimada"
+
+#: py/cuda_palette/__init__.py:1723
+msgid "Fuzzy Wuzzy"
+msgstr "Fuzzy Wuzzy"
+
+#: py/cuda_palette/__init__.py:1724
+msgid "Ochre"
+msgstr "Ocre"
+
+#: py/cuda_palette/__init__.py:1725
+msgid "Puce"
+msgstr "Puce"
+
+#: py/cuda_palette/__init__.py:1726
+msgid "Vivid amber"
+msgstr "Âmbar vívido"
+
+#: py/cuda_palette/__init__.py:1727
+msgid "Brown yellow"
+msgstr "Marrom amarelo"
+
+#: py/cuda_palette/__init__.py:1728
+msgid "Light grayish magenta"
+msgstr "Magenta acinzentado claro"
+
+#: py/cuda_palette/__init__.py:1729
+msgid "Pale violet"
+msgstr "Violeta pálido"
+
+#: py/cuda_palette/__init__.py:1730
+msgid "Lemon curry"
+msgstr "Caril de limão"
+
+#: py/cuda_palette/__init__.py:1731
+msgid "Lavender blue, Periwinkle"
+msgstr "Azul lavanda, pervinca"
+
+#: py/cuda_palette/__init__.py:1732
+msgid "Fluorescent yellow"
+msgstr "Amarelo fluorescente"
+
+#: py/cuda_palette/__init__.py:1734 py/cuda_palette/__init__.py:1797
+#: py/cuda_palette/__init__.py:1949 py/cuda_palette/__init__.py:2131
+msgid "Magenta"
+msgstr "Magenta"
+
+#: py/cuda_palette/__init__.py:1743
+msgid "Tenne (tawny)"
+msgstr "Tenne (castanho)"
+
+#: py/cuda_palette/__init__.py:1744
+msgid "Dark coral"
+msgstr "Coral escuro"
+
+#: py/cuda_palette/__init__.py:1746
+msgid "Cinnamon satin"
+msgstr "Cetim canela"
+
+#: py/cuda_palette/__init__.py:1749 py/cuda_palette/__init__.py:1962
+#: py/cuda_palette/__init__.py:2179
+msgid "Chocolate"
+msgstr "Chocolate"
+
+#: py/cuda_palette/__init__.py:1754
+msgid "Bronze"
+msgstr "Bronze"
+
+#: py/cuda_palette/__init__.py:1757
+msgid "Peru"
+msgstr "Peru"
+
+#: py/cuda_palette/__init__.py:1761
+msgid "Antique brass"
+msgstr "Latão antigo"
+
+#: py/cuda_palette/__init__.py:1765
+msgid "Tropical violet"
+msgstr "Violeta tropical"
+
+#: py/cuda_palette/__init__.py:1785
+msgid "Fire engine red"
+msgstr "Carro de bombeiros vermelho"
+
+#: py/cuda_palette/__init__.py:1786
+msgid "Ruber"
+msgstr "Ruber"
+
+#: py/cuda_palette/__init__.py:1787
+msgid "Soap"
+msgstr "Sabão"
+
+#: py/cuda_palette/__init__.py:1788
+msgid "Volt"
+msgstr "Volt"
+
+#: py/cuda_palette/__init__.py:1789
+msgid "Lava"
+msgstr "Lava"
+
+#: py/cuda_palette/__init__.py:1790
+msgid "Telemagenta"
+msgstr "Telemagenta"
+
+#: py/cuda_palette/__init__.py:1791
+msgid "Super pink"
+msgstr "Super rosa"
+
+#: py/cuda_palette/__init__.py:1792
+msgid "Sky magenta"
+msgstr "Céu magenta"
+
+#: py/cuda_palette/__init__.py:1793
+msgid "Old gold"
+msgstr "Ouro velho"
+
+#: py/cuda_palette/__init__.py:1794
+msgid "Pastel gray"
+msgstr "Cinza pastel"
+
+#: py/cuda_palette/__init__.py:1798
+msgid "Tea green"
+msgstr "Chá verde"
+
+#: py/cuda_palette/__init__.py:1799
+msgid "Arctic lime"
+msgstr "Cal ártico"
+
+#: py/cuda_palette/__init__.py:1800
+msgid "Spanish carmine"
+msgstr "carmim espanhol"
+
+#: py/cuda_palette/__init__.py:1801
+msgid "Rubine red"
+msgstr "Vermelho rubi"
+
+#: py/cuda_palette/__init__.py:1803
+msgid "Bright ube"
+msgstr "Ube brilhante"
+
+#: py/cuda_palette/__init__.py:1804
+msgid "Dark vanilla"
+msgstr "Baunilha escura"
+
+#: py/cuda_palette/__init__.py:1805
+msgid "Pear"
+msgstr "Pera"
+
+#: py/cuda_palette/__init__.py:1807
+msgid "Chocolate, Cocoa brown"
+msgstr "Chocolate, Castanho Cacau"
+
+#: py/cuda_palette/__init__.py:1809
+msgid "Utah Crimson"
+msgstr "Carmesim de Utah"
+
+#: py/cuda_palette/__init__.py:1810
+msgid "Amaranth red"
+msgstr "Amaranto vermelho"
+
+#: py/cuda_palette/__init__.py:1811
+msgid "Light medium orchid"
+msgstr "Orquídea média clara"
+
+#: py/cuda_palette/__init__.py:1812
+msgid "Light gray"
+msgstr "Cinza claro"
+
+#: py/cuda_palette/__init__.py:1813
+msgid "Rosso corsa"
+msgstr "Rosso Corsa"
+
+#: py/cuda_palette/__init__.py:1814
+msgid "Wild orchid"
+msgstr "Orquídea selvagem"
+
+#: py/cuda_palette/__init__.py:1815
+msgid "Deep mauve"
+msgstr "Malva profundo"
+
+#: py/cuda_palette/__init__.py:1816
+msgid "Gold (metallic)"
+msgstr "Ouro (metálico)"
+
+#: py/cuda_palette/__init__.py:1817
+msgid "Mystic"
+msgstr "Místico"
+
+#: py/cuda_palette/__init__.py:1818
+msgid "Raw sienna"
+msgstr "Siena crua"
+
+#: py/cuda_palette/__init__.py:1819
+msgid "Languid lavender"
+msgstr "Lavanda lânguida"
+
+#: py/cuda_palette/__init__.py:1820
+msgid "Rich carmine"
+msgstr "Carmim rico"
+
+#: py/cuda_palette/__init__.py:1821
+msgid "Debian red"
+msgstr "Debian vermelho"
+
+#: py/cuda_palette/__init__.py:1822
+msgid "Dogwood rose"
+msgstr "Rosa Dogwood"
+
+#: py/cuda_palette/__init__.py:1823
+msgid "Jasper"
+msgstr "Jaspe"
+
+#: py/cuda_palette/__init__.py:1825
+msgid "New York pink"
+msgstr "Rosa de Nova York"
+
+#: py/cuda_palette/__init__.py:1826
+msgid "Bright lilac"
+msgstr "Lilás brilhante"
+
+#: py/cuda_palette/__init__.py:1827
+msgid "Pink lavender"
+msgstr "Lavanda rosa"
+
+#: py/cuda_palette/__init__.py:1829
+msgid "UA red"
+msgstr "U vermelho"
+
+#: py/cuda_palette/__init__.py:1830
+msgid "Maximum red"
+msgstr "Vermelho máximo"
+
+#: py/cuda_palette/__init__.py:1831
+msgid "Vermilion"
+msgstr "Vermelhão"
+
+#: py/cuda_palette/__init__.py:1832
+msgid "Medium vermilion"
+msgstr "Vermelhão médio"
+
+#: py/cuda_palette/__init__.py:1833
+msgid "Middle purple"
+msgstr "Roxo médio"
+
+#: py/cuda_palette/__init__.py:1834
+msgid "Shimmering blush"
+msgstr "Blush cintilante"
+
+#: py/cuda_palette/__init__.py:1835
+msgid "Persian orange"
+msgstr "Laranja persa"
+
+#: py/cuda_palette/__init__.py:1836
+msgid "Parrot pink"
+msgstr "Papagaio rosa"
+
+#: py/cuda_palette/__init__.py:1837
+msgid "Maximum green yellow"
+msgstr "Máximo verde amarelo"
+
+#: py/cuda_palette/__init__.py:1838
+msgid "Vivid cerise"
+msgstr "Cereja viva"
+
+#: py/cuda_palette/__init__.py:1839
+msgid "Rusty red"
+msgstr "Vermelho enferrujado"
+
+#: py/cuda_palette/__init__.py:1840
+msgid "Deep cerise"
+msgstr "Cereja profunda"
+
+#: py/cuda_palette/__init__.py:1841
+msgid "Jelly bean"
+msgstr "Jujuba"
+
+#: py/cuda_palette/__init__.py:1843
+msgid "Pale copper"
+msgstr "Cobre pálido"
+
+#: py/cuda_palette/__init__.py:1844
+msgid "Harvest gold"
+msgstr "Colha ouro"
+
+#: py/cuda_palette/__init__.py:1846
+msgid "Pale red-violet"
+msgstr "Vermelho-violeta pálido"
+
+#: py/cuda_palette/__init__.py:1847
+msgid "Timberwolf"
+msgstr "Lobo Timber"
+
+#: py/cuda_palette/__init__.py:1848
+msgid "Azureish white"
+msgstr "Branco azulado"
+
+#: py/cuda_palette/__init__.py:1849
+msgid "Crimson"
+msgstr "Carmesim"
+
+#: py/cuda_palette/__init__.py:1850
+msgid "Pale lavender"
+msgstr "Lavanda pálida"
+
+#: py/cuda_palette/__init__.py:1851
+msgid "Gainsboro"
+msgstr "Gainsboro"
+
+#: py/cuda_palette/__init__.py:1852
+msgid "Medium lavender magenta, Pale plum"
+msgstr "Magenta lavanda médio, ameixa pálida"
+
+#: py/cuda_palette/__init__.py:1853
+msgid "Pale chestnut"
+msgstr "Castanho claro"
+
+#: py/cuda_palette/__init__.py:1854
+msgid "Booger buster"
+msgstr "Destruidor de meleca"
+
+#: py/cuda_palette/__init__.py:1855
+msgid "Cherry"
+msgstr "Cereja"
+
+#: py/cuda_palette/__init__.py:1856
+msgid "Fandango pink"
+msgstr "Fandango rosa"
+
+#: py/cuda_palette/__init__.py:1857
+msgid "Blush"
+msgstr "Corar"
+
+#: py/cuda_palette/__init__.py:1858
+msgid "China pink, Liseran purple"
+msgstr "Rosa China, roxo Liseran"
+
+#: py/cuda_palette/__init__.py:1859
+msgid "Pastel pink"
+msgstr "Rosa pastel"
+
+#: py/cuda_palette/__init__.py:1860
+msgid "Tumbleweed"
+msgstr "Erva daninha"
+
+#: py/cuda_palette/__init__.py:1862
+msgid "Phlox, Psychedelic purple"
+msgstr "Phlox, roxo psicodélico"
+
+#: py/cuda_palette/__init__.py:1863
+msgid "Vivid red-tangelo"
+msgstr "Tangelo vermelho vivo"
+
+#: py/cuda_palette/__init__.py:1864
+msgid "Heliotrope"
+msgstr "Heliotrópio"
+
+#: py/cuda_palette/__init__.py:1865
+msgid "Chartreuse (traditional)"
+msgstr "Chartreuse (tradicional)"
+
+#: py/cuda_palette/__init__.py:1866
+msgid "Ruby"
+msgstr "Rubi"
+
+#: py/cuda_palette/__init__.py:1867
+msgid "Barbie pink"
+msgstr "Barbie rosa"
+
+#: py/cuda_palette/__init__.py:1868
+msgid "CG red"
+msgstr "CG vermelho"
+
+#: py/cuda_palette/__init__.py:1870
+msgid "Tiger's eye"
+msgstr "Olho de tigre"
+
+#: py/cuda_palette/__init__.py:1871
+msgid "Mauve"
+msgstr "Malva"
+
+#: py/cuda_palette/__init__.py:1875
+msgid "Permanent geranium lake"
+msgstr "Lago permanente de gerânio"
+
+#: py/cuda_palette/__init__.py:1876
+msgid "Ruddy pink"
+msgstr "Rosa avermelhado"
+
+#: py/cuda_palette/__init__.py:1877
+msgid "Earth yellow"
+msgstr "Amarelo terra"
+
+#: py/cuda_palette/__init__.py:1878
+msgid "Urobilin"
+msgstr "Urobilina"
+
+#: py/cuda_palette/__init__.py:1879
+msgid "Medium candy apple red"
+msgstr "Maçã doce média vermelha"
+
+#: py/cuda_palette/__init__.py:1880
+msgid "Raspberry pink"
+msgstr "Rosa framboesa"
+
+#: py/cuda_palette/__init__.py:1881
+msgid "Flame"
+msgstr "Chama"
+
+#: py/cuda_palette/__init__.py:1882
+msgid "Terra cotta"
+msgstr "Terracota"
+
+#: py/cuda_palette/__init__.py:1883
+msgid "Cadmium red"
+msgstr "Vermelho cádmio"
+
+#: py/cuda_palette/__init__.py:1884
+msgid "Raspberry"
+msgstr "Framboesa"
+
+#: py/cuda_palette/__init__.py:1885
+msgid "Razzmatazz"
+msgstr "Razzmatazz"
+
+#: py/cuda_palette/__init__.py:1886
+msgid "Alizarin crimson, Rose madder"
+msgstr "Alizarin carmesim, Rose Madder"
+
+#: py/cuda_palette/__init__.py:1887
+msgid "Cinnabar, Vermilion"
+msgstr "Cinábrio, Vermelhão"
+
+#: py/cuda_palette/__init__.py:1888
+msgid "Indian yellow"
+msgstr "Amarelo indiano"
+
+#: py/cuda_palette/__init__.py:1889
+msgid "Sunray"
+msgstr "raio de sol"
+
+#: py/cuda_palette/__init__.py:1890
+msgid "Bone"
+msgstr "Osso"
+
+#: py/cuda_palette/__init__.py:1891
+msgid "Mindaro"
+msgstr "Mindarô"
+
+#: py/cuda_palette/__init__.py:1892
+msgid "Lemon lime"
+msgstr "Limão"
+
+#: py/cuda_palette/__init__.py:1893
+msgid "Red-purple"
+msgstr "Vermelho-roxo"
+
+#: py/cuda_palette/__init__.py:1894
+msgid "Mexican pink"
+msgstr "Rosa mexicano"
+
+#: py/cuda_palette/__init__.py:1895
+msgid "Tango pink"
+msgstr "Tango rosa"
+
+#: py/cuda_palette/__init__.py:1896
+msgid "Fulvous"
+msgstr "Fulvoso"
+
+#: py/cuda_palette/__init__.py:1897
+msgid "Gamboge"
+msgstr "Gamboge"
+
+#: py/cuda_palette/__init__.py:1898
+msgid "Citrine"
+msgstr "Citrino"
+
+#: py/cuda_palette/__init__.py:1899
+msgid "Straw"
+msgstr "Canudo"
+
+#: py/cuda_palette/__init__.py:1900
+msgid "Spanish crimson"
+msgstr "Carmesim espanhol"
+
+#: py/cuda_palette/__init__.py:1901
+msgid "Amaranth"
+msgstr "Amaranto"
+
+#: py/cuda_palette/__init__.py:1902
+msgid "Vivid vermilion"
+msgstr "Vermelhão vívido"
+
+#: py/cuda_palette/__init__.py:1903
+msgid "Middle red"
+msgstr "Vermelho médio"
+
+#: py/cuda_palette/__init__.py:1904
+msgid "Fawn"
+msgstr "fulvo"
+
+#: py/cuda_palette/__init__.py:1905
+msgid "Meat brown"
+msgstr "Carne marrom"
+
+#: py/cuda_palette/__init__.py:1906
+msgid "Dust storm"
+msgstr "Tempestade de poeira"
+
+#: py/cuda_palette/__init__.py:1907
+msgid "Platinum"
+msgstr "Platina"
+
+#: py/cuda_palette/__init__.py:1908
+msgid "Spanish red"
+msgstr "Vermelho espanhol"
+
+#: py/cuda_palette/__init__.py:1909
+msgid "Lust"
+msgstr "Luxúria"
+
+#: py/cuda_palette/__init__.py:1910
+msgid "Paradise pink"
+msgstr "Rosa paraíso"
+
+#: py/cuda_palette/__init__.py:1911
+msgid "Light carmine pink"
+msgstr "Rosa carmim claro"
+
+#: py/cuda_palette/__init__.py:1912
+msgid "Light Thulian pink"
+msgstr "Rosa Thulian claro"
+
+#: py/cuda_palette/__init__.py:1913
+msgid "Light orchid"
+msgstr "Orquídea clara"
+
+#: py/cuda_palette/__init__.py:1914
+msgid "Pale gold"
+msgstr "Ouro pálido"
+
+#: py/cuda_palette/__init__.py:1915
+msgid "Peridot"
+msgstr "Peridoto"
+
+#: py/cuda_palette/__init__.py:1916
+msgid "Lavender mist"
+msgstr "Névoa de lavanda"
+
+#: py/cuda_palette/__init__.py:1917
+msgid "Glitter"
+msgstr "Brilho"
+
+#: py/cuda_palette/__init__.py:1918
+msgid "Dark pink"
+msgstr "Rosa escuro"
+
+#: py/cuda_palette/__init__.py:1919
+msgid "Kobi"
+msgstr "Kobi"
+
+#: py/cuda_palette/__init__.py:1920
+msgid "Pink pearl"
+msgstr "Pérola rosa"
+
+#: py/cuda_palette/__init__.py:1921
+msgid "Bubbles"
+msgstr "Bolhas"
+
+#: py/cuda_palette/__init__.py:1922
+msgid "KU crimson"
+msgstr "KU carmesim"
+
+#: py/cuda_palette/__init__.py:1923
+msgid "Spanish orange"
+msgstr "Laranja espanhola"
+
+#: py/cuda_palette/__init__.py:1924
+msgid "Big foot feet"
+msgstr "Pés grandes"
+
+#: py/cuda_palette/__init__.py:1925
+msgid "Queen pink"
+msgstr "Rainha rosa"
+
+#: py/cuda_palette/__init__.py:1927
+msgid "Key Lime"
+msgstr "Limão"
+
+#: py/cuda_palette/__init__.py:1928
+msgid "Frostbite"
+msgstr "Congelamento"
+
+#: py/cuda_palette/__init__.py:1929
+msgid "Deep carrot orange"
+msgstr "Laranja cenoura profunda"
+
+#: py/cuda_palette/__init__.py:1930
+msgid "Burnt sienna, Light red ochre"
+msgstr "Siena queimada, ocre vermelho claro"
+
+#: py/cuda_palette/__init__.py:1931
+msgid "Dark salmon"
+msgstr "Salmão escuro"
+
+#: py/cuda_palette/__init__.py:1932
+msgid "Arylide yellow"
+msgstr "Arilide amarelo"
+
+#: py/cuda_palette/__init__.py:1933
+msgid "Nyanza"
+msgstr "Nyanza"
+
+#: py/cuda_palette/__init__.py:1934
+msgid "Desire"
+msgstr "Desejo"
+
+#: py/cuda_palette/__init__.py:1935
+msgid "Marigold"
+msgstr "Calêndula"
+
+#: py/cuda_palette/__init__.py:1936
+msgid "Pearl"
+msgstr "Pérola"
+
+#: py/cuda_palette/__init__.py:1937
+msgid "Carmine pink"
+msgstr "Rosa carmim"
+
+#: py/cuda_palette/__init__.py:1938
+msgid "Cerise pink"
+msgstr "Rosa cereja"
+
+#: py/cuda_palette/__init__.py:1939
+msgid "Persimmon"
+msgstr "Caqui"
+
+#: py/cuda_palette/__init__.py:1940
+msgid "Middle yellow red"
+msgstr "Vermelho amarelo médio"
+
+#: py/cuda_palette/__init__.py:1941
+msgid "Sandstorm"
+msgstr "Tempestade de areia"
+
+#: py/cuda_palette/__init__.py:1942
+msgid "Pale spring bud"
+msgstr "Botão de primavera pálido"
+
+#: py/cuda_palette/__init__.py:1944
+msgid "Imperial red"
+msgstr "Vermelho imperial"
+
+#: py/cuda_palette/__init__.py:1945
+msgid "Cadmium orange"
+msgstr "Laranja cádmio"
+
+#: py/cuda_palette/__init__.py:1946
+msgid "Carrot orange"
+msgstr "Cenoura laranja"
+
+#: py/cuda_palette/__init__.py:1947
+msgid "Desert sand"
+msgstr "Areia do deserto"
+
+#: py/cuda_palette/__init__.py:1967
+msgid "Lavender magenta, Violet"
+msgstr "Lavanda magenta, Violeta"
+
+#: py/cuda_palette/__init__.py:1981
+msgid "Safety yellow"
+msgstr "Amarelo de segurança"
+
+#: py/cuda_palette/__init__.py:1986
+msgid "Flax, Light goldenrod"
+msgstr "Linho, vara dourada clara"
+
+#: py/cuda_palette/__init__.py:1990
+msgid "Titanium yellow"
+msgstr "Amarelo titânio"
+
+#: py/cuda_palette/__init__.py:1992
+msgid "Pale goldenrod"
+msgstr "Goldenrod pálido"
+
+#: py/cuda_palette/__init__.py:1998
+msgid "vory"
+msgstr "Vory"
+
+#: py/cuda_palette/__init__.py:1999
+msgid "Deep carmine pink"
+msgstr "Rosa carmim profundo"
+
+#: py/cuda_palette/__init__.py:2000
+msgid "Mauvelous"
+msgstr "Mauveloso"
+
+#: py/cuda_palette/__init__.py:2001
+msgid "Cameo pink"
+msgstr "Camafeu rosa"
+
+#: py/cuda_palette/__init__.py:2003
+msgid "Almond"
+msgstr "Amêndoa"
+
+#: py/cuda_palette/__init__.py:2004
+msgid "Dutch white"
+msgstr "branco holandês"
+
+#: py/cuda_palette/__init__.py:2005
+msgid "Vivid tangelo"
+msgstr "Tangelo vívido"
+
+#: py/cuda_palette/__init__.py:2006
+msgid "Light coral"
+msgstr "Coral claro"
+
+#: py/cuda_palette/__init__.py:2007
+msgid "Buff"
+msgstr "Buff"
+
+#: py/cuda_palette/__init__.py:2008
+msgid "Dandelion"
+msgstr "Dente de Leão"
+
+#: py/cuda_palette/__init__.py:2009
+msgid "Light khaki"
+msgstr "Cáqui claro"
+
+#: py/cuda_palette/__init__.py:2010
+msgid "Eggshell"
+msgstr "Casca de ovo"
+
+#: py/cuda_palette/__init__.py:2011
+msgid "Alice blue"
+msgstr "Alice azul"
+
+#: py/cuda_palette/__init__.py:2013
+msgid "Azure mist"
+msgstr "Névoa azul"
+
+#: py/cuda_palette/__init__.py:2014
+msgid "Amaranth pink"
+msgstr "Amaranto rosa"
+
+#: py/cuda_palette/__init__.py:2015
+msgid "Rich brilliant lavender"
+msgstr "Lavanda rica e brilhante"
+
+#: py/cuda_palette/__init__.py:2016
+msgid "Champagne pink"
+msgstr "Rosa champanhe"
+
+#: py/cuda_palette/__init__.py:2018
+msgid "Tangerine"
+msgstr "tangerina"
+
+#: py/cuda_palette/__init__.py:2019
+msgid "Maximum yellow red"
+msgstr "Máximo amarelo vermelho"
+
+#: py/cuda_palette/__init__.py:2020
+msgid "Orchid pink"
+msgstr "Orquídea rosa"
+
+#: py/cuda_palette/__init__.py:2021
+msgid "Alabaster"
+msgstr "Alabastro"
+
+#: py/cuda_palette/__init__.py:2022
+msgid "Sunny"
+msgstr "Ensolarado"
+
+#: py/cuda_palette/__init__.py:2023
+msgid "Anti-flash white"
+msgstr "Branco anti-flash"
+
+#: py/cuda_palette/__init__.py:2024
+msgid "Mandarin"
+msgstr "Mandarim"
+
+#: py/cuda_palette/__init__.py:2025
+msgid "Vanilla ice"
+msgstr "Gelo de baunilha"
+
+#: py/cuda_palette/__init__.py:2026
+msgid "Medium champagne, Vanilla"
+msgstr "Champanhe médio, Baunilha"
+
+#: py/cuda_palette/__init__.py:2027
+msgid "Fashion fuchsia, Hollywood cerise"
+msgstr "Moda fúcsia, cereja de Hollywood"
+
+#: py/cuda_palette/__init__.py:2028
+msgid "Pastel magenta"
+msgstr "Magenta pastel"
+
+#: py/cuda_palette/__init__.py:2029
+msgid "Sandy brown"
+msgstr "Castanho arenoso"
+
+#: py/cuda_palette/__init__.py:2030
+msgid "Brilliant lavender"
+msgstr "Lavanda brilhante"
+
+#: py/cuda_palette/__init__.py:2031
+msgid "Baby pink, Tea rose"
+msgstr "Rosa bebê, Rosa chá"
+
+#: py/cuda_palette/__init__.py:2032
+msgid "Saffron"
+msgstr "Açafrão"
+
+#: py/cuda_palette/__init__.py:2033
+msgid "Jonquil"
+msgstr "Jonquil"
+
+#: py/cuda_palette/__init__.py:2034
+msgid "Isabelline"
+msgstr "Isabelina"
+
+#: py/cuda_palette/__init__.py:2035
+msgid "Light crimson"
+msgstr "Carmesim claro"
+
+#: py/cuda_palette/__init__.py:2036
+msgid "Cyclamen"
+msgstr "Ciclâmen"
+
+#: py/cuda_palette/__init__.py:2037
+msgid "Princeton orange"
+msgstr "Laranja Princeton"
+
+#: py/cuda_palette/__init__.py:2038
+msgid "Deep lemon"
+msgstr "Limão profundo"
+
+#: py/cuda_palette/__init__.py:2040
+msgid "Minion yellow"
+msgstr "Lacaio amarelo"
+
+#: py/cuda_palette/__init__.py:2041
+msgid "Beige"
+msgstr "Bege"
+
+#: py/cuda_palette/__init__.py:2042
+msgid "White smoke"
+msgstr "Fumaça branca"
+
+#: py/cuda_palette/__init__.py:2043
+msgid "Mint cream"
+msgstr "Creme de menta"
+
+#: py/cuda_palette/__init__.py:2044
+msgid "French rose"
+msgstr "Rosa francesa"
+
+#: py/cuda_palette/__init__.py:2045
+msgid "Nadeshiko pink"
+msgstr "Nadeshiko rosa"
+
+#: py/cuda_palette/__init__.py:2046
+msgid "Lemon meringue"
+msgstr "Merengue de limão"
+
+#: py/cuda_palette/__init__.py:2047
+msgid "Vivid red"
+msgstr "Vermelho vivo"
+
+#: py/cuda_palette/__init__.py:2048
+msgid "Violet-red"
+msgstr "Violeta-vermelho"
+
+#: py/cuda_palette/__init__.py:2049
+msgid "University of Tennessee orange"
+msgstr "Laranja da Universidade do Tennessee"
+
+#: py/cuda_palette/__init__.py:2050
+msgid "Persian pink"
+msgstr "Rosa persa"
+
+#: py/cuda_palette/__init__.py:2051
+msgid "Pink sherbet"
+msgstr "Sorvete rosa"
+
+#: py/cuda_palette/__init__.py:2052
+msgid "Spanish pink"
+msgstr "Rosa espanhol"
+
+#: py/cuda_palette/__init__.py:2053
+msgid "Champagne"
+msgstr "champanhe"
+
+#: py/cuda_palette/__init__.py:2054
+msgid "Flavescent"
+msgstr "Flavescente"
+
+#: py/cuda_palette/__init__.py:2055
+msgid "Coral pink, Tea rose"
+msgstr "Rosa coral, Rosa chá"
+
+#: py/cuda_palette/__init__.py:2056
+msgid "Mellow apricot"
+msgstr "Damasco suave"
+
+#: py/cuda_palette/__init__.py:2057
+msgid "Orange-yellow"
+msgstr "Amarelo alaranjado"
+
+#: py/cuda_palette/__init__.py:2058
+msgid "Jasmine, Mellow yellow"
+msgstr "Jasmim, amarelo suave"
+
+#: py/cuda_palette/__init__.py:2059
+msgid "Magnolia"
+msgstr "Magnólia"
+
+#: py/cuda_palette/__init__.py:2060
+msgid "Ghost white"
+msgstr "Fantasma branco"
+
+#: py/cuda_palette/__init__.py:2061
+msgid "Rose bonbon"
+msgstr "Bombom de rosa"
+
+#: py/cuda_palette/__init__.py:2062
+msgid "Tangelo"
+msgstr "Tangelo"
+
+#: py/cuda_palette/__init__.py:2063
+msgid "Pale magenta"
+msgstr "Magenta pálido"
+
+#: py/cuda_palette/__init__.py:2064
+msgid "Light fuchsia pink"
+msgstr "Rosa fúcsia claro"
+
+#: py/cuda_palette/__init__.py:2065
+msgid "Orange soda"
+msgstr "Refrigerante de laranja"
+
+#: py/cuda_palette/__init__.py:2066
+msgid "Begonia"
+msgstr "Begônia"
+
+#: py/cuda_palette/__init__.py:2068
+msgid "Deep champagne, Sunset, Tuscan"
+msgstr "Champanhe profundo, Pôr do sol, Toscana"
+
+#: py/cuda_palette/__init__.py:2069
+msgid "Royal yellow"
+msgstr "Amarelo real"
+
+#: py/cuda_palette/__init__.py:2070
+msgid "Pale pink"
+msgstr "Rosa pálido"
+
+#: py/cuda_palette/__init__.py:2071
+msgid "Peach-yellow"
+msgstr "Amarelo pêssego"
+
+#: py/cuda_palette/__init__.py:2072
+msgid "Banana mania"
+msgstr "Mania de banana"
+
+#: py/cuda_palette/__init__.py:2073
+msgid "Antique white, Moccasin"
+msgstr "Branco antigo, Mocassim"
+
+#: py/cuda_palette/__init__.py:2074
+msgid "Blond"
+msgstr "Loiro"
+
+#: py/cuda_palette/__init__.py:2075
+msgid "Linen"
+msgstr "Linho"
+
+#: py/cuda_palette/__init__.py:2076
+msgid "Maximum yellow"
+msgstr "Amarelo máximo"
+
+#: py/cuda_palette/__init__.py:2077
+msgid "Light goldenrod yellow"
+msgstr "Amarelo dourado claro"
+
+#: py/cuda_palette/__init__.py:2078
+msgid "Tart orange"
+msgstr "Laranja azeda"
+
+#: py/cuda_palette/__init__.py:2079
+msgid "Orioles orange"
+msgstr "Laranja Orioles"
+
+#: py/cuda_palette/__init__.py:2080
+msgid "Brink pink"
+msgstr "Rosa beira"
+
+#: py/cuda_palette/__init__.py:2082
+msgid "Lavender rose"
+msgstr "Rosa lavanda"
+
+#: py/cuda_palette/__init__.py:2083
+msgid "Rajah"
+msgstr "Rajah"
+
+#: py/cuda_palette/__init__.py:2084
+msgid "Lavender pink"
+msgstr "Rosa lavanda"
+
+#: py/cuda_palette/__init__.py:2085
+msgid "Classic rose"
+msgstr "Rosa clássica"
+
+#: py/cuda_palette/__init__.py:2086
+msgid "Apricot"
+msgstr "Damasco"
+
+#: py/cuda_palette/__init__.py:2087
+msgid "Corn"
+msgstr "Milho"
+
+#: py/cuda_palette/__init__.py:2088
+msgid "Shocking pink"
+msgstr "Rosa chocante"
+
+#: py/cuda_palette/__init__.py:2089
+msgid "Strawberry"
+msgstr "Morango"
+
+#: py/cuda_palette/__init__.py:2090
+msgid "Ultra red, Wild watermelon"
+msgstr "Ultra vermelho, melancia selvagem"
+
+#: py/cuda_palette/__init__.py:2091
+msgid "Pink Flamingo"
+msgstr "Flamingo Rosa"
+
+#: py/cuda_palette/__init__.py:2092
+msgid "Tickle me pink"
+msgstr "Faça-me cócegas rosa"
+
+#: py/cuda_palette/__init__.py:2093
+msgid "Flamingo pink"
+msgstr "Flamingo rosa"
+
+#: py/cuda_palette/__init__.py:2094
+msgid "Golden poppy"
+msgstr "Papoila dourada"
+
+#: py/cuda_palette/__init__.py:2096
+msgid "Icterine"
+msgstr "Icterina"
+
+#: py/cuda_palette/__init__.py:2097
+msgid "Scarlet, Tractor red"
+msgstr "Escarlate, trator vermelho"
+
+#: py/cuda_palette/__init__.py:2098
+msgid "Red Salsa"
+msgstr "Salsa Vermelha"
+
+#: py/cuda_palette/__init__.py:2099
+msgid "French fuchsia"
+msgstr "Fúcsia francesa"
+
+#: py/cuda_palette/__init__.py:2100
+msgid "Ogre odor"
+msgstr "Odor de ogro"
+
+#: py/cuda_palette/__init__.py:2101
+msgid "Willpower orange"
+msgstr "Força de vontade laranja"
+
+#: py/cuda_palette/__init__.py:2102
+msgid "Sunset orange"
+msgstr "Pôr do sol laranja"
+
+#: py/cuda_palette/__init__.py:2103
+msgid "French pink"
+msgstr "Rosa francês"
+
+#: py/cuda_palette/__init__.py:2104
+msgid "Coral reef"
+msgstr "Recife de coral"
+
+#: py/cuda_palette/__init__.py:2105
+msgid "Melon"
+msgstr "Melão"
+
+#: py/cuda_palette/__init__.py:2106
+msgid "Feldspar, Light apricot"
+msgstr "Feldspato, damasco claro"
+
+#: py/cuda_palette/__init__.py:2107
+msgid "Sandy tan"
+msgstr "Bronzeado arenoso"
+
+#: py/cuda_palette/__init__.py:2108
+msgid "Piggy pink"
+msgstr "Porquinho rosa"
+
+#: py/cuda_palette/__init__.py:2109
+msgid "Aureolin"
+msgstr "Aureolina"
+
+#: py/cuda_palette/__init__.py:2110
+msgid "Old lace"
+msgstr "Renda velha"
+
+#: py/cuda_palette/__init__.py:2111
+msgid "Pastel yellow"
+msgstr "Amarelo pastel"
+
+#: py/cuda_palette/__init__.py:2112
+msgid "Lemon glacier"
+msgstr "Geleira Limão"
+
+#: py/cuda_palette/__init__.py:2113
+msgid "Milk"
+msgstr "Leite"
+
+#: py/cuda_palette/__init__.py:2115
+msgid "Persian rose"
+msgstr "Rosa persa"
+
+#: py/cuda_palette/__init__.py:2116
+msgid "Neon fuchsia"
+msgstr "Fúcsia néon"
+
+#: py/cuda_palette/__init__.py:2117
+msgid "Purple pizzazz"
+msgstr "Um toque especial roxo"
+
+#: py/cuda_palette/__init__.py:2118
+msgid "Giants orange"
+msgstr "Laranja gigante"
+
+#: py/cuda_palette/__init__.py:2119
+msgid "Bittersweet"
+msgstr "Agridoce"
+
+#: py/cuda_palette/__init__.py:2122
+msgid "Baby powder"
+msgstr "Pó de bebê"
+
+#: py/cuda_palette/__init__.py:2124
+msgid "Ruddy"
+msgstr "Ruivo"
+
+#: py/cuda_palette/__init__.py:2125
+msgid "Carmine red"
+msgstr "Vermelho carmim"
+
+#: py/cuda_palette/__init__.py:2126
+msgid "Electric crimson"
+msgstr "Carmesim elétrico"
+
+#: py/cuda_palette/__init__.py:2127
+msgid "Folly"
+msgstr "Loucura"
+
+#: py/cuda_palette/__init__.py:2128
+msgid "Vivid raspberry"
+msgstr "Framboesa viva"
+
+#: py/cuda_palette/__init__.py:2129
+msgid "Winter sky"
+msgstr "Céu de inverno"
+
+#: py/cuda_palette/__init__.py:2130
+msgid "Bright pink, Rose"
+msgstr "Rosa brilhante, Rosa"
+
+#: py/cuda_palette/__init__.py:2132
+msgid "Fuchsia, Magenta"
+msgstr "Fúcsia, Magenta"
+
+#: py/cuda_palette/__init__.py:2133
+msgid "American rose"
+msgstr "Rosa americana"
+
+#: py/cuda_palette/__init__.py:2134
+msgid "Candy apple red"
+msgstr "Maçã doce vermelha"
+
+#: py/cuda_palette/__init__.py:2136
+msgid "Hot magenta"
+msgstr "Magenta quente"
+
+#: py/cuda_palette/__init__.py:2137
+msgid "Awesome"
+msgstr "Incrível"
+
+#: py/cuda_palette/__init__.py:2138
+msgid "Scarlet"
+msgstr "Escarlate"
+
+#: py/cuda_palette/__init__.py:2139
+msgid "Ferrari red"
+msgstr "Vermelho Ferrari"
+
+#: py/cuda_palette/__init__.py:2141
+msgid "Razzle dazzle rose"
+msgstr "Razzle deslumbrante rosa"
+
+#: py/cuda_palette/__init__.py:2143
+msgid "Radical red"
+msgstr "Vermelho radical"
+
+#: py/cuda_palette/__init__.py:2144
+msgid "Coquelicot"
+msgstr "Coquelicote"
+
+#: py/cuda_palette/__init__.py:2145
+msgid "Sizzling red"
+msgstr "Vermelho escaldante"
+
+#: py/cuda_palette/__init__.py:2147
+msgid "Brown, Coral red"
+msgstr "Marrom, Vermelho coral"
+
+#: py/cuda_palette/__init__.py:2148
+msgid "Sunburnt cyclops"
+msgstr "Ciclope queimado de sol"
+
+#: py/cuda_palette/__init__.py:2149
+msgid "Wild strawberry"
+msgstr "Morango selvagem"
+
+#: py/cuda_palette/__init__.py:2150
+msgid "Magic potion"
+msgstr "Poção mágica"
+
+#: py/cuda_palette/__init__.py:2151
+msgid "Orange-red"
+msgstr "Laranja-vermelho"
+
+#: py/cuda_palette/__init__.py:2152
+msgid "Sasquatch socks"
+msgstr "Meias Sasquatch"
+
+#: py/cuda_palette/__init__.py:2153
+msgid "Infra red"
+msgstr "Infravermelho"
+
+#: py/cuda_palette/__init__.py:2154
+msgid "International orange (aerospace)"
+msgstr "Laranja internacional (aeroespacial)"
+
+#: py/cuda_palette/__init__.py:2155
+msgid "Red-orange"
+msgstr "Vermelho-laranja"
+
+#: py/cuda_palette/__init__.py:2156
+msgid "Fiery Rose"
+msgstr "Rosa ardente"
+
+#: py/cuda_palette/__init__.py:2157
+msgid "Brilliant rose"
+msgstr "Rosa brilhante"
+
+#: py/cuda_palette/__init__.py:2159
+msgid "Portland orange"
+msgstr "Laranja Portland"
+
+#: py/cuda_palette/__init__.py:2160
+msgid "Light deep pink"
+msgstr "Rosa claro profundo"
+
+#: py/cuda_palette/__init__.py:2161
+msgid "Vivid orange"
+msgstr "Laranja vivo"
+
+#: py/cuda_palette/__init__.py:2163
+msgid "Rose pink"
+msgstr "Rosa rosa"
+
+#: py/cuda_palette/__init__.py:2164 py/cuda_palette/__init__.py:2175
+msgid "Safety orange"
+msgstr "Laranja de segurança"
+
+#: py/cuda_palette/__init__.py:2165
+msgid "Pastel red"
+msgstr "Vermelho pastel"
+
+#: py/cuda_palette/__init__.py:2168
+msgid "Smashed pumpkin"
+msgstr "Abóbora esmagada"
+
+#: py/cuda_palette/__init__.py:2169
+msgid "Outrageous orange"
+msgstr "Laranja ultrajante"
+
+#: py/cuda_palette/__init__.py:2171
+msgid "Ultra pink"
+msgstr "Ultra rosa"
+
+#: py/cuda_palette/__init__.py:2173
+msgid "Pumpkin"
+msgstr "Abóbora"
+
+#: py/cuda_palette/__init__.py:2174
+msgid "Fuchsia pink"
+msgstr "Rosa fúcsia"
+
+#: py/cuda_palette/__init__.py:2176
+msgid "Heat wave"
+msgstr "Onda de calor"
+
+#: py/cuda_palette/__init__.py:2177
+msgid "Amber"
+msgstr "Âmbar"
+
+#: py/cuda_palette/__init__.py:2181
+msgid "Mango tango"
+msgstr "Tango de manga"
+
+#: py/cuda_palette/__init__.py:2185
+msgid "Princess perfume"
+msgstr "Perfume de princesa"
+
+#: py/cuda_palette/__init__.py:2186
+msgid "Tulip"
+msgstr "Tulipa"
+
+#: py/cuda_palette/__init__.py:2189
+msgid "Salmon pink"
+msgstr "Rosa salmão"
+
+#: py/cuda_palette/__init__.py:2190
+msgid "Baker-Miller pink, Schauss pink"
+msgstr "Rosa Baker-Miller, rosa Schauss"
+
+#: py/cuda_palette/__init__.py:2191
+msgid "Vivid gamboge"
+msgstr "Gamboge vívido"
+
+#: py/cuda_palette/__init__.py:2192
+msgid "Deep saffron"
+msgstr "Açafrão profundo"
+
+#: py/cuda_palette/__init__.py:2193
+msgid "Atomic tangerine"
+msgstr "Tangerina atômica"
+
+#: py/cuda_palette/__init__.py:2194
+msgid "Light salmon pink"
+msgstr "Rosa salmão claro"
+
+#: py/cuda_palette/__init__.py:2195
+msgid "Pale magenta-pink"
+msgstr "Rosa magenta pálido"
+
+#: py/cuda_palette/__init__.py:2196
+msgid "Orange peel"
+msgstr "Casca de laranja"
+
+#: py/cuda_palette/__init__.py:2197
+msgid "Vivid orange peel"
+msgstr "Casca de laranja viva"
+
+#: py/cuda_palette/__init__.py:2199
+msgid "Vivid tangerine"
+msgstr "Tangerina viva"
+
+#: py/cuda_palette/__init__.py:2200
+msgid "Neon Carrot"
+msgstr "Cenoura néon"
+
+#: py/cuda_palette/__init__.py:2203
+msgid "Carnation pink"
+msgstr "Cravo rosa"
+
+#: py/cuda_palette/__init__.py:2204
+msgid "Chrome yellow"
+msgstr "Amarelo cromo"
+
+#: py/cuda_palette/__init__.py:2205
+msgid "Dark tangerine"
+msgstr "Tangerina escura"
+
+#: py/cuda_palette/__init__.py:2206
+msgid "Bright yellow"
+msgstr "Amarelo brilhante"
+
+#: py/cuda_palette/__init__.py:2207
+msgid "Yellow orange"
+msgstr "Laranja amarelo"
+
+#: py/cuda_palette/__init__.py:2209
+msgid "Very light tangelo"
+msgstr "Tangelo bem leve"
+
+#: py/cuda_palette/__init__.py:2210
+msgid "UCLA Gold"
+msgstr "Ouro da UCLA"
+
+#: py/cuda_palette/__init__.py:2211
+msgid "Pastel orange"
+msgstr "Laranja pastel"
+
+#: py/cuda_palette/__init__.py:2212
+msgid "Light hot pink"
+msgstr "Rosa choque claro"
+
+#: py/cuda_palette/__init__.py:2215
+msgid "Cherry blossom pink"
+msgstr "Flor de cerejeira rosa"
+
+#: py/cuda_palette/__init__.py:2217
+msgid "Selective yellow"
+msgstr "Amarelo seletivo"
+
+#: py/cuda_palette/__init__.py:2219
+msgid "Cotton candy"
+msgstr "Algodão doce"
+
+#: py/cuda_palette/__init__.py:2220
+msgid "Macaroni and cheese"
+msgstr "Macarrão e queijo"
+
+#: py/cuda_palette/__init__.py:2221
+msgid "Amber, Fluorescent orange"
+msgstr "Âmbar, laranja fluorescente"
+
+#: py/cuda_palette/__init__.py:2225
+msgid "Bubble gum"
+msgstr "Chiclete"
+
+#: py/cuda_palette/__init__.py:2226
+msgid "Mikado yellow"
+msgstr "Mikado amarelo"
+
+#: py/cuda_palette/__init__.py:2227
+msgid "Topaz"
+msgstr "Topázio"
+
+#: py/cuda_palette/__init__.py:2228
+msgid "Deep peach"
+msgstr "Pêssego profundo"
+
+#: py/cuda_palette/__init__.py:2229
+msgid "Tangerine yellow"
+msgstr "Amarelo tangerina"
+
+#: py/cuda_palette/__init__.py:2230
+msgid "Sunglow"
+msgstr "brilho solar"
+
+#: py/cuda_palette/__init__.py:2231
+msgid "Peach-orange"
+msgstr "Laranja-pêssego"
+
+#: py/cuda_palette/__init__.py:2232
+msgid "Shampoo"
+msgstr "Xampu"
+
+#: py/cuda_palette/__init__.py:2233
+msgid "Cyber yellow"
+msgstr "Amarelo cibernético"
+
+#: py/cuda_palette/__init__.py:2236
+msgid "School bus yellow"
+msgstr "Ônibus escolar amarelo"
+
+#: py/cuda_palette/__init__.py:2238
+msgid "Mimi pink"
+msgstr "Mimi rosa"
+
+#: py/cuda_palette/__init__.py:2239
+msgid "Sizzling sunrise"
+msgstr "Nascer do sol escaldante"
+
+#: py/cuda_palette/__init__.py:2240
+msgid "Mustard"
+msgstr "Mostarda"
+
+#: py/cuda_palette/__init__.py:2241
+msgid "Unbleached silk"
+msgstr "Seda crua"
+
+#: py/cuda_palette/__init__.py:2242
+msgid "Pink lace"
+msgstr "Renda rosa"
+
+#: py/cuda_palette/__init__.py:2244
+msgid "Golden yellow"
+msgstr "Amarelo dourado"
+
+#: py/cuda_palette/__init__.py:2245
+msgid "Gargoyle gas"
+msgstr "Gárgula de gás"
+
+#: py/cuda_palette/__init__.py:2246
+msgid "Very pale orange"
+msgstr "Laranja muito pálido"
+
+#: py/cuda_palette/__init__.py:2247
+msgid "Banana yellow"
+msgstr "Banana amarela"
+
+#: py/cuda_palette/__init__.py:2249
+msgid "Vivid yellow"
+msgstr "Amarelo vivo"
+
+#: py/cuda_palette/__init__.py:2250
+msgid "Moccasin"
+msgstr "Mocassim"
+
+#: py/cuda_palette/__init__.py:2252
+msgid "Lumber"
+msgstr "Madeira serrada"
+
+#: py/cuda_palette/__init__.py:2254
+msgid "Peach"
+msgstr "Pêssego"
+
+#: py/cuda_palette/__init__.py:2256
+msgid "Middle yellow"
+msgstr "Amarelo médio"
+
+#: py/cuda_palette/__init__.py:2257
+msgid "Blanched almond"
+msgstr "Amêndoa descascada"
+
+#: py/cuda_palette/__init__.py:2259
+msgid "Canary yellow"
+msgstr "Amarelo canário"
+
+#: py/cuda_palette/__init__.py:2260
+msgid "Papaya whip"
+msgstr "Chicote de mamão"
+
+#: py/cuda_palette/__init__.py:2262
+msgid "Yellow rose"
+msgstr "Rosa amarela"
+
+#: py/cuda_palette/__init__.py:2264
+msgid "Lemon yellow"
+msgstr "Amarelo limão"
+
+#: py/cuda_palette/__init__.py:2266
+msgid "Cadmium yellow"
+msgstr "Amarelo cádmio"
+
+#: py/cuda_palette/__init__.py:2268
+msgid "Lemon, Yellow sunshine"
+msgstr "Limão, sol amarelo"
+
+#: py/cuda_palette/__init__.py:2270
+msgid "Cosmic latte"
+msgstr "Café com leite cósmico"
+
+#: py/cuda_palette/__init__.py:2272
+msgid "Floral white"
+msgstr "Floral branco"
+
+#: py/cuda_palette/__init__.py:2274
+msgid "Cream"
+msgstr "Creme"
+
+#: py/cuda_palette/__init__.py:2276
+msgid "Daffodil"
+msgstr "Narciso"
+
+#: py/cuda_palette/__init__.py:2277
+msgid "Electric yellow"
+msgstr "Amarelo elétrico"
+
+#: py/cuda_palette/__init__.py:2278
+msgid "Unmellow yellow"
+msgstr "Amarelo não maduro"
+
+#: py/cuda_palette/__init__.py:2279
+msgid "Canary"
+msgstr "Canário"
+
+#: py/cuda_palette/__init__.py:2280
+msgid "Very pale yellow"
+msgstr "Amarelo muito pálido"
+
+#: py/cuda_palette/__init__.py:2283
+msgid "White"
+msgstr "Branco"
+
+#: py/cuda_palette/cd_plug_lib.py:603
+msgid "Adjust vertical alignments"
+msgstr "Ajustar os alinhamentos verticais"
+
+#: py/cuda_palette/cd_plug_lib.py:644
+msgid "&Save"
+msgstr "&Salvar"
+
+#: py/cuda_palette/cd_plug_lib.py:645
+msgid "Apply the fittings to controls of all dialogs.\rCtrl+Click  - Show data to mail report."
+msgstr "Aplicar os acessórios aos controles de todas as caixas de diálogo.\rCtrl+Click  - Exibir os dados para enviar o relatório."
+
+#: py/cuda_palette/cd_plug_lib.py:685
+msgid "Report"
+msgstr "Relatar"
+
+#: py/cuda_palette/cd_plug_lib.py:687
+msgid "Send the report to the address"
+msgstr "Enviar o relatório para o endereço"
+
+#: py/cuda_palette/cd_plug_lib.py:689
+msgid "or post it on"
+msgstr "ou postar em"
+
+#: py/cuda_palette/cd_plug_lib.py:691
+msgid "Close"
+msgstr "Fechar"

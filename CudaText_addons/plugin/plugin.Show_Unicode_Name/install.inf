@@ -1,0 +1,16 @@
+[info]
+title=Show Unicode Name
+desc=Shows full Unicode name of a character under first caret, in the statusbar
+type=cudatext-plugin
+subdir=cuda_show_unicode_name
+homepage=https://github.com/CudaText-addons/cuda_show_unicode_name
+api=1.0.471
+
+[item1]
+section=events
+events=on_start
+
+[item2]
+section=commands
+caption=Show Unicode Name\Toggle
+method=toggle_display
