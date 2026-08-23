@@ -22,7 +22,9 @@ KEYWORDS = [
 
 
 def module_name(install_file: Path) -> str | None:
-    for line in install_file.read_text(encoding="utf-8-sig", errors="replace").splitlines():
+    for line in install_file.read_text(
+        encoding="utf-8-sig", errors="replace"
+    ).splitlines():
         if line.startswith("subdir="):
             return line.partition("=")[2].strip()
     return None
@@ -31,7 +33,9 @@ def module_name(install_file: Path) -> str | None:
 def decoded_source(path: Path) -> str:
     raw = path.read_bytes()
     try:
-        encoding, _ = tokenize.detect_encoding(iter(raw.splitlines(keepends=True)).__next__)
+        encoding, _ = tokenize.detect_encoding(
+            iter(raw.splitlines(keepends=True)).__next__
+        )
     except (SyntaxError, UnicodeDecodeError):
         encoding = "latin-1"
     return raw.decode(encoding, errors="replace")
@@ -94,7 +98,15 @@ def main() -> int:
                 merged += 1
             else:
                 subprocess.run(
-                    ["msginit", "--no-translator", "--locale=pt_BR", "-i", str(pot), "-o", str(po)],
+                    [
+                        "msginit",
+                        "--no-translator",
+                        "--locale=pt_BR",
+                        "-i",
+                        str(pot),
+                        "-o",
+                        str(po),
+                    ],
                     check=True,
                     stdout=subprocess.DEVNULL,
                 )

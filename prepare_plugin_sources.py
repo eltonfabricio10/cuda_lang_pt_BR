@@ -33,13 +33,20 @@ def safe_extract(archive: zipfile.ZipFile, destination: Path) -> None:
     for member in archive.infolist():
         target = (destination / member.filename).resolve()
         if target != root and root not in target.parents:
-            raise ValueError(f"ZIP inseguro, caminho fora do destino: {member.filename}")
+            raise ValueError(
+                f"ZIP inseguro, caminho fora do destino: {member.filename}"
+            )
     archive.extractall(destination)
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--module", action="append", required=True, help="módulo a preparar; pode repetir")
+    parser.add_argument(
+        "--module",
+        action="append",
+        required=True,
+        help="módulo a preparar; pode repetir",
+    )
     parser.add_argument("--output-dir", type=Path, default=Path("CudaText_sources"))
     parser.add_argument("--registry-url", default=REGISTRY_URL)
     parser.add_argument("--keep-archives", action="store_true")
@@ -52,7 +59,9 @@ def main() -> int:
     records = {str(item.get("module")): item for item in fetch_json(args.registry_url)}
     missing = sorted(requested - records.keys())
     if missing:
-        print("módulos não encontrados no registry:", ", ".join(missing), file=sys.stderr)
+        print(
+            "módulos não encontrados no registry:", ", ".join(missing), file=sys.stderr
+        )
         return 2
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
@@ -66,8 +75,13 @@ def main() -> int:
 
             archive_path = temp_dir / f"{module}.zip"
             print(f"baixando {module}")
-            request = urllib.request.Request(url, headers={"User-Agent": "cuda-lang-pt-br/1.0"})
-            with urllib.request.urlopen(request, timeout=60) as response, archive_path.open("wb") as output:
+            request = urllib.request.Request(
+                url, headers={"User-Agent": "cuda-lang-pt-br/1.0"}
+            )
+            with (
+                urllib.request.urlopen(request, timeout=60) as response,
+                archive_path.open("wb") as output,
+            ):
                 shutil.copyfileobj(response, output)
 
             destination = args.output_dir / module

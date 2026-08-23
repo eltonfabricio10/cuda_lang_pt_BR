@@ -54,7 +54,15 @@ def main() -> int:
                 merged += 1
             else:
                 subprocess.run(
-                    ["msginit", "--no-translator", "--locale=pt_BR", "-i", str(pot), "-o", str(po)],
+                    [
+                        "msginit",
+                        "--no-translator",
+                        "--locale=pt_BR",
+                        "-i",
+                        str(pot),
+                        "-o",
+                        str(po),
+                    ],
                     check=True,
                     stdout=subprocess.DEVNULL,
                 )

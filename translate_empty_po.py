@@ -46,7 +46,9 @@ def translate(text: str) -> str | None:
     trailing = re.search(r"\s*$", text).group(0)
     core = text[len(leading) : len(text) - len(trailing) if trailing else len(text)]
     protected, placeholders = protect(core)
-    query = urlencode({"client": "gtx", "sl": "en", "tl": "pt", "dt": "t", "q": protected})
+    query = urlencode(
+        {"client": "gtx", "sl": "en", "tl": "pt", "dt": "t", "q": protected}
+    )
     try:
         with urlopen(f"{API}?{query}", timeout=20) as response:
             data = json.load(response)
