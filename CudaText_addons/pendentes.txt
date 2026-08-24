@@ -1,0 +1,640 @@
+RELATÓRIO DE TRADUÇÕES PENDENTES
+================================
+
+cuda_ai_local
+  - AI Local
+  - Run over selected text
+  - Open console
+  - Config
+
+cuda_auto_center_line
+  - Toggle active state
+  - Config
+
+cuda_bootstrap_completion
+  - Bootstrap Completion
+  - Config
+  - Project specific config
+
+cuda_breadcrumbs
+  - Breadcrumbs
+
+cuda_bulma_completion
+  - Bulma Completion
+
+cuda_calc_expression
+  - Calc Expression
+  - Calc selection, replace in editor
+  - Calc selection, show in statusbar
+  - Calc selection, insert selected result
+  - Config
+
+cuda_clipboard_catcher
+  - Clipboard Catcher
+  - Clipboard Catcher Toggle
+
+cuda_clock
+  - Clock
+  - Config
+
+cuda_codeium
+  - Codeium
+  - Get new token...
+  - Log in
+  - Get completions
+  - Chat...
+  - Shutdown
+  - Config
+  - Server info
+  - Show available versions
+  - Toggle: log in on startup
+
+cuda_code-tree_bookmarks
+  - Code-Tree Bookmarks
+  - Config
+
+cuda_commands_history
+  - Commands History
+  - Show Commands
+  - Config
+
+cuda_complete_html_text
+  - Complete HTML Text
+  - Config
+
+cuda_configure_toolbar
+  - Configure Toolbar
+  - Configure buttons...
+  - Hide standard buttons...
+  - Choose icon-set of main toolbar...
+  - Choose icon-set of sidebar...
+  - Choose icon-set of code tree...
+
+cuda_console_auto-completion
+  - Console Auto-Completion
+  - Complete
+  - Config
+  - Console Auto-Complete
+
+cuda_converter_json-yaml
+  - Converter JSON-YAML
+  - Convert JSON to YAML
+  - Convert YAML to JSON
+
+cuda_css_caniuse
+  - CSS CanIUse
+
+cuda_css_table_of_contents
+  - CSS Table of Contents
+  - Create section
+  - Create sub-section
+  - Create sub-sub-section
+  - Create TOC
+
+cuda_csv_helper
+  - CSV Helper
+  - Insert column
+  - Insert column, righter
+  - Delete current column
+  - Move current column to the left
+  - Move current column to the right
+  - Align columns
+  - Shrink fields (trim spaces)
+  - Set separator for current document...
+  - Config
+
+cuda_cudaformatter
+  - CudaFormatter
+  - Formatter (menu)
+  - Formatter per-lexer: A
+  - Formatter per-lexer: B
+  - Formatter per-lexer: C
+  - Formatter per-lexer: D
+  - Formatter cross-lexer: 1
+  - Formatter cross-lexer: 2
+  - Formatter cross-lexer: 3
+  - Formatter cross-lexer: 4
+  - Minify to separate file
+  - Configure per-lexer labels...
+  - Configure cross-lexer labels...
+  - Configure on_save...
+  - Configure formatter...
+  - Configure formatter (local)...
+  - Formatter help...
+
+cuda_cudalint
+  - CudaLint
+  - Lint, go to first mark
+  - Config...
+  - Disable, clear marks
+  - Enable
+
+cuda_deep_translator
+  - Deep Translator
+  - New tab
+  - Message-box
+  - Clipboard
+  - Status-bar
+  - Show config
+  - Show translation in
+
+cuda_detect_indent
+  - Detect Indent
+  - Config
+
+cuda_devdocs
+  - DevDocs
+
+cuda_differ
+  - Differ
+  - Compare current document with file...
+  - Compare current document with tab...
+  - Diff current document with file...
+  - Diff current document with tab...
+  - Select all differences
+  - Move 2 comparing files to separate tabs
+
+cuda_disable_picture_viewer
+  - Disable picture viewer
+
+cuda_discord_status
+  - Discord Status
+  - Connect
+  - Disconnect
+  - Restart
+  - Settings
+
+cuda_docblock_comments
+  - DocBlock
+
+cuda_double-shift
+  - Double-Shift
+  - Config
+
+cuda_editorconfig_support
+  - EditorConfig Support
+
+cuda_embedded_editor
+  - Embedded Editor
+  - Toggle
+  - Config
+  - Config patterns
+
+cuda_emmet_lite
+  - Emmet Lite
+
+cuda_emmet
+  - Emmet
+
+cuda_encode
+  - HTML Entitize
+  - HTML Deentitize
+  - XML Entitize
+  - XML Deentitize
+  - Base
+  - ROT
+  - Hash
+  - ROT13
+  - ROT18
+  - ROT47
+  - MD5
+  - SHA256
+  - SHA512
+  - NFC: Compose
+  - NFD: Decompose
+  - NFKC: Compose
+  - NFKD: Decompose
+  - Safe HTML Entitize (don't encode "'<>&&)
+  - Safe HTML Deentitize (don't decode "'<>&&)
+  - URL Encode Unrestricted (encode '+&&')
+  - URL Encode Everything (encode letters)
+  - Base64 Encode by line
+  - Base64 Decode by line
+  - Base32 Encode by line
+  - Base32 Decode by line
+  - Insert Base64-encoded file...
+  - QWERTY layout Russian to English
+  - QWERTY layout English to Russian
+  - HTML Entity
+  - URLs
+
+cuda_exterminal
+  - ExTerminal
+  - Config
+  - New terminal
+  - Close all terminals
+  - Run selection from editor
+  - Run current file
+  - Toggle focus terminal/editor
+  - CD to current file's directory
+
+cuda_ext
+  - Cuda&-Ext
+
+cuda_file_uri_handler
+  - file URI handler
+
+cuda_find_in_files4
+  - &Find in Files 4
+
+cuda_find-replace-pairs
+  - Find-Replace-Pairs
+  - &List
+  - &Remove
+
+cuda_find-replace_separate_history
+  - Find-Replace-Separate-History
+  - &Remove
+
+cuda_focus_mode
+  - Toggle
+
+cuda_folding_caption
+  - Folding Caption
+  - Go to level above
+  - Go to root-level
+  - Config
+
+cuda_font_awesome
+  - Font Awesome
+  - Show panel
+  - Config
+
+cuda_font_changer
+  - Font Changer
+  - Next font
+  - Previous font
+  - Select font...
+
+cuda_font_preview
+  - Font Preview
+  - Config
+
+cuda_fontstorage
+  - FontStorage
+
+cuda_ftp
+  - FTP
+
+cuda_git_blame
+  - Git Blame
+  - Blame current line
+  - Blame analyze file
+  - See current line history
+  - See file history
+  - See file history by committer
+  - View file content in history
+  - Config
+
+cuda_git_conflict_solver
+  - Git Conflict Solver
+  - Solve nearest conflict
+
+cuda_github_gist
+  - GitHub Gist
+  - Get list
+  - Change username
+
+cuda_git_status
+  - Jump to next change
+  - Jump to previous change
+  - Pull
+  - Get log
+  - Get log of file
+  - Get status
+  - Get non-staged files
+  - Get untracked files
+  - Add file...
+  - Restore file...
+  - Commit...
+  - Commit/amend...
+  - Push
+  - Push (set upstream)
+  - Push (force)
+  - View file changes
+  - View all changes
+  - Checkout branch...
+  - Checkout new branch...
+  - Rebase (interactive)
+
+cuda_hash_generator
+  - Hash Generator
+
+cuda_highlight_occurrences
+  - Highlight Occurrences
+  - Move to &first occurrence
+  - Move to &last occurrence
+  - Move to &previous occurrence
+  - Move to &next occurrence
+  - Select &all occurrences
+  - Config...
+  - &Highlight Occurrences
+
+cuda_highlight_variables
+  - Highlight Variables
+  - Config
+
+cuda_hotspots
+  - Hotspots
+  - Open side panel
+  - Collect hotspots
+  - Go to hotspot
+
+cuda_html_completion
+  - HTML Completion
+
+cuda_html-css-markdown_tooltips
+  - HTML-CSS-Markdown Tooltips
+  - Config
+
+cuda_html_ops
+  - HTML Ops
+  - HTML5
+  - HTML4
+  - HTML4 Transitional
+  - <b>
+  - <i>
+  - <u>
+  - <p>
+  - <div>
+  - <span>
+  - <pre>
+  - <strong>
+  - <em>
+  - <ul>
+  - <ol>
+  - <li>
+  - <sub>
+  - <sup>
+  - <small>
+  - <bdi>
+  - <h1>
+  - <h2>
+  - <h3>
+  - <h4>
+  - <h5>
+  - <h6>
+  - <blockquote>
+  - <q>
+  - <cite>
+  - Online HTML5 validator
+
+cuda_html_tidy
+  - HTML Tidy
+  - Menu...
+
+cuda_insert_emoji
+  - Insert :code: from picture list
+  - Insert unicode (&En descriptions)
+  - Insert unicode (&Ru descriptions)
+
+cuda_langmenu
+  - Translation of menu items of Extended Selection
+
+cuda_lint
+  - CudaLint
+  - Lint
+
+cuda_lorem_ipsum
+  - Lorem Ipsum
+
+cuda_lorem
+  - Lorem Ipsum
+
+cuda_lsp_client
+  - LSP Client
+  - Hover
+  - Definition
+  - References
+  - Implementation
+  - Declaration
+  - Type definition
+  - Format document
+  - Format selection
+  - Configure server for current project
+  - Shutdown server...
+  - Debug: Docs list...
+  - Debug: View server responses (current server)
+  - Config
+  - Edit server configs...
+
+cuda_markdown_editing
+  - Index all headers
+  - Configure
+
+cuda_markdown_image
+  - Markdown Image
+
+cuda_markdown_special_paste
+  - Markdown Special Paste
+  - Config
+
+cuda_micro_utils
+  - Micro Utils
+
+cuda_modeline
+  - Modeline
+
+cuda_mo_file_viewer
+  - MO File Viewer
+
+cuda_numbered_bookmarks
+  - Numbered Bookmarks
+  - Set bookmark 1
+  - Set bookmark 2
+  - Set bookmark 3
+  - Set bookmark 4
+  - Set bookmark 5
+  - Set bookmark 6
+  - Set bookmark 7
+  - Set bookmark 8
+  - Go to bookmark 1
+  - Go to bookmark 2
+  - Go to bookmark 3
+  - Go to bookmark 4
+  - Go to bookmark 5
+  - Go to bookmark 6
+  - Go to bookmark 7
+  - Go to bookmark 8
+
+cuda_number_utils
+  - Number Utils
+
+cuda_online_search
+  - WordPress
+  - 1C-Bitrix
+
+cuda_open_url
+  - Open URL in Edge
+  - Open URL in Edge, private mode
+
+cuda_pandoc_helper
+  - Pandoc Helper
+  - Convert...
+
+cuda_pandoc
+  - Pandoc Helper
+
+cuda_password_generator
+  - Password Generator
+  - Config
+
+cuda_python_intellisense
+  - Python IntelliSense
+  - Show doc-string
+  - Show usages
+  - Refactoring - Rename
+  - Refactoring - Inline
+  - Refactoring - Extract variable
+  - Refactoring - Extract function
+  - Select Python interpreter...
+  - Config
+
+cuda_python_intel
+  - Python IntelliSense
+
+cuda_pywin32
+  - pywin32 libraries
+
+cuda_restructuredtext_helper
+  - reStructuredText Helper
+  - Underline header level 1
+  - Underline header level 2
+  - Underline header level 3
+  - Underline header level 4
+  - Underline header level 5
+  - Underline header level 6
+  - Config
+
+cuda_restructuredtext_preview
+  - reStructuredText Preview
+
+cuda_runner
+  - Runner
+
+cuda_scope_description
+  - Scope Description
+  - Toggle ON/OFF
+  - Toggle mode
+  - Config
+
+cuda_scratches
+  - Scratches
+  - &New
+  - &List
+  - &Remove
+
+cuda_show_unicode_name
+  - Show Unicode Name
+  - Toggle
+
+cuda_show_unsaved_changes_(diff)
+  - Show Unsaved Changes
+  - Show in modal dialog
+  - Show in editor
+
+cuda_spell_checker
+  - Create a list with all the misspelled words
+  - Configure
+  - Configure events...
+
+cuda_spir_helper
+  - SPIR Helper
+
+cuda_sql_tools
+  - SQL Tools
+  - Execute query
+  - Execute entire file
+  - Explain plan
+  - Describe function
+  - Describe table
+  - Show table records
+  - Format query text
+  - History
+  - Save query
+  - List and open saved queries
+  - List and run saved queries
+  - List and insert saved queries
+  - Remove saved query
+  - Refresh connection data
+  - Clear table+function cache
+  - Select connection
+  - Edit connections config
+  - Edit main config
+
+cuda_suggest_untitled_filename
+  - Suggest Untitled Filename
+
+cuda_sync_editing
+  - Emulate mouse click
+
+cuda_tab_group_resizer
+  - Tab Group Resizer
+  - Toggle maximize editor group
+  - Minimize editor group
+  - Reset group sizes
+  - Config
+
+cuda_tab-rename
+  - Tab-Rename
+  - Rename current tab...
+  - Config
+
+cuda_terminal_plus
+  - Terminal+
+  - Terminal Plus
+
+cuda_terminal
+  - Terminal
+
+cuda_tern
+  - JS Tern
+
+cuda_testing_dlg_proc
+  - modal
+
+cuda_testing_of_code_tree_api
+  - Testing of Code Tree API
+
+cuda_testing_of_dialog_api
+  - Testing of dialog API
+  - modal
+  - nonmodal
+  - test dlg_custom
+  - test side-panel
+  - test label rendering
+
+cuda_testing_of_gaps_api
+  - Testing of gaps API
+
+cuda_text_statistics
+  - Text Statistics
+  - For document, in message box
+  - For document, in new tab
+  - For selection, in message box
+  - For selection, in new tab
+  - Show all sentences
+
+cuda_transpose
+  - Transpose
+  - Move single-line selection lefter
+  - Move single-line selection righter
+
+cuda_vim_mode
+  - Config
+
+cuda_webfont
+  - FontStorage
+
+cuda_wikidpad_helper
+  - WikidPad Helper
+
+cuda_windows_portable_fonts
+  - Windows Portable Fonts
+
+
+RESUMO
+================================
+Arquivos analisados       : 184
+Plugins com pendências    : 107
+Total de chaves pendentes : 417
