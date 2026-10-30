@@ -1,6 +1,0 @@
-﻿[info]
-title=Tradução de menus de plugins pré-instalados
-desc=Requer reiniciar o CudaText
-type=cudatext-data
-subdir=langmenu
-
