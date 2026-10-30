@@ -30,7 +30,7 @@ msgstr "<dir>#N/<file:r>:linha"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:296
 msgid "To view/edit options install plugin \"Options Editor\""
-msgstr "Para visualizar/editar opções, instalar o plugin \"Editor de Opções\""
+msgstr "Para visualizar ou editar as opções, instale o plugin \"Options Editor\""
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:303
 msgid "[{}] Options"
@@ -173,23 +173,23 @@ msgstr "+Todas as subpastas"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:485
 msgid "Only start dir"
-msgstr "Somente diretório inicial"
+msgstr "Somente pasta inicial"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:487
 msgid "S&ort collected files"
-msgstr "Classificar arquiv&os coletados"
+msgstr "Orde&nar arquivos coletados"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
 msgid "Don'&t sort"
-msgstr "&Não classificar"
+msgstr "&Não ordenar"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
 msgid "S&ort, newest first"
-msgstr "Classificar, mais recente primeir&o"
+msgstr "O&rdenar: mais recentes primeiro"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:488
 msgid "Sort, o&ldest first"
-msgstr "Classificar, mais an&tigo primeiro"
+msgstr "Ordenar: mais an&tigos primeiro"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:491
 msgid "Skip &hidden/binary files"
@@ -354,27 +354,27 @@ msgstr "Predefinição carregada:"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1327
 msgid "Choose file to find in it"
-msgstr "Escolher o arquivo para encontrar nele"
+msgstr "Escolha o arquivo para procurar nele"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1332
 msgid "Initial search folder"
-msgstr "Pasta de pesquisa inicial"
+msgstr "Pasta inicial da pesquisa"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1433
 msgid "\"Replace\" is only for single-line Find pattern"
-msgstr "\"Substituir\" somente para padrão Localizar em linha única"
+msgstr "\"Substituir\" vale apenas para padrão de busca em uma linha"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1434
 msgid "\"Replace\" is only for \"-?+?\" mode"
-msgstr "\"Substituir\" somente para modo \"-? +?\""
+msgstr "\"Substituir\" vale apenas para o modo \"-?+?\""
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1436
 msgid "\"Replace\" is for \"Syntax elements\" turned off"
-msgstr "\"Substituir\" para \"Elementos de sintaxe \" desativado"
+msgstr "\"Substituir\" exige \"Elementos de sintaxe\" desativado"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1437
 msgid "\"Replace\" is for \"Lexer path for all fragments\" turned off"
-msgstr "\"Substituir\" para \"Caminho da linguagem para todos fragmentos \" desativado"
+msgstr "\"Substituir\" exige \"Caminho do lexer para todos os fragmentos\" desativado"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1473
 msgid "Replace all in files/tabs?"
@@ -386,15 +386,15 @@ msgstr "Com"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1494
 msgid "Pattern to replace with.\rTo substitute found RegEx groups: \\1, \\2, ...\rTo substitute the entire match: \\g<0> or \\0"
-msgstr "Padrão a ser substituído com.\rPara substituir grupos RegEx encontrados: \\1, \\2, ...\rPara substituir ocorrência inteira: \\g<0> ou \\0"
+msgstr "Padrão de substituição.\rPara substituir grupos RegEx encontrados: \\1, \\2, ...\rPara substituir a correspondência inteira: \\g<0> ou \\0"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1497
 msgid "Click or F4 - Start replacements\rShift+Click or Shift+F4 - Start emulation:\r  show report of replacements\r  and do not make changes."
-msgstr "Clicar ou F4 - Inicia substituições\rShift+Clique ou Shift+F4 - Inicia emulação:\r  exibe relatório de substituições\r  e não faz alterações."
+msgstr "Clique ou F4 - inicia as substituições\rShift+Clique ou Shift+F4 - inicia a emulação:\r  mostra o relatório de substituições\r  e não altera os arquivos."
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1502
 msgid "Click or Shift+F4 - Start emulation:\r  show report of replacements\r  and do not make changes."
-msgstr "Clicar ou Shift+F4 - Inicia emulação:\r  exibe relatório de substituições\r  e não faz alterações."
+msgstr "Clique ou Shift+F4 - inicia a emulação:\r  mostra o relatório de substituições\r  e não altera os arquivos."
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1505
 msgid "&Emulate"
