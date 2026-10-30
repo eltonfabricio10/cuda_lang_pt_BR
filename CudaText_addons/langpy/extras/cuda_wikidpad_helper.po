@@ -31,16 +31,16 @@ msgstr "Posição inválida do cursor"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_wikidpad_helper/__init__.py:33
 msgid "Click after line end"
-msgstr "Clique depois do fim da linha"
+msgstr "Clique após o fim da linha"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_wikidpad_helper/__init__.py:36
 msgid "Click not on a word-char"
-msgstr "O clique não está sobre um caractere de palavra"
+msgstr "O clique não está em um caractere de palavra"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_wikidpad_helper/__init__.py:42
 msgid "Click on escaped word"
-msgstr "Clique sobre uma palavra escapada"
+msgstr "Clique em uma palavra escapada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_wikidpad_helper/__init__.py:48
 msgid "Click on non-CamelCase word"
-msgstr "Clique sobre uma palavra que não esteja em CamelCase"
+msgstr "Clique em uma palavra que não esteja em CamelCase"
