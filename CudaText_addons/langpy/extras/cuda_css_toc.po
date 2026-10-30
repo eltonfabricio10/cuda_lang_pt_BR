@@ -23,4 +23,4 @@ msgstr "Seção inserida"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_css_toc/__init__.py:52
 msgid "Inserted TOC"
-msgstr "Sumário inserido"
+msgstr "TOC inserido"
