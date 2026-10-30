@@ -42,7 +42,7 @@ msgstr "Valor incorreto. Precisa ser no formato: {}"
 
 #: CudaText_addons/langmenu/cuda_prefs/cd_opts_dlg.py:948
 msgid "Options Editor Lite"
-msgstr "Editor de Opções"
+msgstr "Editor de opções"
 
 #: CudaText_addons/langmenu/cuda_prefs/dlg.py:17
 msgid "CudaText Preferences"

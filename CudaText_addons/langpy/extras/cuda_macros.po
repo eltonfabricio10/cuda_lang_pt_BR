@@ -55,11 +55,11 @@ msgstr "&Importar..."
 
 #: py/cuda_macros/cd_macros.py:132
 msgid "No macros for export"
-msgstr "Sem macros para exportação"
+msgstr "Nenhuma macro para exportar"
 
 #: py/cuda_macros/cd_macros.py:133 py/cuda_macros/cd_macros.py:166
 msgid "CudaText macros|*.cuda-macros"
-msgstr "CudaText macros|*.cuda-macros"
+msgstr "Macros do CudaText|*.cuda-macros"
 
 #: py/cuda_macros/cd_macros.py:146
 msgid "Export &to"
@@ -105,7 +105,7 @@ msgid ""
 "\n"
 "Choose another file?"
 msgstr ""
-"Sem macros no arquivo\n"
+"Nenhuma macro no arquivo\n"
 "  {}\n"
 "\n"
 "Escolher outro arquivo?"
@@ -188,11 +188,11 @@ msgstr "seg"
 
 #: py/cuda_macros/cd_macros.py:353
 msgid "While text c&hanges"
-msgstr "Enquanto o texto está pendurado"
+msgstr "Enquanto o texto for alterado"
 
 #: py/cuda_macros/cd_macros.py:354
 msgid "Until c&aret on last line"
-msgstr "Até o cur&sor na última linha"
+msgstr "Até o cursor ficar na última linha"
 
 #: py/cuda_macros/cd_macros.py:356
 msgid "Canc&el record"
@@ -200,7 +200,7 @@ msgstr "Canc&elar gravação"
 
 #: py/cuda_macros/cd_macros.py:357
 msgid "Show actions"
-msgstr "Exibir ações"
+msgstr "Mostrar ações"
 
 #: py/cuda_macros/cd_macros.py:358
 msgid "Ad&just..."
