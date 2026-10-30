@@ -43,4 +43,4 @@ msgstr "Clique sobre uma palavra escapada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_wikidpad_helper/__init__.py:48
 msgid "Click on non-CamelCase word"
-msgstr "Clique sobre uma palavra que não está em CamelCase"
+msgstr "Clique sobre uma palavra que não esteja em CamelCase"

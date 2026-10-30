@@ -23,7 +23,7 @@ msgid ""
 "Document has too many lines. Plugin Sort will not work. Current value of "
 "option [sort] max_lines in \"settings/plugins.ini\" is %d."
 msgstr ""
-"O documento tem muitas linhas. O plugin de ordenação não funcionará. O valor atual da opção "
+"O documento tem muitas linhas. O plugin Sort não funcionará. O valor atual da opção "
 "[sort] max_lines em \"settings/plugins.ini\" é %d."
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:63
@@ -46,11 +46,11 @@ msgstr "Operação desconhecida: "
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:141
 msgid "Lines operation: "
-msgstr "Operações nas linhas: "
+msgstr "Operação das linhas: "
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:161
 msgid "Cannot extract any lines"
-msgstr "Não foi possível extrair algumas linhas"
+msgstr "Não foi possível extrair linhas"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:167
 msgid "Extract lines: "
@@ -66,7 +66,7 @@ msgstr ", todo o texto"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:210
 msgid ", reverse"
-msgstr ", reverso"
+msgstr ", invertido"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:211
 msgid ", ignore case"
@@ -82,19 +82,19 @@ msgstr ", deslocamentos "
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:289
 msgid "Sorted ini lines"
-msgstr "Linhas ini classificadas"
+msgstr "Linhas INI ordenadas"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:314
 msgid "Sorted JSON-data based on keys (File -> Reopen for Undo)"
-msgstr "Dados JSON classificados com base em chaves (Arquivo -> Reabrir para Desfazer)"
+msgstr "Dados JSON ordenados por chave (Arquivo -> Reabrir para Desfazer)"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:319
 msgid "Sort field:"
-msgstr "Campo de classificação:"
+msgstr "Campo da ordenação:"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:333
 msgid "Sorted JSON-data based on key \""
-msgstr "Dados JSON classificados com base na chave \""
+msgstr "Dados JSON ordenados pela chave \""
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:41
 msgid "&Sort descending (reverse)"
