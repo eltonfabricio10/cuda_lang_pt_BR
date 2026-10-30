@@ -18,12 +18,12 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:107
 msgid "No menu config file"
-msgstr "Nenhum arquivo de configuração do menu"
+msgstr "Nenhum arquivo de configuração de menu"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:113
 msgid "No menu config file \"{}\""
-msgstr "Nenhum arquivo de configuração do menu \"{}\""
+msgstr "Nenhum arquivo de configuração de menu \"{}\""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:130
@@ -69,7 +69,7 @@ msgstr "&Editar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:471
 msgid "Browse&..."
-msgstr "Procurar&..."
+msgstr "Navegar&..."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:472
