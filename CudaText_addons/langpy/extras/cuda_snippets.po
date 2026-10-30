@@ -27,11 +27,11 @@ msgstr "Trechos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:110
 msgid "Loading VS Snippets list. Please wait..."
-msgstr "Carregando lista de Trechos VS. Por favor, aguarde..."
+msgstr "Carregando a lista de trechos do VS. Aguarde..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:113
 msgid "Can't download VS Snippets. Try again later..."
-msgstr "Não foi possível baixar Trechos VS. Tentar novamente mais tarde..."
+msgstr "Não foi possível baixar os trechos do VS. Tente novamente mais tarde..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:137
 msgid "Delete snippet markers"
@@ -40,11 +40,11 @@ msgstr "Excluir marcadores de trechos"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:169
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:188
 msgid "No VSCode snippets found"
-msgstr "Trechos VSCode não encontrados"
+msgstr "Nenhum trecho do VSCode encontrado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:173
 msgid "Visit page of snippets"
-msgstr "Visitar página dos trechos"
+msgstr "Visitar a página de trechos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:179
 msgid "No URL found"
@@ -60,19 +60,19 @@ msgstr "Remover trechos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:198
 msgid "Snippets folder removed; restart CudaText to forget about it"
-msgstr "Pasta de trechos removida; reiniciar o CudaText para esquecer disso"
+msgstr "Pasta de trechos removida; reinicie o CudaText para esquecer isso"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/__init__.py:202
 msgid "Select snippets package"
-msgstr "Selecione o pacote de snippets"
+msgstr "Selecione o pacote de trechos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_lexers_compare.py:19
 msgid "Setup snippet lexer(s)"
-msgstr "Configurar trechos da linguagem(s)"
+msgstr "Configurar lexer(es) de trechos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_lexers_compare.py:115
 msgid "You must check at least one CudaText lexer, for snippets to work"
-msgstr "Você deve selecionar pelo menos uma linguagem do CudaText para que os trechos funcionem"
+msgstr "Você deve marcar pelo menos um lexer do CudaText para que os trechos funcionem"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_snippets/dlg_search.py:96
 msgid "Search snippets"
