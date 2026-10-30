@@ -19,4 +19,4 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_colored_indent/__init__.py:49
 msgid "Colored Indent: "
-msgstr "Recuo colorido: "
+msgstr "Indentação colorida: "

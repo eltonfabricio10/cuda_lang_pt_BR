@@ -23,12 +23,12 @@ msgstr "É necessário um único cursor"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_column_marks/__init__.py:42
 msgid "Cannot jump to mark"
-msgstr "Não é possível saltar para o marcador"
+msgstr "Não foi possível pular para o marcador"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_column_marks/__init__.py:46
 #, python-brace-format
 msgid "Jumped to column {}"
-msgstr "Salto realizado para a coluna {}"
+msgstr "Pulei para a coluna {}"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_column_marks/__init__.py:72
 msgid ""
