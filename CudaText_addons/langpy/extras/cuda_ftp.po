@@ -275,7 +275,7 @@ msgstr "Renomear: "
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:23
 msgid "FTP server info"
 msgstr "Informações do servidor FTP"
-to
+
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:38
 msgid "Choose private key file"
 msgstr "Escolher o arquivo de chave privada"

@@ -22,11 +22,11 @@ msgstr "Nenhum conflito encontrado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_conflict/__init__.py:63
 msgid "Current change"
-msgstr "Alteração atual"
+msgstr "Mudança atual"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_conflict/__init__.py:63
 msgid "Incoming change"
-msgstr "Alteração recebida"
+msgstr "Mudança recebida"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_conflict/__init__.py:65
 msgid "empty"
@@ -47,4 +47,4 @@ msgstr "Ambas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_conflict/__init__.py:73
 msgid "Git Conflict Solver"
-msgstr "Solucionador de conflitos do Git"
+msgstr "Resolvedor de conflitos do Git"

@@ -157,7 +157,7 @@ msgstr "Git: log da restauração do arquivo"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:501
 msgid "Do you REALLY want to run 'git reset --soft HEAD~1'?"
-msgstr "REALMENTE deseja executar 'git reset --soft HEAD~1'?"
+msgstr "Deseja realmente executar 'git reset --soft HEAD~1'?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:505
 msgid "Git: Log of reset soft"
@@ -165,7 +165,7 @@ msgstr "Git: log do reset soft"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:513
 msgid "Do you REALLY want to run 'git reset --mixed HEAD~1'?"
-msgstr "REALMENTE deseja executar 'git reset --mixed HEAD~1'?"
+msgstr "Deseja realmente executar 'git reset --mixed HEAD~1'?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:517
 msgid "Git: Log of reset mixed"
@@ -173,7 +173,7 @@ msgstr "Git: log do reset mixed"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:525
 msgid "Do you REALLY want to run 'git reset --hard HEAD~1'?"
-msgstr "REALMENTE deseja executar 'git reset --hard HEAD~1'?"
+msgstr "Deseja realmente executar 'git reset --hard HEAD~1'?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:529
 msgid "Git: Log of reset hard"

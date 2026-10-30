@@ -19,20 +19,20 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_discord_status/__init__.py:52
 msgid "[Discord Status] Cannont find discord!"
-msgstr "[Discord Status] Não foi possível encontrar o Discord!"
+msgstr "[Status do Discord] Não foi possível encontrar o Discord!"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_discord_status/__init__.py:57
 msgid "[Discord Status] Connect!"
-msgstr "[Discord Status] Conectado!"
+msgstr "[Status do Discord] Conectado!"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_discord_status/__init__.py:59
 msgid "[Discord Status] Lost connect!"
-msgstr "[Discord Status] Conexão perdida!"
+msgstr "[Status do Discord] Conexão perdida!"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_discord_status/__init__.py:303
 msgid "[Discord Status] The connection is lost!!"
-msgstr "[Discord Status] A conexão foi perdida!!"
+msgstr "[Status do Discord] A conexão foi perdida!!"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_discord_status/__init__.py:309
 msgid "[Discord Status] The connection is lost!"
-msgstr "[Discord Status] A conexão foi perdida!"
+msgstr "[Status do Discord] A conexão foi perdida!"

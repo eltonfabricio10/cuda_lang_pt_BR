@@ -26,11 +26,11 @@ msgstr "Não existe: {}"
 
 #: py/cuda_favorites/cd_favs.py:75
 msgid "Project Manager plugin not installed"
-msgstr "Plug-in Gerenciador de Projetos não instalado"
+msgstr "O plug-in do Gerenciador de Projetos não está instalado"
 
 #: py/cuda_favorites/cd_favs.py:83
 msgid "Project Manager has no opened project"
-msgstr "Gerenciador de Projetos não tem projeto aberto"
+msgstr "O Gerenciador de Projetos não possui nenhum projeto aberto"
 
 #: py/cuda_favorites/cd_favs.py:91
 msgid "Already in Favorites: "
@@ -42,11 +42,11 @@ msgstr "Adicionado aos favoritos: "
 
 #: py/cuda_favorites/cd_favs.py:205
 msgid "Open file/project and close dialog.\rShift+Click to open without dialog closing"
-msgstr "Abrir arquivo/projeto e fechar a caixa de diálogo. \rShift+Clique para abrir sem fechar a caixa de diálogo"
+msgstr "Abre o arquivo/projeto e fecha a caixa de diálogo.\rShift+Clique para abrir sem fechar a caixa de diálogo"
 
 #: py/cuda_favorites/cd_favs.py:207
 msgid "Choose file to append.\rShift+Click to choose folder"
-msgstr "Escolher arquivo para anexar. \rShift+Clique para escolher pasta"
+msgstr "Escolha o arquivo para anexar.\rShift+Clique para escolher uma pasta"
 
 #: py/cuda_favorites/cd_favs.py:209
 msgid "Files"
@@ -98,15 +98,15 @@ msgstr "Fechar"
 
 #: py/cuda_favorites/cd_favs.py:256
 msgid "• Quick opening.\rUse Alt+1, Alt+2, ..., Alt+9\ror Ctrl+1, Ctrl+2, ..., Ctrl+9\rto quickly open item by its index (1, 2, ... 9).\r \r• Import favorites from SynWrite. \rTo import favorites list from SynWrite, browse for file \"SynFav.ini\".\rThis file is located in the \"Settings\" subfolder of SynWrite."
-msgstr "• Abertura rápida.\rUtilizar Alt+1, Alt+2, ..., Alt+9\rou Ctrl+1, Ctrl+2, ..., Ctrl+9\rpara abrir o item rapidamente pelo seu índice (1, 2 , ... 9).\r \r• Importar favoritos do SynWrite.\rPara importar a lista de favoritos do SynWrite, navegar até o arquivo \"SynFav.ini\".\rEste arquivo está localizado na subpasta \"Settings\" do SynWrite."
+msgstr "• Abertura rápida.\rUse Alt+1, Alt+2, ..., Alt+9\rou Ctrl+1, Ctrl+2, ..., Ctrl+9\rpara abrir rapidamente um item pelo seu índice (1, 2, ... 9).\r \r• Importar favoritos do SynWrite.\rPara importar a lista de favoritos do SynWrite, navegue até o arquivo \"SynFav.ini\".\rEsse arquivo está na subpasta \"Settings\" do SynWrite."
 
 #: py/cuda_favorites/cd_kv_base.py:532
 msgid "Fail. Use only for python file."
-msgstr "Falha. Utilizar somente para arquivo python."
+msgstr "Falha. Use somente para arquivos Python."
 
 #: py/cuda_favorites/cd_kv_dlg.py:1880
 msgid "Apply the tunings to controls of all dialogs."
-msgstr "Aplicar os ajustes aos controles de todos os diálogos."
+msgstr "Aplica os ajustes aos controles de todos os diálogos."
 
 #: py/cuda_favorites/cd_kv_dlg.py:1928
 msgid "&Save"
@@ -118,4 +118,4 @@ msgstr "Cancelar"
 
 #: py/cuda_favorites/cd_kv_dlg.py:1932
 msgid "Tuning text vertical alignment for control pairs"
-msgstr "Ajustar o alinhamento vertical do texto para pares de controle"
+msgstr "Ajusta o alinhamento vertical do texto para pares de controles"
