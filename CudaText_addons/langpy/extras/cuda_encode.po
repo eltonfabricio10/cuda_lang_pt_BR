@@ -53,7 +53,6 @@ msgstr "Arquivo de configuração global \"%s\" não foi encontrado"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:44
 msgid "Cannot open local config file for untitled tab"
 msgstr "Não é possível abrir o arquivo de configuração local para a aba sem título"
-"Não foi possível abrir o arquivo de configuração local para a guia sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:54
 #, python-format
@@ -84,6 +83,3 @@ msgstr "Formatando o texto selecionado"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:86
 msgid "Cannot work without selection"
 msgstr "Não é possível trabalhar sem seleção"
-
-#~ msgid "Formatting entire text"
-#~ msgstr "Formatando o texto inteiro"

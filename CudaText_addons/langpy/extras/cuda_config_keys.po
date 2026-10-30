@@ -27,7 +27,11 @@ msgid ""
 "Tips:\n"
 " · Use \"_\" for word boundary.\n"
 "   \"_up\" selects \"upper\" but not \"group\"."
-msgstr "Nomes de comandos adequados conterão todas as palavras especificadas.\nDicas:\n · Use \"_\" para limite de palavra.\n   \"_up\" seleciona \"superior\", mas não \"grupo\"."
+msgstr "Nomes "
+"de comandos adequados conterão todas as palavras especificadas.\n"
+"Dicas:\n"
+" · Use \"_\" para limite de palavra.\n"
+"   \"_up\" seleciona \"superior\", mas não \"grupo\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:105
@@ -36,7 +40,11 @@ msgid ""
 "Tips:\n"
 " · Use \"_\" for key-name boundary.\n"
 "   \"_f\" selects \"F1\" and \"Ctrl+F\" but not \"Left\"."
-msgstr "As teclas de atalho de comando adequadas conterão todas as palavras especificadas.\nDicas:\n · Use \"_\" para limite de nome-chave.\n   \"_f\" seleciona \"F1\" e \"Ctrl+F\", mas não \"Esquerda\"."
+msgstr "As "
+"teclas de atalho de comando adequadas conterão todas as palavras "
+"especificadas.\n"
+"Dicas:\n · Use \"_\" para limite de nome-chave.\n"
+"   \"_f\" seleciona \"F1\" e \"Ctrl+F\", mas não \"Esquerda\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:109
@@ -46,28 +54,39 @@ msgid ""
 " · Type \"/\" and snip string and push Tab-key.\n"
 "Tips:\n"
 " · Use ? for any character and * for any fragment."
-msgstr "Os recortes de comando adequados corresponderão à string especificada.\nUso:\n · Digite \"/\" e recorte a string e pressione a tecla Tab.\nDicas:\n · Usar ? para qualquer caractere e * para qualquer fragmento."
+msgstr "Os "
+"recortes de comando adequados corresponderão à string especificada.\n"
+"Uso:\n · "
+"Digite \"/\" e recorte a string e pressione a tecla Tab.\n"
+"Dicas:\n"
+" · Usar ? para qualquer caractere e * para qualquer fragmento."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:114
 msgid ""
 "Set hotkey for command (if no one).\n"
 "Extend to series hotkeys (if command already has hotkeys)."
-msgstr "Defina a tecla de atalho para o comando (se não houver).\nEstender para teclas de atalho em série (se o comando já tiver teclas de atalho)."
+msgstr "Defina "
+"a tecla de atalho para o comando (se não houver).\n"
+"Estender para teclas de atalho em série (se o comando já tiver teclas de atalho)."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:116
 msgid ""
 "Shows HTML page with report of all hotkeys in editor.\n"
 "The report is usefull to analyze hotkeys in a whole."
-msgstr "Mostra a página HTML com relatório de todas as teclas de atalho no editor.\nO relatório é útil para analisar as teclas de atalho como um todo."
+msgstr "Mostra "
+"a página HTML com relatório de todas as teclas de atalho no editor.\n"
+"O relatório é útil para analisar as teclas de atalho como um todo."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:118
 msgid ""
 "Show compact report of hotkeys in new tab.\n"
 "The report is usefull to find free hotkeys."
-msgstr "Mostrar relatório compacto de teclas de atalho em uma nova aba.\nO relatório é útil para encontrar teclas de atalho gratuitas."
+msgstr "Mostrar "
+"relatório compacto de teclas de atalho em uma nova aba.\nO "
+"relatório é útil para encontrar teclas de atalho gratuitas."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:120
@@ -87,7 +106,12 @@ msgid ""
 " · in alphabetical order,\n"
 " · in reverse alphabetical order,\n"
 " · in natural order (as at start)"
-msgstr "Classifique os dados clicando no cabeçalho da tabela\nLoop de classificação de 3 estágios:\n · em ordem alfabética,\n · em ordem alfabética inversa,\n · em ordem natural (como no início)"
+msgstr "Classifique "
+"os dados clicando no cabeçalho da tabela\n"
+"Loop de classificação de 3 "
+"estágios:\n · em ordem alfabética,\n"
+" · em ordem alfabética inversa,\n · "
+"em ordem natural (como no início)"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:152
@@ -246,7 +270,24 @@ msgid ""
 "\n"
 "• Sorting.\n"
 "{}"
-msgstr "• No Comando.\n{}\n\n• Em teclas de atalho.\n{}{}\n\n• Definir/Adicionar.\n{}\n\n• Relatório HTML.\n{}\n\n• Guia-relatório.\n{}\n\n• Classificação.\n{}"
+msgstr "• "
+"No Comando.\n{}\n\n• "
+"Em "
+"teclas "
+"de atalho.\n{}{}\n\n"
+"• "
+"Definir/Adicionar.\n"
+"{}\n\n• "
+"Relatório "
+"HTML.\n"
+"{}\n\n• "
+"Guia-relatório.\n"
+"{}\n"
+"\n• "
+"Classificação.\n"
+"{"
+"}"
+""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:321
@@ -255,7 +296,11 @@ msgid ""
 "\n"
 "• In Snip.\n"
 "{}"
-msgstr "\n\n• Em Recorte.\n{}"
+msgstr "\n"
+"\n"
+"• "
+"Em Recorte.\n"
+"{}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:468
@@ -265,7 +310,12 @@ msgid ""
 "\n"
 "Do you want to reassign the hotkey \n"
 "to selected command \"{}\"?"
-msgstr "A tecla de atalho \"{}\" já está atribuída \npara comandar \"{}\".\n\nVocê deseja reatribuir a tecla de atalho \nao comando selecionado \"{}\"?"
+msgstr "A "
+"tecla de atalho \"{}\" já está atribuída "
+"\npara comandar \"{}\".\n"
+"\n"
+"Você deseja reatribuir a tecla de atalho "
+"\nao comando selecionado \"{}\"?"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:493
@@ -285,7 +335,12 @@ msgid ""
 "\n"
 "Do you want to reassign the snippet\n"
 "to command \"{}\"?"
-msgstr "O snippet \"{}\" já está atribuído\npara comandar \"{}\".\n\nVocê deseja reatribuir o snippet\ncomandar \"{}\"?"
+msgstr "O "
+"snippet \"{}\" já está atribuído\n"
+"para comandar "
+"\"{}\".\n"
+"\nVocê deseja reatribuir o snippet\n"
+"comandar \"{}\"?"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:515
@@ -293,7 +348,10 @@ msgid ""
 "Do you want to remove snip(s) \n"
 "    {}\n"
 "for command \"{}\"?"
-msgstr "Você deseja remover recorte(s) \n    {}\npara o comando \"{}\"?"
+msgstr "Você "
+"deseja remover recorte(s) \n   "
+" {}\npara "
+"o comando \"{}\"?"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_keys_report.py:112

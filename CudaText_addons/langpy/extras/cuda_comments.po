@@ -26,10 +26,9 @@ msgstr ""
 msgid ""
 "Try to replace only blank(s) to keep text positions:\rUncommented lines:"
 "\r····foo1\r····foo2\rCommented lines:\r#···foo1\r···#foo2"
-msgstr ""
-"Tentar substituir somente os espaços em branco para manter as posições do "
-"texto:\rLinhas não comentadas:\r····foo1\r····foo2\rLinhas comentadas:"
-"\r#···foo1\r···#foo2"
+msgstr "Tentar "
+"substituir somente os espaços em branco para manter as posições do texto:\rLinhas não "
+"comentadas:\r····foo1\r····foo2\rLinhas comentadas:\r#···foo1\r···#foo2"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:54
 msgid ""
@@ -110,12 +109,3 @@ msgstr "Os comentários funcionam apenas com a seleção normal"
 #, python-brace-format
 msgid "No stream comment for lexer \"{}\""
 msgstr "Sem comentário de bloco para a linguagem \"{}\""
-
-#~ msgid "Cannot handle blank lines only"
-#~ msgstr "Não foi possível lidar apenas com linhas em branco"
-
-#~ msgid "Commenting"
-#~ msgstr "Comentário"
-
-#~ msgid "{} works only with normal selection"
-#~ msgstr "{} funciona apenas com seleção normal"

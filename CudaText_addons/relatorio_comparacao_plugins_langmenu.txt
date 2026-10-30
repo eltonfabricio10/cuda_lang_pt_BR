@@ -1,0 +1,293 @@
+RELATÓRIO DE COMPARAÇÃO PLUGIN × LANGMENU
+==========================================
+
+Plugins : plugin
+Langmenu: langmenu
+Modo    : DRY-RUN
+Backup  : NÃO
+
+CRITÉRIOS DE CONTEÚDO
+------------------------------------------
+Mínimo de chaves coincidentes: 2
+Cobertura mínima             : 60%
+
+RESUMO
+------------------------------------------
+install.inf analisados           : 136
+Nome exato                       : 116
+Nome normalizado                 : 3
+Correspondência por conteúdo     : 8
+Ambíguos/baixa confiança         : 5
+Sem correspondência              : 0
+Sem homepage                     : 4
+Alterações realizadas            : 0
+
+1. CORRESPONDÊNCIAS EXATAS
+==========================================
+plugin.ASCII_Art -> cuda_ascii_art | método: NOME EXATO
+plugin.Auto_Center_Line -> cuda_auto_center_line | método: NOME EXATO
+plugin.AutoIt_Helper -> cuda_autoit_helper | método: NOME EXATO
+plugin.Auto_Replace -> cuda_auto_replace | método: NOME EXATO
+plugin.Auto_Save -> cuda_auto_save | método: NOME EXATO
+plugin.Breadcrumbs -> cuda_breadcrumbs | método: NOME EXATO
+plugin.Calc_Expression -> cuda_calc_expr | método: NOME EXATO
+plugin.Case_Converter -> cuda_case_converter | método: NOME EXATO
+plugin.Clipboard_Catcher -> cuda_clipboard_catcher | método: NOME EXATO
+plugin.Clock -> cuda_clock | método: NOME EXATO
+plugin.Codeium -> cuda_codeium | método: NOME EXATO
+plugin.Colored_Indent -> cuda_colored_indent | método: NOME EXATO
+plugin.Color_Picker -> cuda_color_picker | método: NOME EXATO
+plugin.Color_Text -> cuda_color_text | método: NOME EXATO
+plugin.Column_Marks -> cuda_column_marks | método: NOME EXATO
+plugin.Complete_From_Text -> cuda_complete_from_text | método: NOME EXATO
+plugin.Complete_HTML_Text -> cuda_complete_html_text | método: NOME EXATO
+plugin.Configure_Toolbar -> cuda_config_toolbar | método: NOME EXATO
+plugin.Console_Auto-Completion -> cuda_console_complete | método: NOME EXATO
+plugin.CSS_CanIUse -> cuda_css_caniuse | método: NOME EXATO
+plugin.CSS_Inspector -> cuda_css_inspector | método: NOME EXATO
+plugin.CSS_Property_Info -> cuda_css_property_info | método: NOME EXATO
+plugin.CSS_Table_of_Contents -> cuda_css_toc | método: NOME EXATO
+plugin.CSV_Helper -> cuda_csv_hilite | método: NOME EXATO
+plugin.CudaFormatter -> cuda_fmt | método: NOME EXATO
+plugin.CudaLint -> cuda_lint | método: NOME EXATO
+plugin.Dash_Help -> cuda_dash_help | método: NOME EXATO
+plugin.Deep_Translator -> cuda_deep_translator | método: NOME EXATO
+plugin.Detect_Indent -> cuda_detect_indent | método: NOME EXATO
+plugin.DevDocs -> cuda_devdocs | método: NOME EXATO
+plugin.Differ -> cuda_differ | método: NOME EXATO
+plugin.Disable_Picture_Viewer -> cuda_disable_picture_viewer | método: NOME EXATO
+plugin.Discord_Status -> cuda_discord_status | método: NOME EXATO
+plugin.DocBlock_Comments -> cuda_docblock_comments | método: NOME EXATO
+plugin.Draw_Lines -> cuda_draw_lines | método: NOME EXATO
+plugin.Edits_Navigation -> cuda_edits_navigation | método: NOME EXATO
+plugin.Embedded_Editor -> cuda_embed_ed | método: NOME EXATO
+plugin.Emmet -> cuda_emmet | método: NOME EXATO
+plugin.Emmet_Lite -> cuda_emmet_lite | método: NOME EXATO
+plugin.Encode -> cuda_encode | método: NOME EXATO
+plugin.Explorer_Integration -> cuda_explorer_integration | método: NOME EXATO
+plugin.Extended_Selection -> cuda_extended_selection | método: NOME EXATO
+plugin.ExTerminal -> cuda_exterminal | método: NOME EXATO
+plugin.Extract_Strings -> cuda_extract_strings | método: NOME EXATO
+plugin.File_Type_Profile -> cuda_file_type_profile | método: NOME EXATO
+plugin.File_URI_Handler -> cuda_file_uri_handler | método: NOME EXATO
+plugin.Focus_Mode -> cuda_focus_mode | método: NOME EXATO
+plugin.Folding_Caption -> cuda_folding_caption | método: NOME EXATO
+plugin.Font_Awesome -> cuda_fontawesome | método: NOME EXATO
+plugin.Font_Changer -> cuda_font_changer | método: NOME EXATO
+plugin.Font_Preview -> cuda_font_preview | método: NOME EXATO
+plugin.FontStorage -> cuda_webfont | método: NOME EXATO
+plugin.Fountain_Helper -> cuda_fountain_helper | método: NOME EXATO
+plugin.FTP -> cuda_ftp | método: NOME EXATO
+plugin.Git_Blame -> cuda_git_blame | método: NOME EXATO
+plugin.Git_Status -> cuda_git_status | método: NOME EXATO
+plugin.Hash_Generator -> cuda_hash_gen | método: NOME EXATO
+plugin.Hex_Dump -> cuda_hex_dump | método: NOME EXATO
+plugin.Highlight_Occurrences -> cuda_hilite_occurrences | método: NOME EXATO
+plugin.Highlight_Variables -> cuda_hilite_vars | método: NOME EXATO
+plugin.Hotspots -> cuda_hotspots | método: NOME EXATO
+plugin.HTML_Completion -> cuda_html_completion | método: NOME EXATO
+plugin.HTML-CSS-Markdown_Tooltips -> cuda_html_tooltips | método: NOME EXATO
+plugin.HTML_Live_Preview -> cuda_html_live_preview | método: NOME EXATO
+plugin.HTML_Ops -> cuda_html_ops | método: NOME EXATO
+plugin.HTML_Tidy -> cuda_html_tidy | método: NOME EXATO
+plugin.Insert_Emoji -> cuda_insert_emoji | método: NOME EXATO
+plugin.Insert_Pics -> cuda_insert_pics | método: NOME EXATO
+plugin.IP_Address_Helper -> cuda_ip_address_helper | método: NOME EXATO
+plugin.JS_Multiline_Array -> cuda_js_multiline_array | método: NOME EXATO
+plugin.Lorem_Ipsum -> cuda_lorem_ipsum | método: NOME EXATO
+plugin.LSP_Client -> cuda_lsp | método: NOME EXATO
+plugin.Markdown_Editing -> cuda_markdown_editing | método: NOME EXATO
+plugin.Markdown_Image -> cuda_markdown_image | método: NOME EXATO
+plugin.Markdown_Preview -> cuda_markdown_preview | método: NOME EXATO
+plugin.Markdown_Special_Paste -> cuda_markdown_special_paste | método: NOME EXATO
+plugin.Micro_Utils -> cuda_micro_utils | método: NOME EXATO
+plugin.MO_File_Viewer -> cuda_mo_file_viewer | método: NOME EXATO
+plugin.NTFS_Streams -> cuda_ntfs_streams | método: NOME EXATO
+plugin.Numbered_Bookmarks -> cuda_numbered_bookmarks | método: NOME EXATO
+plugin.Number_Utils -> cuda_number_utils | método: NOME EXATO
+plugin.Online_Search -> cuda_online_search | método: NOME EXATO
+plugin.Open_URL -> cuda_open_url | método: NOME EXATO
+plugin.Pandoc_Helper -> cuda_pandoc | método: NOME EXATO
+plugin.Password_Generator -> cuda_pass_gen | método: NOME EXATO
+plugin.Paste_as_String -> cuda_paste_as_string | método: NOME EXATO
+plugin.Plain_Tasks -> cuda_plain_tasks | método: NOME EXATO
+plugin.Python_IntelliSense -> cuda_python_intel | método: NOME EXATO
+plugin.pywin32 -> cuda_pywin32 | método: NOME EXATO
+plugin.Remove_Greek_Accents -> cuda_remove_greek_accents | método: NOME EXATO
+plugin.reStructuredText_Preview -> cuda_rest_preview | método: NOME EXATO
+plugin.Runner -> cuda_runner | método: NOME EXATO
+plugin.Scope_Description -> cuda_scope_description | método: NOME EXATO
+plugin.Scratches -> cuda_scratches | método: NOME EXATO
+plugin.Show_Unicode_Name -> cuda_show_unicode_name | método: NOME EXATO
+plugin.Show_Unsaved_Changes_(diff) -> cuda_show_unsaved | método: NOME EXATO
+plugin.Snippets -> cuda_snippets | método: NOME EXATO
+plugin.Spell_Checker -> cuda_spell_checker | método: NOME EXATO
+plugin.SPIR_Helper -> cuda_spir_helper | método: NOME EXATO
+plugin.SQL_Tools -> cuda_sqltools | método: NOME EXATO
+plugin.Sum_Lines -> cuda_sum_lines | método: NOME EXATO
+plugin.Switch_Header -> cuda_switch_header | método: NOME EXATO
+plugin.Sync_Editing -> cuda_sync_editing | método: NOME EXATO
+plugin.Sync_Scroll -> cuda_sync_scroll | método: NOME EXATO
+plugin.Tab_Colors -> cuda_tab_colors | método: NOME EXATO
+plugin.Tab_Group_Resizer -> cuda_ed_resize | método: NOME EXATO
+plugin.Tab_Icons -> cuda_tab_icons | método: NOME EXATO
+plugin.Tab-Rename -> cuda_tab_rename | método: NOME EXATO
+plugin.Terminal -> cuda_terminal | método: NOME EXATO
+plugin.Terminal_Plus -> cuda_terminal_plus | método: NOME EXATO
+plugin.Textile_Preview -> cuda_textile_preview | método: NOME EXATO
+plugin.Text_Statistics -> cuda_text_statistics | método: NOME EXATO
+plugin.TextToSpeech -> cuda_texttospeech | método: NOME EXATO
+plugin.Transpose -> cuda_transpose | método: NOME EXATO
+plugin.Vim_Mode -> cuda_vim_mode | método: NOME EXATO
+plugin.WikidPad_Helper -> cuda_wikidpad_helper | método: NOME EXATO
+
+2. CORRESPONDÊNCIAS NORMALIZADAS
+==========================================
+plugin.AI_Local | cuda_ai_local -> cuda_ailocal | método: NOME NORMALIZADO
+plugin.Double-Shift | cuda_double-shift -> cuda_double_shift | método: NOME NORMALIZADO
+plugin.Find-Replace-Pairs | cuda_find-replace-pairs -> cuda_find_replace_pairs | método: NOME NORMALIZADO
+
+3. CORRESPONDÊNCIAS PELO CONTEÚDO
+==========================================
+plugin.Bootstrap_Completion
+  homepage/nome oficial : cuda_bootstrap_complete
+  pasta encontrada       : cuda_bootstrap_completion
+  método                 : CONTEÚDO
+  chaves do plugin       : 3
+  coincidências exatas   : 3
+  coincidências normaliz.: 3
+  cobertura              : 100%
+  chaves coincidentes:
+    - Bootstrap Completion
+    - Config
+    - Project specific config
+
+plugin.Code-Tree_Bookmarks
+  homepage/nome oficial : cuda_code_tree_x
+  pasta encontrada       : cuda_code-tree_bookmarks
+  método                 : CONTEÚDO
+  chaves do plugin       : 2
+  coincidências exatas   : 2
+  coincidências normaliz.: 2
+  cobertura              : 100%
+  chaves coincidentes:
+    - Code-Tree Bookmarks
+    - Config
+
+plugin.Commands_History
+  homepage/nome oficial : cuda_cmd_history
+  pasta encontrada       : cuda_commands_history
+  método                 : CONTEÚDO
+  chaves do plugin       : 3
+  coincidências exatas   : 3
+  coincidências normaliz.: 3
+  cobertura              : 100%
+  chaves coincidentes:
+    - Commands History
+    - Config
+    - Show Commands
+
+plugin.Converter_JSON-YAML
+  homepage/nome oficial : cuda_json_yaml
+  pasta encontrada       : cuda_converter_json-yaml
+  método                 : CONTEÚDO
+  chaves do plugin       : 3
+  coincidências exatas   : 3
+  coincidências normaliz.: 3
+  cobertura              : 100%
+  chaves coincidentes:
+    - Converter JSON-YAML
+    - Convert JSON to YAML
+    - Convert YAML to JSON
+
+plugin.Find-Replace_Separate_History
+  homepage/nome oficial : cuda_separate_find_replace_history
+  pasta encontrada       : cuda_find-replace_separate_history
+  método                 : CONTEÚDO
+  chaves do plugin       : 2
+  coincidências exatas   : 2
+  coincidências normaliz.: 2
+  cobertura              : 100%
+  chaves coincidentes:
+    - Find-Replace-Separate-History
+    - &Remove
+
+plugin.Git_Conflict_Solver
+  homepage/nome oficial : cuda_git_conflict
+  pasta encontrada       : cuda_git_conflict_solver
+  método                 : CONTEÚDO
+  chaves do plugin       : 2
+  coincidências exatas   : 2
+  coincidências normaliz.: 2
+  cobertura              : 100%
+  chaves coincidentes:
+    - Git Conflict Solver
+    - Solve nearest conflict
+
+plugin.GitHub_Gist
+  homepage/nome oficial : cuda_gists
+  pasta encontrada       : cuda_github_gist
+  método                 : CONTEÚDO
+  chaves do plugin       : 3
+  coincidências exatas   : 3
+  coincidências normaliz.: 3
+  cobertura              : 100%
+  chaves coincidentes:
+    - Change username
+    - Get list
+    - GitHub Gist
+
+plugin.reStructuredText_Helper
+  homepage/nome oficial : cuda_rest_helper
+  pasta encontrada       : cuda_restructuredtext_helper
+  método                 : CONTEÚDO
+  chaves do plugin       : 8
+  coincidências exatas   : 8
+  coincidências normaliz.: 8
+  cobertura              : 100%
+  chaves coincidentes:
+    - Config
+    - reStructuredText Helper
+    - Underline header level 1
+    - Underline header level 2
+    - Underline header level 3
+    - Underline header level 4
+    - Underline header level 5
+    - Underline header level 6
+
+
+4. AMBÍGUAS / BAIXA CONFIANÇA
+==========================================
+plugin.Bulma_Completion | homepage: cuda_bulma_complete
+  melhor candidato: cuda_bulma_completion
+  coincidências: 1/1 (100%)
+  motivo: poucas chaves coincidentes
+plugin.EditorConfig_Support | homepage: cuda_editorconfig
+  melhor candidato: cuda_editorconfig_support
+  coincidências: 1/1 (100%)
+  motivo: poucas chaves coincidentes
+plugin.Modeline | homepage: CudaText_modeline_plugin
+  melhor candidato: cuda_modeline
+  coincidências: 1/1 (100%)
+  motivo: poucas chaves coincidentes
+plugin.Suggest_Untitled_Filename | homepage: cuda_suggest_new
+  melhor candidato: cuda_suggest_untitled_filename
+  coincidências: 1/1 (100%)
+  motivo: poucas chaves coincidentes
+plugin.Windows_Portable_Fonts | homepage: cuda_fonts
+  melhor candidato: cuda_windows_portable_fonts
+  coincidências: 1/1 (100%)
+  motivo: poucas chaves coincidentes
+
+5. SEM CORRESPONDÊNCIA
+==========================================
+
+6. SEM HOMEPAGE
+==========================================
+langmenu | sem homepage= | plugin/plugin.Extended_Selection/langmenu/install.inf
+plugin.Testing_of_Code_Tree_API | sem homepage= | plugin/plugin.Testing_of_Code_Tree_API/install.inf
+plugin.Testing_of_dialog_API | sem homepage= | plugin/plugin.Testing_of_dialog_API/install.inf
+plugin.Testing_of_gaps_API | sem homepage= | plugin/plugin.Testing_of_gaps_API/install.inf
+
+7. ALTERAÇÕES REALIZADAS
+==========================================

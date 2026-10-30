@@ -22,7 +22,9 @@ msgstr ""
 msgid ""
 "NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" should "
 "be a comma-separated string of integers 0-2"
-msgstr "NOTA: Breadcrumbs - Não é possível analisar o valor da opção: \"root_dir_source\" deve ser uma string separada por vírgula de números inteiros 0-2"
+msgstr "NOTA: "
+"Breadcrumbs - Não é possível analisar o valor da opção: \"root_dir_source\" deve ser uma "
+"string separada por vírgula de números inteiros 0-2"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:560
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:567
@@ -48,11 +50,3 @@ msgstr "Encontrar o anterior - Shift+F3"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:164
 msgid "Search"
 msgstr "Pesquisar"
-
-#~ msgid ""
-#~ "NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" "
-#~ "should be comma-separated string of integers 0-2"
-#~ msgstr ""
-#~ "NOTA: Breadcrumbs - Não foi possível analisar o valor da opção: "
-#~ "\"root_dir_source\" deve ser uma string de inteiros 0-2 separada por "
-#~ "vírgulas"

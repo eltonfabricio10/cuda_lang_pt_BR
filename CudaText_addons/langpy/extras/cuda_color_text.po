@@ -24,8 +24,6 @@ msgstr "Color Text: vários cursores não são compatíveis"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_color_text/__init__.py:181
 msgid "Color Text: need a selection or caret on a word"
 msgstr "Color Text: é necessário selecionar algo ou posicionar o cursor sobre uma palavra"
-"Color Text: é necessário selecionar algo ou posicionar o cursor sobre uma "
-"palavra"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_color_text/__init__.py:190
 #, python-format

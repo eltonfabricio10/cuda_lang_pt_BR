@@ -42,6 +42,3 @@ msgstr "Salvar como..."
 #: /tmp/cudatext-po-5vs9ne0w/cuda_show_unsaved/__init__.py:178
 msgid "Saved: "
 msgstr "Salvo: "
-
-#~ msgid "Unsaved changes: "
-#~ msgstr "Alterações não salvas: "

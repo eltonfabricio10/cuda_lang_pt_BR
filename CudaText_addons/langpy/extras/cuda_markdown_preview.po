@@ -35,7 +35,10 @@ msgid ""
 "Live update is: %s.\n"
 "Enable live update (auto-reload of HTML page + converting of Markdown after "
 "each editing)?"
-msgstr "A atualização ao vivo é: %s.\nHabilitar atualização ao vivo (recarregamento automático da página HTML + conversão de Markdown após cada edição)?"
+msgstr "A "
+"atualização ao vivo é: %s.\n"
+"Habilitar atualização ao vivo (recarregamento automático da página HTML + conversão de Markdown "
+"após cada edição)?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_preview/__init__.py:90
 msgid "on"

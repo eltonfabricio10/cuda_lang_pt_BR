@@ -268,9 +268,3 @@ msgstr "Carregar padrão"
 #: CudaText_addons/langmenu/cuda_prefs/dlg_json.py:141
 msgid "Undo changes"
 msgstr "Desfazer as alterações"
-
-#~ msgid "Preference: "
-#~ msgstr "Preferência: "
-
-#~ msgid "PreferenesError: unsupported option type: "
-#~ msgstr "Erro de Preferências: tipo de opção não suportado: "

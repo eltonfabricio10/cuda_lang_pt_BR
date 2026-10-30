@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2021-07-25 17:05-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/__init__.py:501
+msgid "No references found"
+msgstr "Nenhuma referência encontrada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/__init__.py:503
+msgid "References"
+msgstr "Referências"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/__init__.py:508
+msgid "Reference inserted"
+msgstr "Referência inserida"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/__init__.py:525
+msgid "Surround-command don't support multi-carets"
+msgstr "O comando surround não suporta vários caracteres"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/__init__.py:530
+msgid "Surround-command needs a selection"
+msgstr "O comando surround precisa de uma seleção"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_editing/index_headers.py:26
+msgid "Cannot find Code-Tree items. Code-Tree is visible?"
+msgstr "Não é possível encontrar itens da árvore de código. A árvore de código está visível?"

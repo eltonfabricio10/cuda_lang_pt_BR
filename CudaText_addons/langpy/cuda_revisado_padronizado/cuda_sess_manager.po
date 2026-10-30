@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"POT-Creation-Date: 2021-07-08 23:58-0300\n"
+"PO-Revision-Date: 2021-08-14 23:38-0300\n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: pt_BR\n"
+"Last-Translator: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:24
+msgid "Plugin needs newer app version"
+msgstr "O plug-in precisa de uma versão mais recente do aplicativo"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:25
+msgid "No recent sessions"
+msgstr "Sem sessões recentes"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:26
+msgid "No previous session"
+msgstr "Nenhuma sessão anterior"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:27
+msgid "Session \"{stem}\" is saved"
+msgstr "A sessão \"{stem}\" foi salva"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:28
+msgid "Session \"{stem}\" is opened"
+msgstr "A sessão \"{stem}\" foi aberta"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:29
+msgid ""
+"Session \"{stem}\" not found\n"
+"\n"
+"Create it?"
+msgstr ""
+"A sessão \"{stem}\" não foi encontrada\n"
+"\n"
+"Criá-la?"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:30
+msgid "Session \"{stem}\" is created"
+msgstr "A sessão \"{stem}\" foi criada"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:31
+msgid "CudaText sessions|*{}|SynWrite sessions|*{}|All files|*.*"
+msgstr "CudaText sessões|*{}|SynWrite sessões|*{}|Todos os arquivos|*.*"
+
+#: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_sess_manager/cd_sess_manager.py:32
+msgid "CudaText sessions|*{}"
+msgstr "CudaText sessões|*{}"

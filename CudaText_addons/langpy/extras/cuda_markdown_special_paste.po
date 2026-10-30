@@ -36,7 +36,10 @@ msgid ""
 "Clipboard contains some picture.\n"
 "Save it to file in: \"{}\"\n"
 "(without \".{}\"):"
-msgstr "A área de transferência contém alguma imagem.\nSalve-o no arquivo em: \"{}\"\n(sem \".{}\"):"
+msgstr "A "
+"área de transferência contém alguma "
+"imagem.\nSalve-o no arquivo "
+"em: \"{}\"\n(sem \".{}\"):"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_markdown_special_paste/__init__.py:142
 msgid "File already exists: "

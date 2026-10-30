@@ -20,7 +20,9 @@ msgstr ""
 msgid ""
 "No folder \"{}\" from\n"
 "{}"
-msgstr "Nenhuma pasta \"{}\" de\n{}"
+msgstr "Nenhuma "
+"pasta \"{}\" de\n"
+"{}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:188
@@ -344,7 +346,10 @@ msgid ""
 "Remove {} option\n"
 "   {} = {!r}\n"
 "?"
-msgstr "Remover opção {}\n   {} = {!r}\n?"
+msgstr "Remover "
+"opção {}\n   "
+"{} = {!r}\n"
+"?"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_options_editor/cd_opts_dlg.py:1747

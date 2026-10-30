@@ -21,7 +21,9 @@ msgstr ""
 msgid ""
 "LSP: current Python version is not supported. Please upgrade to Python 3.8 "
 "or newer."
-msgstr "LSP: a versão atual do Python não é suportada. Atualize para Python 3.8 ou mais recente."
+msgstr "LSP: "
+"a versão atual do Python não é suportada. Atualize para Python 3.8 ou mais "
+"recente."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lsp/dlg.py:370
 msgid "Messages"
@@ -164,13 +166,3 @@ msgstr "Desligar servidor"
 #, python-brace-format
 msgid "Wrong snippet: {}"
 msgstr "Trecho errado: {}"
-
-#~ msgid "NOTE: {}: {} - Failed to connect on port {}"
-#~ msgstr "NOTA: {}: {} - Falhou ao conectar na porta {}"
-
-#~ msgid ""
-#~ "{}: current Python version is not supported. Please upgrade to Python 3.6 "
-#~ "or newer."
-#~ msgstr ""
-#~ "{}: a versão atual do Python não é compatível. Por favor, atualize para "
-#~ "Python 3.6 ou mais recente."

@@ -61,7 +61,8 @@ msgstr "Edição de sincronização: configuração de identificador_style_inclu
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:625
 msgid ""
 "ERROR: Sync Editing: Invalid identifier_style_include config - using fallback"
-msgstr "ERRO: Edição de sincronização: configuração identificador_style_include inválida - usando substituto"
+msgstr "ERRO: "
+"Edição de sincronização: configuração identificador_style_include inválida - usando substituto"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:631
 msgid "Sync Editing: Invalid identifier_style_exclude config - using fallback"
@@ -70,7 +71,8 @@ msgstr "Edição de sincronização: configuração de identificador_style_exclu
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:632
 msgid ""
 "ERROR: Sync Editing: Invalid identifier_style_exclude config - using fallback"
-msgstr "ERRO: Edição de sincronização: configuração identificador_style_exclude inválida - usando substituto"
+msgstr "ERRO: "
+"Edição de sincronização: configuração identificador_style_exclude inválida - usando substituto"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:700
 msgid "Sync Editing: No syntax tokens found"
@@ -88,7 +90,9 @@ msgstr "Edição sincronizada: desativada"
 msgid ""
 "Sync Editing: Not an ID! Click on ID to edit it. Writing outside ID's is not "
 "supported"
-msgstr "Edição sincronizada: não é um ID! Clique no ID para editá-lo. Escrever fora de IDs não é suportado"
+msgstr "Edição "
+"sincronizada: não é um ID! Clique no ID para editá-lo. Escrever fora de IDs não "
+"é suportado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:1440
 #, python-format
@@ -106,70 +110,3 @@ msgstr "As teclas para cima/para baixo/enter não são permitidas no modo de edi
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:2052
 msgid "Cannot open config: "
 msgstr "Não é possível abrir a configuração: "
-
-#~ msgid "Sync Editing: Cannot find IDs in selection"
-#~ msgstr "Edição Sincronizada: Não foi possível encontrar IDs na seleção"
-
-#~ msgid "Sync Editing: Need several IDs in selection"
-#~ msgstr "Edição Sincronizada: É necessário vários IDs na seleção"
-
-#~ msgid ""
-#~ "Sync Editing: Cancel? Click somewhere else to cancel, or on ID to "
-#~ "continue."
-#~ msgstr ""
-#~ "Edição Sincronizada: Cancelar? Clique em outro lugar para cancelar, ou em "
-#~ "ID para continuar."
-
-#~ msgid "Sync Editing: Click on ID to edit it, or somewhere else to cancel"
-#~ msgstr "Edição Sincronizada: Clique no ID para editar, ou"
-
-#~ msgid "Sync Editing: Cancelled"
-#~ msgstr "Edição Sincronizada: Cancelada"
-
-#~ msgid ""
-#~ "Sync Editing: Not a word! Click another, or click somewhere else again"
-#~ msgstr "Edição Sincronizada: Não é uma palavra! Clique em outro, ou"
-
-#~ msgid "Do you want to cancel Sync Editing mode?"
-#~ msgstr "Deseja cancelar o modo de Edição Sincronizada?"
-
-#~ msgid ""
-#~ "To configure Sync Editing, open linguagem-specific config in CudaText "
-#~ "(Options / Settings-more / Settings linguagem specific) and write there "
-#~ "options: case sensitive, regular expression for identifiers:\n"
-#~ "\n"
-#~ "  \"case_sens\": true, // case sensitive search\n"
-#~ "  \"id_regex\": \"\\w+\", // regex to find id's\n"
-#~ "  \"id_styles\": \"(?i)id[\\w\\s]*\", // use tokens with these styles\n"
-#~ "  \"id_styles_no\": \"(?i).*keyword.*\", // ignore tokens with these "
-#~ "styles\n"
-#~ "  \"syncedit_naive_mode\": false, // use 'naive' algorithm (search "
-#~ "without linguagem analysis, e.g. for plain text)\n"
-#~ "\n"
-#~ "Also you can write to CudaText's user.json these options:\n"
-#~ "\n"
-#~ "  \"syncedit_mark_words\": true, // allows fancy colorizing of words in "
-#~ "selection\n"
-#~ "  \"syncedit_ask_to_exit\": true, // show confirmation before auto-"
-#~ "cancelling\n"
-#~ msgstr ""
-#~ "Para configurar a Edição Sincronizada, abrir a configuração específica do "
-#~ "linguagem no CudaText (Opções / Configurações - Específicas da linguagem) e "
-#~ "escrever as opções: distinção entre maiúsculas e minúsculas, expressão "
-#~ "regular para identificadores:\n"
-#~ "\n"
-#~ "   \"case_sens\": true, // pesquisar com distinção entre maiúsculas e "
-#~ "minúsculas\n"
-#~ "   \"id_regex\": \"\\w+\", // expressão regular para encontrar id's\n"
-#~ "   \"id_styles\": \"(?i)id [\\w\\s]*\", // usar tokens com esses estilos\n"
-#~ "   \"id_styles_no\": \"(?i).*keyword.*\", // ignorar tokens com esses "
-#~ "estilos\n"
-#~ "   \"syncedit_naive_mode\": false, // usar o algoritmo 'ingênuo' "
-#~ "(pesquisar sem análise linguagem, p. ex. para texto simples)\n"
-#~ "\n"
-#~ "Além disso, você pode escrever no user.json do CudaText estas opções:\n"
-#~ "\n"
-#~ "   \"syncedit_mark_words\": true, // permitir colorização de palavras na "
-#~ "seleção\n"
-#~ "   \"syncedit_ask_to_exit\": true, // exibir confirmação antes do "
-#~ "cancelamento automático\n"

@@ -40,7 +40,7 @@ msgstr "Cor do fundo dos espaços entre linhas"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:61
 msgid "Use synchronized scrolling (vertical/horizontal) in two compared files"
 msgstr "Usar rolagem sincronizada (vertical/horizontal) nos dois arquivos comparados"
-"Usar rolagem sincronizada (vertical/horizontal) nos dois arquivos comparados"
+
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:67
 msgid "Perform detailed comparision"

@@ -80,6 +80,3 @@ msgstr ""
 "{}\n"
 "\n"
 "Salvá-lo antes?"
-
-#~ msgid "Opened '{}' in embedded window"
-#~ msgstr "'{}' aberto na janela embutida"

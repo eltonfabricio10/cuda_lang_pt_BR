@@ -1,0 +1,45 @@
+# Portuguese translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/__init__.py:22
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/remote.py:22
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:38-0300\n"
+"PO-Revision-Date: 2026-08-16 15:38-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/__init__.py:65
+msgid "Opened fonts site"
+msgstr "Site de fontes aberto"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/__init__.py:83
+#, python-format
+msgid "Inserted font \"%s\""
+msgstr "Fonte \"%s\" inserida"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/dl.py:25
+msgid "Cannot download zip"
+msgstr "Não é possível baixar o ZIP"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/dl.py:30
+msgid "Cannot find css file"
+msgstr "Não foi possível encontrar o arquivo CSS"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/dl.py:45
+msgid "Downloaded font"
+msgstr "Fonte baixada"
+
+#: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/remote.py:20
+msgid "Downloading font list..."
+msgstr "Baixando lista de fontes..."

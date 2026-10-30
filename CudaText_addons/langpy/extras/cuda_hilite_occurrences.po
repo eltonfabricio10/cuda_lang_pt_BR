@@ -57,7 +57,9 @@ msgstr "Número máximo de linhas no documento, quando o plugin ainda está ativ
 msgid ""
 "Maximal length of lines, which will be handled by plugin (plugin will skip "
 "longer lines)"
-msgstr "Comprimento máximo das linhas, que será tratado pelo plugin (o plugin irá pular linhas mais longas)"
+msgstr "Comprimento "
+"máximo das linhas, que será tratado pelo plugin (o plugin irá pular linhas "
+"mais longas)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:52
 msgid "Maximal time in milliseconds, to count chars in the document"
@@ -67,7 +69,9 @@ msgstr "Tempo máximo em milissegundos, para contar caracteres no documento"
 msgid ""
 "Average length of line. If document has lot of longer lines, it will "
 "fallback to highlight only visible matches."
-msgstr "Comprimento médio da linha. Se o documento tiver muitas linhas mais longas, ele irá destacar apenas as correspondências visíveis."
+msgstr "Comprimento "
+"médio da linha. Se o documento tiver muitas linhas mais longas, ele irá "
+"destacar apenas as correspondências visíveis."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:64
 msgid "Plugin handles current selection (on selection changing)"
@@ -100,7 +104,8 @@ msgstr "Marcar ocorrências do texto selecionado ignora a opção 'min_len'"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:106
 msgid ""
 "When text is over max_lines - fallback to highlighting only in visible text"
-msgstr "Quando o texto ultrapassa max_lines - alternativa para realçar apenas no texto visível"
+msgstr "Quando "
+"o texto ultrapassa max_lines - alternativa para realçar apenas no texto visível"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:112
 msgid "Plugin handles word under caret (on caret moving)"
@@ -126,7 +131,9 @@ msgstr "Elemento do tema de sintaxe, cuja cor é usada para outras correspondên
 msgid ""
 "If not empty, then plugin is active only for mentioned lexers. Comma-"
 "separated list."
-msgstr "Se não estiver vazio, o plugin estará ativo apenas para as linguagens mencionadas. Lista separada por vírgulas."
+msgstr "Se "
+"não estiver vazio, o plugin estará ativo apenas para as linguagens mencionadas. Lista "
+"separada por vírgulas."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:145
 msgid "None-lexer must be written as '-'."
@@ -136,11 +143,10 @@ msgstr "A opção 'Sem linguagem' deve ser escrita como '-'."
 msgid ""
 "If not empty, then plugin is disabled for mentioned lexers. Comma-separated "
 "list."
-msgstr "Se não estiver vazio, o plugin estará desabilitado para as linguagens mencionadas. Lista separada por vírgulas."
+msgstr "Se "
+"não estiver vazio, o plugin estará desabilitado para as linguagens mencionadas. Lista separada por "
+"vírgulas."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_hilite_occurrences/opt.py:152
 msgid "Has higher priority than option 'lexers_allowed'."
 msgstr "Tem prioridade mais alta que a opção 'lexers_allowed'."
-
-#~ msgid "Matches highlighted: {}/{} ({}ms)"
-#~ msgstr "Ocorrências destacadas: {}/{} ({}ms)"

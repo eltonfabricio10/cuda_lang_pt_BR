@@ -17,6 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /tmp/cudatext-po-5vs9ne0w/cuda_draw_lines/__init__.py:69
+#: __init__.py:69
 msgid "[Draw Lines] "
-msgstr "[Draw Lines] "
+msgstr "[Desenhar Linhas] "

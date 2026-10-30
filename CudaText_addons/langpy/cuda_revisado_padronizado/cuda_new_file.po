@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CudaText\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-16 15:24-0300\n"
+"PO-Revision-Date: 2021-07-28 18:06-0300\n"
+"Last-Translator: \n"
+"Language-Team: eltonff <eltonfabricio10@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.3\n"
+
+#: CudaText_addons/langmenu/cuda_new_file/__init__.py:14
+msgid "No files in data/newdoc"
+msgstr "Sem arquivos em data/newdoc"
+
+#: CudaText_addons/langmenu/cuda_new_file/__init__.py:29
+msgid "Templates"
+msgstr "Modelos"
+
+#: CudaText_addons/langmenu/cuda_new_file/__init__.py:39
+#, python-brace-format
+msgid "Templates: {}"
+msgstr "Modelos: {}"
+
+#: CudaText_addons/langmenu/cuda_new_file/__init__.py:43
+#, python-brace-format
+msgid "New file from \"{}\", lexer \"{}\""
+msgstr "Novo arquivo de \"{}\", linguagem \"{}\""

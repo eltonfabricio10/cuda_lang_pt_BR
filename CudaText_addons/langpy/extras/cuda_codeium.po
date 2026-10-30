@@ -64,10 +64,9 @@ msgstr ""
 msgid ""
 "\n"
 "To update your server binary, delete old one and change version in config."
-msgstr ""
-"\n"
-"Para atualizar o binário do servidor, exclua o antigo e altere a versão na "
-"configuração."
+msgstr "\n"
+"Para "
+"atualizar o binário do servidor, exclua o antigo e altere a versão na configuração."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:201
 #, python-brace-format

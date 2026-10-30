@@ -22,13 +22,17 @@ msgstr ""
 msgid ""
 "Document has too many lines. Plugin Sort will not work. Current value of "
 "option [sort] max_lines in \"settings/plugins.ini\" is %d."
-msgstr "O documento tem muitas linhas. A classificação do plug-in não funcionará. O valor atual da opção [sort] max_lines em \"settings/plugins.ini\" é %d."
+msgstr "O "
+"documento tem muitas linhas. A classificação do plug-in não funcionará. O valor "
+"atual da opção [sort] max_lines em \"settings/plugins.ini\" é %d."
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:63
 msgid ""
 "Instead of Sort plugin, you can always use CudaText built-in commands:\n"
 "\"(without undo) sort ...\"."
-msgstr "Em vez do plugin Sort, você sempre pode usar os comandos integrados do CudaText:\n\"(sem desfazer) classificar ...\"."
+msgstr "Em "
+"vez do plugin Sort, você sempre pode usar os comandos integrados do CudaText:\n"
+"\"(sem desfazer) classificar ...\"."
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:75
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:78
@@ -186,32 +190,3 @@ msgstr "%d de linha(s) alteradas"
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:60
 msgid "No lines were changed"
 msgstr "As linhas não foram alteradas"
-
-#~ msgid ""
-#~ "Document has too many lines. Plugin Sort will not work. Current value of "
-#~ "option [sort] max_lines in \"settings/plugins.ini\" is %d.\n"
-#~ "\n"
-#~ "Instead of Sort plugin, use CudaText built-in commands: \"(without undo) "
-#~ "sort...\"."
-#~ msgstr ""
-#~ "O documento contém muitas linhas. O Plugin de Classificação não "
-#~ "funcionará. Valor atual da opção [sort] max_lines em \"settings/"
-#~ "plugins.ini\" é %d.\n"
-#~ "\n"
-#~ "Em vez do plugin de Classificação, utilizar os comandos internos do "
-#~ "CudaText: \"(sem desfazer) classificar...\"."
-
-#~ msgid "Numeric (treat beginning as number)"
-#~ msgstr "Numérico (trate o início como um número)"
-
-#~ msgid "Sort only by substring, offsets 0-based:"
-#~ msgstr "Classificar apenas por substring, deslocamentos em 0:"
-
-#~ msgid "&From:"
-#~ msgstr "&De:"
-
-#~ msgid "&To:"
-#~ msgstr "&Para:"
-
-#~ msgid "OK"
-#~ msgstr "OK"

@@ -49,7 +49,9 @@ msgstr "Imagens"
 msgid ""
 "Cannot detect image file:\n"
 "%s"
-msgstr "Não é possível detectar o arquivo de imagem:\n%s"
+msgstr "Não "
+"é possível detectar o arquivo de imagem:\n"
+"%s"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/img_insert.py:69
 msgid "Image info inserted"

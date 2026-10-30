@@ -162,8 +162,6 @@ msgstr "Escolher do arquivo..."
 #: /tmp/cudatext-po-5vs9ne0w/cuda_config_toolbar/dlg.py:528
 msgid "To enable more icon sets, install \"toolbarxicons\" add-ons"
 msgstr "Para habilitar mais conjuntos de ícones, instale os complementos \"toolbarxicons\""
-"Para habilitar mais conjuntos de ícones, precisa instalar os complementos "
-"\"toolbarxicons\""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_config_toolbar/dlg.py:536
 msgid ""
@@ -189,11 +187,3 @@ msgstr "Filtro: "
 #: /tmp/cudatext-po-5vs9ne0w/cuda_config_toolbar/dlg_choose_icon.py:143
 msgid "Choose icon"
 msgstr "Escolher ícone"
-
-#~ msgid "Indexes of buttons to hide, space-separated (e.g. \"0 2 10 11\"):"
-#~ msgstr ""
-#~ "Índices dos botões para ocultar, separados por espaço (p. ex. \"0 2 10 "
-#~ "11\"):"
-
-#~ msgid "Option will be applied after app restart"
-#~ msgstr "A opção será aplicada após reiniciar o programa"

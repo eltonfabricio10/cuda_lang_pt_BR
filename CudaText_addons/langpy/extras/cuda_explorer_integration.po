@@ -45,7 +45,6 @@ msgstr "Associar %(app)s a arquivos \"%(ext)s\""
 #: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:23
 msgid "&Also register extensions (no dots, one per line, lower case):"
 msgstr "&Também registrar extensões (sem pontos, uma por linha, em minúsculas):"
-"&Também registrar extensões (sem pontos, uma por linha, em minúsculas):"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:24
 msgid "&OK"

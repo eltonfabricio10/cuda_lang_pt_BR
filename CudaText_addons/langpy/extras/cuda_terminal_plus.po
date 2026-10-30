@@ -28,7 +28,6 @@ msgstr ""
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:571
 msgid "Add terminal for current document (will be ^free for Untitled)"
 msgstr "Adicionar terminal para o documento atual (será ^livre para Sem título)"
-"Adicionar terminal para o documento atual (será ^livre para Sem Título)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:584
 msgid "Close all terminals..."
@@ -121,9 +120,3 @@ msgstr "Executar o último comando?"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2101
 msgid "Executed: "
 msgstr "Executado: "
-
-#~ msgid "Document has no teminals: "
-#~ msgstr "O documento não tem terminais: "
-
-#~ msgid "Rename Terminal"
-#~ msgstr "Renomear Terminal"

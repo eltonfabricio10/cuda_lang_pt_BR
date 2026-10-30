@@ -30,7 +30,9 @@ msgstr "Ainda não é possível lidar com vários caracteres"
 msgid ""
 "Cannot handle None-lexer; maybe file is big and \"ui_max_size_lexer\" blocks "
 "the lexer?"
-msgstr "Não é possível processar a opção 'Sem linguagem'; talvez o arquivo seja grande e \"ui_max_size_lexer\" a bloqueie?"
+msgstr "Não "
+"é possível processar a opção 'Sem linguagem'; talvez o arquivo seja grande e \"ui_max_size_lexer\" "
+"a bloqueie?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:139
 msgid "Cannot handle None-lexer"
@@ -186,7 +188,6 @@ msgstr "Arquivo de configuração global \"%s\" não encontrado"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:46
 msgid "Cannot open local config file for untitled tab"
 msgstr "Não é possível abrir o arquivo de configuração local para a aba sem título"
-"Não foi possível abrir o arquivo de configuração local para guia sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtconfig.py:59
 #, python-format
@@ -234,18 +235,3 @@ msgstr "O texto já está formatado"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/fmtrun.py:227
 msgid "Formatted entire text"
 msgstr "Texto formatado completamente"
-
-#~ msgid "No formatters for None-linguagem"
-#~ msgstr "Sem formatador para a linguagem Nenhum"
-
-#~ msgid "No configurable formatters"
-#~ msgstr "Sem formatadores configuráveis"
-
-#~ msgid "Formatters"
-#~ msgstr "Fomatadores"
-
-#~ msgid "Formatters labels"
-#~ msgstr "Rótulos dos formatadores"
-
-#~ msgid "Formatters label \"save\""
-#~ msgstr "Rótulo do formatador \"salvar\""

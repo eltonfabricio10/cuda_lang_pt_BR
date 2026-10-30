@@ -25,7 +25,9 @@ msgstr "Renomear aba..."
 msgid ""
 "New tab name for untitled tab:\n"
 "  "
-msgstr "Novo nome da guia sem título:\n  "
+msgstr "Novo "
+"nome da guia sem título:\n"
+"  "
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_rename/tab_rnm.py:48
 msgid ""
@@ -34,6 +36,3 @@ msgid ""
 msgstr ""
 "Novo nome da guia para o arquivo:\n"
 "  "
-
-#~ msgid "Rename tab"
-#~ msgstr "Renomear guia"

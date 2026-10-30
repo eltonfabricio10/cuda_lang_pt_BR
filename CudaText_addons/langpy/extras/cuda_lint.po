@@ -129,8 +129,6 @@ msgstr "Opções do CudaLint"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lint/dialogs.py:121
 msgid "CudaText should be restarted, to allow CudaLint use new event-options"
 msgstr "O CudaText deve ser reiniciado para permitir que o CudaLint use as novas opções de eventos"
-"CudaText precisa ser reiniciado, para permitir CuaLint utilizar as novas "
-"opções de evento"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lint/linter.py:86
 #, python-brace-format

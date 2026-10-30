@@ -19,15 +19,13 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extended_selection/ext_sel.py:184
 msgid "Extended selection: Missing config file. Creating a default one."
-msgstr "Seleção estendida: arquivo de configuração ausente. Criando um padrão."
-"Seleção estendida: Faltando arquivo de configuração. Criando um arquivo "
-"padrão."
+msgstr "Seleção estendida: arquivo de configuração ausente. Criando um arquivo padrão."
+
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extended_selection/ext_sel.py:215
 msgid "Extended selection: Failed to load config, using defaults"
 msgstr "Seleção estendida: falha ao carregar a configuração; usando os padrões"
-"Seleção estendida: Falha ao carregar a configuração, usando as configurações "
-"padrões"
+
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extended_selection/ext_sel.py:216
 #, python-brace-format

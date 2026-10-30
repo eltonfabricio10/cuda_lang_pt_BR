@@ -57,7 +57,7 @@ msgstr "Cancelar"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:48
 msgid "Copy to &clipboard"
-msgstr "Copiar para área de transferên&cia"
+msgstr "&Copiar para área de transferên&cia"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:49
 msgid "Copy to &new tab"
@@ -89,7 +89,7 @@ msgstr "Exp. &Reg."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:35
 msgid "&Ignore case"
-msgstr "Maiúscula/M&inúscula"
+msgstr "&Ignorar Maiúscula/Minúscula"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:36
 msgid "&Sort output"

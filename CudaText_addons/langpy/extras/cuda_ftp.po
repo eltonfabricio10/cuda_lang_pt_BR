@@ -146,13 +146,18 @@ msgid ""
 "First connection to this host.\n"
 "Accept host's certificate?\n"
 "\n"
-msgstr "Primeira conexão com este host.\nAceitar certificado do host?\n\n"
+msgstr ""
+"Primeira conexão com este host.\n"
+"Aceitar certificado do host?\n"
+"\n"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:731
 msgid ""
 "Host's certificate changed! Proceed?\n"
 "\n"
-msgstr "Certificado do anfitrião alterado! Continuar?\n\n"
+msgstr ""
+"Certificado do anfitrião alterado! Continuar?\n"
+"\n"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:757
 #, python-brace-format
@@ -169,7 +174,9 @@ msgstr "Renomear servidor: {}"
 msgid ""
 "\n"
 "Name taken: {}"
-msgstr "\nNome escolhido: {}"
+msgstr ""
+"\n"
+"Nome escolhido: {}"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/__init__.py:946
 msgid "Do you really want to remove server?"
@@ -268,7 +275,7 @@ msgstr "Renomear: "
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:23
 msgid "FTP server info"
 msgstr "Informações do servidor FTP"
-
+to
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:38
 msgid "Choose private key file"
 msgstr "Escolher o arquivo de chave privada"
@@ -279,7 +286,11 @@ msgid ""
 "which is not supported.\n"
 "You need to convert it to the OpenSSH format first.\n"
 "PuTTYgen can accomplish that."
-msgstr "Você escolheu uma chave privada no formato PuTTYgen,\nque não é suportado.\nVocê precisa primeiro convertê-lo para o formato OpenSSH.\nPuTTYgen pode fazer isso."
+msgstr "Você "
+"escolheu uma chave privada no formato PuTTYgen,\n"
+"que não é suportado.\nVocê "
+"precisa primeiro convertê-lo para o formato OpenSSH.\n"
+"PuTTYgen pode fazer isso."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:65
 msgid "Fill the Host field"
@@ -372,6 +383,3 @@ msgstr "&OK"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ftp/dlg.py:544
 msgid "&Cancel"
 msgstr "&Cancelar"
-
-#~ msgid "Lable (for menu): "
-#~ msgstr "Rótulo (para o menu): "

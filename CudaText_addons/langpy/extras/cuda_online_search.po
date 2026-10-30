@@ -17,14 +17,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: /tmp/cudatext-po-5vs9ne0w/cuda_online_search/__init__.py:27
+#: __init__.py:27
 msgid "Cannot find name: "
 msgstr "Não foi possível encontrar o nome: "
 
-#: /tmp/cudatext-po-5vs9ne0w/cuda_online_search/__init__.py:30
+#: __init__.py:30
 msgid "Can use only normal selection"
-msgstr "Só é possível usar uma seleção normal"
+msgstr "Somente usar seleção normal"
 
-#: /tmp/cudatext-po-5vs9ne0w/cuda_online_search/__init__.py:45
+#: __init__.py:45
 msgid "Opening browser: "
 msgstr "Abrindo o navegador: "

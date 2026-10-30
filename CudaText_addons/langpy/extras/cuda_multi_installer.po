@@ -108,9 +108,3 @@ msgstr "Instalador Múltiplo"
 #: CudaText_addons/langmenu/cuda_multi_installer/__init__.py:380
 msgid "Installing..."
 msgstr "Instalando..."
-
-#~ msgid "Select groups of add-ons needed for you."
-#~ msgstr "Selecione os grupos de complementos para você."
-
-#~ msgid "Next steps will suggest group items."
-#~ msgstr "As próximas etapas irão sugerir itens de grupo."
