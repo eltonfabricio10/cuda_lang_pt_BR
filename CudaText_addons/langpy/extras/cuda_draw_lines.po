@@ -19,4 +19,4 @@ msgstr ""
 
 #: __init__.py:69
 msgid "[Draw Lines] "
-msgstr "[Desenhar Linhas] "
+msgstr "[Desenhar linhas] "

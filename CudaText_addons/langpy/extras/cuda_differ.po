@@ -39,8 +39,7 @@ msgstr "Cor do fundo dos espaços entre linhas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:61
 msgid "Use synchronized scrolling (vertical/horizontal) in two compared files"
-msgstr "Usar rolagem sincronizada (vertical/horizontal) nos dois arquivos comparados"
-
+msgstr "Usar rolagem sincronizada (vertical/horizontal) em dois arquivos comparados"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:67
 msgid "Perform detailed comparision"
@@ -48,7 +47,7 @@ msgstr "Realizar comparação detalhada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:73
 msgid "Measure of the sequences’ similarity, in percents"
-msgstr "Medida de similaridade das sequências, em porcentagem"
+msgstr "Medida da similaridade das sequências, em porcentagem"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_differ/__init__.py:79
 msgid "Keep carets in both editors visible on current screen area"
