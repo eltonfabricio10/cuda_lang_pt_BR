@@ -24,7 +24,7 @@ msgstr "Instale primeiro"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_deep_translator/__init__.py:33
 msgid "Supported languages"
-msgstr "Idiomas compatíveis"
+msgstr "Idiomas suportados"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_deep_translator/__init__.py:59
 msgid "translated text copied to clipboard."

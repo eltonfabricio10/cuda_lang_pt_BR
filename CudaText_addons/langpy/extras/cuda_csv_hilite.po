@@ -29,15 +29,15 @@ msgstr "Coluna %d (%s)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_csv_hilite/__init__.py:271
 msgid "multi-carets not supported"
-msgstr "vários cursores não são compatíveis"
+msgstr "vários cursores não são suportados"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_csv_hilite/__init__.py:275
 msgid "selection not supported"
-msgstr "seleção não compatível"
+msgstr "seleção não suportada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_csv_hilite/__init__.py:302
 msgid "file contains a different number of columns"
-msgstr "o arquivo contém uma quantidade diferente de colunas"
+msgstr "o arquivo contém um número diferente de colunas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_csv_hilite/__init__.py:381
 msgid "Separator char (enter \"\\t\" for tab):"

@@ -23,12 +23,12 @@ msgstr "[Dash Help] Só é possível usar uma seleção normal"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_dash_help/__init__.py:39
 msgid "[Dash Help] Need lexer in file"
-msgstr "[Dash Help] O arquivo precisa ter uma linguagem"
+msgstr "[Dash Help] O arquivo precisa ter um lexer"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_dash_help/__init__.py:46
 #, python-format
 msgid "[Dash Help] Lexer \"%s\" is unknown to Dash"
-msgstr "[Dash Help] A linguagem \"%s\" é desconhecido pelo Dash"
+msgstr "[Dash Help] O lexer \"%s\" é desconhecido pelo Dash"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_dash_help/__init__.py:66
 msgid "[Dash Help] Called search"
