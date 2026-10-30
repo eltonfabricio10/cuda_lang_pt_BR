@@ -19,7 +19,7 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/__init__.py:12
 msgid "This plugin is for Windows only"
-msgstr "Este plugin funciona somente no Windows"
+msgstr "Este plugin é somente para Windows"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:18
 #, python-format
@@ -56,4 +56,4 @@ msgstr "Cancelar"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_explorer_integration/dlg.py:39
 msgid "Explorer Integration"
-msgstr "Integração do Explorador"
+msgstr "Integração do Explorer"

@@ -32,17 +32,17 @@ msgstr "Todos os arquivos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:55
 msgid "Caret(s) must have selection(s)"
-msgstr "O(s) cursor(es) deve(m) ter seleção(ões)"
+msgstr "Os cursores devem ter seleções"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:77
 #, python-format
 msgid "Changed %d line(s)"
-msgstr "Linha(s) %d alterada(s)"
+msgstr "%d linha(s) alterada(s)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/__init__.py:79
 #, python-format
 msgid "got %d error(s)"
-msgstr "obtive erro(s) %d"
+msgstr "%d erro(s) encontrado(s)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:40
 #: /tmp/cudatext-po-5vs9ne0w/cuda_encode/format_proc.py:52
