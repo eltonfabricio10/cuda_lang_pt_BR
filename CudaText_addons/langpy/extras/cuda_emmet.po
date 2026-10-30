@@ -19,7 +19,7 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/__init__.py:264
 msgid "Cannot expand Emmet abbreviation: "
-msgstr "Não foi possível expandir a abreviação Emmet: "
+msgstr "Não foi possível expandir a abreviação do Emmet: "
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/__init__.py:283
 msgid "Opened browser"
@@ -31,15 +31,15 @@ msgstr "Texto não selecionado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/__init__.py:299
 msgid "Emmet abbreviation:"
-msgstr "Abreviação Emmet:"
+msgstr "Abreviação do Emmet:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/__init__.py:318
 msgid "Cannot find Emmet abbreviation"
-msgstr "Não foi possível encontrar a abreviação Emmet"
+msgstr "Não foi possível encontrar a abreviação do Emmet"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/dlg_emmet.py:23
 msgid "Emmet preview dialog"
-msgstr "Visualizar abreviação Emmet"
+msgstr "Diálogo de pré-visualização do Emmet"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet/dlg_emmet.py:32
 msgid "Abbreviation:"

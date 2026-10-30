@@ -30,17 +30,17 @@ msgstr "OBSERVAÇÃO: o padrão ({}) no grupo \"{}\" não possui o grupo nomeado
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:137
 #, python-brace-format
 msgid "NOTE: failed to compile pattern in group \"{}\": {}"
-msgstr "NOTA: Falhou ao compilar o padrão no grupo \"{}\": {}"
+msgstr "AVISO: falha ao compilar o padrão no grupo \"{}\": {}"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:146
 #, python-brace-format
 msgid "NOTE: invalid \"lexers\" in group: {}. Should be a list"
-msgstr "NOTA: \"Linguagens\" inválidos no grupo: {}. Deveria ser uma lista"
+msgstr "AVISO: \"lexers\" inválidos no grupo: {}. Devem ser uma lista"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:149
 #, python-brace-format
 msgid "NOTE: invalid patterns in group: {}. Should be a list"
-msgstr "NOTA: Padrões inválidos no grupo: {}. Deveria ser uma lista"
+msgstr "AVISO: padrões inválidos no grupo: {}. Devem ser uma lista"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:240
 #, python-brace-format
@@ -58,7 +58,7 @@ msgstr "Nenhum caminho de arquivo embutido foi encontrado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:513
 msgid "To new tab"
-msgstr "Para nova guia"
+msgstr "Em nova aba"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_embed_ed/embed_ed.py:516
 msgid "Save"
@@ -79,4 +79,4 @@ msgstr ""
 "O texto foi modificado:\n"
 "{}\n"
 "\n"
-"Salvá-lo antes?"
+"Salvar antes?"

@@ -24,7 +24,7 @@ msgstr "Expandindo: %s (perfil %s)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet_lite/__init__.py:71
 msgid "Cannot expand Emmet abbreviation: "
-msgstr "Não é possível expandir a abreviação do Emmet: "
+msgstr "Não foi possível expandir a abreviação do Emmet: "
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_emmet_lite/__init__.py:80
 msgid "Profiles"
