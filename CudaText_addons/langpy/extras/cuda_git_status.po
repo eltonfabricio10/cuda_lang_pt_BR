@@ -149,7 +149,7 @@ msgstr "Git: arquivo adicionado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:488
 msgid "Do you REALLY want to restore this file?"
-msgstr "REALMENTE deseja restaurar este arquivo?"
+msgstr "Deseja realmente restaurar este arquivo?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_git_status/__init__.py:493
 msgid "Git: Log of restore file"

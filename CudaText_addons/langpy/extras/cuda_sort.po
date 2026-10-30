@@ -23,23 +23,21 @@ msgid ""
 "Document has too many lines. Plugin Sort will not work. Current value of "
 "option [sort] max_lines in \"settings/plugins.ini\" is %d."
 msgstr ""
-"O "
-"documento tem muitas linhas. A classificação do plug-in não funcionará. O valor "
-"atual da opção [sort] max_lines em \"settings/plugins.ini\" é %d."
+"O documento tem muitas linhas. O plugin de ordenação não funcionará. O valor atual da opção "
+"[sort] max_lines em \"settings/plugins.ini\" é %d."
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:63
 msgid ""
 "Instead of Sort plugin, you can always use CudaText built-in commands:\n"
 "\"(without undo) sort ...\"."
 msgstr ""
-"Em "
-"vez do plugin Sort, você sempre pode usar os comandos integrados do CudaText:\n"
-"\"(sem desfazer) classificar ...\"."
+"Em vez do plugin Sort, você pode usar os comandos internos do CudaText:\n"
+"\"(sem desfazer) sort ...\"."
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:75
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:78
 msgid "Needed multiline selection"
-msgstr "É necessário a seleção de várias linhas"
+msgstr "É necessária uma seleção multilinha"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:137
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:157
@@ -60,15 +58,15 @@ msgstr "Extrair linhas: "
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:208
 msgid "Sorted"
-msgstr "Classificado"
+msgstr "Ordenado"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:209
 msgid ", all text"
-msgstr ", todos os textos"
+msgstr ", todo o texto"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:210
 msgid ", reverse"
-msgstr ", inverso"
+msgstr ", reverso"
 
 #: CudaText_addons/langmenu/cuda_sort/__init__.py:211
 msgid ", ignore case"
