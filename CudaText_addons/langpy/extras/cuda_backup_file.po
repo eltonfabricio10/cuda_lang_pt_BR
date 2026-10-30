@@ -23,11 +23,9 @@ msgid ""
 "\n"
 "Continue?"
 msgstr ""
-"Texto "
-"modificado!\nO "
-"comando usará o estado antigo.\n\n"
-"C"
-"ontinuar?"
+"Texto modificado!\n"
+"O comando usará o estado antigo.\n\n"
+"Continuar?"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:253
