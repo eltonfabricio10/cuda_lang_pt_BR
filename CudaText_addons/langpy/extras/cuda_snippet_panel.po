@@ -28,7 +28,7 @@ msgstr "Inserindo: "
 
 #: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:193
 msgid "No folders with snippets"
-msgstr "Nenhuma pasta com snippets"
+msgstr "Nenhuma pasta com trechos"
 
 #: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:201
 #: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:219
@@ -41,4 +41,4 @@ msgstr "pastas"
 
 #: CudaText_addons/langmenu/cuda_snippet_panel/__init__.py:208
 msgid "No snippets in selected folder"
-msgstr "Nenhum snippet na pasta selecionada"
+msgstr "Nenhum trecho na pasta selecionada"
