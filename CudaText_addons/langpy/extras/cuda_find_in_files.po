@@ -48,7 +48,7 @@ msgstr "+Todos"
 #:
 #: cd_fi_in_fi.py:62
 msgid "Only"
-msgstr "Apenas"
+msgstr "Somente"
 
 #:
 #: cd_fi_in_fi.py:63
@@ -83,7 +83,7 @@ msgstr "Por data, do mais antigo"
 #:
 #: cd_fi_in_fi.py:64
 msgid "Don't sort"
-msgstr "Não classifique"
+msgstr "Não ordenar"
 
 #:
 #: cd_fi_in_fi.py:121
@@ -94,7 +94,7 @@ msgstr "Não classifique"
 #: cd_fi_in_fi.py:159
 #: cd_fi_in_fi.py:162
 msgid "Must update the application"
-msgstr "Deve atualizar o aplicativo"
+msgstr "É necessário atualizar o aplicativo"
 
 #:
 #: cd_fi_in_fi.py:142
@@ -104,7 +104,7 @@ msgstr "O comando funciona apenas com relatórios do plugin FindInFiles"
 #:
 #: cd_fi_in_fi.py:145
 msgid "No info to repeat search"
-msgstr "Nenhuma informação para repetir a pesquisa"
+msgstr "Não há informações para repetir a pesquisa"
 
 #:
 #: cd_fi_in_fi.py:197
@@ -131,7 +131,7 @@ msgstr "Histórico"
 #:
 #: cd_fi_in_fi.py:211
 msgid "Copy options [.*], [aA], [\"w\"] from CudaText dialog to plugin's dialog."
-msgstr "Copie as opções [.*], [aA], [\"w\"] da caixa de diálogo CudaText para a caixa de diálogo do plugin."
+msgstr "Copia as opções [.*], [aA], [\"w\"] da caixa de diálogo do CudaText para a caixa de diálogo do plugin."
 
 #:
 #: cd_fi_in_fi.py:215
@@ -143,12 +143,12 @@ msgstr "Iniciar"
 #:
 #: cd_fi_in_fi.py:218
 msgid "Use selection text from current file when dialog opens."
-msgstr "Use o texto de seleção do arquivo atual quando a caixa de diálogo for aberta."
+msgstr "Usa o texto selecionado do arquivo atual quando a caixa de diálogo abrir."
 
 #:
 #: cd_fi_in_fi.py:225
 msgid "Store Results between dialog call if setting is \"[ ]Send\"."
-msgstr "Armazene resultados entre chamadas de diálogo se a configuração for \"[ ]Enviar\"."
+msgstr "Armazena os resultados entre as chamadas de diálogo se a opção for \"[ ]Enviar\"."
 
 #:
 #: cd_fi_in_fi.py:233
@@ -156,8 +156,8 @@ msgid ""
 "List of lexer names to use for report file.\n"
 "                  First available lexer is used."
 msgstr ""
-"Lista de nomes de lexers a serem usados no arquivo de relatório.\n"
-"                  Será usado o primeiro lexer disponível."
+"Lista de nomes de lexer usados para o arquivo de relatório.\n"
+"                  O primeiro lexer disponível será usado."
 
 #:
 # cd_fi_in_fi.py:242
@@ -181,8 +181,8 @@ msgid ""
 "Auto-write 'tab_size' to report's lexer-specific config,\n"
 "               if no such setting. Use 0 to skip."
 msgstr ""
-"Gravar automaticamente 'tab_size' na configuração específica da linguagem do relatório,\n"
-"               se não houver tal configuração. Use 0 para pular."
+"Grava automaticamente 'tab_size' na configuração específica do lexer do relatório,\n"
+"               se essa opção não existir. Use 0 para ignorar."
 
 #:
 #: cd_fi_in_fi.py:254
@@ -190,8 +190,8 @@ msgid ""
 "Allows Esc key to stop all stages of current search.\n"
 "                If false, Esc stops only the current stage."
 msgstr ""
-"Permite que a tecla Esc interrompa todos os estágios da pesquisa atual.\n"
-"                Se for falso, Esc interrompe apenas o estágio atual."
+"Permite que a tecla Esc interrompa todas as etapas da pesquisa atual.\n"
+"                Se for falso, a tecla Esc interrompe apenas a etapa atual."
 
 #:
 #: cd_fi_in_fi.py:260
@@ -200,22 +200,22 @@ msgstr ""
 #: cd_fi_in_fi.py:334
 #: cd_fi_in_fi.py:345
 msgid "Searching"
-msgstr "Procurando"
+msgstr "Pesquisando"
 
 #:
 #: cd_fi_in_fi.py:264
 msgid "Show report even if nothing found."
-msgstr "Exibir relatório mesmo que nada seja encontrado."
+msgstr "Mostra o relatório mesmo quando nada for encontrado."
 
 #:
 #: cd_fi_in_fi.py:271
 msgid "[x]Append: Need to fold previous results."
-msgstr "[x]Anexar: É necessário recolher os resultados anteriores."
+msgstr "[x]Anexar: é necessário recolher os resultados anteriores."
 
 #:
 #: cd_fi_in_fi.py:278
 msgid "Close dialog if search has found matches."
-msgstr "Fechar a caixa de diálogo se a pesquisa encontrar correspondências."
+msgstr "Fecha a caixa de diálogo se a pesquisa encontrar ocorrências."
 
 #:
 #: cd_fi_in_fi.py:285
@@ -225,12 +225,12 @@ msgstr "Comprimento da substring (do campo \"Localizar\"), que aparece no títul
 #:
 #: cd_fi_in_fi.py:292
 msgid "If report document has a filename, save report after filling it."
-msgstr "Se o documento do relatório tiver um nome de arquivo, salve o relatório após preenchê-lo."
+msgstr "Se o documento do relatório tiver nome de arquivo, salva o relatório após preenchê-lo."
 
 #:
 #: cd_fi_in_fi.py:299
 msgid "Activate document with report after filling it."
-msgstr "Ativar o documento com o relatório após preenchê-lo."
+msgstr "Ativa o documento com o relatório após preenchê-lo."
 
 #:
 #: cd_fi_in_fi.py:306
@@ -238,8 +238,8 @@ msgid ""
 "Save search details (\"Find\", \"In folder\", …) in the first line of report.\n"
 "                The info will be used in command \"Repeat search for this report-tab\"."
 msgstr ""
-"Salve os detalhes da pesquisa (\"Localizar\", \"Na pasta\", …) na primeira linha do relatório.\n"
-"                As informações serão usadas no comando \"Repetir pesquisa para esta guia de relatório\"."
+"Salva os detalhes da pesquisa (\"Localizar\", \"Na pasta\", …) na primeira linha do relatório.\n"
+"                Essas informações serão usadas no comando \"Repetir pesquisa para esta aba de relatório\"."
 
 #:
 #: cd_fi_in_fi.py:316
