@@ -162,18 +162,17 @@ msgstr "OU"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:237
 msgid "In &Command:"
-msgstr "Em &Comando:"
+msgstr "Em &comando:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:239
 msgid "In &Hotkeys:"
-msgstr "Em &teclas de atalho:"
+msgstr "Em &atalhos:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:242
 msgid "In &Snip(s):"
-msgstr "Em &Recortes:"
-
+msgstr "Em &trechos:"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:243
 msgid "&?"
@@ -187,37 +186,37 @@ msgstr "Copiar &nome"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:254
 msgid "Open code &#"
-msgstr "Código aberto & #"
+msgstr "Abrir código &#"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:255
 msgid "Report to HT&ML"
-msgstr "Reporte para HT&ML"
+msgstr "Relatório em HT&ML"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:256
 msgid "Report to new &Tab"
-msgstr "Reportar para nova &guia"
+msgstr "Relatório em nova &aba"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:257
 msgid "Set/Add Hotkey-&1"
-msgstr "Definir/Adicionar tecla de atalho-&1"
+msgstr "Definir/adicionar atalho-&1"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:258
 msgid "Remove Hotkey-1 &!"
-msgstr "Remover tecla de atalho-1 &!"
+msgstr "Remover atalho-1 &!"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:259
 msgid "Set/Add Hotkey-&2"
-msgstr "Definir/Adicionar tecla de atalho-&2"
+msgstr "Definir/adicionar atalho-&2"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:260
 msgid "Remove Hotkey-2 &@"
-msgstr "Remover tecla de atalho-2 &@"
+msgstr "Remover atalho-2 &@"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:261
