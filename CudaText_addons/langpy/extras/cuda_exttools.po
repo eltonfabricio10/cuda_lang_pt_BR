@@ -226,7 +226,7 @@ msgstr "Sem URL: {}"
 
 #: py/cuda_exttools/cd_exttools.py:459
 msgid "Cannot open URL \"{}\" for untitled tab"
-msgstr "Não foi possível abrir URL \"{} \" para guia sem título"
+msgstr "Não foi possível abrir a URL \"{}\" para aba sem título"
 
 #: py/cuda_exttools/cd_exttools.py:466
 msgid "Opened \"{}\": {}"
@@ -238,15 +238,15 @@ msgstr "Sem ferramenta: {}"
 
 #: py/cuda_exttools/cd_exttools.py:492
 msgid "Tool \"{}\" is only for lexer(s): {}"
-msgstr "A ferramenta \"{} \" é somente para linguagem(s): {}"
+msgstr "A ferramenta \"{}\" é somente para linguagem(s): {}"
 
 #: py/cuda_exttools/cd_exttools.py:510 py/cuda_exttools/cd_exttools.py:516
 msgid "Cancel running tool \"{}\""
-msgstr "Cancelar ferramenta de execução \"{} \""
+msgstr "Cancelar execução da ferramenta \"{}\""
 
 #: py/cuda_exttools/cd_exttools.py:523
 msgid "Cannot run tool \"{}\" for untitled tab"
-msgstr "Não foi possível executar a ferramenta \"{} \" para guia sem título"
+msgstr "Não foi possível executar a ferramenta \"{}\" para aba sem título"
 
 #: py/cuda_exttools/cd_exttools.py:552 py/cuda_exttools/cd_exttools.py:567
 msgid "Run: \"{}\""

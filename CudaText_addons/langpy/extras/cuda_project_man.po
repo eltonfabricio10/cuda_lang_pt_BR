@@ -363,7 +363,7 @@ msgstr "Definir sessão padrão..."
 
 #: CudaText_addons/langmenu/cuda_project_man/__init__.py:1325
 msgid "Forget session, close all tabs"
-msgstr "Esqueça a sessão, feche todas as guias"
+msgstr "Esqueça a sessão, feche todas as abas"
 
 #: CudaText_addons/langmenu/cuda_project_man/__init__.py:1413
 #: CudaText_addons/langmenu/cuda_project_man/__init__.py:1433
@@ -561,7 +561,7 @@ msgstr "Abrir o arquivo após o comando \"&Ir para o arquivo\""
 
 #: CudaText_addons/langmenu/cuda_project_man/projman_dlg.py:101
 msgid "&Use \"preview tab\" on item clicking"
-msgstr "&Utilizar \"visualização de guia\" ao clicar no item"
+msgstr "&Utilizar \"visualização de aba\" ao clicar no item"
 
 #: CudaText_addons/langmenu/cuda_project_man/projman_dlg.py:103
 msgid "Open files by &double-click"

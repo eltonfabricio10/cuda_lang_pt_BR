@@ -117,7 +117,7 @@ msgstr "Nenhuma ajuda disponível para \"%s\""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:607
 msgid "Cannot open local config for untitled tab"
-msgstr "Não foi possível abrir a configuração local para guia sem título"
+msgstr "Não foi possível abrir a configuração local para aba sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:615
 msgid "File must be saved before creating local config"
@@ -156,7 +156,7 @@ msgstr "Nenhum formatador cross-linguagem com rótulo \"{}\""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:804
 msgid "Cannot handle untitled tab"
-msgstr "Não é possível lidar com a guia sem título"
+msgstr "Não é possível lidar com a aba sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_fmt/__init__.py:810
 msgid "File name does not contain \".\" char"

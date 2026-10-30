@@ -27,4 +27,4 @@ msgstr "Coletor de área de transferência DESLIGADO"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_clipboard_catcher/__init__.py:98
 msgid "Clipboard Catcher Tab closed"
-msgstr "Guia do coletor de área de transferência fechada"
+msgstr "Aba do coletor de área de transferência fechada"

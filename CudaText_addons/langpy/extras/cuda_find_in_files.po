@@ -1482,7 +1482,7 @@ msgstr "Preencha \"{}\" para localizar nas pastas do projeto"
 #:
 #: cd_fi_in_fi.py:2509
 msgid "Fill \"{}\" to find in tabs"
-msgstr "Preencha \"{}\" para localizar nas guias"
+msgstr "Preencha \"{}\" para localizar nas abas"
 
 #:
 #: cd_fi_in_fi.py:2512
@@ -1770,7 +1770,7 @@ msgstr "(Relatório interrompido em {}%) "
 #: cd_fif_api.py:527
 #: cd_fif_api.py:578
 msgid "No tab for navigation"
-msgstr "Nenhuma guia para navegação"
+msgstr "Nenhuma aba para navegação"
 
 #:
 #: cd_fif_api.py:580
@@ -1828,7 +1828,7 @@ msgstr "Não é possível ler \"{}\" (codificação={}/{}): {}"
 #:
 #: cd_fif_api.py:1267
 msgid "tab:"
-msgstr "guia:"
+msgstr "aba:"
 
 #:
 #: cd_fif_api.py:1348

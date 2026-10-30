@@ -378,7 +378,7 @@ msgstr "\"Substituir\" exige \"Caminho do lexer para todos os fragmentos\" desat
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1473
 msgid "Replace all in files/tabs?"
-msgstr "Substituir tudo em arquivos/guias?"
+msgstr "Substituir tudo em arquivos/abas?"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1486
 msgid "With"
@@ -480,15 +480,15 @@ msgstr "Ir para o fragmento anterior encontrado"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1679
 msgid "Go to next tab/file found fragment"
-msgstr "Ir para próxima guia/arquivo do fragmento encontrado"
+msgstr "Ir para próxima aba/arquivo do fragmento encontrado"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1680
 msgid "Go to prev tab/file found fragment"
-msgstr "Ir para guia/arquivo anterior do fragmento encontrado"
+msgstr "Ir para aba/arquivo anterior do fragmento encontrado"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1682
 msgid "Open found fragment in tab"
-msgstr "Abrir fragmento encontrado na guia"
+msgstr "Abrir fragmento encontrado na aba"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1684
 msgid "Prepare to search in the So&urce"
@@ -501,7 +501,7 @@ msgstr "Preparar para pesquisar na F&onte e no caminho da linguagem"
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1699
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1776
 msgid "Copy Results to new tab"
-msgstr "Copiar resultados para nova guia"
+msgstr "Copiar resultados para nova aba"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1706
 msgid "Choose start &folder"
@@ -525,11 +525,11 @@ msgstr "Preparar uma pesquisa no ar&quivo atual (no disco)"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1719
 msgid "Prepare a search in the current ta&b (in memory)"
-msgstr "Preparar uma pesquisa na &guia atual (na memória)"
+msgstr "Preparar uma pesquisa na &aba atual (na memória)"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1721
 msgid "Prepare a search in &all tabs (in memory)"
-msgstr "Prepare uma pesquisa em tod&as as guias (na memória)"
+msgstr "Prepare uma pesquisa em tod&as as abas (na memória)"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4.py:1725
 msgid " swaps with"
@@ -1246,7 +1246,7 @@ msgstr ""
 "Pastas separadas por espaço.\n"
 "Pasta com aspas duplas, que precisa de caracteres de espaço.\n"
 "\"~\" é a pasta pessoal do usuário.\n"
-"{} ou {{t}} para pesquisar nas guias.\n"
+"{} ou {{t}} para pesquisar nas abas.\n"
 "Ctrl+Shift+Up - cortar último segmento da pasta."
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:361
@@ -1321,7 +1321,7 @@ msgstr ""
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:387
 msgid "To search in tabs"
-msgstr "Para pesquisar nas guias"
+msgstr "Para pesquisar nas abas"
 
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Addons/cuda_find_in_files4/cd_fif4_cs.py:390
 msgid "Folder(s) of the loaded project"
@@ -1758,7 +1758,7 @@ msgstr ""
 "    - opção \"Mostrar caminho da linguagem para todos os fragmentos\" está ativada,\n"
 "    - o filtro de caminho da linguagem está incluído nos campos \"{incl}\" ou \"{excl}\",\n"
 "    - os estilos são copiados das linhas de origem dos arquivos do disco para os resultados\n"
-"        (nota: copiar estilos de guias também fica mais lento, mas não tanto).\n"
+"        (nota: copiar estilos de abas também fica mais lento, mas não tanto).\n"
 "\n"
 "7. Se a opção de mecanismo \"copy_styles\" estiver ativada e os resultados tiverem muitas linhas, o valor de\n"
 "a opção de mecanismo \"copy_styles_max_lines\" é importante. O tempo extra é diretamente proporcional\n"

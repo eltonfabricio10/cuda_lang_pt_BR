@@ -115,7 +115,7 @@ msgstr "Adicionada tag <%s>"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/preview_browser.py:14
 msgid "Cannot preview untitled tab"
-msgstr "Não é possível visualizar a guia sem título"
+msgstr "Não é possível visualizar a aba sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_html_ops/preview_browser.py:27
 msgid "Cannot open file: "
