@@ -39,5 +39,6 @@ msgstr "Tradutor Profundo: "
 #: /tmp/cudatext-po-5vs9ne0w/cuda_deep_translator/__init__.py:87
 msgid ""
 "translated text copied to clipboard (option: automatic copy to clipboard)."
-msgstr "texto "
+msgstr ""
+"texto "
 "traduzido copiado para a área de transferência (opção: cópia automática para a área de transferência)."

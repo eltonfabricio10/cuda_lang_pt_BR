@@ -61,7 +61,8 @@ msgstr "Edição de sincronização: configuração de identificador_style_inclu
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:625
 msgid ""
 "ERROR: Sync Editing: Invalid identifier_style_include config - using fallback"
-msgstr "ERRO: "
+msgstr ""
+"ERRO: "
 "Edição de sincronização: configuração identificador_style_include inválida - usando substituto"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:631
@@ -71,7 +72,8 @@ msgstr "Edição de sincronização: configuração de identificador_style_exclu
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:632
 msgid ""
 "ERROR: Sync Editing: Invalid identifier_style_exclude config - using fallback"
-msgstr "ERRO: "
+msgstr ""
+"ERRO: "
 "Edição de sincronização: configuração identificador_style_exclude inválida - usando substituto"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:700
@@ -90,7 +92,8 @@ msgstr "Edição sincronizada: desativada"
 msgid ""
 "Sync Editing: Not an ID! Click on ID to edit it. Writing outside ID's is not "
 "supported"
-msgstr "Edição "
+msgstr ""
+"Edição "
 "sincronizada: não é um ID! Clique no ID para editá-lo. Escrever fora de IDs não "
 "é suportado"
 

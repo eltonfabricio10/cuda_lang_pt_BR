@@ -36,5 +36,6 @@ msgstr "Buscar para trás:"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:935
 msgid ""
 "Remap Esc to j<smth>. E.g. for command \"jk\" enter \"k\". Empty - no remap."
-msgstr "Remapeie "
+msgstr ""
+"Remapeie "
 "Esc para j<smth>. Por exemplo para o comando \"jk\" digite \"k\". Vazio - sem remapeamento."
