@@ -98,11 +98,11 @@ msgstr "Dados JSON ordenados pela chave \""
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:41
 msgid "&Sort descending (reverse)"
-msgstr "Classificação descendente (inverso)"
+msgstr "Ordenar em ordem decrescente (&inversa)"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:42
 msgid "&Ignore case"
-msgstr "&Ignorar maiúsculas e minúsculas"
+msgstr "&Ignorar maiúsculas/minúsculas"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:43
 msgid "Delete d&uplicate lines"
@@ -114,23 +114,23 @@ msgstr "Excluir linhas em &branco"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:45
 msgid "&Numeric (treat groups of digits as numbers)"
-msgstr "&Numeric (trata grupos de dígitos como números)"
+msgstr "&Numérico (tratar grupos de dígitos como números)"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:46
 msgid "Sort only by substring, offsets are 0-based:"
-msgstr "Classifique apenas por substring, os deslocamentos são baseados em 0:"
+msgstr "Ordenar apenas por substring; deslocamentos são baseados em 0:"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:47
 msgid "Be&gin (-1: don't cut begin)"
-msgstr "Be&gin (-1: não corte, comece)"
+msgstr "Iní&cio (-1: não cortar o início)"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:49
 msgid "&End (-1: don't cut end)"
-msgstr "&Fim (-1: não corte o final)"
+msgstr "&Fim (-1: não cortar o final)"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:51
 msgid "Sort"
-msgstr "Classificação"
+msgstr "Ordenar"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:52
 msgid "Save only"
@@ -142,7 +142,7 @@ msgstr "Cancelar"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:56
 msgid "Custom sort"
-msgstr "Classificação personalizada"
+msgstr "Ordenação personalizada"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:81
 #, python-brace-format
@@ -151,32 +151,32 @@ msgstr "Deslocamentos incorretos: {}..{}"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_dlg.py:84
 msgid "Custom sort options saved"
-msgstr "Opções de classificação personalizada salvas"
+msgstr "Opções de ordenação personalizada salvas"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_emails.py:22
 msgid "No e-mails in text"
-msgstr "Sem e-mails no texto"
+msgstr "Nenhum e-mail no texto"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_emails.py:28
 msgid "Sorted text as email list"
-msgstr "Texto classificado como lista de e-mails"
+msgstr "Texto ordenado como lista de e-mails"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:23
 msgid "Sort: separator chars"
-msgstr "Classificar: caracteres separadores"
+msgstr "Ordenar: caracteres separadores"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:24
 msgid "Separator of prefix, to skip prefix (optional):"
-msgstr "Separador de prefixo, para pular o prefixo (opcional):"
+msgstr "Separador do prefixo para ignorar o prefixo (opcional):"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:25
 msgid "Separator of values after prefix:"
-msgstr "Separador de valores após o prefixo:"
+msgstr "Separador dos valores após o prefixo:"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:31
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:35
 msgid "Separators must have length=1"
-msgstr "Os separadores devem ter length=1"
+msgstr "Os separadores devem ter comprimento=1"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:39
 msgid "Separators cannot be the same"
@@ -185,8 +185,8 @@ msgstr "Os separadores não podem ser iguais"
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:58
 #, python-format
 msgid "Changed %d line(s)"
-msgstr "%d de linha(s) alteradas"
+msgstr "%d linha(s) alterada(s)"
 
 #: CudaText_addons/langmenu/cuda_sort/sort_sep.py:60
 msgid "No lines were changed"
-msgstr "As linhas não foram alteradas"
+msgstr "Nenhuma linha foi alterada"
