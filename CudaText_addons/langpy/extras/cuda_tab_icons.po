@@ -19,11 +19,11 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:42
 msgid ": incorrect theme name, must be nnnn_NNxNN:"
-msgstr ": nome do tema incorreto, deve ser nnnn_NNxNN:"
+msgstr ": nome do tema incorreto; deve ser nnnn_NNxNN:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:49
 msgid ": using theme "
-msgstr ":usando tema "
+msgstr ": usando tema "
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:57
 msgid "Set tab icon..."
@@ -31,7 +31,7 @@ msgstr "Definir ícone da guia..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:103
 msgid ": Incorrect filetype icon:"
-msgstr ": Ícone do tipo de arquivo incorreto:"
+msgstr ": ícone do tipo de arquivo incorreto:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:259
 msgid "Choose icon for: "
@@ -43,4 +43,4 @@ msgstr "(redefinir ícone)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_tab_icons/__init__.py:350
 msgid ": update CudaText to enable tab pinning"
-msgstr ":atualizar o CudaText para habilitar a fixação de guias"
+msgstr ": atualize o CudaText para habilitar a fixação de guias"

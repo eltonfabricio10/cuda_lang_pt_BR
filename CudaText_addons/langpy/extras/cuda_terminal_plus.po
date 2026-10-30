@@ -27,7 +27,7 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:571
 msgid "Add terminal for current document (will be ^free for Untitled)"
-msgstr "Adicionar terminal para o documento atual (será ^livre para Sem título)"
+msgstr "Adicionar terminal para o documento atual (ficará ^livre para documentos sem título)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:584
 msgid "Close all terminals..."
@@ -87,7 +87,7 @@ msgstr "Terminal do CudaText"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1200
 msgid "Terminal opened in floating window"
-msgstr "Terminal aberto na janela flutuante"
+msgstr "Terminal aberto em janela flutuante"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1347
 msgid "Break"
@@ -95,11 +95,11 @@ msgstr "Interromper"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1348
 msgid "Hotkeys: Break or Ctrl+C"
-msgstr "Tecla de atalho: Break ou Ctrl+C"
+msgstr "Atalhos: Break ou Ctrl+C"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1361
 msgid "Enter command here"
-msgstr "Inserir o comando aqui"
+msgstr "Digite o comando aqui"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1809
 msgid "Close all terminals?"
@@ -107,11 +107,11 @@ msgstr "Fechar todos os terminais?"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:1859
 msgid "Wrap margin position:"
-msgstr "Posição da margem de quebra de linha:"
+msgstr "Posição da margem de quebra:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2090
 msgid "Last command terminal is no longer present"
-msgstr "O último comando do terminal não está mais presente"
+msgstr "O terminal do último comando não está mais presente"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_terminal_plus/__init__.py:2092
 msgid "Execute last command?"

@@ -35,7 +35,7 @@ msgstr "Fechar"
 
 #: CudaText_addons/langmenu/cuda_tabs_list/__init__.py:176
 msgid "Close others"
-msgstr "Fechar outras"
+msgstr "Fechar outras abas"
 
 #: CudaText_addons/langmenu/cuda_tabs_list/__init__.py:178
 msgid "Copy filename only"
