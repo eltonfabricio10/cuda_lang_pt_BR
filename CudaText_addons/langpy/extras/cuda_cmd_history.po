@@ -27,4 +27,4 @@ msgstr "Histórico de comandos"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_cmd_history/cmd_history.py:201
 msgid "NOTE: Command history: command is missing - {!r}"
-msgstr "NOTA: histórico de comandos: comando ausente - {!r}"
+msgstr "AVISO: histórico de comandos: comando ausente - {!r}"

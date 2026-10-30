@@ -19,7 +19,7 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_calc_expr/__init__.py:83
 msgid "[Calc Expression] Multi-carets not supported"
-msgstr "[Calc Expression] Sem suporte para multi-cursores"
+msgstr "[Calc Expression] Vários cursores não são suportados"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_calc_expr/__init__.py:106
 msgid "[Calc Expression] "
@@ -27,7 +27,7 @@ msgstr "[Calc Expression] "
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_calc_expr/__init__.py:112
 msgid "[Calc Expression] Not a number result"
-msgstr "[Calc Expression] Não é um resultado numérico"
+msgstr "[Calc Expression] Resultado não numérico"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_calc_expr/__init__.py:140
 #, python-format
@@ -42,4 +42,4 @@ msgstr "[Calc Expression] Resultado: %s"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_calc_expr/__init__.py:158
 #, python-format
 msgid "[Calc Expression] Calculated to: %s"
-msgstr "[Expressão Calc] Calculado para: %s"
+msgstr "[Calc Expression] Calculado para: %s"

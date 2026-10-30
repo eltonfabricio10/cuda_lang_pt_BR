@@ -19,12 +19,12 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_clipboard_catcher/__init__.py:46
 msgid "Clipboard inserted"
-msgstr "Conteúdo da área de transferência inserido"
+msgstr "Área de transferência inserida"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_clipboard_catcher/__init__.py:88
 msgid "Clipboard Catcher OFF"
-msgstr "Apanhador da área de transferência DESLIGADO"
+msgstr "Coletor de área de transferência DESLIGADO"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_clipboard_catcher/__init__.py:98
 msgid "Clipboard Catcher Tab closed"
-msgstr "Guia do coletor da área de transferência fechada"
+msgstr "Guia do coletor de área de transferência fechada"
