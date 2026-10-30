@@ -24,7 +24,7 @@ msgid ""
 "Continue?"
 msgstr ""
 "Texto modificado!\n"
-"O comando usará o estado antigo.\n\n"
+"O comando usará o estado anterior.\n\n"
 "Continuar?"
 
 #:
@@ -33,30 +33,29 @@ msgid ""
 "Backup File needs to create dir\n"
 "{}"
 msgstr ""
-"O "
-"arquivo de backup precisa criar o diretório\n"
+"O arquivo de backup precisa criar a pasta\n"
 "{}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:258
 msgid "Cannot create dir \"{}\""
-msgstr "Não é possível criar o diretório \"{}\""
+msgstr "Não foi possível criar a pasta \"{}\""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:309
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:348
 msgid "Backup dir: {}"
-msgstr "Diretório de backup: {}"
+msgstr "Diretório do backup: {}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:311
 msgid "Copy to…\t{}"
-msgstr "Copiar para… {}"
+msgstr "Copiar para…\t{}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:313
 msgid "Diff with\t{}"
-msgstr "Comparar com {}"
+msgstr "Comparar com\t{}"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:315
@@ -76,8 +75,7 @@ msgid ""
 "{}\n"
 "?"
 msgstr ""
-"Substituir "
-"arquivo\n"
+"Sobrescrever arquivo\n"
 "{}\n"
 "?"
 
@@ -137,7 +135,7 @@ msgstr "Adicionar variante"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:461
 msgid "Clone variant"
-msgstr "Variante clone"
+msgstr "Clonar variante"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:461
@@ -148,38 +146,38 @@ msgstr "Remover variante"
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:512
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:514
 msgid "Options for manual backup"
-msgstr "Opções para backup manual"
+msgstr "Opções de backup manual"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:515
 msgid "and to c&ompare"
-msgstr "e para c&comparar"
+msgstr "e para c&omparar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:517
 msgid "Copy to &dir:"
-msgstr "Copiar para &dir:"
+msgstr "Copiar para &diretório:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:519
 msgid "Add &var"
-msgstr "Adicionar &var"
+msgstr "Adicionar &variante"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:520
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:541
 msgid "…"
-msgstr ""
+msgstr "…"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:521
 msgid "Planned &name:"
-msgstr "Planejado enome:"
+msgstr "Nome &planejado:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:523
 msgid "Add v&ar"
-msgstr "Adicionar v&ar"
+msgstr "Adicionar v&ariante"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:524
@@ -190,7 +188,7 @@ msgstr "&Predefinições"
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:526
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:547
 msgid "Demo: "
-msgstr "Demonstração: "
+msgstr "Exemplo: "
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:528
@@ -201,22 +199,22 @@ msgstr "&Atualizar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:529
 msgid "Di&ff command:"
-msgstr "Comando Di&ff:"
+msgstr "Comando de di&ferença:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:531
 msgid "Shell"
-msgstr "Concha"
+msgstr "Shell"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:532
 msgid "Ma&x shown:"
-msgstr "Má&x mostrado:"
+msgstr "Máximo &exibido:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:538
 msgid "Copy to d&ir:"
-msgstr "Copiar para d&ir:"
+msgstr "Copiar para d&iretório:"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_backup_file/cd_bk.py:540

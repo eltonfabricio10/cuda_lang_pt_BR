@@ -18,12 +18,12 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:107
 msgid "No menu config file"
-msgstr "Nenhum arquivo de configuração de menu"
+msgstr "Nenhum arquivo de configuração do menu"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:113
 msgid "No menu config file \"{}\""
-msgstr "Nenhum arquivo de configuração de menu \"{}\""
+msgstr "Nenhum arquivo de configuração do menu \"{}\""
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:130
@@ -34,7 +34,7 @@ msgstr "Carregando menus: {}"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:146
 msgid "Skip config for id=\"{}\" - no such main submenu"
-msgstr "Ignorar configuração para id=\"{}\" - esse submenu principal não existe"
+msgstr "Ignorar configuração para id=\"{}\" — submenu principal inexistente"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:387
@@ -49,17 +49,17 @@ msgstr "&Criar arquivo de configuração com menu nativo..."
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:462
 msgid "Save current menus (main and text) to file.\rOnly for native CudaText menus."
-msgstr "Salva os menus atuais (principal e texto) em arquivo.\rSomente para menus nativos do CudaText."
+msgstr "Salva os menus atuais (principal e de texto) em um arquivo.\rSomente para menus nativos do CudaText."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:464
 msgid "\rReload CudaText with \r   [ ] Apply on start"
-msgstr "\rRecarregar CudaText com \r   [] Aplicar no início"
+msgstr "\rRecarregar o CudaText com\r   [ ] Aplicar ao iniciar"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:468
 msgid "Confi&g file (default folder is \"settings\")"
-msgstr "Arquivo Confi&g (a pasta padrão é \"configurações\")"
+msgstr "Arquivo de con&figuração (a pasta padrão é \"settings\")"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:469
@@ -69,7 +69,7 @@ msgstr "&Editar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:471
 msgid "Browse&..."
-msgstr "Pro&curar..."
+msgstr "Procurar&..."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:472
@@ -79,7 +79,7 @@ msgstr "Aplicar ao &iniciar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:473
 msgid "Apply menu once on CudaText start"
-msgstr "Aplicar menu uma vez no início do CudaText"
+msgstr "Aplicar o menu uma vez ao iniciar o CudaText"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:474
@@ -89,7 +89,7 @@ msgstr "Aplicar ao receber &foco"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:475
 msgid "Apply menu (common or lexer specific) when file tab gets focus"
-msgstr "Aplicar menu (comum ou específico da linguagem) quando a guia do arquivo fica em foco"
+msgstr "Aplica o menu (comum ou específico do lexer) quando a aba do arquivo recebe foco"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:476
@@ -99,7 +99,7 @@ msgstr "&Aplicar agora"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:477
 msgid "Apply menu file now.\rShift+Click - perform syntax checking of JSON file."
-msgstr "Aplique o arquivo de menu agora.\rShift+Click – executa a verificação de sintaxe do arquivo JSON."
+msgstr "Aplica o arquivo de menu agora.\rShift+Clique — executa a verificação de sintaxe do arquivo JSON."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:479
@@ -119,7 +119,7 @@ msgstr "Fechar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:483
 msgid "Config Menu"
-msgstr "Configurar menu"
+msgstr "Menu de configuração"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:496
@@ -130,7 +130,7 @@ msgstr "Escolher arquivo existente"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:549
 msgid "Correct JSON"
-msgstr "JSON correto"
+msgstr "JSON válido"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:556
@@ -176,47 +176,46 @@ msgid ""
 "2. Item {\"cap\":\"\", \"hint\":\"top\", \"sub\": []} hides main menu. \n"
 "  It's correct state. \n"
 msgstr ""
-"O "
-"arquivo de configuração tem formato "
-"JSON.\nO contêiner principal é uma lista de itens que criam elementos "
-"de menu.\n Exemplos de itens corretos no contêiner "
-"principal:\n {\"cap\":\"\", \"hint\":\"text\", \"sub\": [???]} - menu de contexto\n "
-"{\"cap\":\"\", \"hint\":\"top\", \"sub\": [???]} - menu principal\n {\"cap\":\"&File\", "
-"\"hint\":\"top-file\", \"sub\": [???]} - menu principal, submenu Arquivo\n {\"cap\":\"&Edit\", "
-"\"hint\":\"top-ed\", \"sub\": [???]} - menu principal, submenu Editar\n O valor \"cap\" pode ser "
-"qualquer (em qualquer idioma).\n Char \"&\" é caractere "
-"do acelerador de tecla de atalho.\n O valor de \"dica\" "
-"pode ser qualquer um, mas existem valores predefinidos\n \"texto\" "
-"é uma dica especial para o menu de contexto\n "
-"\"top\" é uma dica especial para o menu principal\n"
-" \"recentes\", \n "
-"\"temas\", \n "
-"\"langs\", \n "
-"\"plugins\" são dicas especiais para submenus preenchidos "
-"automaticamenteO valor \n\"sub\" deve ser uma lista de separador, comandos ou "
-"itens de submenu. \nItem separador: "
-"{\"cap\":\"-\"}\nItem de comando: {\"cap\":\"<any>\", \"cmd\":\"???\"}\n"
-" O valor \"cmd\" pode ser: "
-"Identificadores \n cCommand_* ou cmd_* do módulo cudatext_cmd.py\n "
-"<plugin>,<método>[,<param>] para comandos de plug-in\nItem "
-"de submenu: {\"cap\":\"<any>\", \"hint\":\"<special/any>\", \"sub\":[???]}\n"
-"----------------------------------------\nManeira "
-"conveniente de personalizar o menu\n1. "
-"Chame \"Criar arquivo de configuração...\" para obter uma cópia JSON do menu CudaText padrão.\n"
-"2. Mover/Copiar/Traduzir/Excluir/Inserir itens.\n3. "
-"Salve em um novo arquivo e especifique-o como \"Arquivo de "
-"configuração\".\n4. Ative a opção \"Aplicar ao "
-"iniciar\".\n"
+"O arquivo de configuração usa o formato JSON.\n"
+"O contêiner principal é uma lista de itens que gera os elementos do menu.\n"
+"  Exemplos de itens válidos no contêiner principal:\n"
+"  {\"cap\":\"\", \"hint\":\"text\", \"sub\": [???]}          - menu de contexto\n"
+"  {\"cap\":\"\", \"hint\":\"top\", \"sub\": [???]}           - menu principal\n"
+"  {\"cap\":\"&File\", \"hint\":\"top-file\", \"sub\": [???]} - menu principal, submenu Arquivo\n"
+"  {\"cap\":\"&Edit\", \"hint\":\"top-ed\", \"sub\": [???]}   - menu principal, submenu Editar\n"
+"O valor de \"cap\" pode ser qualquer um (em qualquer idioma).\n"
+"  O caractere \"&\" é o acelerador de atalho do menu.\n"
+"O valor de \"hint\" também pode ser qualquer um, mas existem valores predefinidos.\n"
+"  \"text\" é uma dica especial para o menu de contexto\n"
+"  \"top\" é uma dica especial para o menu principal\n"
+"  \"recents\", \n"
+"  \"themes\", \n"
+"  \"langs\", \n"
+"  \"plugins\" são dicas especiais para submenus preenchidos automaticamente\n"
+"O valor de \"sub\" deve ser uma lista de itens de separador, comandos ou submenus.\n"
+"Item separador: {\"cap\":\"-\"}\n"
+"Item de comando: {\"cap\":\"<any>\", \"cmd\":\"???\"}\n"
+"O valor de \"cmd\" pode ser:\n"
+"  identificadores cCommand_* ou cmd_* do módulo cudatext_cmd.py\n"
+"  <plugin>,<método>[,<param>] para comandos de plug-in\n"
+"Item de submenu: {\"cap\":\"<any>\", \"hint\":\"<special/any>\", \"sub\":[???]}\n"
+"----------------------------------------\n"
+"Forma conveniente de personalizar o menu\n"
+"1. Chame \"Criar arquivo de configuração...\" para obter uma cópia JSON do menu padrão do CudaText.\n"
+"2. Mova/copie/traduza/exclua/insira itens.\n"
+"3. Salve em um novo arquivo e especifique-o como \"Arquivo de configuração\".\n"
+"4. Ative a opção \"Aplicar ao iniciar\".\n"
 "----\n"
-"Tips\n1. Qualquer comando/submenu (exceto \"texto\" e \"top\") pode ser usado muitas vezes.\n "
-"Por exemplo, o submenu Arquivo pode ser copiado para o menu de contexto.\n"
-"2. O item {\"cap\":\"\", \"hint\":\"top\", \"sub\": []} oculta o menu principal. "
-"\n Está no estado correto. \n"
+"Dicas\n"
+"1. Qualquer comando/submenu (exceto \"text\" e \"top\") pode ser usado várias vezes.\n"
+"  Por exemplo, o submenu Arquivo pode ser copiado para o menu de contexto.\n"
+"2. O item {\"cap\":\"\", \"hint\":\"top\", \"sub\": []} oculta o menu principal.\n"
+"  Esse é um estado válido.\n"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:601
 msgid "Help - Config Menu"
-msgstr "Ajuda - Configurar menu"
+msgstr "Ajuda — Menu de configuração"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_menu/cd_config_menu.py:603

@@ -20,7 +20,7 @@ msgstr ""
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:45
 msgid "(Line commands) Try to keep text position after (un)commenting"
 msgstr ""
-"(Comandos de linha) Tentar manter a posição do texto após (des)comentar"
+"(Comandos de linha) Tentar manter a posição do texto após comentar/descomentar"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:46
 msgid ""
@@ -35,8 +35,7 @@ msgid ""
 "(Line \"at non-space\") If selected few lines, insert comment at maximal "
 "common indent"
 msgstr ""
-"(Linha \"em não-espaço\") Se selecionar linhas, inserir o comentário na "
-"indentação comum"
+"(Linha \"em caractere não-espaço\") Se houver poucas linhas selecionadas, insere o comentário na indentação comum mais profunda"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:55
 msgid ""
@@ -44,27 +43,26 @@ msgid ""
 "\r··foo1\r····foo2\r······foo3\rCommented lines:"
 "\r··#foo1\r··#··foo2\r··#····foo3"
 msgstr ""
-"Usar a maior coluna comum do primeiro caractere não em branco:\r"
+"Usa a maior coluna comum do primeiro caractere não em branco:\r"
 "Linhas não comentadas:\r··foo1\r····foo2\r······foo3\rLinhas comentadas:\r"
 "··#foo1\r··#··foo2\r··#····foo3"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:65
 msgid "(All) Move caret to next line"
-msgstr "(Tudo) Mover cursor para próxima linha"
+msgstr "(Tudo) Mover o cursor para a próxima linha"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:66
 msgid "(Line commands) Skip blank lines"
-msgstr "(Comandos de linha) Pular linhas em branco"
+msgstr "(Comandos de linha) Ignorar linhas em branco"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:67
 msgid "\"Toggle line comment\" detects action by first non-blank line"
 msgstr ""
-"\"Alternar comentário de linha\" detecta a ação pela primeira linha não em "
-"branco"
+"\"Alternar comentário de linha\" detecta a ação pela primeira linha não em branco"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:70
 msgid "Configure commenting commands"
-msgstr "Configurar os comandos de comentários"
+msgstr "Configurar comandos de comentário"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:77
 msgid "OK"
@@ -77,29 +75,29 @@ msgstr "Cancelar"
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:162
 #, python-format
 msgid "Toggled commenting for %d line(s)"
-msgstr "Comentários alternados para linha(s) %d"
+msgstr "Comentário alternado em %d linha(s)"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:169
 msgid "No commenting action was done"
-msgstr "Nenhuma ação de comentário foi realizada"
+msgstr "Nenhuma ação de comentário foi executada"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:182
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:392
 msgid "Commenting requires an active lexer"
-msgstr "Comentar requer uma linguagem ativa"
+msgstr "O comentário exige um lexer ativo"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:199
 #, python-brace-format
 msgid "Lexer \"{}\" doesn't support \"line comments\""
-msgstr "A linguagem \"{}\" não tem suporte para \"comentário de linha\""
+msgstr "O lexer \"{}\" não oferece suporte a \"comentários de linha\""
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:209
 msgid "Cannot handle multi-carets"
-msgstr "Não é possível lidar com vários caracteres"
+msgstr "Não é possível lidar com vários cursores"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:250
 msgid "Cannot handle blank lines / multi-carets"
-msgstr "Não é possível lidar com linhas em branco/multi-carets"
+msgstr "Não é possível lidar com linhas em branco e vários cursores"
 
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:389
 msgid "Commenting works only with normal selection"
@@ -108,4 +106,4 @@ msgstr "Os comentários funcionam apenas com a seleção normal"
 #: CudaText_addons/langmenu/cuda_comments/cd_comments.py:395
 #, python-brace-format
 msgid "No stream comment for lexer \"{}\""
-msgstr "Sem comentário de bloco para a linguagem \"{}\""
+msgstr "Não há comentário de bloco para o lexer \"{}\""

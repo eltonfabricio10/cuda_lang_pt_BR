@@ -18,7 +18,7 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:46
 msgid "Need update CudaText"
-msgstr "Precisa de atualização CudaText"
+msgstr "É necessário atualizar o CudaText"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:101
@@ -28,11 +28,10 @@ msgid ""
 " · Use \"_\" for word boundary.\n"
 "   \"_up\" selects \"upper\" but not \"group\"."
 msgstr ""
-"Nomes "
-"de comandos adequados conterão todas as palavras especificadas.\n"
+"Os nomes de comando adequados conterão todas as palavras especificadas.\n"
 "Dicas:\n"
-" · Use \"_\" para limite de palavra.\n"
-"   \"_up\" seleciona \"superior\", mas não \"grupo\"."
+" · Use \"_\" como limite de palavra.\n"
+"   \"_up\" seleciona \"upper\", mas não \"group\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:105
@@ -42,10 +41,10 @@ msgid ""
 " · Use \"_\" for key-name boundary.\n"
 "   \"_f\" selects \"F1\" and \"Ctrl+F\" but not \"Left\"."
 msgstr ""
-"As teclas de atalho de comando adequadas conterão todas as palavras especificadas.\n"
+"Os atalhos de comando adequados conterão todas as palavras especificadas.\n"
 "Dicas:\n"
-" · Use \"_\" para limite de nome-chave.\n"
-"   \"_f\" seleciona \"F1\" e \"Ctrl+F\", mas não \"Esquerda\"."
+" · Use \"_\" como limite de nome da tecla.\n"
+"   \"_f\" seleciona \"F1\" e \"Ctrl+F\", mas não \"Left\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:109
@@ -56,9 +55,9 @@ msgid ""
 "Tips:\n"
 " · Use ? for any character and * for any fragment."
 msgstr ""
-"Os recortes de comando adequados corresponderão à string especificada.\n"
+"Os trechos de comando adequados correspondem à string especificada.\n"
 "Uso:\n"
-" · Digite \"/\" e a string do recorte e pressione a tecla Tab.\n"
+" · Digite \"/\" e a string do trecho e pressione Tab.\n"
 "Dicas:\n"
 " · Use ? para qualquer caractere e * para qualquer fragmento."
 
@@ -68,8 +67,8 @@ msgid ""
 "Set hotkey for command (if no one).\n"
 "Extend to series hotkeys (if command already has hotkeys)."
 msgstr ""
-"Defina a tecla de atalho do comando (se não houver).\n"
-"Estenda para uma sequência de teclas de atalho (se o comando já tiver atalhos)."
+"Define o atalho do comando (se não houver).\n"
+"Expande para uma série de atalhos (se o comando já tiver atalhos)."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:116
@@ -92,12 +91,12 @@ msgstr ""
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:120
 msgid "Copy command name to clipboard"
-msgstr "Copie o nome do comando para a área de transferência"
+msgstr "Copiar o nome do comando para a área de transferência"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:121
 msgid "Open source of plugin code"
-msgstr "Código aberto do código do plugin"
+msgstr "Abrir o código-fonte do plugin"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:122
@@ -108,32 +107,31 @@ msgid ""
 " · in reverse alphabetical order,\n"
 " · in natural order (as at start)"
 msgstr ""
-"Classifique "
-"os dados clicando no cabeçalho da tabela\n"
-"Loop de classificação de 3 "
-"estágios:\n · em ordem alfabética,\n"
-" · em ordem alfabética inversa,\n · "
-"em ordem natural (como no início)"
+"Ordena os dados ao clicar no cabeçalho da tabela\n"
+"Ciclo de ordenação em 3 etapas:\n"
+" · em ordem alfabética,\n"
+" · em ordem alfabética reversa,\n"
+" · em ordem natural (como no início)"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:152
 msgid "Configure Hotkeys ({})"
-msgstr "Configurar teclas de atalho ({})"
+msgstr "Configurar atalhos ({})"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
 msgid "Hotkey-1"
-msgstr "Tecla de atalho-1"
+msgstr "Atalho-1"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
 msgid "Hotkey-2"
-msgstr "Tecla de atalho-2"
+msgstr "Atalho-2"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
 msgid "Snips"
-msgstr "Recortes"
+msgstr "Trechos"
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:225
