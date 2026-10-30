@@ -39,7 +39,7 @@ msgstr "Não foi possível baixar a lista"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:147
 msgid "Folder to save files:"
-msgstr "Pasta para os salvar arquivos:"
+msgstr "Pasta para salvar arquivos:"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:153
 msgid "Cannot create dir: "
@@ -65,7 +65,7 @@ msgstr "Download concluído"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:198
 msgid "Download stopped "
-msgstr "Download interrompido "
+msgstr "Download interrompido"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:200
 msgid ""
@@ -73,7 +73,7 @@ msgid ""
 "Errors occurred, see Python console"
 msgstr ""
 "\n"
-"Erros ocorreram, veja no console Python"
+"Ocorreram erros. Consulte o console Python"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:231
 msgid "Install"
@@ -108,11 +108,11 @@ msgstr "Instalação cancelada"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:358
 msgid ": view readme"
-msgstr ": exibir leia-me"
+msgstr ": ver leia-me"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:361
 msgid ": view history"
-msgstr ": exibir histórico"
+msgstr ": ver histórico"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:364
 msgid "Readme"
@@ -129,7 +129,7 @@ msgstr "Remover {}: {}"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:423
 msgid "Removed, restart program to see changes"
-msgstr "Removido, reiniciar o programa para concluir as alterações"
+msgstr "Removido. Reinicie o programa para ver as alterações"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:427
 msgid "Edit"
@@ -141,7 +141,7 @@ msgstr "Aberto: "
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:434
 msgid "Visit homepage"
-msgstr "Visitar a página"
+msgstr "Visitar a página inicial"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:439
 msgid "Opened browser: "
@@ -150,7 +150,7 @@ msgstr "Navegador aberto: "
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:441
 #, python-format
 msgid "Plugin \"%s\" doesn't have \"homepage\" field in install.inf"
-msgstr "O plugin \"%s\" não tem o campo \"homepage\" no install.inf"
+msgstr "O plugin \"%s\" não possui o campo \"homepage\" em install.inf"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:445
 msgid "Open readme"
@@ -159,7 +159,7 @@ msgstr "Abrir o leia-me"
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:451
 #, python-format
 msgid "Plugin \"%s\" doesn't have readme"
-msgstr "O plugin \"%s\" não tem leia-me"
+msgstr "O plugin \"%s\" não possui leia-me"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:454
 msgid "Open history"
@@ -168,7 +168,7 @@ msgstr "Abrir o histórico"
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:460
 #, python-format
 msgid "Plugin \"%s\" doesn't have history"
-msgstr "O plugin \"%s\" não tem histórico"
+msgstr "O plugin \"%s\" não possui histórico"
 
 #: CudaText_addons/langmenu/cuda_addonman/__init__.py:564
 msgid "Name=260"

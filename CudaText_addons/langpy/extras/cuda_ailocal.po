@@ -69,17 +69,17 @@ msgstr "Item %d inserido..."
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ailocal/__init__.py:521
 #, python-format
 msgid "AI Local: bad icons folder name: \"%s\""
-msgstr "AI Local: nome inválido da pasta de ícones: \"%s\""
+msgstr "AI Local: nome de pasta de ícones inválido: \"%s\""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ailocal/__init__.py:524
 #, python-format
 msgid "AI Local: bad icons size: \"%s\""
-msgstr "AI Local: tamanho inválido dos ícones: \"%s\""
+msgstr "AI Local: tamanho de ícones inválido: \"%s\""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ailocal/__init__.py:545
 msgid "Open Project action"
-msgstr "Ação Abrir projeto"
+msgstr "Ação de abrir projeto"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ailocal/__init__.py:550
 msgid "Save Project As action"
-msgstr "Ação Salvar projeto como"
+msgstr "Ação de salvar projeto como"

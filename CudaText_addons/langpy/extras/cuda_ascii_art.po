@@ -20,7 +20,7 @@ msgstr ""
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ascii_art/__init__.py:37
 #, python-format
 msgid "Preview fonts: %d / %d"
-msgstr "Visualizando fontes: %d / %d"
+msgstr "Visualização de fontes: %d / %d"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_ascii_art/__init__.py:45
 msgid "Text:"

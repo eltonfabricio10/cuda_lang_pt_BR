@@ -19,8 +19,8 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_auto_center_line/__init__.py:33
 msgid "Auto Center Line: activated"
-msgstr "Centralização automática de linha: ativada"
+msgstr "Centralização automática da linha: ativada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_auto_center_line/__init__.py:36
 msgid "Auto Center Line: deactivated"
-msgstr "Centralização automática de linha: desativada"
+msgstr "Centralização automática da linha: desativada"
