@@ -33,18 +33,14 @@ msgid ""
 "Sentences with n words:\n"
 "{}\n"
 msgstr ""
-"Estatísticas "
-"para {}\n\nLinhas: {}\n"
-"Palavras: "
-"{}\nLetras: "
-"{}\nTodos "
-"os caracteres: "
-"{}\n\nPalavras "
-"mais "
-"comuns ({}):\n{}\n\n"
-"Sentenças "
-"com "
-"n palavras: \n"
+"Estatísticas para {}\n\n"
+"Linhas: {}\n"
+"Palavras: {}\n"
+"Letras: {}\n"
+"Todos os caracteres: {}\n\n"
+"Palavras mais comuns ({}):\n"
+"{}\n\n"
+"Frases com n palavras:\n"
 "{}\n"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:60
@@ -64,11 +60,11 @@ msgstr "OK"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:92
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:117
 msgid "To a new tab"
-msgstr "Para uma nova guia"
+msgstr "Para uma nova aba"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:99
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:102
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:143
 #: /tmp/cudatext-po-5vs9ne0w/cuda_text_stat/__init__.py:146
 msgid "Need single selection"
-msgstr "Precisa de seleção única"
+msgstr "É necessária uma seleção única"

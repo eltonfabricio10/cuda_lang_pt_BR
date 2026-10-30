@@ -19,8 +19,8 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_textile_preview/__init__.py:24
 msgid "Opening HTML preview..."
-msgstr "Abrindo visualização HTML..."
+msgstr "Abrindo a pré-visualização HTML..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_textile_preview/__init__.py:27
 msgid "Cannot convert Textile to HTML"
-msgstr "Não é possível converter Textile para HTML"
+msgstr "Não foi possível converter Textile em HTML"
