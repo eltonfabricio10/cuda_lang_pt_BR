@@ -42,7 +42,7 @@ msgstr "Adicionado aos favoritos: "
 
 #: py/cuda_favorites/cd_favs.py:205
 msgid "Open file/project and close dialog.\rShift+Click to open without dialog closing"
-msgstr "Abre o arquivo/projeto e fecha a caixa de diálogo.\rShift+Clique para abrir sem fechar a caixa de diálogo"
+msgstr "Abre o arquivo ou projeto e fecha a caixa de diálogo.\rShift+Clique para abrir sem fechar a caixa de diálogo"
 
 #: py/cuda_favorites/cd_favs.py:207
 msgid "Choose file to append.\rShift+Click to choose folder"
@@ -82,7 +82,7 @@ msgstr "Mover para &cima"
 
 #: py/cuda_favorites/cd_favs.py:228
 msgid "Move do&wn"
-msgstr "Mover para bai&xo"
+msgstr "Mover para &baixo"
 
 #: py/cuda_favorites/cd_favs.py:229
 msgid "Show &paths"
@@ -98,7 +98,7 @@ msgstr "Fechar"
 
 #: py/cuda_favorites/cd_favs.py:256
 msgid "• Quick opening.\rUse Alt+1, Alt+2, ..., Alt+9\ror Ctrl+1, Ctrl+2, ..., Ctrl+9\rto quickly open item by its index (1, 2, ... 9).\r \r• Import favorites from SynWrite. \rTo import favorites list from SynWrite, browse for file \"SynFav.ini\".\rThis file is located in the \"Settings\" subfolder of SynWrite."
-msgstr "• Abertura rápida.\rUse Alt+1, Alt+2, ..., Alt+9\rou Ctrl+1, Ctrl+2, ..., Ctrl+9\rpara abrir rapidamente um item pelo seu índice (1, 2, ... 9).\r \r• Importar favoritos do SynWrite.\rPara importar a lista de favoritos do SynWrite, navegue até o arquivo \"SynFav.ini\".\rEsse arquivo está na subpasta \"Settings\" do SynWrite."
+msgstr "• Abertura rápida.\rUse Alt+1, Alt+2, ..., Alt+9\nou Ctrl+1, Ctrl+2, ..., Ctrl+9\rpara abrir rapidamente um item pelo seu índice (1, 2, ... 9).\r \r• Importar favoritos do SynWrite.\rPara importar a lista de favoritos do SynWrite, navegue até o arquivo \"SynFav.ini\".\rEsse arquivo fica na subpasta \"Settings\" do SynWrite."
 
 #: py/cuda_favorites/cd_kv_base.py:532
 msgid "Fail. Use only for python file."
