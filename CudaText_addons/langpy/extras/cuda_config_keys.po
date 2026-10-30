@@ -68,9 +68,8 @@ msgid ""
 "Set hotkey for command (if no one).\n"
 "Extend to series hotkeys (if command already has hotkeys)."
 msgstr ""
-"Defina "
-"a tecla de atalho para o comando (se não houver).\n"
-"Estender para teclas de atalho em série (se o comando já tiver teclas de atalho)."
+"Defina a tecla de atalho do comando (se não houver).\n"
+"Estenda para uma sequência de teclas de atalho (se o comando já tiver atalhos)."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:116
@@ -78,9 +77,8 @@ msgid ""
 "Shows HTML page with report of all hotkeys in editor.\n"
 "The report is usefull to analyze hotkeys in a whole."
 msgstr ""
-"Mostra "
-"a página HTML com relatório de todas as teclas de atalho no editor.\n"
-"O relatório é útil para analisar as teclas de atalho como um todo."
+"Mostra a página HTML com o relatório de todos os atalhos do editor.\n"
+"O relatório é útil para analisar os atalhos no conjunto."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:118
@@ -88,9 +86,8 @@ msgid ""
 "Show compact report of hotkeys in new tab.\n"
 "The report is usefull to find free hotkeys."
 msgstr ""
-"Mostrar "
-"relatório compacto de teclas de atalho em uma nova aba.\nO "
-"relatório é útil para encontrar teclas de atalho gratuitas."
+"Mostra um relatório compacto de atalhos em uma nova aba.\n"
+"O relatório é útil para encontrar atalhos livres."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_config_keys/cd_config_keys.py:120
