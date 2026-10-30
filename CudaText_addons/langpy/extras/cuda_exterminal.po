@@ -24,7 +24,7 @@ msgstr "O ExTerminal não é compatível com versões do Windows anteriores à 1
 #: /tmp/cudatext-po-5vs9ne0w/cuda_exterminal/__init__.py:125
 #, python-brace-format
 msgid "More than {} terminals is not supported yet."
-msgstr "Mais de {} terminais ainda não são compatíveis."
+msgstr "Ainda não é suportado mais de {} terminais."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_exterminal/__init__.py:239
 msgid "New terminal"

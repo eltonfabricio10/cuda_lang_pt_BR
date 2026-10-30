@@ -19,7 +19,7 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/__init__.py:22
 msgid "No strings found"
-msgstr "Strings não encontradas"
+msgstr "Nenhuma string encontrada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:35
 msgid "Extract Strings"
@@ -31,11 +31,11 @@ msgstr "Expressão &regular:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:39
 msgid "Case &sensitive"
-msgstr "Maiú&scula/Minúscula"
+msgstr "Diferenciar maiú&sculas/minúsculas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:40
 msgid "Reg.ex. for e-mail"
-msgstr "Exp. Reg. para e-mail"
+msgstr "Regex para e-mail"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:42
 msgid "F&ound strings:"
@@ -44,7 +44,7 @@ msgstr "Strings enc&ontradas:"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:44
 #, python-format
 msgid "Found: %d"
-msgstr "Encontrado: %d"
+msgstr "Encontradas: %d"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:46
 msgid "&Find"
@@ -57,27 +57,27 @@ msgstr "Cancelar"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:48
 msgid "Copy to &clipboard"
-msgstr "&Copiar para área de transferên&cia"
+msgstr "Copiar para a á&rea de transferência"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:49
 msgid "Copy to &new tab"
-msgstr "Copiar para &nova guia"
+msgstr "Copiar para &nova aba"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:88
 msgid "Copied to clipboard"
-msgstr "Copiado para área de transferên&cia"
+msgstr "Copiado para a área de transferência"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:96
 msgid "Copied to tab"
-msgstr "Copiado para guia"
+msgstr "Copiado para aba"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/extract.py:101
 msgid "Unknown code of dlg"
-msgstr "Código desconhecido do dlg"
+msgstr "Código desconhecido da caixa de diálogo"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:30
 msgid "Filter Lines"
-msgstr "Linhas de filtro"
+msgstr "Filtrar linhas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:32
 msgid "&Text:"
@@ -89,23 +89,23 @@ msgstr "Exp. &Reg."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:35
 msgid "&Ignore case"
-msgstr "&Ignorar Maiúscula/Minúscula"
+msgstr "Ignorar maiú&sculas/minúsculas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:36
 msgid "&Sort output"
-msgstr "Re&sultado classificado"
+msgstr "Ordenar &saída"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:37
 msgid "Include line &numbers"
-msgstr "Incluir &número de linha"
+msgstr "Incluir &números de linha"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:38
 msgid "Keep &lexer"
-msgstr "Manter &linguagem"
+msgstr "Manter &lexer"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:39
 msgid "S&ave options"
-msgstr "Opções de S&alvar"
+msgstr "S&alvar opções"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:40
 msgid "Number of lines &before match:"
@@ -126,4 +126,4 @@ msgstr "Não foi possível encontrar as linhas: "
 #: /tmp/cudatext-po-5vs9ne0w/cuda_extract_strings/filtering.py:204
 #, python-format
 msgid "Found %d matching lines"
-msgstr "%d de linhas encontradas"
+msgstr "%d linhas encontradas"
