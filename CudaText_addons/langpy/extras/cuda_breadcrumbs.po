@@ -23,14 +23,12 @@ msgid ""
 "NOTE: Breadcrumbs - Unable to parse option value: \"root_dir_source\" should "
 "be a comma-separated string of integers 0-2"
 msgstr ""
-"NOTA: "
-"Breadcrumbs - Não é possível analisar o valor da opção: \"root_dir_source\" deve ser uma "
-"string separada por vírgula de números inteiros 0-2"
+"AVISO: Breadcrumbs — não foi possível analisar o valor da opção \"root_dir_source\": ele deve ser uma string de inteiros de 0 a 2 separada por vírgulas"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:560
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:567
 msgid "Breadcrumbs doesn't work for untitled tabs"
-msgstr "Breadcrumbs não funciona para guias sem título"
+msgstr "Breadcrumbs não funciona em abas sem título"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/breadcrumbs.py:753
 msgid "<empty>"
@@ -42,11 +40,11 @@ msgstr "Árvore do BreadCrumbs"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:139
 msgid "Find next - F3"
-msgstr "Encontrar o próximo - F3"
+msgstr "Localizar próximo — F3"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:153
 msgid "Find previous - Shift+F3"
-msgstr "Encontrar o anterior - Shift+F3"
+msgstr "Localizar anterior — Shift+F3"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_breadcrumbs/dlg.py:164
 msgid "Search"

@@ -19,8 +19,8 @@ msgstr ""
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_auto_replace/__init__.py:160
 msgid "Allowed lexers (comma-separated list, or \"*\" for all):"
-msgstr "Linguagens permitidos (lista separada por vírgulas ou \"*\" para todos):"
+msgstr "Lexers permitidos (lista separada por vírgulas ou \"*\" para todos):"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_auto_replace/__init__.py:164
 msgid "Auto Replace: List of lexers not changed"
-msgstr "Substituição automática: lista de linguagens não alterada"
+msgstr "Substituição automática: lista de lexers não alterada"

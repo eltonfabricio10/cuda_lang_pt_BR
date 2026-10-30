@@ -32,7 +32,7 @@ msgstr "Servidor de linguagem do Codeium baixado!"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:171
 msgid "Gathering Codeium server info.."
-msgstr "Obtendo informações do servidor Codeium..."
+msgstr "Coletando informações do servidor do Codeium..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:182
 #, python-brace-format
@@ -66,8 +66,7 @@ msgid ""
 "To update your server binary, delete old one and change version in config."
 msgstr ""
 "\n"
-"Para "
-"atualizar o binário do servidor, exclua o antigo e altere a versão na configuração."
+"Para atualizar o binário do servidor, exclua o antigo e altere a versão na configuração."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:201
 #, python-brace-format
@@ -90,18 +89,18 @@ msgid ""
 "ERROR: {}: Can't register user. Maybe token has expired. Try getting new "
 "token."
 msgstr ""
-"ERRO: {}: não foi possível registrar o usuário. Talvez o token tenha "
-"expirado. Tente obter um novo token."
+"ERRO: {}: não foi possível registrar o usuário. Talvez o token tenha expirado. "
+"Tente obter um novo token."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:285
 #, python-brace-format
 msgid "{}: Logged in"
-msgstr "{}: sessão iniciada"
+msgstr "{}: conectado"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:331
 #, python-brace-format
 msgid "{}: Got {} {}"
-msgstr "{}: obtido {} {}"
+msgstr "{}: recebeu {} {}"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:603
 #, python-brace-format
@@ -120,7 +119,7 @@ msgstr "{}: resposta recebida"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:735
 msgid "ERROR: Can't get completions: server is not started."
-msgstr "ERRO: não foi possível obter conclusões: o servidor não foi iniciado."
+msgstr "ERRO: não foi possível obter sugestões: o servidor não foi iniciado."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_codeium/__init__.py:805
 #, python-brace-format
