@@ -48,7 +48,7 @@ msgstr ""
 "\"Snip\" é uma forma alternativa de chamar comandos.\n"
 "\n"
 "• Caso simples:\n"
-"    \"pu\" é um snip para o comando PageUp.\n"
+"    \"pu\" é um atalho para o comando PageUp.\n"
 "    Digite qualquer texto\n"
 "        /pu\n"
 "    e pressione a tecla Tab.\n"
@@ -59,10 +59,10 @@ msgstr ""
 "        /3pu\n"
 "    e o comando será chamado 3 vezes.\n"
 "\n"
-"Snip contém apenas letras, dígitos, \"_\" e começa com uma letra.\n"
+"Os atalhos contêm apenas letras, dígitos, \"_\" e começam com uma letra.\n"
 "\n"
-"Qualquer comando pode ter vários snips atribuídos a ele.\n"
-"É uma boa ideia atribuir combinações de teclas, para todos os layouts de teclado disponíveis,\n"
+"Qualquer comando pode ter vários atalhos atribuídos a ele.\n"
+"É uma boa ideia atribuir combinações de teclas para todos os layouts de teclado disponíveis\n"
 "ao mesmo comando.\n"
 
 #:
@@ -74,12 +74,12 @@ msgstr "É necessário atualizar o CudaText"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:200
 msgid "Suitable command names will contain all specified words.\r · Case is ignored.\r · Use \"_\" for word boundary.\r     \"_up\" selects \"upper\" but not \"group\"."
-msgstr "Nomes de comandos adequados conterão todas as palavras especificadas.\r · O caso é ignorado.\r · Use \"_\" para limite de palavra.\r     \"_up\" seleciona \"superior\", mas não \"grupo\"."
+msgstr "Nomes de comandos adequados conterão todas as palavras especificadas.\r · O caso é ignorado.\r · Use \"_\" para limite de palavra.\r     \"_up\" seleciona \"upper\", mas não \"group\"."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:204
 msgid "Suitable command snips will match specified string.\r · Case is important.\r · Use ? for any character and * for any fragment."
-msgstr "Os recortes de comando adequados corresponderão à string especificada.\r · O caso é importante.\r · Usar ? para qualquer caractere e * para qualquer fragmento."
+msgstr "Os atalhos de comando adequados corresponderão à string especificada.\r · O caso é importante.\r · Use ? para qualquer caractere e * para qualquer fragmento."
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:225
@@ -159,7 +159,7 @@ msgstr "&Fechar"
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:275
 msgid "• In Command.\r{ccnd_h}\r \r• In Snip. \r{scnd_h}\r "
-msgstr "• No Comando.\r{ccnd_h}\r \r• Em Recorte. \r{scnd_h}\r "
+msgstr "• No Comando.\r{ccnd_h}\r \r• Em Atalho. \r{scnd_h}\r "
 
 #:
 #: /home/eltonff/Downloads/2-EXTRAS/CudaText_Plugins/cuda_snip2call/cd_snip2call.py:287
@@ -186,8 +186,8 @@ msgid ""
 "Do you want to reassign the snippet\n"
 "to command \"{}\"?"
 msgstr ""
-"O snippet \"{}\" já está atribuído\n"
+"O atalho \"{}\" já está atribuído\n"
 "ao comando \"{}\".\n"
 "\n"
-"Você deseja reatribuir o snippet\n"
+"Você deseja reatribuir o atalho\n"
 "ao comando \"{}\"?"
