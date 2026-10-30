@@ -27,7 +27,7 @@ msgstr "Excluir até o texto:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:884
 msgid "Search forward:"
-msgstr "Buscar adiante:"
+msgstr "Buscar para frente:"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_vim_mode/__init__.py:901
 msgid "Search backward:"
@@ -37,5 +37,4 @@ msgstr "Buscar para trás:"
 msgid ""
 "Remap Esc to j<smth>. E.g. for command \"jk\" enter \"k\". Empty - no remap."
 msgstr ""
-"Remapeie "
-"Esc para j<smth>. Por exemplo para o comando \"jk\" digite \"k\". Vazio - sem remapeamento."
+"Remapeie Esc para j<smth>. Por exemplo, para o comando \"jk\", digite \"k\". Vazio - sem remapeamento."

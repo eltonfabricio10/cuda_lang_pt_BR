@@ -30,7 +30,7 @@ msgstr "Fonte \"%s\" inserida"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/dl.py:25
 msgid "Cannot download zip"
-msgstr "Não é possível baixar o ZIP"
+msgstr "Não foi possível baixar o ZIP"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_webfont/dl.py:30
 msgid "Cannot find css file"
