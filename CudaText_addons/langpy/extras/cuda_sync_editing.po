@@ -23,11 +23,11 @@ msgstr "Edição sincronizada: clique para alternar"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:518
 msgid "Sync Editing: Need single caret"
-msgstr "Edição Sincronizada: É necessário cursor único"
+msgstr "Edição sincronizada: é necessário um único cursor"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:536
 msgid "Sync Editing: Make selection first"
-msgstr "Edição Sincronizada: Selecione primeiro"
+msgstr "Edição sincronizada: selecione primeiro"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:557
 #, python-format
@@ -48,11 +48,11 @@ msgstr "Edição sincronizada: analisando..."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:617
 msgid "Sync Editing: Invalid identifier_regex config - using fallback"
-msgstr "Edição de sincronização: configuração de identificador_regex inválida - usando substituto"
+msgstr "Edição sincronizada: configuração de identifier_regex inválida; usando valor padrão"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:618
 msgid "ERROR: Sync Editing: Invalid identifier_regex config - using fallback"
-msgstr "ERRO: Edição de sincronização: configuração identificador_regex inválida - usando substituto"
+msgstr "ERRO: edição sincronizada: configuração de identifier_regex inválida; usando valor padrão"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:624
 msgid "Sync Editing: Invalid identifier_style_include config - using fallback"
@@ -93,9 +93,7 @@ msgid ""
 "Sync Editing: Not an ID! Click on ID to edit it. Writing outside ID's is not "
 "supported"
 msgstr ""
-"Edição "
-"sincronizada: não é um ID! Clique no ID para editá-lo. Escrever fora de IDs não "
-"é suportado"
+"Edição sincronizada: não é um identificador! Clique no ID para editá-lo. Escrever fora do ID não é suportado."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:1440
 #, python-format
@@ -104,11 +102,11 @@ msgstr "Edição sincronizada: Edição de \"%s\" (ocorrências %d)"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:1517
 msgid "Carets removed or moved to different lines - exiting Sync Edit Mode"
-msgstr "Carets removidos ou movidos para linhas diferentes - saindo do modo de edição de sincronização"
+msgstr "Cursores removidos ou movidos para linhas diferentes - saindo do modo de edição sincronizada"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:1746
 msgid "Up/Down/Enter keys are not allowed inside Edit Mode"
-msgstr "As teclas para cima/para baixo/enter não são permitidas no modo de edição"
+msgstr "As teclas para cima, para baixo e Enter não são permitidas no modo de edição"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_sync_editing/__init__.py:2052
 msgid "Cannot open config: "

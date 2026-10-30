@@ -22,9 +22,8 @@ msgid ""
 "LSP: current Python version is not supported. Please upgrade to Python 3.8 "
 "or newer."
 msgstr ""
-"LSP: "
-"a versão atual do Python não é suportada. Atualize para Python 3.8 ou mais "
-"recente."
+"LSP: a versão atual do Python não é suportada. Atualize para Python 3.8 ou "
+"mais recente."
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lsp/dlg.py:370
 msgid "Messages"
@@ -108,7 +107,7 @@ msgstr "{}: iniciando servidor - {}; root: {}"
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lsp/language.py:620
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lsp/language.py:623
 msgid "Response Error"
-msgstr "Erro de Resposta"
+msgstr "Erro de resposta"
 
 #: /tmp/cudatext-po-5vs9ne0w/cuda_lsp/language.py:732
 #, python-brace-format
